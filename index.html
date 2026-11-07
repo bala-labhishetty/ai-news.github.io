@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Pulse — AI News, Summarized</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#f7f7fb; --card:#ffffff; --ink:#14151a; --muted:#6b6f80; --line:#e7e8ef;
+    --accent:#5b4bff; --accent2:#00b3a4; --soft:#efedff; --why:#f2fbf9; --whyInk:#0b6b62;
+    --shadow:0 1px 2px rgba(20,21,26,.04), 0 4px 16px rgba(20,21,26,.05);
+  }
+  [data-theme="dark"] {
+    --bg:#0e0f14; --card:#171922; --ink:#eceef5; --muted:#9a9eb2; --line:#262936;
+    --accent:#8b7dff; --accent2:#2fd6c6; --soft:#221f3d; --why:#10251f; --whyInk:#6fe0d2;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 Inter,system-ui,sans-serif; transition:background .2s; }
+  a { color:inherit; text-decoration:none; }
+  button { font:inherit; color:inherit; }
+  .wrap { max-width:1180px; margin:0 auto; padding:0 20px; }
+
+  header { position:sticky; top:0; z-index:10; background:color-mix(in srgb, var(--bg) 85%, transparent); backdrop-filter:blur(10px); border-bottom:1px solid var(--line); }
+  .hbar { display:flex; align-items:center; gap:16px; height:62px; }
+  .logo { font-family:"Space Grotesk",sans-serif; font-weight:700; font-size:22px; letter-spacing:-.5px; display:flex; align-items:center; gap:8px; }
+  .pulse { width:26px; height:26px; border-radius:8px; background:linear-gradient(135deg,var(--accent),var(--accent2)); display:grid; place-items:center; color:#fff; font-size:14px; }
+  .date { color:var(--muted); font-size:13px; }
+  .search { margin-left:auto; position:relative; }
+  .search input { width:260px; padding:9px 12px 9px 34px; border-radius:10px; border:1px solid var(--line); background:var(--card); color:var(--ink); font:inherit; font-size:14px; }
+  .search input:focus { outline:2px solid var(--accent); border-color:transparent; }
+  .search svg { position:absolute; left:11px; top:11px; opacity:.5; }
+  .icon-btn { width:38px; height:38px; border-radius:10px; border:1px solid var(--line); background:var(--card); cursor:pointer; display:grid; place-items:center; }
+
+  .chips { display:flex; gap:8px; overflow-x:auto; padding:14px 0; scrollbar-width:none; }
+  .chip { border:1px solid var(--line); background:var(--card); padding:6px 13px; border-radius:999px; font-size:13px; font-weight:500; cursor:pointer; white-space:nowrap; }
+  .chip.on { background:var(--ink); color:var(--bg); border-color:var(--ink); }
+  .chip .n { opacity:.55; margin-left:4px; font-size:12px; }
+
+  .notice { margin:6px 0 18px; padding:10px 14px; border-radius:10px; background:var(--soft); font-size:13px; color:var(--muted); }
+  .notice b { color:var(--ink); }
+
+  h2.sec { font-family:"Space Grotesk",sans-serif; font-size:20px; margin:8px 0 14px; display:flex; align-items:center; gap:10px; }
+  h2.sec .tag { font-family:Inter; font-size:11px; font-weight:600; letter-spacing:.06em; text-transform:uppercase; color:var(--accent); background:var(--soft); padding:3px 8px; border-radius:6px; }
+
+  .top { display:grid; grid-template-columns:1.35fr 1fr; gap:16px; margin-bottom:32px; }
+  .top-list { display:grid; gap:12px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; box-shadow:var(--shadow); }
+  .hero { padding:24px; position:relative; overflow:hidden; display:flex; flex-direction:column; }
+  .hero::before { content:""; position:absolute; inset:0 0 auto 0; height:5px; background:linear-gradient(90deg,var(--accent),var(--accent2)); }
+  .rank { font-family:"Space Grotesk",sans-serif; font-weight:700; color:var(--accent); }
+  .hero .rank { font-size:13px; letter-spacing:.08em; text-transform:uppercase; }
+  .hero h3 { font-family:"Space Grotesk",sans-serif; font-size:27px; line-height:1.2; margin:10px 0 12px; letter-spacing:-.4px; }
+  .hero h3 a:hover, .mini h3 a:hover, .row h3 a:hover { color:var(--accent); }
+  .hero p.sum { font-size:16px; color:var(--muted); margin:0 0 14px; }
+  .why { background:var(--why); color:var(--whyInk); border-radius:10px; padding:10px 12px; font-size:13.5px; }
+  .why b { font-weight:600; }
+  .hero .foot { margin-top:auto; padding-top:16px; }
+  .covered { margin-top:16px; padding-top:14px; border-top:1px dashed var(--line); }
+  .covered h5 { margin:0 0 10px; font-size:11.5px; text-transform:uppercase; letter-spacing:.07em; color:var(--muted); font-weight:600; }
+  .covered div { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+  .covered a { display:flex; align-items:center; gap:8px; padding:8px 10px; border:1px solid var(--line); border-radius:10px; font-size:13px; font-weight:500; }
+  .covered a:hover { border-color:var(--accent); color:var(--accent); }
+  .read { display:inline-flex; align-items:center; gap:6px; margin-left:auto; padding:7px 12px; border-radius:9px; background:var(--accent); color:#fff !important; font-weight:600; font-size:13px; }
+
+  .mini { padding:14px 16px; display:grid; grid-template-columns:28px 1fr; gap:10px; }
+  .mini .rank { font-size:22px; line-height:1.1; }
+  .mini h3 { font-size:15px; line-height:1.35; margin:0 0 4px; font-weight:600; }
+  .mini p { margin:0 0 8px; font-size:13px; color:var(--muted); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+
+  .foot { display:flex; align-items:center; gap:10px; flex-wrap:wrap; font-size:12.5px; color:var(--muted); }
+  .logo-dot { width:22px; height:22px; border-radius:6px; display:inline-grid; place-items:center; color:#fff; font-size:10.5px; font-weight:700; flex-shrink:0; }
+  .src { display:inline-flex; align-items:center; gap:7px; font-weight:600; color:var(--ink); }
+  .stack { display:inline-flex; }
+  .stack .logo-dot { width:18px; height:18px; font-size:8.5px; margin-left:-5px; border:2px solid var(--card); border-radius:5px; }
+  .more-src { border:0; background:none; padding:0; cursor:pointer; color:var(--accent); font-weight:600; font-size:12.5px; display:inline-flex; align-items:center; gap:6px; }
+  .rel { display:none; margin-top:10px; padding:8px 0 0; border-top:1px dashed var(--line); font-size:13px; }
+  .rel.open { display:grid; gap:6px; }
+  .rel a { display:flex; align-items:center; gap:8px; }
+  .rel a:hover { color:var(--accent); }
+  .t { display:inline-block; font-size:11.5px; font-weight:500; padding:2px 8px; border-radius:6px; background:var(--soft); color:var(--accent); cursor:pointer; border:0; }
+
+  .layout { display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
+  .feed { display:grid; gap:10px; }
+  .row { padding:16px 18px; display:grid; grid-template-columns:40px 1fr; gap:14px; }
+  .row > .logo-dot { width:40px; height:40px; border-radius:10px; font-size:14px; }
+  .row h3 { font-size:16px; margin:0 0 4px; line-height:1.35; font-weight:600; }
+  .row p { margin:0 0 10px; color:var(--muted); font-size:14px; }
+  .row .tags { display:flex; gap:6px; flex-wrap:wrap; }
+  .new { background:#ff4d4f; color:#fff; font-size:10px; font-weight:700; padding:1px 6px; border-radius:4px; letter-spacing:.04em; }
+  .empty { padding:30px; text-align:center; color:var(--muted); }
+  .load { margin:8px auto 0; display:block; padding:10px 18px; border-radius:10px; border:1px solid var(--line); background:var(--card); cursor:pointer; font-weight:600; }
+
+  aside { position:sticky; top:80px; display:grid; gap:16px; }
+  aside .card { padding:16px 18px; }
+  aside h4 { margin:0 0 10px; font-size:13px; text-transform:uppercase; letter-spacing:.07em; color:var(--muted); }
+  .trend { display:grid; gap:4px; }
+  .trend button { display:flex; justify-content:space-between; align-items:center; background:none; border:0; padding:7px 8px; border-radius:8px; cursor:pointer; text-align:left; }
+  .trend button:hover { background:var(--soft); }
+  .bar { height:6px; border-radius:3px; background:linear-gradient(90deg,var(--accent),var(--accent2)); margin-left:10px; }
+  .trend .lab { flex:1; font-weight:500; font-size:14px; }
+  .trend .cnt { font-size:12px; color:var(--muted); width:22px; text-align:right; }
+  .srcs { display:flex; flex-wrap:wrap; gap:8px; }
+  .srcs span { display:inline-flex; align-items:center; gap:6px; font-size:12.5px; padding:4px 8px 4px 4px; border:1px solid var(--line); border-radius:8px; }
+  .srcs .logo-dot { width:18px; height:18px; font-size:8.5px; border-radius:5px; }
+  .about { font-size:13px; color:var(--muted); margin:0; }
+  footer { padding:30px 0 40px; text-align:center; color:var(--muted); font-size:12.5px; }
+
+  @media (max-width:960px) { .top, .layout { grid-template-columns:1fr; } aside { position:static; } }
+  @media (max-width:600px) { .search input { width:150px; } .date { display:none; } .hero h3 { font-size:22px; } .row { grid-template-columns:1fr; } .row > .logo-dot { display:none; } }
+</style>
+</head>
+<body>
+<header><div class="wrap hbar">
+  <a class="logo" href="#" onclick="setTopic('All');return false"><span class="pulse">✦</span>AI Pulse</a>
+  <span class="date" id="today"></span>
+  <label class="search"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="Search AI news…" aria-label="Search"></label>
+  <button class="icon-btn" id="theme" aria-label="Toggle dark mode" title="Toggle dark mode">🌙</button>
+</div></header>
+
+<div class="wrap">
+  <div class="chips" id="chips"></div>
+  <div id="notice"></div>
+  <div id="topWrap"></div>
+  <div class="layout">
+    <div>
+      <h2 class="sec" id="feedTitle">Latest</h2>
+      <div class="feed" id="feed"></div>
+    </div>
+    <aside>
+      <div class="card"><h4>Trending topics</h4><div class="trend" id="trend"></div></div>
+      <div class="card"><h4>Sources</h4><div class="srcs" id="srcs"></div></div>
+      <div class="card"><h4>How it works</h4><p class="about">Headlines come from publishers' RSS feeds and link to the original article. Summaries, "why it matters", topics and story grouping are generated by AI.</p></div>
+    </aside>
+  </div>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+let DATA = { items: [] }, topic = 'All', shown = 12, lastVisit = 0;
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u) ? u : '#';
+const store = { get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } }, set(k,v){ try { localStorage.setItem(k,v); } catch(e){} } };
+
+lastVisit = Number(store.get('aiPulseLastVisit')) || 0;
+store.set('aiPulseLastVisit', Date.now());
+
+// theme
+function applyTheme(t) { document.documentElement.dataset.theme = t; $('theme').textContent = t === 'dark' ? '☀️' : '🌙'; }
+applyTheme(store.get('aiPulseTheme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+$('theme').onclick = () => { const t = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'; applyTheme(t); store.set('aiPulseTheme', t); };
+
+// source "logos": colored monograms
+const PALETTE = ['#5b4bff','#00a396','#e5484d','#f59e0b','#0ea5e9','#8b5cf6','#10b981','#ec4899','#64748b','#f97316','#14b8a6','#6366f1'];
+const colorOf = s => { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) >>> 0; return PALETTE[h % PALETTE.length]; };
+const initials = s => s.replace(/[^A-Za-z0-9 ]/g, '').split(' ').filter(Boolean).map(w => w[0]).join('').slice(0, 2).toUpperCase();
+const logo = s => `<span class="logo-dot" style="background:${colorOf(s)}" title="${esc(s)}">${esc(initials(s))}</span>`;
+
+function ago(iso) {
+  const m = Math.max(1, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (m < 60) return m + 'm ago'; const h = Math.round(m / 60);
+  if (h < 24) return h + 'h ago'; return Math.round(h / 24) + 'd ago';
+}
+const isNew = it => lastVisit && new Date(it.published).getTime() > lastVisit;
+
+function related(it) {
+  if (!it.related || !it.related.length) return '';
+  return `<button class="more-src" onclick="toggleRel('${it.id}', this)" aria-expanded="false">
+      <span class="stack">${it.related.slice(0, 3).map(r => logo(r.source)).join('')}</span>+${it.related.length} more source${it.related.length > 1 ? 's' : ''}</button>`;
+}
+function relList(it) {
+  if (!it.related || !it.related.length) return '';
+  return `<div class="rel" id="rel-${it.id}">${it.related.map(r => `<a href="${esc(safeUrl(r.link))}" target="_blank" rel="noopener">${logo(r.source)} ${esc(r.source)} ↗</a>`).join('')}</div>`;
+}
+function toggleRel(id, btn) { const el = $('rel-' + id); const o = el.classList.toggle('open'); btn.setAttribute('aria-expanded', o); }
+const tagBtns = it => it.topics.map(t => `<button class="t" onclick="setTopic('${esc(t)}')">${esc(t)}</button>`).join('');
+const titleLink = it => `<a href="${esc(safeUrl(it.link))}" target="_blank" rel="noopener">${esc(it.title)}</a>`;
+
+function renderTop() {
+  const top = DATA.items.filter(i => i.top).slice(0, 5);
+  if (topic !== 'All' || $('q').value.trim() || !top.length) { $('topWrap').innerHTML = ''; return; }
+  const [h, ...rest] = top;
+  $('topWrap').innerHTML = `<h2 class="sec">Top 5 today <span class="tag">AI-curated</span></h2>
+  <div class="top">
+    <article class="card hero">
+      <span class="rank">#1${h.topics.length ? ' · ' + h.topics.map(esc).join(' · ') : ''}</span>
+      <h3>${titleLink(h)}</h3>
+      <p class="sum">${esc(h.summary)}</p>
+      ${h.why ? `<div class="why"><b>Why it matters:</b> ${esc(h.why)}</div>` : ''}
+      ${h.related && h.related.length ? `<div class="covered"><h5>Also covered by ${h.related.length} source${h.related.length > 1 ? 's' : ''}</h5><div>${h.related.map(r => `<a href="${esc(safeUrl(r.link))}" target="_blank" rel="noopener">${logo(r.source)}${esc(r.source)} ↗</a>`).join('')}</div></div>` : ''}
+      <div class="foot"><span class="src">${logo(h.source)}${esc(h.source)}</span><span>${ago(h.published)}</span><a class="read" href="${esc(safeUrl(h.link))}" target="_blank" rel="noopener">Read story →</a></div>
+    </article>
+    <div class="top-list">${rest.map((it, i) => `
+      <article class="card mini"><span class="rank">${i + 2}</span><div>
+        <h3>${titleLink(it)}</h3><p>${esc(it.summary)}</p>
+        <div class="foot"><span class="src">${logo(it.source)}${esc(it.source)}</span><span>${ago(it.published)}</span>${related(it)}</div>
+        ${relList(it)}</div></article>`).join('')}
+    </div>
+  </div>`;
+}
+
+function filtered() {
+  const q = $('q').value.trim().toLowerCase();
+  return DATA.items.filter(i => (topic === 'All' || i.topics.includes(topic)) &&
+    (!q || [i.title, i.summary, i.source, ...i.topics].join(' ').toLowerCase().includes(q)));
+}
+
+function renderFeed() {
+  const q = $('q').value.trim();
+  const showTop = topic === 'All' && !q;
+  const items = filtered().filter(i => !(showTop && i.top));
+  $('feedTitle').innerHTML = q ? `Results for “${esc(q)}”` : topic === 'All' ? 'Latest' : esc(topic);
+  $('feed').innerHTML = items.length ? items.slice(0, shown).map(it => `
+    <article class="card row">${logo(it.source)}<div>
+      <h3>${titleLink(it)}</h3>
+      <p>${esc(it.summary)}</p>
+      <div class="foot"><span class="src">${esc(it.source)}</span><span>${ago(it.published)}</span>${isNew(it) ? '<span class="new">NEW</span>' : ''}<span class="tags">${tagBtns(it)}</span>${related(it)}</div>
+      ${relList(it)}</div></article>`).join('') +
+    (items.length > shown ? `<button class="load" onclick="shown+=12;renderFeed()">Load more stories</button>` : '')
+    : `<div class="card empty">${showTop && DATA.items.length ? 'That\'s everything for now: all current stories are in the Top 5 above.' : 'No stories match. Try another topic or search.'}</div>`;
+}
+
+function topicCounts() {
+  const c = {}; DATA.items.forEach(i => i.topics.forEach(t => c[t] = (c[t] || 0) + 1));
+  return Object.entries(c).sort((a, b) => b[1] - a[1]);
+}
+
+function renderChrome() {
+  const counts = topicCounts();
+  $('chips').innerHTML = [['All', DATA.items.length], ...counts].map(([t, n]) =>
+    `<button class="chip ${t === topic ? 'on' : ''}" onclick="setTopic('${esc(t)}')">${esc(t)}<span class="n">${n}</span></button>`).join('');
+  const max = counts.length ? counts[0][1] : 1;
+  $('trend').innerHTML = counts.slice(0, 6).map(([t, n]) =>
+    `<button onclick="setTopic('${esc(t)}')"><span class="lab">${esc(t)}</span><span class="bar" style="width:${Math.round(70 * n / max)}px"></span><span class="cnt">${n}</span></button>`).join('');
+}
+
+function render() { renderChrome(); renderTop(); renderFeed(); }
+function setTopic(t) { topic = t; shown = 12; $('q').value = ''; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+$('q').addEventListener('input', () => { shown = 12; renderTop(); renderFeed(); });
+
+function init(d) {
+  DATA = d; DATA.items.sort((a, b) => b.published.localeCompare(a.published));
+  $('today').textContent = new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' });
+  if (DATA.sample) $('notice').innerHTML = '<div class="notice"><b>Design preview with sample data.</b> Headlines, summaries and groupings are placeholders and link to each source\'s homepage. Live news appears once the fetcher and AI summary step run.</div>';
+  const srcs = [...new Set(DATA.items.flatMap(i => [i.source, ...(i.related || []).map(r => r.source)]))].sort();
+  $('srcs').innerHTML = srcs.map(s => `<span>${logo(s)}${esc(s)}</span>`).join('');
+  $('foot').textContent = `Updated ${new Date(DATA.updated).toLocaleString()} · ${DATA.items.length} stories from ${srcs.length} sources · Summaries by ${DATA.model || 'AI'} · All headlines link to the original publisher`;
+  render();
+}
+
+fetch('news.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw 0; return r.json(); }).then(init)
+  .catch(() => { $('feed').innerHTML = '<div class="card empty">Could not load news.json.</div>'; });
+</script>
+</body>
+</html>

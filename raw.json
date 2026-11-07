@@ -1,0 +1,2406 @@
+{
+ "updated": "2026-11-07T15:40:50.825435+00:00",
+ "count": 300,
+ "items": [
+  {
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-07T15:00:00+00:00",
+   "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]"
+  },
+  {
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-07T12:30:00+00:00",
+   "description": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]"
+  },
+  {
+   "title": "The AI sell-off compared to well-known stock market crashes",
+   "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-07T02:20:06+00:00",
+   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 77 # Comments: 66"
+  },
+  {
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-07T01:40:28+00:00",
+   "description": "The deal highlights the challenges of developing massive AI data centers."
+  },
+  {
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T23:46:18+00:00",
+   "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]"
+  },
+  {
+   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+   "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T23:00:44+00:00",
+   "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]"
+  },
+  {
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T22:53:46+00:00",
+   "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+  },
+  {
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-06T20:56:41+00:00",
+   "description": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch."
+  },
+  {
+   "title": "AI is dramatically accelerating AI research",
+   "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T20:27:23+00:00",
+   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 340 # Comments: 318"
+  },
+  {
+   "title": "All the latest updates on AI data centers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T20:02:22+00:00",
+   "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]"
+  },
+  {
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T18:44:38+00:00",
+   "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+  },
+  {
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T18:44:20+00:00",
+   "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+  },
+  {
+   "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+   "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T18:10:10+00:00",
+   "description": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]"
+  },
+  {
+   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+   "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T18:04:06+00:00",
+   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 104 # Comments: 18"
+  },
+  {
+   "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+   "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T18:01:00+00:00",
+   "description": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU."
+  },
+  {
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T18:00:00+00:00",
+   "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]"
+  },
+  {
+   "title": "Perplexity launches AI agents for work",
+   "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T17:59:41+00:00",
+   "description": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 61 # Comments: 54"
+  },
+  {
+   "title": "Taxonomy of agentic primitives in Amazon Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T17:34:45+00:00",
+   "description": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How."
+  },
+  {
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T17:23:52+00:00",
+   "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]"
+  },
+  {
+   "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+   "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T17:13:13+00:00",
+   "description": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code."
+  },
+  {
+   "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+   "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T17:09:23+00:00",
+   "description": "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta's log in Amazon CloudWatch."
+  },
+  {
+   "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+   "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T17:09:18+00:00",
+   "description": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority."
+  },
+  {
+   "title": "AI is the new dating dealbreaker",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T17:00:00+00:00",
+   "description": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where […]"
+  },
+  {
+   "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T16:55:05+00:00",
+   "description": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage."
+  },
+  {
+   "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T16:49:42+00:00",
+   "description": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic."
+  },
+  {
+   "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+   "link": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-06T16:45:58+00:00",
+   "description": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge."
+  },
+  {
+   "title": "Big Tech lost big in the 2026 election",
+   "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T16:38:02+00:00",
+   "description": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]"
+  },
+  {
+   "title": "How Akai and Moog are embracing vibe-coded mods",
+   "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T16:34:39+00:00",
+   "description": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]"
+  },
+  {
+   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+   "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-06T16:00:35+00:00",
+   "description": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]"
+  },
+  {
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T15:54:47+00:00",
+   "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+  },
+  {
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T14:13:09+00:00",
+   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 131 # Comments: 60"
+  },
+  {
+   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T14:10:00+00:00",
+   "description": "Amazon said that the feature will roll out to millions of users in coming weeks."
+  },
+  {
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "link": "https://huggingface.co/blog/allenai/toyblocks",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-06T14:00:48+00:00",
+   "description": ""
+  },
+  {
+   "title": "Amazon will let you text Alexa your shopping list",
+   "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-06T14:00:00+00:00",
+   "description": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]"
+  },
+  {
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T13:02:16+00:00",
+   "description": "Despite its small size, Underdog's new model can generate both speech and music."
+  },
+  {
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T13:00:00+00:00",
+   "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+  },
+  {
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-06T10:00:00+00:00",
+   "description": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…"
+  },
+  {
+   "title": "AI for scientific discovery: How researchers use Claude",
+   "link": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T09:13:30+00:00",
+   "description": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 96 # Comments: 38"
+  },
+  {
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "link": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-06T08:00:00+00:00",
+   "description": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+  },
+  {
+   "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+   "link": "https://obelisk.club/research/app-store-2026",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T07:59:19+00:00",
+   "description": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 60 # Comments: 53"
+  },
+  {
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-06T06:28:32+00:00",
+   "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+  },
+  {
+   "title": "I struggle to believe that AI R&D is ingenious",
+   "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T05:19:04+00:00",
+   "description": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 207 # Comments: 206"
+  },
+  {
+   "title": "Closed AI models dominate the price-performance frontier",
+   "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-06T02:49:56+00:00",
+   "description": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 73"
+  },
+  {
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-06T00:00:00+00:00",
+   "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+  },
+  {
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-06T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-05T23:09:57+00:00",
+   "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 225"
+  },
+  {
+   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+   "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-05T23:09:36+00:00",
+   "description": "Certain configurations of Alpine are affected. Other distros may be as well."
+  },
+  {
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T22:40:55+00:00",
+   "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+  },
+  {
+   "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-05T21:04:24+00:00",
+   "description": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent."
+  },
+  {
+   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+   "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-05T20:00:41+00:00",
+   "description": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]"
+  },
+  {
+   "title": "Cult.fit builds operational muscle with Codex",
+   "link": "https://openai.com/index/cultfit-builds-with-codex",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-05T20:00:00+00:00",
+   "description": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
+  },
+  {
+   "title": "Meta says US users can now video chat with their Muse AI avatar",
+   "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T19:48:28+00:00",
+   "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+  },
+  {
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-05T19:35:16+00:00",
+   "description": ""
+  },
+  {
+   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+   "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T19:12:39+00:00",
+   "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
+  },
+  {
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T19:06:12+00:00",
+   "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+  },
+  {
+   "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-05T18:06:43+00:00",
+   "description": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners."
+  },
+  {
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T18:02:27+00:00",
+   "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads."
+  },
+  {
+   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-05T18:00:01+00:00",
+   "description": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191"
+  },
+  {
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T18:00:00+00:00",
+   "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-11-05T17:05:16+00:00",
+   "description": ""
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-05T17:00:35+00:00",
+   "description": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]"
+  },
+  {
+   "title": "Australian universities are creating AI-native graduates",
+   "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-05T17:00:00+00:00",
+   "description": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+  },
+  {
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T16:16:45+00:00",
+   "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
+  },
+  {
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-05T16:00:05+00:00",
+   "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]"
+  },
+  {
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+   "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-05T16:00:00+00:00",
+   "description": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]"
+  },
+  {
+   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+   "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T15:19:05+00:00",
+   "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
+  },
+  {
+   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+   "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-05T14:42:00+00:00",
+   "description": "Aina's ring can also take calls and help you dictate notes on your Mac."
+  },
+  {
+   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-05T14:00:34+00:00",
+   "description": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]"
+  },
+  {
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "link": "https://openai.com/index/introducing-gpt-6-cyber",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-05T09:00:00+00:00",
+   "description": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+  },
+  {
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "link": "https://openai.com/index/merge-builds-with-openai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-05T08:00:00+00:00",
+   "description": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+  },
+  {
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-05T02:00:00+00:00",
+   "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+  },
+  {
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "link": "https://openai.com/ads/customers/flipsnack",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-05T00:45:15+00:00",
+   "description": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
+  },
+  {
+   "title": "American Voters Overwhelmingly Reject AI Data Centers",
+   "link": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-05T00:43:13+00:00",
+   "description": "Article URL: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=50373505 Points: 61 # Comments: 2"
+  },
+  {
+   "title": "You'll need nerves of steel to work with AI agents",
+   "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-05T00:01:30+00:00",
+   "description": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 57 # Comments: 82"
+  },
+  {
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "link": "https://openai.com/index/franklin-templeton",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-05T00:00:00+00:00",
+   "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
+  },
+  {
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "link": "https://huggingface.co/blog/phonon-tts",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-05T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Hackers exploited iOS and Android flaws to infect phones",
+   "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-04T22:26:49+00:00",
+   "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets."
+  },
+  {
+   "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+   "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-04T21:38:49+00:00",
+   "description": "“We started listening to a lot of our lower-end customers,\" VMware exec says."
+  },
+  {
+   "title": "Everything is an AI scam now",
+   "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-04T21:05:19+00:00",
+   "description": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 152 # Comments: 62"
+  },
+  {
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-04T19:55:14+00:00",
+   "description": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 170 # Comments: 64"
+  },
+  {
+   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-04T18:50:55+00:00",
+   "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
+  },
+  {
+   "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+   "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-04T18:46:36+00:00",
+   "description": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it."
+  },
+  {
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-04T17:50:10+00:00",
+   "description": ""
+  },
+  {
+   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+   "link": "https://news.ycombinator.com/item?id=50368804",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-04T17:31:53+00:00",
+   "description": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at https://kino.ai/walkthrough-video and our launch video (made entirely with Kino!) at https://kino.ai/launch-video Opus 5.5 can edit videos and make great motion graphics now. But with a raw agent harness, you need to describe tiny edits either in words or in quick one-off UIs, you can’t refer to footage shared across your devices, and feedback from teammates comes as screenshots on Slack. Kino is code-first. All editing, all moti"
+  },
+  {
+   "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+   "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-04T16:33:03+00:00",
+   "description": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit."
+  },
+  {
+   "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+   "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-04T16:30:40+00:00",
+   "description": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore."
+  },
+  {
+   "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-04T16:25:57+00:00",
+   "description": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality."
+  },
+  {
+   "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-04T16:23:33+00:00",
+   "description": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%."
+  },
+  {
+   "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+   "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-04T16:06:03+00:00",
+   "description": "Techniques included laptop infections, compromised internal tooling, and fake job interviews."
+  },
+  {
+   "title": "AI data centers comprehensively defeated at US midterm elections",
+   "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-04T15:35:51+00:00",
+   "description": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments Comments URL: https://news.ycombinator.com/item?id=50367085 Points: 56 # Comments: 2"
+  },
+  {
+   "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-04T15:28:31+00:00",
+   "description": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 109 # Comments: 177"
+  },
+  {
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "link": "https://openai.com/index/openai-to-acquire-pierre",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-04T14:30:00+00:00",
+   "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+  },
+  {
+   "title": "Securing the agentic enterprise with data lineage",
+   "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-04T13:00:00+00:00",
+   "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…"
+  },
+  {
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-04T11:52:17+00:00",
+   "description": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1294 # Comments: 749"
+  },
+  {
+   "title": "A thousand fewer paths to root",
+   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-04T08:00:00+00:00",
+   "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+  },
+  {
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-04T07:00:00+00:00",
+   "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+  },
+  {
+   "title": "Introducing Images 2.6",
+   "link": "https://openai.com/index/introducing-images-2-6",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-04T00:00:00+00:00",
+   "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+  },
+  {
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "link": "https://openai.com/index/devrev-enterprise-self-service",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-04T00:00:00+00:00",
+   "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+  },
+  {
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-11-03T17:01:49+00:00",
+   "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+  },
+  {
+   "title": "Bring structured and unstructured data together with Amazon Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-03T16:49:29+00:00",
+   "description": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface."
+  },
+  {
+   "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+   "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-03T16:47:40+00:00",
+   "description": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code."
+  },
+  {
+   "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-03T16:43:20+00:00",
+   "description": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy."
+  },
+  {
+   "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-03T16:41:13+00:00",
+   "description": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read."
+  },
+  {
+   "title": "Building ultra-low-latency voice AI applications on AWS",
+   "link": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-03T16:40:54+00:00",
+   "description": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances."
+  },
+  {
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-03T16:35:36+00:00",
+   "description": ""
+  },
+  {
+   "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+   "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-03T16:03:13+00:00",
+   "description": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections."
+  },
+  {
+   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+   "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-03T16:00:45+00:00",
+   "description": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]"
+  },
+  {
+   "title": "Accelerating engineering for the physical world",
+   "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-03T12:00:00+00:00",
+   "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+  },
+  {
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-03T10:43:41+00:00",
+   "description": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…"
+  },
+  {
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "link": "https://openai.com/index/cisco-cyber",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-03T08:00:00+00:00",
+   "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+  },
+  {
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "link": "https://openai.com/index/heimstaden",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-03T08:00:00+00:00",
+   "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+  },
+  {
+   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-03T07:00:12+00:00",
+   "description": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]"
+  },
+  {
+   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-03T04:18:47+00:00",
+   "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…"
+  },
+  {
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-03T00:00:00+00:00",
+   "description": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+  },
+  {
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "link": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-03T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Transformers Model Integration Contracts",
+   "link": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-03T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T18:00:00+00:00",
+   "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+  },
+  {
+   "title": "Rewarding defenders with bigger bug bounties",
+   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T18:00:00+00:00",
+   "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+  },
+  {
+   "title": "The latest AI news we announced in October 2026",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-02T17:45:00+00:00",
+   "description": "Animated carousel of images from AI posts in October"
+  },
+  {
+   "title": "Raising the quality of insights in agentic analytics",
+   "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-02T17:00:00+00:00",
+   "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…"
+  },
+  {
+   "title": "Scaling Git at OpenAI",
+   "link": "https://openai.com/index/scaling-git-at-openai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T15:30:00+00:00",
+   "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+  },
+  {
+   "title": "Introducing the Grid Protectors Program",
+   "link": "https://openai.com/index/grid-protectors-program",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T15:00:00+00:00",
+   "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+  },
+  {
+   "title": "Stop counting tokens, start counting what ships",
+   "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-02T13:10:32+00:00",
+   "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…"
+  },
+  {
+   "title": "The agentic web is here",
+   "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-02T09:35:19+00:00",
+   "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…"
+  },
+  {
+   "title": "LifeVal",
+   "link": "https://openai.com/index/lifeval",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T09:00:00+00:00",
+   "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "link": "https://openai.com/index/dan-driscoll-joins-openai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T00:00:00+00:00",
+   "description": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
+  },
+  {
+   "title": "Qodo builds context into AI code review with Codex",
+   "link": "https://openai.com/index/qodo-codex-plugin",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T00:00:00+00:00",
+   "description": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+  },
+  {
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-30T21:09:54+00:00",
+   "description": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+  },
+  {
+   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-30T15:00:10+00:00",
+   "description": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]"
+  },
+  {
+   "title": "Speeding up planning decisions with AI",
+   "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-30T14:18:30+00:00",
+   "description": "Google DeepMind and UK government work together to reduce planning assessment times"
+  },
+  {
+   "title": "Making it easier for websites to express AI training preferences",
+   "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-30T09:30:00+00:00",
+   "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+  },
+  {
+   "title": "Community safety report and new protections for teens",
+   "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-30T09:00:00+00:00",
+   "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+  },
+  {
+   "title": "Fair use benefits everyone",
+   "link": "https://openai.com/index/fair-use-benefits-everyone",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-30T00:00:00+00:00",
+   "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+  },
+  {
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "link": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-29T17:00:00+00:00",
+   "description": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+  },
+  {
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-29T13:37:07+00:00",
+   "description": ""
+  },
+  {
+   "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-29T13:00:16+00:00",
+   "description": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […]"
+  },
+  {
+   "title": "We urgently need to monitor AI agents’ actions in real time",
+   "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-10-29T10:11:12+00:00",
+   "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…"
+  },
+  {
+   "title": "How we detect frontier model misalignment",
+   "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-29T09:00:00+00:00",
+   "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+  },
+  {
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "link": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-29T07:00:00+00:00",
+   "description": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+  },
+  {
+   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "link": "https://openai.com/index/credit-saison",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-29T00:00:00+00:00",
+   "description": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
+  },
+  {
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "link": "https://huggingface.co/blog/announcing-project-protostar",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-29T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "link": "https://huggingface.co/blog/mistral-large4",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-29T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+   "link": "https://huggingface.co/blog/anydecisionmodel",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-29T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Creating AI value with enterprise context",
+   "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-10-28T20:32:02+00:00",
+   "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…"
+  },
+  {
+   "title": "Evernote turns AI-driven discovery into paid subscriptions",
+   "link": "https://openai.com/ads/customers/evernote",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-28T19:40:49+00:00",
+   "description": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
+  },
+  {
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-28T17:00:58+00:00",
+   "description": ""
+  },
+  {
+   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+   "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-28T15:00:46+00:00",
+   "description": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]"
+  },
+  {
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-28T13:15:00+00:00",
+   "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+  },
+  {
+   "title": "The future of the firm",
+   "link": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-28T10:00:00+00:00",
+   "description": "How AI might enter the org chart—beneath, beside, and between us."
+  },
+  {
+   "title": "Legora is building the agentic operating system for legal work",
+   "link": "https://openai.com/index/legora",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-28T09:30:00+00:00",
+   "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+  },
+  {
+   "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+   "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-27T20:25:55+00:00",
+   "description": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
+  },
+  {
+   "title": "Build specialized multimodal models with LFM3",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-27T17:16:52+00:00",
+   "description": ""
+  },
+  {
+   "title": "Genie 4: A new generation of world simulation",
+   "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-27T16:01:38+00:00",
+   "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+  },
+  {
+   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+   "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-27T15:00:20+00:00",
+   "description": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]"
+  },
+  {
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "link": "https://openai.com/index/retell-ai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-27T15:00:00+00:00",
+   "description": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+  },
+  {
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-27T07:00:00+00:00",
+   "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+  },
+  {
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "link": "https://openai.com/index/check-point-daybreak",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-27T00:00:00+00:00",
+   "description": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+  },
+  {
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "link": "https://openai.com/index/greptile-code-review-codex-astra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-26T22:00:00+00:00",
+   "description": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+  },
+  {
+   "title": "Introducing GPT-6.1 Terra",
+   "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-26T18:00:00+00:00",
+   "description": "Delivering fast and capable computer use at scale"
+  },
+  {
+   "title": "Our newest AI Quest: Mapping the human brain",
+   "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-10-26T16:00:00+00:00",
+   "description": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\""
+  },
+  {
+   "title": "Working with academic communities to build scientific understanding",
+   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-26T14:30:00+00:00",
+   "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+  },
+  {
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-26T13:45:00+00:00",
+   "description": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+  },
+  {
+   "title": "ChatGPT’s expanding world of work",
+   "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-26T10:00:00+00:00",
+   "description": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+  },
+  {
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-26T07:00:00+00:00",
+   "description": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+  },
+  {
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "link": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-26T07:00:00+00:00",
+   "description": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+  },
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-23T17:00:00+00:00",
+   "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+  },
+  {
+   "title": "Securing our frontier model training environment",
+   "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-23T10:00:00+00:00",
+   "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+  },
+  {
+   "title": "Kazakhstan Expands Compute for Its AI Future",
+   "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-23T02:00:13+00:00",
+   "description": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]"
+  },
+  {
+   "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+   "link": "https://openai.com/index/anima",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-23T00:00:00+00:00",
+   "description": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
+  },
+  {
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-23T00:00:00+00:00",
+   "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+  },
+  {
+   "title": "Does Your Model Run on AWS Trainium? Look It Up",
+   "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-23T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-22T22:24:34+00:00",
+   "description": ""
+  },
+  {
+   "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+   "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-22T20:17:52+00:00",
+   "description": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
+  },
+  {
+   "title": "Build more responsive apps with the Decisions API",
+   "link": "https://openai.com/index/decisions-api",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-22T19:00:00+00:00",
+   "description": "Fast, focused, low-cost decisions for any application."
+  },
+  {
+   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-22T15:00:02+00:00",
+   "description": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]"
+  },
+  {
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-22T14:30:24+00:00",
+   "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+  },
+  {
+   "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-22T13:00:20+00:00",
+   "description": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […]"
+  },
+  {
+   "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+   "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-22T11:30:33+00:00",
+   "description": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data."
+  },
+  {
+   "title": "What FDE means at OpenAI",
+   "link": "https://openai.com/index/forward-deployed-engineering-means",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-22T06:00:00+00:00",
+   "description": "What forward deployed engineering means at OpenAI"
+  },
+  {
+   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-22T05:00:56+00:00",
+   "description": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]"
+  },
+  {
+   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-22T05:00:27+00:00",
+   "description": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]"
+  },
+  {
+   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+   "link": "https://blogs.nvidia.com/blog/dsx-power/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-10-22T05:00:25+00:00",
+   "description": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]"
+  },
+  {
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-22T00:00:00+00:00",
+   "description": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+  },
+  {
+   "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+   "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-21T21:48:52+00:00",
+   "description": "Survey of 2,018 IT heads at big firms points to a lack of leverage."
+  },
+  {
+   "title": "Broad access through consistent standards",
+   "link": "https://openai.com/index/broad-access-through-consistent-standards",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T21:00:00+00:00",
+   "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+  },
+  {
+   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+   "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-21T17:35:36+00:00",
+   "description": ""
+  },
+  {
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "link": "https://openai.com/index/att-legal",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T17:00:00+00:00",
+   "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+  },
+  {
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+   "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-21T16:04:43+00:00",
+   "description": ""
+  },
+  {
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T13:00:00+00:00",
+   "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+  },
+  {
+   "title": "OpenAI models are coming to Google Cloud",
+   "link": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T12:00:00+00:00",
+   "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+  },
+  {
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T07:00:00+00:00",
+   "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+  },
+  {
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "link": "https://openai.com/index/building-chatgpt-ad-stack",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T07:00:00+00:00",
+   "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+  },
+  {
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T04:50:00+00:00",
+   "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+  },
+  {
+   "title": "Southeast Asia’s digital economy to hit $368 billion",
+   "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-10-21T04:00:00+00:00",
+   "description": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen"
+  },
+  {
+   "title": "PHP warns it plans to release 2 emergency patches imminently",
+   "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-21T02:12:18+00:00",
+   "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "link": "https://openai.com/index/cloudflare-cyber",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T00:00:00+00:00",
+   "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+  },
+  {
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "link": "https://openai.com/index/empowering-cyber-defenders",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-21T00:00:00+00:00",
+   "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
+  },
+  {
+   "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+   "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-20T19:47:35+00:00",
+   "description": "Intermediate certs allow anyone to mint web credentials for any Internet server."
+  },
+  {
+   "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+   "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-20T12:33:13+00:00",
+   "description": "Meta is suspending the sharing feature while it investigates its privacy."
+  },
+  {
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "link": "https://openai.com/index/ted-taylor-restaurant",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-20T10:00:00+00:00",
+   "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+  },
+  {
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "link": "https://openai.com/index/terminal-x",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-20T07:00:00+00:00",
+   "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+  },
+  {
+   "title": "OpenAI acquires Orchestra Bio",
+   "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-20T00:00:00+00:00",
+   "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+  },
+  {
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "link": "https://huggingface.co/blog/hf-torchtpu",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-20T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-20T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "MPS in PyTorch 2.15",
+   "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-20T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "PSA: Patch your Plex media server before someone hacks it",
+   "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-19T19:39:19+00:00",
+   "description": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes."
+  },
+  {
+   "title": "ReactOS reaches major milestone with NTFS install support",
+   "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-19T18:30:56+00:00",
+   "description": "ReactOS gains NTFS install support with new driver."
+  },
+  {
+   "title": "Advancing coding in low‑resource programming languages",
+   "link": "https://openai.com/index/low-resource-programming-languages",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-19T12:00:00+00:00",
+   "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+  },
+  {
+   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+   "link": "https://huggingface.co/blog/hf-torchneuron",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-19T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-16T20:59:01+00:00",
+   "description": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+  },
+  {
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "link": "https://openai.com/index/itau-generative-ai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-16T19:00:00+00:00",
+   "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors."
+  },
+  {
+   "title": "How Localiza reorganized work around generative AI",
+   "link": "https://openai.com/index/localiza-generative-ai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-16T00:00:00+00:00",
+   "description": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences."
+  },
+  {
+   "title": "How Grupo Boticário uses AI to strengthen human connections",
+   "link": "https://openai.com/index/grupo-boticario",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-16T00:00:00+00:00",
+   "description": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role."
+  },
+  {
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-16T00:00:00+00:00",
+   "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+  },
+  {
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "link": "https://openai.com/index/benefit-street-partners",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-16T00:00:00+00:00",
+   "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+  },
+  {
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "link": "https://huggingface.co/blog/reflection-beam",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-16T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+   "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-15T20:32:41+00:00",
+   "description": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."
+  },
+  {
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-15T19:00:00+00:00",
+   "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+  },
+  {
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-15T16:08:03+00:00",
+   "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+  },
+  {
+   "title": "Teaching students to think and learn through questions",
+   "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-15T13:00:00+00:00",
+   "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+  },
+  {
+   "title": "Apertus 1.5 Release Notes",
+   "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-15T09:08:45+00:00",
+   "description": ""
+  },
+  {
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "link": "https://openai.com/index/sullivan-cromwell",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-15T00:00:00+00:00",
+   "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+  },
+  {
+   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+   "link": "https://huggingface.co/blog/meta-muse-spark-open",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-15T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Welcome FLUX.3 Image Klein in Diffusers",
+   "link": "https://huggingface.co/blog/flux-3",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-15T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+   "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-14T21:35:09+00:00",
+   "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet."
+  },
+  {
+   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-10-14T12:55:06+00:00",
+   "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
+  },
+  {
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "link": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-14T12:00:00+00:00",
+   "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+  },
+  {
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "link": "https://openai.com/index/sentinelone",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-14T12:00:00+00:00",
+   "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+  },
+  {
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "link": "https://openai.com/index/third-moment-research",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-14T07:00:00+00:00",
+   "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+  },
+  {
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "link": "https://openai.com/index/block-ai-powered-security",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-14T07:00:00+00:00",
+   "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+  },
+  {
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-14T02:00:14+00:00",
+   "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+  },
+  {
+   "title": "The EU’s next chapter in AI is agentic",
+   "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-14T00:00:00+00:00",
+   "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+  },
+  {
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-13T19:43:07+00:00",
+   "description": ""
+  },
+  {
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-13T17:05:48+00:00",
+   "description": ""
+  },
+  {
+   "title": "Gemini 4 Argon for Robotics",
+   "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-13T16:01:58+00:00",
+   "description": ""
+  },
+  {
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-13T16:01:52+00:00",
+   "description": ""
+  },
+  {
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-13T12:00:00+00:00",
+   "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+  },
+  {
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "link": "https://openai.com/index/asana-browser-agent",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-09T07:00:00+00:00",
+   "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+  },
+  {
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "link": "https://openai.com/index/sophos",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-09T07:00:00+00:00",
+   "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+  },
+  {
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "link": "https://openai.com/index/oracle",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-08T16:00:00+00:00",
+   "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+  },
+  {
+   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "link": "https://openai.com/index/pollo-ai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-08T12:00:00+00:00",
+   "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+  },
+  {
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "link": "https://openai.com/index/legalon-halves-codex-costs",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-08T12:00:00+00:00",
+   "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+  },
+  {
+   "title": "Disrupting AI-enabled “false front” operations",
+   "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-08T00:00:00+00:00",
+   "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+  },
+  {
+   "title": "The model that didn't exist, so you made it yourself",
+   "link": "https://huggingface.co/blog/building-with-ml-intern",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-08T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Introducing Falcon ASR",
+   "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-07T13:21:03+00:00",
+   "description": ""
+  },
+  {
+   "title": "Helping teens learn, plan, and shape the future of AI",
+   "link": "https://openai.com/index/teens-learn-and-plan",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-07T12:00:00+00:00",
+   "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+  },
+  {
+   "title": "Introducing Playground: Create and play custom games",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-10-07T12:00:00+00:00",
+   "description": "Overview of Playground"
+  },
+  {
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "link": "https://openai.com/index/radisson",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-07T07:00:00+00:00",
+   "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+  },
+  {
+   "title": "GPT-6 and Intelligent UI for everyone",
+   "link": "https://openai.com/index/gpt-6-for-everyone",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-07T00:00:00+00:00",
+   "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+  },
+  {
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-10-06T19:57:04+00:00",
+   "description": ""
+  },
+  {
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "link": "https://openai.com/index/atlassian-partnership",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-06T16:00:00+00:00",
+   "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+  },
+  {
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "link": "https://openai.com/index/jump-trading",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-06T12:00:00+00:00",
+   "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+  },
+  {
+   "title": "Sharing AI progress in mathematics",
+   "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-06T12:00:00+00:00",
+   "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+  },
+  {
+   "title": "Advancing computer use with Ironclad",
+   "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-06T10:00:00+00:00",
+   "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+  },
+  {
+   "title": "Our approach to EU text provenance rules",
+   "link": "https://openai.com/index/eu-text-provenance",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-05T15:00:00+00:00",
+   "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+  },
+  {
+   "title": "Building advertising for the way people use AI",
+   "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-05T10:00:00+00:00",
+   "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+  },
+  {
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-03T22:56:48+00:00",
+   "description": ""
+  },
+  {
+   "title": "A model guide for the GPT-6 family",
+   "link": "https://openai.com/index/practical-guide-building-gpt-6",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-02T16:15:00+00:00",
+   "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+  },
+  {
+   "title": "The latest AI news we announced in September 2026",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-10-02T15:00:00+00:00",
+   "description": "A video showing the September AI updates"
+  },
+  {
+   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+   "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-02T04:01:31+00:00",
+   "description": ""
+  },
+  {
+   "title": "Chatham scales its capital markets expertise with OpenAI",
+   "link": "https://openai.com/index/chatham-financial",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-02T00:00:00+00:00",
+   "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+  },
+  {
+   "title": "The eternal complement",
+   "link": "https://openai.com/index/the-eternal-complement",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-01T17:00:00+00:00",
+   "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+  },
+  {
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "link": "https://openai.com/index/albertsons-reimagining-retail",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-01T16:00:00+00:00",
+   "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+  },
+  {
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "link": "https://openai.com/index/the-den-family-social",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-01T00:00:00+00:00",
+   "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+  },
+  {
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-09-30T20:01:45+00:00",
+   "description": ""
+  },
+  {
+   "title": "Introducing SynthID Bio",
+   "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-09-30T15:03:07+00:00",
+   "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+  },
+  {
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-30T10:30:00+00:00",
+   "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+  },
+  {
+   "title": "Helping small businesses put AI to work",
+   "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-30T10:00:00+00:00",
+   "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+  },
+  {
+   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "link": "https://huggingface.co/blog/open-tts-leaderboard",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-09-30T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Introducing GPT-6.1 Sol",
+   "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-29T17:00:00+00:00",
+   "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+  },
+  {
+   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+   "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-09-29T13:07:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "DevDay 2026 Recap",
+   "link": "https://openai.com/index/devday-2026-recap",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-29T10:00:00+00:00",
+   "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+  },
+  {
+   "title": "Introducing dots",
+   "link": "https://openai.com/index/introducing-dots",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-29T00:00:00+00:00",
+   "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+  },
+  {
+   "title": "Towards safety cases for frontier AI training",
+   "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-28T19:00:00+00:00",
+   "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+  },
+  {
+   "title": "How we will do better for Australia",
+   "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-28T19:00:00+00:00",
+   "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+  },
+  {
+   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-09-28T19:00:00+00:00",
+   "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+  },
+  {
+   "title": "Holo4: powering generalist computer-use agents",
+   "link": "https://huggingface.co/blog/Hcompany/holo4",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-09-28T09:44:05+00:00",
+   "description": ""
+  },
+  {
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-28T07:00:00+00:00",
+   "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+  },
+  {
+   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-28T00:00:00+00:00",
+   "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+  },
+  {
+   "title": "Are you a Codex Original?",
+   "link": "https://openai.com/form/codex-originals",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-28T00:00:00+00:00",
+   "description": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
+  },
+  {
+   "title": "Welcome RL Environments to the hub",
+   "link": "https://huggingface.co/blog/rl-environments",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-09-28T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "link": "https://openai.com/index/proaction",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-25T19:00:00+00:00",
+   "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+  },
+  {
+   "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+   "link": "https://openai.com/index/lowes",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-25T07:00:00+00:00",
+   "description": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward."
+  },
+  {
+   "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+   "link": "https://openai.com/index/wayfair",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-25T00:00:00+00:00",
+   "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-09-24T16:20:39+00:00",
+   "description": ""
+  },
+  {
+   "title": "Google Beam expands with new regions, partners, and customers",
+   "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-09-23T18:00:00+00:00",
+   "description": "Google Beam promotional animation"
+  },
+  {
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-09-23T16:00:57+00:00",
+   "description": "Introducing private, server-side memory to Private AI Compute for personal AI."
+  },
+  {
+   "title": "Two years of OpenAI Academy",
+   "link": "https://openai.com/index/two-years-of-openai-academy",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T16:00:00+00:00",
+   "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+  },
+  {
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-09-23T15:25:14+00:00",
+   "description": ""
+  },
+  {
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T13:00:00+00:00",
+   "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+  },
+  {
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T12:00:00+00:00",
+   "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+  },
+  {
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T12:00:00+00:00",
+   "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+  },
+  {
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "link": "https://openai.com/index/ringg",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T12:00:00+00:00",
+   "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+  },
+  {
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T12:00:00+00:00",
+   "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+  },
+  {
+   "title": "Introducing MentalHealthBench",
+   "link": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T10:00:00+00:00",
+   "description": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+  },
+  {
+   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+   "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T02:00:00+00:00",
+   "description": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
+  },
+  {
+   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+   "link": "https://openai.com/index/airbnb-gpt-6-astra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T01:00:00+00:00",
+   "description": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
+  },
+  {
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-23T00:00:00+00:00",
+   "description": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+  },
+  {
+   "title": "Better prompt caching for GPT-6",
+   "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-22T21:00:00+00:00",
+   "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+  },
+  {
+   "title": "Introducing GPT-6 Sol and Luna",
+   "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-09-22T18:00:00+00:00",
+   "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+  }
+ ]
+}

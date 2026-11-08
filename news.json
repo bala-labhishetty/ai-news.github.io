@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:28:15.750049+00:00",
+ "updated": "2026-11-08T17:05:53.374693+00:00",
  "model": "claude-haiku-5-5",
  "items": [
   {
@@ -58,7 +58,7 @@
    "summary": "According to The New York Times, the US approved New Matrix, a Chinese firm with an empty office, to handle Nvidia H200 AI chip sales.",
    "why": "It raises questions about how export-control vetting of Chinese buyers of advanced AI chips is being carried out.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s055e03fe8f",
@@ -72,7 +72,7 @@
    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s8879475e62",
@@ -88,7 +88,7 @@
    "summary": "Anthropic is using AI to build more powerful AI.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s3128af5441",
@@ -927,142 +927,6 @@
     "Enterprise"
    ],
    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s003a6dd08e",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-   "source": "Google DeepMind",
-   "published": "2026-11-05T17:05:16+00:00",
-   "topics": [
-    "Models",
-    "Products"
-   ],
-   "summary": "Google DeepMind released Gemini Omni 1.2 Flash, a faster and more cost-effective model that supports longer clips.",
-   "why": "Lower cost and support for longer clips may matter for teams processing video at scale, though pricing details are not given here.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s1112027d59",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T17:00:35+00:00",
-   "topics": [
-    "Models",
-    "Agents",
-    "Developer tools"
-   ],
-   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb58fee4edb",
-   "title": "Australian universities are creating AI-native graduates",
-   "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "source": "OpenAI",
-   "published": "2026-11-05T17:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s2846e03446",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T16:16:45+00:00",
-   "topics": [
-    "Agents"
-   ],
-   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s477cff6d6b",
-   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-   "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T16:00:05+00:00",
-   "topics": [
-    "Models",
-    "Regulation",
-    "Open source"
-   ],
-   "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s3df4d68063",
-   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-   "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T16:00:00+00:00",
-   "topics": [
-    "Models",
-    "Agents",
-    "Infrastructure"
-   ],
-   "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "saecc9a23fd",
-   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T15:19:05+00:00",
-   "topics": [
-    "Models",
-    "Agents",
-    "Funding"
-   ],
-   "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc9efcd5ee3",
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T14:42:00+00:00",
-   "topics": [
-    "Agents"
-   ],
-   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s588776d5fd",
-   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T14:00:34+00:00",
-   "topics": [
-    "Developer tools",
-    "Products"
-   ],
-   "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW.",
    "why": "",
    "related": [],
    "top": false

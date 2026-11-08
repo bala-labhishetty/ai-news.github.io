@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:28:13.434476+00:00",
+ "updated": "2026-11-08T17:05:52.339164+00:00",
  "count": 300,
  "items": [
   {
@@ -64,7 +64,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-07T02:20:06+00:00",
-   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 91 # Comments: 76"
+   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 96 # Comments: 81"
   },
   {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -112,7 +112,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T20:27:23+00:00",
-   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 366 # Comments: 348"
+   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 371 # Comments: 349"
   },
   {
    "title": "All the latest updates on AI data centers",
@@ -152,7 +152,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T18:04:06+00:00",
-   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 107 # Comments: 19"
+   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 108 # Comments: 19"
   },
   {
    "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
@@ -280,7 +280,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T14:13:09+00:00",
-   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 63"
+   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 61"
   },
   {
    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -328,7 +328,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T09:13:30+00:00",
-   "description": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 101 # Comments: 39"
+   "description": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 103 # Comments: 39"
   },
   {
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -360,7 +360,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T05:19:04+00:00",
-   "description": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 220 # Comments: 217"
+   "description": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 220 # Comments: 219"
   },
   {
    "title": "Closed AI models dominate the price-performance frontier",
@@ -600,7 +600,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-05T00:01:30+00:00",
-   "description": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 57 # Comments: 82"
+   "description": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 58 # Comments: 82"
   },
   {
    "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -736,7 +736,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-04T15:28:31+00:00",
-   "description": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 111 # Comments: 178"
+   "description": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 112 # Comments: 178"
   },
   {
    "title": "OpenAI to acquire Pierre Computer Company, Inc.",

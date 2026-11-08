@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:31:28.525098+00:00",
+ "updated": "2026-11-08T10:28:13.434476+00:00",
  "count": 300,
  "items": [
   {
@@ -64,7 +64,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-07T02:20:06+00:00",
-   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 85 # Comments: 70"
+   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 91 # Comments: 76"
   },
   {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -112,7 +112,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T20:27:23+00:00",
-   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 362 # Comments: 338"
+   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 366 # Comments: 348"
   },
   {
    "title": "All the latest updates on AI data centers",
@@ -152,7 +152,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T18:04:06+00:00",
-   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 106 # Comments: 19"
+   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 107 # Comments: 19"
   },
   {
    "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
@@ -280,7 +280,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T14:13:09+00:00",
-   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 135 # Comments: 63"
+   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 63"
   },
   {
    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -360,7 +360,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T05:19:04+00:00",
-   "description": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 215 # Comments: 216"
+   "description": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 220 # Comments: 217"
   },
   {
    "title": "Closed AI models dominate the price-performance frontier",
@@ -368,7 +368,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T02:49:56+00:00",
-   "description": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 73"
+   "description": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 74"
   },
   {
    "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -392,7 +392,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-05T23:09:57+00:00",
-   "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 514 # Comments: 228"
+   "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 515 # Comments: 229"
   },
   {
    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",

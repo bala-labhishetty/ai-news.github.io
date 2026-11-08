@@ -1,7 +1,85 @@
 {
- "updated": "2026-11-08T17:05:53.374693+00:00",
+ "updated": "2026-11-08T21:13:33.392638+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "secd65815b5",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "source": "The Verge",
+   "published": "2026-11-08T20:22:39+00:00",
+   "topics": [
+    "Enterprise",
+    "Regulation"
+   ],
+   "summary": "Nvidia's board is launching an independent investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, reportedly recruited by China's Ministry of State Security to spy on the company.",
+   "why": "A governance probe at a core AI chip supplier, tied to alleged espionage, could affect supply chains, partner trust, and export-compliance risk.",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s45fb196cb1",
+   "title": "How I Fight AI Brain Fry",
+   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "source": "Hacker News",
+   "published": "2026-11-08T19:37:42+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A Hacker News post shares a blog article on ways to fight \"AI brain fry,\" the mental fatigue from heavy AI tool use.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s53044e44b3",
+   "title": "Apple is racing to make Siri more agentic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "source": "The Verge",
+   "published": "2026-11-08T19:18:19+00:00",
+   "topics": [
+    "Agents",
+    "Products"
+   ],
+   "summary": "Bloomberg reports Apple CEO John Ternus is pressing AI chief Craig Federighi to speed up Siri's roadmap and ship a powerful AI agent to compete with rivals.",
+   "why": "Apple's push toward agentic Siri signals how major platforms will expose AI agents to users and third-party developers.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "sd8ba3532e1",
+   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+   "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+   "source": "Hacker News",
+   "published": "2026-11-08T18:43:07+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A WSJ article reports that drugmaker CEOs are skeptical of Silicon Valley claims that AI will cure disease.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "sae06ecf718",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source": "The Verge",
+   "published": "2026-11-08T17:23:19+00:00",
+   "topics": [
+    "Regulation",
+    "Models"
+   ],
+   "summary": "Rights holders of Elvis Presley's music and the publisher of some Eminem hits are suing Suno, alleging it generates music and lyrics mimicking those artists.",
+   "why": "Another lawsuit against Suno adds to legal pressure on generative music models over training data and voice or style imitation.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "sd44fec61cc",
    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -29,7 +107,7 @@
    "summary": "A Hacker News post linked to an essay titled 'The End of AI Frontiers' on hunch.net, with 81 points and 4 comments.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sfa06ff8fdc",
@@ -765,168 +843,6 @@
     "Products"
    ],
    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf987c08b03",
-   "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-05T21:04:24+00:00",
-   "topics": [
-    "Agents"
-   ],
-   "summary": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7eab5dddcf",
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-   "source": "NVIDIA",
-   "published": "2026-11-05T20:00:41+00:00",
-   "topics": [
-    "Models",
-    "Agents",
-    "Regulation"
-   ],
-   "summary": "AI agents do more than generate answers.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc88b52d0b2",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "link": "https://openai.com/index/cultfit-builds-with-codex",
-   "source": "OpenAI",
-   "published": "2026-11-05T20:00:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s3c0e84566a",
-   "title": "Meta says US users can now video chat with their Muse AI avatar",
-   "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T19:48:28+00:00",
-   "topics": [
-    "Agents",
-    "Developer tools",
-    "Products"
-   ],
-   "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "se8690f74b6",
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-   "source": "Hugging Face",
-   "published": "2026-11-05T19:35:16+00:00",
-   "topics": [
-    "Models",
-    "Open source"
-   ],
-   "summary": "NVIDIA released Cosmos 3 open models for interactive world simulation, published on Hugging Face.",
-   "why": "Open world-simulation models may be useful for teams building robotics or physical AI systems that need simulated training environments.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s2e06a7a163",
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T19:12:39+00:00",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sec73671ce5",
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T19:06:12+00:00",
-   "topics": [
-    "Models"
-   ],
-   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s5e845585db",
-   "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-05T18:06:43+00:00",
-   "topics": [
-    "Models",
-    "Regulation"
-   ],
-   "summary": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals…",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "scfd1704d56",
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T18:02:27+00:00",
-   "topics": [
-    "Developer tools",
-    "Enterprise"
-   ],
-   "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s053dad3db8",
-   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-   "source": "Hacker News",
-   "published": "2026-11-05T18:00:01+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7b187a5bdc",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T18:00:00+00:00",
-   "topics": [
-    "Models",
-    "Enterprise"
-   ],
-   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
    "why": "",
    "related": [],
    "top": false

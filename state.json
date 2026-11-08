@@ -1,189 +1,5 @@
 {
  "stories": {
-  "s7b187a5bdc": {
-   "id": "s7b187a5bdc",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T18:00:00+00:00",
-   "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-   "related": [],
-   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Enterprise"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s053dad3db8": {
-   "id": "s053dad3db8",
-   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-05T18:00:01+00:00",
-   "description": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191",
-   "related": [],
-   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191",
-   "why": "",
-   "topics": [
-    "Funding"
-   ],
-   "summary_by": "heuristic"
-  },
-  "scfd1704d56": {
-   "id": "scfd1704d56",
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T18:02:27+00:00",
-   "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-   "related": [],
-   "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-   "why": "",
-   "topics": [
-    "Developer tools",
-    "Enterprise"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s5e845585db": {
-   "id": "s5e845585db",
-   "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-05T18:06:43+00:00",
-   "description": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.",
-   "related": [],
-   "summary": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals…",
-   "why": "",
-   "topics": [
-    "Models",
-    "Regulation"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sec73671ce5": {
-   "id": "sec73671ce5",
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T19:06:12+00:00",
-   "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-   "related": [],
-   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-   "why": "",
-   "topics": [
-    "Models"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s2e06a7a163": {
-   "id": "s2e06a7a163",
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T19:12:39+00:00",
-   "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-   "related": [],
-   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "se8690f74b6": {
-   "id": "se8690f74b6",
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-05T19:35:16+00:00",
-   "description": "",
-   "related": [],
-   "summary": "NVIDIA released Cosmos 3 open models for interactive world simulation, published on Hugging Face.",
-   "why": "Open world-simulation models may be useful for teams building robotics or physical AI systems that need simulated training environments.",
-   "topics": [
-    "Models",
-    "Open source"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s3c0e84566a": {
-   "id": "s3c0e84566a",
-   "title": "Meta says US users can now video chat with their Muse AI avatar",
-   "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T19:48:28+00:00",
-   "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-   "related": [],
-   "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Developer tools",
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sc88b52d0b2": {
-   "id": "sc88b52d0b2",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "link": "https://openai.com/index/cultfit-builds-with-codex",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-05T20:00:00+00:00",
-   "description": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "related": [],
-   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s7eab5dddcf": {
-   "id": "s7eab5dddcf",
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-05T20:00:41+00:00",
-   "description": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
-   "related": [],
-   "summary": "AI agents do more than generate answers.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Agents",
-    "Regulation"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sf987c08b03": {
-   "id": "sf987c08b03",
-   "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-05T21:04:24+00:00",
-   "description": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.",
-   "related": [],
-   "summary": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build.",
-   "why": "",
-   "topics": [
-    "Agents"
-   ],
-   "summary_by": "heuristic"
-  },
   "s1eac7fe42e": {
    "id": "s1eac7fe42e",
    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -1051,20 +867,93 @@
     "Regulation",
     "Infrastructure"
    ]
+  },
+  "sae06ecf718": {
+   "id": "sae06ecf718",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-08T17:23:19+00:00",
+   "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+   "related": [],
+   "summary": "Rights holders of Elvis Presley's music and the publisher of some Eminem hits are suing Suno, alleging it generates music and lyrics mimicking those artists.",
+   "why": "Another lawsuit against Suno adds to legal pressure on generative music models over training data and voice or style imitation.",
+   "topics": [
+    "Regulation",
+    "Models"
+   ]
+  },
+  "sd8ba3532e1": {
+   "id": "sd8ba3532e1",
+   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+   "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-08T18:43:07+00:00",
+   "description": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 65 # Comments: 67",
+   "related": [],
+   "summary": "A WSJ article reports that drugmaker CEOs are skeptical of Silicon Valley claims that AI will cure disease.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s53044e44b3": {
+   "id": "s53044e44b3",
+   "title": "Apple is racing to make Siri more agentic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-08T19:18:19+00:00",
+   "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+   "related": [],
+   "summary": "Bloomberg reports Apple CEO John Ternus is pressing AI chief Craig Federighi to speed up Siri's roadmap and ship a powerful AI agent to compete with rivals.",
+   "why": "Apple's push toward agentic Siri signals how major platforms will expose AI agents to users and third-party developers.",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
+  },
+  "s45fb196cb1": {
+   "id": "s45fb196cb1",
+   "title": "How I Fight AI Brain Fry",
+   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-08T19:37:42+00:00",
+   "description": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 58 # Comments: 41",
+   "related": [],
+   "summary": "A Hacker News post shares a blog article on ways to fight \"AI brain fry,\" the mental fatigue from heavy AI tool use.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "secd65815b5": {
+   "id": "secd65815b5",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-08T20:22:39+00:00",
+   "description": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+     "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+    }
+   ],
+   "summary": "Nvidia's board is launching an independent investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, reportedly recruited by China's Ministry of State Security to spy on the company.",
+   "why": "A governance probe at a core AI chip supplier, tied to alleged espionage, could affect supply chains, partner trust, and export-compliance risk.",
+   "topics": [
+    "Enterprise",
+    "Regulation"
+   ]
   }
  },
  "seen": {
-  "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool": "s7b187a5bdc",
-  "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026": "s053dad3db8",
-  "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027": "scfd1704d56",
-  "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai": "s5e845585db",
-  "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough": "sec73671ce5",
-  "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder": "s2e06a7a163",
-  "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": "se8690f74b6",
-  "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar": "s3c0e84566a",
-  "https://openai.com/index/cultfit-builds-with-codex": "sc88b52d0b2",
-  "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents": "s7eab5dddcf",
-  "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore": "sf987c08b03",
   "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027": "s1eac7fe42e",
   "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password": "s8424b8cbc8",
   "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html": "s6f78e24cdb",
@@ -1118,6 +1007,12 @@
   "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": "sfa06ff8fdc",
   "https://hunch.net": "sef7df344eb",
   "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo": "s1bc7ba2a28",
-  "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers": "sd44fec61cc"
+  "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers": "sd44fec61cc",
+  "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit": "sae06ecf718",
+  "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c": "sd8ba3532e1",
+  "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic": "s53044e44b3",
+  "https://sergeykuhne.com/blog/fighting-ai-brain-fry": "s45fb196cb1",
+  "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy": "secd65815b5",
+  "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy": "secd65815b5"
  }
 }

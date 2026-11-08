@@ -1,330 +1,5 @@
 {
  "stories": {
-  "sfc33bcbed1": {
-   "id": "sfc33bcbed1",
-   "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-   "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-04T16:06:03+00:00",
-   "description": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-   "related": [],
-   "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sc5387dca01": {
-   "id": "sc5387dca01",
-   "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-04T16:23:33+00:00",
-   "description": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.",
-   "related": [],
-   "summary": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Developer tools"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sb860dcb605": {
-   "id": "sb860dcb605",
-   "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-04T16:25:57+00:00",
-   "description": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.",
-   "related": [],
-   "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Enterprise"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s2240c97093": {
-   "id": "s2240c97093",
-   "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-   "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-04T16:30:40+00:00",
-   "description": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
-   "related": [],
-   "summary": "In production AI agents, context management is the real bottleneck.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Open source",
-    "Developer tools"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s5dcd8c391f": {
-   "id": "s5dcd8c391f",
-   "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-   "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-04T16:33:03+00:00",
-   "description": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
-   "related": [],
-   "summary": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s49db83e253": {
-   "id": "s49db83e253",
-   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-   "link": "https://news.ycombinator.com/item?id=50368804",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-04T17:31:53+00:00",
-   "description": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at https://kino.ai/walkthrough-video and our launch video (made entirely with Kino!) at https://kino.ai/launch-video Opus 5.5 can edit videos and make great motion graphics now. But with a raw agent harness, you need to describe tiny edits either in words or in quick one-off UIs, you can’t refer to footage shared across your devices, and feedback from teammates comes as screenshots on Slack. Kino is code-first. All editing, all moti",
-   "related": [],
-   "summary": "Hi HN!",
-   "why": "",
-   "topics": [
-    "Models",
-    "Agents",
-    "Developer tools"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s6ef2f651ce": {
-   "id": "s6ef2f651ce",
-   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-04T17:50:10+00:00",
-   "description": "",
-   "related": [],
-   "summary": "",
-   "why": "",
-   "topics": [
-    "Open source",
-    "Regulation"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s1840d116fb": {
-   "id": "s1840d116fb",
-   "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-   "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-04T18:46:36+00:00",
-   "description": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
-   "related": [],
-   "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Agents",
-    "Funding"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sdda2b2db6c": {
-   "id": "sdda2b2db6c",
-   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "source": "MIT Tech Review",
-   "category": "Industry",
-   "published": "2026-11-04T18:50:55+00:00",
-   "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-   "related": [],
-   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts.",
-   "why": "",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s9082a853a5": {
-   "id": "s9082a853a5",
-   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-   "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-04T19:55:14+00:00",
-   "description": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 170 # Comments: 64",
-   "related": [],
-   "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 170 # Comments: 64",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s46f48fe387": {
-   "id": "s46f48fe387",
-   "title": "Everything is an AI scam now",
-   "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-04T21:05:19+00:00",
-   "description": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 152 # Comments: 62",
-   "related": [],
-   "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 152 # Comments: 62",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sd0aac70174": {
-   "id": "sd0aac70174",
-   "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-   "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-04T21:38:49+00:00",
-   "description": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-   "related": [],
-   "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Enterprise"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s5f3050c226": {
-   "id": "s5f3050c226",
-   "title": "Hackers exploited iOS and Android flaws to infect phones",
-   "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-04T22:26:49+00:00",
-   "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-   "related": [],
-   "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-   "why": "",
-   "topics": [
-    "Regulation",
-    "Research"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sc0d7b08082": {
-   "id": "sc0d7b08082",
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "link": "https://openai.com/index/franklin-templeton",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-05T00:00:00+00:00",
-   "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "related": [],
-   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Safety"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s89209ab642": {
-   "id": "s89209ab642",
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "link": "https://huggingface.co/blog/phonon-tts",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-05T00:00:00+00:00",
-   "description": "",
-   "related": [],
-   "summary": "",
-   "why": "",
-   "topics": [
-    "Open source",
-    "Research",
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s45c552d60f": {
-   "id": "s45c552d60f",
-   "title": "You'll need nerves of steel to work with AI agents",
-   "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-05T00:01:30+00:00",
-   "description": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 57 # Comments: 82",
-   "related": [],
-   "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 57 # Comments: 82",
-   "why": "",
-   "topics": [
-    "Agents"
-   ],
-   "summary_by": "heuristic"
-  },
-  "scb5f2fdc15": {
-   "id": "scb5f2fdc15",
-   "title": "American Voters Overwhelmingly Reject AI Data Centers",
-   "link": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-05T00:43:13+00:00",
-   "description": "Article URL: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=50373505 Points: 61 # Comments: 2",
-   "related": [],
-   "summary": "Article URL: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=50373505 Points: 61 # Comments: 2",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s1f9981de57": {
-   "id": "s1f9981de57",
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "link": "https://openai.com/ads/customers/flipsnack",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-05T00:45:15+00:00",
-   "description": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "related": [],
-   "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "why": "",
-   "topics": [
-    "Models"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sf935675761": {
-   "id": "sf935675761",
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-05T02:00:00+00:00",
-   "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-   "related": [],
-   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-   "why": "",
-   "topics": [
-    "Regulation",
-    "Infrastructure",
-    "Developer tools"
-   ],
-   "summary_by": "heuristic"
-  },
   "s300d91101f": {
    "id": "s300d91101f",
    "title": "Merge builds product and business tools with OpenAI technology",
@@ -505,10 +180,11 @@
    "published": "2026-11-05T17:05:16+00:00",
    "description": "",
    "related": [],
-   "summary": "",
-   "why": "",
+   "summary": "Google DeepMind released Gemini Omni 1.2 Flash, a faster and more cost-effective model that supports longer clips.",
+   "why": "Lower cost and support for longer clips may matter for teams processing video at scale, though pricing details are not given here.",
    "topics": [
-    "Models"
+    "Models",
+    "Products"
    ],
    "summary_by": "heuristic"
   },
@@ -620,12 +296,11 @@
    "published": "2026-11-05T19:35:16+00:00",
    "description": "",
    "related": [],
-   "summary": "",
-   "why": "",
+   "summary": "NVIDIA released Cosmos 3 open models for interactive world simulation, published on Hugging Face.",
+   "why": "Open world-simulation models may be useful for teams building robotics or physical AI systems that need simulated training environments.",
    "topics": [
-    "Open source",
     "Models",
-    "Regulation"
+    "Open source"
    ],
    "summary_by": "heuristic"
   },
@@ -772,9 +447,10 @@
    "published": "2026-11-06T00:00:00+00:00",
    "description": "",
    "related": [],
-   "summary": "",
+   "summary": "Egyptian and Nigerian English datasets were added to Hugging Face's Open ASR Leaderboard for speech recognition evaluation.",
    "why": "",
    "topics": [
+    "Research",
     "Open source"
    ],
    "summary_by": "heuristic"
@@ -967,11 +643,11 @@
    "published": "2026-11-06T14:00:48+00:00",
    "description": "",
    "related": [],
-   "summary": "",
-   "why": "",
+   "summary": "Hugging Face introduced ToyBlocks, a controlled environment for robot learning and evaluation.",
+   "why": "A standardized simulated environment could help teams benchmark robot learning methods more consistently.",
    "topics": [
-    "Open source",
-    "Funding"
+    "Research",
+    "Open source"
    ],
    "summary_by": "heuristic"
   },
@@ -1405,7 +1081,13 @@
    "category": "Industry",
    "published": "2026-11-06T23:00:44+00:00",
    "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
-   "related": [],
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+     "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+    }
+   ],
    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
    "why": "",
    "topics": [
@@ -1495,28 +1177,71 @@
     "Funding"
    ],
    "summary_by": "heuristic"
+  },
+  "s73be1ddc7f": {
+   "id": "s73be1ddc7f",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-07T15:43:45+00:00",
+   "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+   "related": [],
+   "summary": "According to The New York Times, the US approved New Matrix, a Chinese firm with an empty office, to handle Nvidia H200 AI chip sales.",
+   "why": "It raises questions about how export-control vetting of Chinese buyers of advanced AI chips is being carried out.",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ]
+  },
+  "sfa06ff8fdc": {
+   "id": "sfa06ff8fdc",
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-07T15:50:00+00:00",
+   "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+   "related": [],
+   "summary": "A Verge reviewer tested NYT Cooking's AI assistant for weeknight dinner, finding it helped with chicken but caused problems with a cake.",
+   "why": "This is a consumer product review with little relevance to engineering or technology leadership decisions.",
+   "topics": [
+    "Products"
+   ]
+  },
+  "sef7df344eb": {
+   "id": "sef7df344eb",
+   "title": "The End of AI Frontiers",
+   "link": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-07T18:04:07+00:00",
+   "description": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 81 # Comments: 4",
+   "related": [],
+   "summary": "A Hacker News post linked to an essay titled 'The End of AI Frontiers' on hunch.net, with 81 points and 4 comments.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "sd44fec61cc": {
+   "id": "sd44fec61cc",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-07T22:07:22+00:00",
+   "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "related": [],
+   "summary": "TechCrunch's Equity podcast discussed what the midterm elections mean for Elon Musk and the tech industry, including data centers.",
+   "why": "The description gives too little detail on specific policy or market effects to say more.",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ]
   }
  },
  "seen": {
-  "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist": "sfc33bcbed1",
-  "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore": "sc5387dca01",
-  "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences": "sb860dcb605",
-  "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code": "s2240c97093",
-  "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters": "s5dcd8c391f",
-  "https://news.ycombinator.com/item": "s49db83e253",
-  "https://huggingface.co/blog/dharma-ai/dharma-field-extractor": "s6ef2f651ce",
-  "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations": "s1840d116fb",
-  "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput": "sdda2b2db6c",
-  "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra": "s9082a853a5",
-  "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now": "s46f48fe387",
-  "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores": "sd0aac70174",
-  "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones": "s5f3050c226",
-  "https://openai.com/index/franklin-templeton": "sc0d7b08082",
-  "https://huggingface.co/blog/phonon-tts": "s89209ab642",
-  "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents": "s45c552d60f",
-  "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers": "scb5f2fdc15",
-  "https://openai.com/ads/customers/flipsnack": "s1f9981de57",
-  "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": "sf935675761",
   "https://openai.com/index/merge-builds-with-openai": "s300d91101f",
   "https://openai.com/index/introducing-gpt-6-cyber": "s53c56afbaf",
   "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5": "s588776d5fd",
@@ -1587,6 +1312,11 @@
   "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google": "sc2107a5a7c",
   "https://www.kadoa.com/companies/insights/ai-selloff-perspective": "s3128af5441",
   "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": "s8879475e62",
-  "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": "s055e03fe8f"
+  "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": "s055e03fe8f",
+  "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": "s73be1ddc7f",
+  "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": "sfa06ff8fdc",
+  "https://hunch.net": "sef7df344eb",
+  "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo": "s1bc7ba2a28",
+  "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers": "sd44fec61cc"
  }
 }

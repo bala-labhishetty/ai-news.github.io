@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-07T15:40:50.825435+00:00",
+ "updated": "2026-11-08T02:31:28.525098+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-07T22:07:22+00:00",
+   "description": "On Equity, we unpacked what the midterms mean for the tech industry."
+  },
+  {
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-07T21:17:08+00:00",
+   "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+  },
+  {
+   "title": "The End of AI Frontiers",
+   "link": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-07T18:04:07+00:00",
+   "description": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 81 # Comments: 4"
+  },
+  {
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-07T15:50:00+00:00",
+   "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]"
+  },
+  {
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-07T15:43:45+00:00",
+   "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]"
+  },
   {
    "title": "AI broke the cybersecurity world. What’s next?",
    "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
@@ -24,7 +64,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-07T02:20:06+00:00",
-   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 77 # Comments: 66"
+   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 85 # Comments: 70"
   },
   {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -72,7 +112,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T20:27:23+00:00",
-   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 340 # Comments: 318"
+   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 362 # Comments: 338"
   },
   {
    "title": "All the latest updates on AI data centers",
@@ -112,7 +152,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T18:04:06+00:00",
-   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 104 # Comments: 18"
+   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 106 # Comments: 19"
   },
   {
    "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
@@ -136,7 +176,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T17:59:41+00:00",
-   "description": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 61 # Comments: 54"
+   "description": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 64 # Comments: 54"
   },
   {
    "title": "Taxonomy of agentic primitives in Amazon Quick",
@@ -219,14 +259,6 @@
    "description": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]"
   },
   {
-   "title": "How Akai and Moog are embracing vibe-coded mods",
-   "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T16:34:39+00:00",
-   "description": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]"
-  },
-  {
    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
    "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
    "source": "NVIDIA",
@@ -248,7 +280,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T14:13:09+00:00",
-   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 131 # Comments: 60"
+   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 135 # Comments: 63"
   },
   {
    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -265,14 +297,6 @@
    "category": "Open Source",
    "published": "2026-11-06T14:00:48+00:00",
    "description": ""
-  },
-  {
-   "title": "Amazon will let you text Alexa your shopping list",
-   "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T14:00:00+00:00",
-   "description": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]"
   },
   {
    "title": "Underdog shows off a 32MB speech model in new demo",
@@ -304,7 +328,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T09:13:30+00:00",
-   "description": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 96 # Comments: 38"
+   "description": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 101 # Comments: 39"
   },
   {
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -320,7 +344,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T07:59:19+00:00",
-   "description": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 60 # Comments: 53"
+   "description": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 60 # Comments: 55"
   },
   {
    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -336,7 +360,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T05:19:04+00:00",
-   "description": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 207 # Comments: 206"
+   "description": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 215 # Comments: 216"
   },
   {
    "title": "Closed AI models dominate the price-performance frontier",
@@ -368,7 +392,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-05T23:09:57+00:00",
-   "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 225"
+   "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 514 # Comments: 228"
   },
   {
    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -464,7 +488,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-05T18:00:01+00:00",
-   "description": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191"
+   "description": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 192"
   },
   {
    "title": "Claude can now analyze your spending with its new Personal Finance tool",
@@ -521,22 +545,6 @@
    "category": "AI Labs",
    "published": "2026-11-05T16:00:00+00:00",
    "description": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]"
-  },
-  {
-   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T15:19:05+00:00",
-   "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
-  },
-  {
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T14:42:00+00:00",
-   "description": "Aina's ring can also take calls and help you dictate notes on your Mac."
   },
   {
    "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
@@ -728,7 +736,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-04T15:28:31+00:00",
-   "description": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 109 # Comments: 177"
+   "description": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 111 # Comments: 178"
   },
   {
    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -745,14 +753,6 @@
    "category": "Industry",
    "published": "2026-11-04T13:00:00+00:00",
    "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…"
-  },
-  {
-   "title": "AI is forcing us to pay off 40 years of technical debt",
-   "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-04T11:52:17+00:00",
-   "description": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1294 # Comments: 749"
   },
   {
    "title": "A thousand fewer paths to root",

@@ -1,7 +1,65 @@
 {
- "updated": "2026-11-07T15:42:37.160503+00:00",
- "model": "heuristic",
+ "updated": "2026-11-08T02:31:36.080893+00:00",
+ "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sd44fec61cc",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "source": "TechCrunch",
+   "published": "2026-11-07T22:07:22+00:00",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ],
+   "summary": "TechCrunch's Equity podcast discussed what the midterm elections mean for Elon Musk and the tech industry, including data centers.",
+   "why": "The description gives too little detail on specific policy or market effects to say more.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "sef7df344eb",
+   "title": "The End of AI Frontiers",
+   "link": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "published": "2026-11-07T18:04:07+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A Hacker News post linked to an essay titled 'The End of AI Frontiers' on hunch.net, with 81 points and 4 comments.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "sfa06ff8fdc",
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge",
+   "published": "2026-11-07T15:50:00+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "A Verge reviewer tested NYT Cooking's AI assistant for weeknight dinner, finding it helped with chicken but caused problems with a cake.",
+   "why": "This is a consumer product review with little relevance to engineering or technology leadership decisions.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s73be1ddc7f",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge",
+   "published": "2026-11-07T15:43:45+00:00",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ],
+   "summary": "According to The New York Times, the US approved New Matrix, a Chinese firm with an empty office, to handle Nvidia H200 AI chip sales.",
+   "why": "It raises questions about how export-control vetting of Chinese buyers of advanced AI chips is being carried out.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "s055e03fe8f",
    "title": "AI broke the cybersecurity world. What’s next?",
@@ -44,7 +102,7 @@
    "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 75 # Comments: 66",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sc2107a5a7c",
@@ -58,7 +116,7 @@
    "summary": "The deal highlights the challenges of developing massive AI data centers.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s6813d62fd9",
@@ -72,7 +130,7 @@
    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s1bc7ba2a28",
@@ -86,7 +144,12 @@
    ],
    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
    "why": "",
-   "related": [],
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    }
+   ],
    "top": false
   },
   {
@@ -468,11 +531,11 @@
    "source": "Hugging Face",
    "published": "2026-11-06T14:00:48+00:00",
    "topics": [
-    "Open source",
-    "Funding"
+    "Research",
+    "Open source"
    ],
-   "summary": "",
-   "why": "",
+   "summary": "Hugging Face introduced ToyBlocks, a controlled environment for robot learning and evaluation.",
+   "why": "A standardized simulated environment could help teams benchmark robot learning methods more consistently.",
    "related": [],
    "top": false
   },
@@ -655,9 +718,10 @@
    "source": "Hugging Face",
    "published": "2026-11-06T00:00:00+00:00",
    "topics": [
+    "Research",
     "Open source"
    ],
-   "summary": "",
+   "summary": "Egyptian and Nigerian English datasets were added to Hugging Face's Open ASR Leaderboard for speech recognition evaluation.",
    "why": "",
    "related": [],
    "top": false
@@ -772,12 +836,11 @@
    "source": "Hugging Face",
    "published": "2026-11-05T19:35:16+00:00",
    "topics": [
-    "Open source",
     "Models",
-    "Regulation"
+    "Open source"
    ],
-   "summary": "",
-   "why": "",
+   "summary": "NVIDIA released Cosmos 3 open models for interactive world simulation, published on Hugging Face.",
+   "why": "Open world-simulation models may be useful for teams building robotics or physical AI systems that need simulated training environments.",
    "related": [],
    "top": false
   },
@@ -875,10 +938,11 @@
    "source": "Google DeepMind",
    "published": "2026-11-05T17:05:16+00:00",
    "topics": [
-    "Models"
+    "Models",
+    "Products"
    ],
-   "summary": "",
-   "why": "",
+   "summary": "Google DeepMind released Gemini Omni 1.2 Flash, a faster and more cost-effective model that supports longer clips.",
+   "why": "Lower cost and support for longer clips may matter for teams processing video at scale, though pricing details are not given here.",
    "related": [],
    "top": false
   },
@@ -1029,293 +1093,6 @@
     "Enterprise"
    ],
    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf935675761",
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "source": "OpenAI",
-   "published": "2026-11-05T02:00:00+00:00",
-   "topics": [
-    "Regulation",
-    "Infrastructure",
-    "Developer tools"
-   ],
-   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s1f9981de57",
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "link": "https://openai.com/ads/customers/flipsnack",
-   "source": "OpenAI",
-   "published": "2026-11-05T00:45:15+00:00",
-   "topics": [
-    "Models"
-   ],
-   "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "scb5f2fdc15",
-   "title": "American Voters Overwhelmingly Reject AI Data Centers",
-   "link": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-   "source": "Hacker News",
-   "published": "2026-11-05T00:43:13+00:00",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary": "Article URL: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=50373505 Points: 61 # Comments: 2",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s45c552d60f",
-   "title": "You'll need nerves of steel to work with AI agents",
-   "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-   "source": "Hacker News",
-   "published": "2026-11-05T00:01:30+00:00",
-   "topics": [
-    "Agents"
-   ],
-   "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 57 # Comments: 82",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc0d7b08082",
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "link": "https://openai.com/index/franklin-templeton",
-   "source": "OpenAI",
-   "published": "2026-11-05T00:00:00+00:00",
-   "topics": [
-    "Agents",
-    "Safety"
-   ],
-   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s89209ab642",
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "link": "https://huggingface.co/blog/phonon-tts",
-   "source": "Hugging Face",
-   "published": "2026-11-05T00:00:00+00:00",
-   "topics": [
-    "Open source",
-    "Research",
-    "Products"
-   ],
-   "summary": "",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s5f3050c226",
-   "title": "Hackers exploited iOS and Android flaws to infect phones",
-   "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-   "source": "Ars Technica",
-   "published": "2026-11-04T22:26:49+00:00",
-   "topics": [
-    "Regulation",
-    "Research"
-   ],
-   "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd0aac70174",
-   "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-   "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-   "source": "Ars Technica",
-   "published": "2026-11-04T21:38:49+00:00",
-   "topics": [
-    "Models",
-    "Enterprise"
-   ],
-   "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s46f48fe387",
-   "title": "Everything is an AI scam now",
-   "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-   "source": "Hacker News",
-   "published": "2026-11-04T21:05:19+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 152 # Comments: 62",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s9082a853a5",
-   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-   "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-   "source": "Hacker News",
-   "published": "2026-11-04T19:55:14+00:00",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 170 # Comments: 64",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sdda2b2db6c",
-   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "source": "MIT Tech Review",
-   "published": "2026-11-04T18:50:55+00:00",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s1840d116fb",
-   "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-   "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-04T18:46:36+00:00",
-   "topics": [
-    "Models",
-    "Agents",
-    "Funding"
-   ],
-   "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s6ef2f651ce",
-   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "source": "Hugging Face",
-   "published": "2026-11-04T17:50:10+00:00",
-   "topics": [
-    "Open source",
-    "Regulation"
-   ],
-   "summary": "",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s49db83e253",
-   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-   "link": "https://news.ycombinator.com/item?id=50368804",
-   "source": "Hacker News",
-   "published": "2026-11-04T17:31:53+00:00",
-   "topics": [
-    "Models",
-    "Agents",
-    "Developer tools"
-   ],
-   "summary": "Hi HN!",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s5dcd8c391f",
-   "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-   "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-04T16:33:03+00:00",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s2240c97093",
-   "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-   "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-04T16:30:40+00:00",
-   "topics": [
-    "Agents",
-    "Open source",
-    "Developer tools"
-   ],
-   "summary": "In production AI agents, context management is the real bottleneck.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb860dcb605",
-   "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-04T16:25:57+00:00",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Enterprise"
-   ],
-   "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc5387dca01",
-   "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-04T16:23:33+00:00",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Developer tools"
-   ],
-   "summary": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sfc33bcbed1",
-   "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-   "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-   "source": "Ars Technica",
-   "published": "2026-11-04T16:06:03+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
    "why": "",
    "related": [],
    "top": false

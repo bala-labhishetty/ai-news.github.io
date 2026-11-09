@@ -1,477 +1,5 @@
 {
  "stories": {
-  "s3b78672d47": {
-   "id": "s3b78672d47",
-   "title": "AI for scientific discovery: How researchers use Claude",
-   "link": "https://www.anthropic.com/research/how-researchers-use-claude",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-06T09:13:30+00:00",
-   "description": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 96 # Comments: 38",
-   "related": [],
-   "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 96 # Comments: 38",
-   "why": "",
-   "topics": [
-    "Models",
-    "Research"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s93fc4c1ba0": {
-   "id": "s93fc4c1ba0",
-   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-   "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-   "source": "MIT Tech Review",
-   "category": "Industry",
-   "published": "2026-11-06T10:00:00+00:00",
-   "description": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
-   "related": [],
-   "summary": "I’m not the sort of person who typically pays for a house cleaner.",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s44766e97c4": {
-   "id": "s44766e97c4",
-   "title": "Protesters break into Microsoft data center site in Amsterdam",
-   "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T11:55:19+00:00",
-   "description": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]",
-   "related": [],
-   "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning.",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s1f3694f5e3": {
-   "id": "s1f3694f5e3",
-   "title": "Physicl raises $10M to make the digital world real enough for robots",
-   "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T13:00:00+00:00",
-   "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-   "related": [],
-   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-   "why": "",
-   "topics": [
-    "Funding"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sa394d9aad7": {
-   "id": "sa394d9aad7",
-   "title": "Underdog shows off a 32MB speech model in new demo",
-   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T13:02:16+00:00",
-   "description": "Despite its small size, Underdog's new model can generate both speech and music.",
-   "related": [],
-   "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-   "why": "",
-   "topics": [
-    "Models"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s35ab47bbc7": {
-   "id": "s35ab47bbc7",
-   "title": "Amazon will let you text Alexa your shopping list",
-   "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T14:00:00+00:00",
-   "description": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]",
-   "related": [],
-   "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant.",
-   "why": "",
-   "topics": [
-    "Developer tools",
-    "Products",
-    "Enterprise"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sbe1ba71e55": {
-   "id": "sbe1ba71e55",
-   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-   "link": "https://huggingface.co/blog/allenai/toyblocks",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-06T14:00:48+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Hugging Face introduced ToyBlocks, a controlled environment for robot learning and evaluation.",
-   "why": "A standardized simulated environment could help teams benchmark robot learning methods more consistently.",
-   "topics": [
-    "Research",
-    "Open source"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s4a6109d505": {
-   "id": "s4a6109d505",
-   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T14:10:00+00:00",
-   "description": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-   "related": [],
-   "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sc63019ae78": {
-   "id": "sc63019ae78",
-   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-   "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-06T14:13:09+00:00",
-   "description": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 131 # Comments: 59",
-   "related": [],
-   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 131 # Comments: 59",
-   "why": "",
-   "topics": [
-    "Safety",
-    "Developer tools"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s7c70b636a2": {
-   "id": "s7c70b636a2",
-   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T15:54:47+00:00",
-   "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-   "related": [],
-   "summary": "AI usage keeps climbing, but spending has stalled.",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s2b3eb4eb79": {
-   "id": "s2b3eb4eb79",
-   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-   "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-06T16:00:35+00:00",
-   "description": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
-   "related": [],
-   "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development.",
-   "why": "",
-   "topics": [
-    "Open source",
-    "Research",
-    "Developer tools"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sc821c11af1": {
-   "id": "sc821c11af1",
-   "title": "How Akai and Moog are embracing vibe-coded mods",
-   "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T16:34:39+00:00",
-   "description": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]",
-   "related": [],
-   "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community.",
-   "why": "",
-   "topics": [
-    "Developer tools"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s22815b4f72": {
-   "id": "s22815b4f72",
-   "title": "Big Tech lost big in the 2026 election",
-   "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T16:38:02+00:00",
-   "description": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]",
-   "related": [],
-   "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI.",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sbc2d0068f5": {
-   "id": "sbc2d0068f5",
-   "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
-   "link": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-06T16:45:58+00:00",
-   "description": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge.",
-   "related": [],
-   "summary": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Agents",
-    "Open source"
-   ],
-   "summary_by": "heuristic"
-  },
-  "saa3a68bb9f": {
-   "id": "saa3a68bb9f",
-   "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-06T16:49:42+00:00",
-   "description": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.",
-   "related": [],
-   "summary": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Safety",
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sc75bfb16cb": {
-   "id": "sc75bfb16cb",
-   "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-06T16:55:05+00:00",
-   "description": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.",
-   "related": [],
-   "summary": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Safety"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s91f8d419f4": {
-   "id": "s91f8d419f4",
-   "title": "AI is the new dating dealbreaker",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T17:00:00+00:00",
-   "description": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where […]",
-   "related": [],
-   "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does.",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s4a377ea256": {
-   "id": "s4a377ea256",
-   "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
-   "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-06T17:09:18+00:00",
-   "description": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority.",
-   "related": [],
-   "summary": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Funding",
-    "Regulation"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s0f0cb95e5b": {
-   "id": "s0f0cb95e5b",
-   "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-   "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-06T17:13:13+00:00",
-   "description": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
-   "related": [],
-   "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Agents",
-    "Research"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sef57b5d475": {
-   "id": "sef57b5d475",
-   "title": "After the midterms, is the AI industry in for a rough two years?",
-   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T17:23:52+00:00",
-   "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-   "related": [],
-   "summary": "Democrats’ historic victories in this week’s U.S.",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s01ae94b0da": {
-   "id": "s01ae94b0da",
-   "title": "Taxonomy of agentic primitives in Amazon Quick",
-   "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-06T17:34:45+00:00",
-   "description": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.",
-   "related": [],
-   "summary": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Regulation"
-   ],
-   "summary_by": "heuristic"
-  },
-  "scfed3ade01": {
-   "id": "scfed3ade01",
-   "title": "Perplexity launches AI agents for work",
-   "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-06T17:59:41+00:00",
-   "description": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 61 # Comments: 54",
-   "related": [],
-   "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 61 # Comments: 54",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "sfc8f30aee8": {
-   "id": "sfc8f30aee8",
-   "title": "How a Blue Wave midterm might reshape the AI industry",
-   "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T18:00:00+00:00",
-   "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-   "related": [],
-   "summary": "Democrats’ historic victories in this week’s U.S.",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s1007c961b5": {
-   "id": "s1007c961b5",
-   "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-   "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-06T18:01:00+00:00",
-   "description": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.",
-   "related": [],
-   "summary": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized…",
-   "why": "",
-   "topics": [
-    "Models",
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s614b221353": {
-   "id": "s614b221353",
-   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-   "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-06T18:04:06+00:00",
-   "description": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 103 # Comments: 18",
-   "related": [],
-   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 103 # Comments: 18",
-   "why": "",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s52e0623fab": {
-   "id": "s52e0623fab",
-   "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-   "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T18:10:10+00:00",
-   "description": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]",
-   "related": [],
-   "summary": "Meta will now allow you to build customized, app-like experiences within Muse.",
-   "why": "",
-   "topics": [
-    "Regulation",
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s016e849ea3": {
-   "id": "s016e849ea3",
-   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T18:44:20+00:00",
-   "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-   "related": [],
-   "summary": "Meta's Muse agents continue to get new features and integrations.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s29c568495a": {
-   "id": "s29c568495a",
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-06T18:44:38+00:00",
-   "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-   "related": [],
-   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-   "why": "",
-   "topics": [
-    "Research"
-   ],
-   "summary_by": "heuristic"
-  },
   "sc0641eb0de": {
    "id": "sc0641eb0de",
    "title": "All the latest updates on AI data centers",
@@ -5535,38 +5063,312 @@
     "Enterprise",
     "Infrastructure"
    ]
+  },
+  "sda2e6822ca": {
+   "id": "sda2e6822ca",
+   "title": "Apple capped engineers at a $200 daily AI budget",
+   "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-09T05:30:11+00:00",
+   "description": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 107 # Comments: 112",
+   "related": [],
+   "summary": "Reportedly, Apple capped its engineers at a $200 daily AI budget, according to a Stork.ai newsletter linked from Hacker News.",
+   "why": "Per-engineer daily AI spending caps may affect how teams adopt and budget for AI coding tools.",
+   "topics": [
+    "Enterprise",
+    "Developer tools"
+   ]
+  },
+  "s6d49d73492": {
+   "id": "s6d49d73492",
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-09T08:00:53+00:00",
+   "description": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]",
+   "related": [],
+   "summary": "NVIDIA announced planned investments in Korean startups, including Point2, at the MSIT-NVIDIA AI Startup Partnership Forum in Seoul.",
+   "why": "It signals NVIDIA's expanding investment ties with AI startups across foundation models, physical AI, and AI semiconductors in Korea.",
+   "topics": [
+    "Funding",
+    "Enterprise"
+   ]
+  },
+  "s5aa2811f45": {
+   "id": "s5aa2811f45",
+   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+   "link": "https://github.com/samir-sarwar/samir-vllm",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-09T11:36:55+00:00",
+   "description": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 68 # Comments: 11",
+   "related": [],
+   "summary": "A Hacker News post links to a GitHub project offering about 6 hours of YouTube videos and 85 handwritten pages of notes on LLM inference.",
+   "why": "It offers a learning resource on LLM inference, a topic relevant to engineers building or serving models.",
+   "topics": [
+    "Developer tools",
+    "Infrastructure"
+   ]
+  },
+  "s7b1451fc78": {
+   "id": "s7b1451fc78",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-09T12:34:29+00:00",
+   "description": "",
+   "related": [],
+   "summary": "Hugging Face published a post titled 'Your Experts Have Partners. There's HOPE for Keeping Them Together', but the provided text includes no description.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s42e7d6fc34": {
+   "id": "s42e7d6fc34",
+   "title": "Innovating with AI in the special chemicals industry",
+   "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-09T13:00:00+00:00",
+   "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+   "related": [],
+   "summary": "Lubrizol describes how it is applying AI, cloud computing, and advanced modeling to speed up specialty chemicals innovation.",
+   "why": "Illustrates the practical challenge of connecting AI tools to reliable scientific data and product development.",
+   "topics": [
+    "Enterprise",
+    "Research"
+   ]
+  },
+  "sbd74b7cf0c": {
+   "id": "sbd74b7cf0c",
+   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+   "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T14:00:00+00:00",
+   "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+   "related": [],
+   "summary": "Automattic launched Spacefast, a platform for deploying vibe-coded apps, positioning it against Lovable.",
+   "why": "Adds another hosting option for AI-generated apps, relevant to teams evaluating deployment platforms for prototypes.",
+   "topics": [
+    "Developer tools",
+    "Infrastructure"
+   ]
+  },
+  "s7cd5e10290": {
+   "id": "s7cd5e10290",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-09T14:00:01+00:00",
+   "description": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+   "related": [],
+   "summary": "At CoRL, NVIDIA and partners showed robots learning delicate manipulation tasks like aligning gears and connecting cables through simulation.",
+   "why": "Simulation-based training for fine manipulation is a practical route for robotics teams to reduce costly real-world trials.",
+   "topics": [
+    "Research"
+   ]
+  },
+  "scc49c1ae68": {
+   "id": "scc49c1ae68",
+   "title": "Jonathan Kanter is using AI to take on Big Tech",
+   "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T14:30:00+00:00",
+   "description": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
+   "related": [],
+   "summary": "Former DOJ antitrust chief Jonathan Kanter, with Doha Mekki, launched a private-sector venture using AI to pursue Big Tech antitrust cases.",
+   "why": "",
+   "topics": [
+    "Regulation",
+    "Funding"
+   ]
+  },
+  "s057e22ab69": {
+   "id": "s057e22ab69",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-09T15:05:57+00:00",
+   "description": "",
+   "related": [],
+   "summary": "Hugging Face released Nemotron-Personas-Finance-Japan, a synthetic dataset modeling Japan's demographics and financial context.",
+   "why": "Provides a synthetic dataset for building or testing finance-oriented Japanese AI applications, though the text gives few details.",
+   "topics": [
+    "Open source"
+   ]
+  },
+  "sbce465cdb5": {
+   "id": "sbce465cdb5",
+   "title": "Hold up — I had a great time talking to the RIAA guy",
+   "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T15:30:00+00:00",
+   "description": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […]",
+   "related": [],
+   "summary": "A podcast conversation with RIAA CEO Mitch Glazier covers the music industry's history with copyright and file sharing.",
+   "why": "",
+   "topics": [
+    "Regulation"
+   ]
+  },
+  "s86961a9937": {
+   "id": "s86961a9937",
+   "title": "Disney and Adobe are building generative AI tools together",
+   "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T15:38:56+00:00",
+   "description": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
+   "related": [],
+   "summary": "Disney and Adobe announced a multiyear partnership to build proprietary, artist-led generative AI models for Disney's production pipeline.",
+   "why": "Shows major studios building custom generative models on licensed creative tooling for production workflows.",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
+  },
+  "s67d134866a": {
+   "id": "s67d134866a",
+   "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T15:50:38+00:00",
+   "description": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+   "related": [],
+   "summary": "In a 60 Minutes interview, Trump said AI executives' safety risks are manageable and claimed the DOJ is managing them.",
+   "why": "Reflects the White House stance on AI safety risk, which may shape federal oversight priorities.",
+   "topics": [
+    "Regulation",
+    "Safety"
+   ]
+  },
+  "sdbd9680f73": {
+   "id": "sdbd9680f73",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T16:12:28+00:00",
+   "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+   "related": [],
+   "summary": "Medium launched TK, a writing app that brings AI assistance directly into the writing process amid publishing controversy.",
+   "why": "Shows AI writing assistance being built into mainstream authoring tools despite backlash.",
+   "topics": [
+    "Products"
+   ]
+  },
+  "sd75c80b545": {
+   "id": "sd75c80b545",
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T16:56:54+00:00",
+   "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+   "related": [],
+   "summary": "Anthropic bought $3.4 billion worth of natural gas turbines to power its AI infrastructure buildout.",
+   "why": "Highlights the growing energy and power constraints facing large-scale AI compute capacity.",
+   "topics": [
+    "Infrastructure"
+   ]
+  },
+  "s7f47f4f445": {
+   "id": "s7f47f4f445",
+   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-09T17:05:43+00:00",
+   "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+   "related": [],
+   "summary": "Scott Wiener, who authored California AI risk legislation, won a congressional race for Nancy Pelosi's seat and may shape federal AI policy.",
+   "why": "A legislator with a track record on advanced AI risk could influence federal rules affecting AI developers.",
+   "topics": [
+    "Regulation"
+   ]
+  },
+  "sa06869aa80": {
+   "id": "sa06869aa80",
+   "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T17:36:08+00:00",
+   "description": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny"
+    }
+   ],
+   "summary": "An opinion piece criticizes Nvidia CEO Jensen Huang's judgment around a national security incident and links it to the future of AI.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s99d632aaa4": {
+   "id": "s99d632aaa4",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T18:00:00+00:00",
+   "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+   "related": [],
+   "summary": "Meta released Muse Ember, a lightweight model for agent execution priced at 10 cents per million input tokens.",
+   "why": "Its low per-token price makes it a cost-focused option for running agent workloads compared with frontier models.",
+   "topics": [
+    "Models",
+    "Agents"
+   ]
+  },
+  "s9d5aee5d27": {
+   "id": "s9d5aee5d27",
+   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+   "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T18:07:23+00:00",
+   "description": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
+   "related": [],
+   "summary": "Instagram launched Effect Builder, which generates custom Stories filters from text prompts, available now to US users over 18.",
+   "why": "Shows consumer platforms embedding generative AI creation tools directly into product features.",
+   "topics": [
+    "Products",
+    "Models"
+   ]
+  },
+  "s9015c30696": {
+   "id": "s9015c30696",
+   "title": "Professional work deserves professional tools. Meet AWS Quick.",
+   "link": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-09T18:43:30+00:00",
+   "description": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on.",
+   "related": [],
+   "summary": "AWS introduced AWS Quick, formerly Amazon Quick, an AI workspace where teams use agents to research, analyze, and act across their data and apps.",
+   "why": "Signals AWS pushing agentic AI workspaces into everyday business tools, relevant to enterprise platform decisions.",
+   "topics": [
+    "Products",
+    "Agents",
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://www.anthropic.com/research/how-researchers-use-claude": "s3b78672d47",
-  "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future": "s93fc4c1ba0",
-  "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam": "s44766e97c4",
-  "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots": "s1f3694f5e3",
-  "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo": "sa394d9aad7",
-  "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders": "s35ab47bbc7",
-  "https://huggingface.co/blog/allenai/toyblocks": "sbe1ba71e55",
-  "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop": "s4a6109d505",
-  "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287": "sc63019ae78",
-  "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo": "s7c70b636a2",
-  "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": "s2b3eb4eb79",
-  "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai": "sc821c11af1",
-  "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast": "s22815b4f72",
-  "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls": "sbc2d0068f5",
-  "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore": "saa3a68bb9f",
-  "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore": "sc75bfb16cb",
-  "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity": "s91f8d419f4",
-  "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1": "s4a377ea256",
-  "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2": "s4a377ea256",
-  "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate": "s0f0cb95e5b",
-  "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years": "sef57b5d475",
-  "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick": "s01ae94b0da",
-  "https://www.perplexity.ai/en-gb/hub/blog/teammates-are-agents-for-complex-ongoing-work": "scfed3ade01",
-  "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry": "sfc8f30aee8",
-  "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints": "s1007c961b5",
-  "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06": "s614b221353",
-  "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces": "s52e0623fab",
-  "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent": "s016e849ea3",
-  "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web": "s29c568495a",
   "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": "sc0641eb0de",
   "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai": "s5072f0d6af",
   "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers": "s7ff4ba923e",
@@ -5888,6 +5690,26 @@
   "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration": "s60900222ed",
   "https://blogs.nvidia.com/blog/korea-secure-agentic-ai": "s51bc8200bf",
   "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem": "s38995d3fca",
-  "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50": "sb10abbc74a"
+  "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50": "sb10abbc74a",
+  "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget": "sda2e6822ca",
+  "https://blogs.nvidia.com/blog/korean-startup-investments-msit": "s6d49d73492",
+  "https://github.com/samir-sarwar/samir-vllm": "s5aa2811f45",
+  "https://huggingface.co/blog/amazon/higher-order-pruning-experts": "s7b1451fc78",
+  "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry": "s42e7d6fc34",
+  "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet": "sbd74b7cf0c",
+  "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": "s7cd5e10290",
+  "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech": "scc49c1ae68",
+  "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": "s057e22ab69",
+  "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music": "sbce465cdb5",
+  "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership": "s86961a9937",
+  "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai": "s67d134866a",
+  "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process": "sdbd9680f73",
+  "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines": "sd75c80b545",
+  "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai": "s7f47f4f445",
+  "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me": "sa06869aa80",
+  "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution": "s99d632aaa4",
+  "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters": "s9d5aee5d27",
+  "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny": "sa06869aa80",
+  "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick": "s9015c30696"
  }
 }

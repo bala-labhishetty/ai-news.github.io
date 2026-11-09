@@ -1,9 +1,169 @@
 {
- "updated": "2026-11-09T08:02:46.739161+00:00",
+ "updated": "2026-11-09T18:51:07.716653+00:00",
  "count": 300,
  "items": [
   {
-   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "title": "Professional work deserves professional tools. Meet AWS Quick.",
+   "link": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-09T18:43:30+00:00",
+   "description": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on."
+  },
+  {
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T18:09:52+00:00",
+   "description": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
+  },
+  {
+   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+   "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T18:07:23+00:00",
+   "description": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]"
+  },
+  {
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T18:00:00+00:00",
+   "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+  },
+  {
+   "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T17:36:08+00:00",
+   "description": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]"
+  },
+  {
+   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-09T17:05:43+00:00",
+   "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…"
+  },
+  {
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T16:56:54+00:00",
+   "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse."
+  },
+  {
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T16:12:28+00:00",
+   "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+  },
+  {
+   "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T15:50:38+00:00",
+   "description": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]"
+  },
+  {
+   "title": "Disney and Adobe are building generative AI tools together",
+   "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T15:38:56+00:00",
+   "description": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]"
+  },
+  {
+   "title": "Hold up — I had a great time talking to the RIAA guy",
+   "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T15:30:00+00:00",
+   "description": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […]"
+  },
+  {
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-09T15:05:57+00:00",
+   "description": ""
+  },
+  {
+   "title": "Jonathan Kanter is using AI to take on Big Tech",
+   "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T14:30:00+00:00",
+   "description": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]"
+  },
+  {
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-09T14:00:01+00:00",
+   "description": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]"
+  },
+  {
+   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+   "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T14:00:00+00:00",
+   "description": "Automattic aims to compete with the likes of Lovable with Spacefast."
+  },
+  {
+   "title": "Innovating with AI in the special chemicals industry",
+   "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-09T13:00:00+00:00",
+   "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…"
+  },
+  {
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-09T12:34:29+00:00",
+   "description": ""
+  },
+  {
+   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+   "link": "https://github.com/samir-sarwar/samir-vllm",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-09T11:36:55+00:00",
+   "description": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 68 # Comments: 11"
+  },
+  {
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-09T08:00:53+00:00",
+   "description": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]"
+  },
+  {
+   "title": "Apple capped engineers at a $200 daily AI budget",
+   "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-09T05:30:11+00:00",
+   "description": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 107 # Comments: 112"
+  },
+  {
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
    "source": "TechCrunch",
    "category": "Industry",
@@ -2241,166 +2401,6 @@
    "category": "Research",
    "published": "2026-11-09T05:00:00+00:00",
    "description": "arXiv:2505.01353v3 Announce Type: replace-cross Abstract: The efficient computation of parametric solution sensitivities is a key challenge in the integration of learning-enhanced methods with nonlinear model predictive control, as their availability is crucial for many learning algorithms. This paper discusses the computation of solution sensitivities of general nonlinear programs using the implicit function theorem and smoothed optimality conditions treated in interior-point methods (IPM). We introduce sequential barrier quadratic programming (SBQP), which generalizes SQP with an IPM quadratic programming (QP) solver by allowing the barrier parameter to approach a prescribed nonnegative target value, recovering classical SQP when this target is zero. Previous works are limited to convex "
-  },
-  {
-   "title": "Equivariant Spherical Transformer for Efficient Molecular Modeling",
-   "link": "https://arxiv.org/abs/2505.23086",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2505.23086v4 Announce Type: replace-cross Abstract: Equivariant Graph Neural Networks (GNNs) have significantly advanced the modeling of 3D molecular structure by leveraging group representations. However, message passing built only from exactly equivariant operations can have restricted practical expressiveness at a fixed representation degree. We introduce the Equivariant Spherical Transformer (EST), a plug-and-play module that applies Transformer attention to spherical spatial representations obtained from group representations. EST explicitly mixes information across sampled orientations, unlike prior orientation-wise spherical operations, while retaining a strong approximate equivariant inductive bias through near-uniform spherical sampling. As demonstrated by our experiments on"
-  },
-  {
-   "title": "From Images to Signals: Are Large Vision Models Useful for Time Series Analysis?",
-   "link": "https://arxiv.org/abs/2505.24030",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2505.24030v3 Announce Type: replace-cross Abstract: Transformer-based models have gained increasing attention in time series research, driving interest in Large Language Models (LLMs) and foundation models for time series analysis. As the field moves toward multi-modality, Large Vision Models (LVMs) are emerging as a promising direction. In the past, the effectiveness of Transformer and LLMs in time series has been debated. When it comes to LVMs, a similar question arises: are LVMs truely useful for time series analysis? To address it, we design and conduct the first principled study involving 4 LVMs, 8 imaging methods, 18 datasets and 26 baselines across both high-level (classification) and low-level (forecasting) tasks, with extensive ablation analysis. Our findings indicate LVMs a"
-  },
-  {
-   "title": "BNPO: Beta Normalization Policy Optimization",
-   "link": "https://arxiv.org/abs/2506.02864",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2506.02864v2 Announce Type: replace-cross Abstract: Reinforcement learning with rule-based, binary-valued reward functions has been shown to significantly enhance the reasoning capabilities of large language models. These models typically rely on REINFORCE-based policy optimization methods, such as REINFORCE with baseline and group relative policy optimization (GRPO). However, a key limitation is that existing methods either ignore reward normalization or use static normalization schemes, which fail to adapt to the evolving policy during training. This mismatch can lead to unstable gradient estimates and hinder training stability. To address this issue, we propose Beta Normalization Policy Optimization (BNPO), a novel method that adaptively normalizes rewards using a Beta distributio"
-  },
-  {
-   "title": "Subjective Experience in AI Systems: What Do AI Researchers and the Public Believe?",
-   "link": "https://arxiv.org/abs/2506.11945",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2506.11945v2 Announce Type: replace-cross Abstract: Whether AI systems are perceived to have subjective experience has scientific, ethical, and governance implications. Yet little is known about how AI researchers and the public view this possibility. We surveyed 582 AI researchers who published in leading AI venues and 825 nationally representative US adults about the likelihood, identification, and governance of AI systems with subjective experience. We find that both AI researchers and the public think it is unlikely that AI systems have subjective experience now, but believe it is more likely than not they will by century's end. Both groups believe multidisciplinary expertise will be important in identifying AI subjective experience, support developers implementing safeguards now"
-  },
-  {
-   "title": "AblationBench: Evaluating Automated Planning of Ablations in Empirical AI Research",
-   "link": "https://arxiv.org/abs/2507.08038",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2507.08038v4 Announce Type: replace-cross Abstract: Language model agents are increasingly used to automate scientific research, yet evaluating their scientific contributions remains a challenge. A key mechanism to obtain such insights is through ablation experiments. To this end, we introduce AblationBench, a benchmark suite for evaluating agents on ablation planning tasks in empirical AI research. It includes two tasks: AuthorAblation, which helps authors propose ablation experiments based on a method section and contains 83 instances, and ReviewerAblation, which helps reviewers find missing ablations in a full paper and contains 350 instances. For both tasks, we develop LM-based judges that serve as an automatic evaluation framework. Our experiments with frontier LMs show that the"
-  },
-  {
-   "title": "End-to-End On-Device Quantization-Aware Training for LLMs at Inference Cost",
-   "link": "https://arxiv.org/abs/2509.00031",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2509.00031v3 Announce Type: replace-cross Abstract: Quantization reduces the deployment cost of large language models (LLMs). However, post-training quantization (PTQ) cannot fine-tune model parameters and often degrades accuracy in low-bit settings, while quantization-aware training (QAT) requires backpropagation and incurs high memory overhead. We propose ZeroQAT, a zeroth-order QAT framework supporting both weight and activation quantization. By using forward-only gradient estimation, ZeroQAT removes backpropagation and substantially reduces memory and computation while retaining end-to-end optimization benefits. We further introduce a lightweight variant of ZeroQAT for quantized fine-tuning, which freezes and pre-quantizes most parameters to further cut memory usage. Experiments "
-  },
-  {
-   "title": "Align Your Query: Representation Alignment for Multimodality Medical Object Detection",
-   "link": "https://arxiv.org/abs/2510.02789",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2510.02789v3 Announce Type: replace-cross Abstract: Medical object detection suffers when a single detector is trained on mixed medical modalities (e.g., CXR, CT, MRI) due to heterogeneous statistics and disjoint representation spaces. To address this challenge, we turn to representation alignment, an approach that has proven effective for bringing features from different sources into a shared space. Specifically, we target the representations of DETR-style object queries and propose a simple, detector-agnostic framework to align them with modality context. First, we define modality tokens: compact, text-derived embeddings encoding imaging modality that are lightweight and require no extra annotations. We integrate the modality tokens into the detection process via Multimodality Cont"
-  },
-  {
-   "title": "Enhancing Neural Code Representation with Additional Context",
-   "link": "https://arxiv.org/abs/2510.12082",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2510.12082v2 Announce Type: replace-cross Abstract: Automated program comprehension underpins many software engineering tasks, from code summarisation to clone detection. While recent deep learning models have achieved strong results, they typically rely on source code alone, overlooking contextual signals such as version history or structural relationships. We conduct an empirical study of how enriching code representations with such signals affects model performance on four tasks: code clone detection, code classification, code summarisation, and vulnerability detection, using three datasets (SeSaMe, CodeSearchNet-Java, Vul4J). We evaluate five foundational code models (CodeBERT, GraphCodeBERT, CodeT5, PLBART, ASTNN) and seven code-specialised LLMs (CodeLlama, Qwen2.5-Coder, DeepSe"
-  },
-  {
-   "title": "ReefNet: A Large-Scale Dataset and Benchmark for Fine-Grained Coral Reef Recognition",
-   "link": "https://arxiv.org/abs/2510.16822",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2510.16822v4 Announce Type: replace-cross Abstract: Coral reef monitoring requires scalable recognition of visually similar taxa across heterogeneous underwater surveys. We introduce ReefNet, a public dataset that aligns approximately 925K hard-coral point annotations from 76 CoralNet sources and an independently collected Al-Wajh dataset with the World Register of Marine Species taxonomy. A stratified expert audit of 8,962 patches guides filtering to a 479,027-annotation benchmark with 39 labels: 38 genera and the family Fungiidae. Expert agreement is 92% on the retained audit subset, rather than an exhaustive accuracy estimate. We evaluate pretrained models through zero-shot recognition, few-shot adaptation, and full fine-tuning, each on within-source ReefNet and held-out-source Al"
-  },
-  {
-   "title": "AURA: A Reinforcement Learning Framework for AI-Driven Adaptive Conversational Surveys",
-   "link": "https://arxiv.org/abs/2510.27126",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2510.27126v3 Announce Type: replace-cross Abstract: Conventional online surveys provide limited personalization, often resulting in low engagement and superficial responses. Although AI survey chatbots improve convenience, most are still reactive: they rely on fixed dialogue trees or static prompt templates and therefore cannot adapt within a session to fit individual users, which leads to generic follow-ups and weak response quality. We address these limitations with AURA (Adaptive Understanding through Reinforcement Learning for Assessment), a reinforcement learning framework for AI-driven adaptive conversational surveys. AURA quantifies response quality using a four-dimensional LSDE metric (Length, Self-disclosure, Emotion, and Specificity) and selects follow-up question types via"
-  },
-  {
-   "title": "Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model",
-   "link": "https://arxiv.org/abs/2511.20798",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2511.20798v3 Announce Type: replace-cross Abstract: Foundation models trained on text and images have been shown to develop abstract internal features that align with human concepts and that can be directly manipulated via activation steering to alter model behaviour. Whether scientific foundation models learn similarly abstract and domain-general representations has remained an open question. Inspired by recent work identifying single directions in activation space that control complex behaviours in large language models, we show that Walrus, a large physics foundation model, learns linearly steerable representations of physical phenomena. By computing the difference between activations representing contrasting physical regimes, we identify single directions in activation space that"
-  },
-  {
-   "title": "Predicting Public Health Impacts of Electricity Usage",
-   "link": "https://arxiv.org/abs/2511.22031",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2511.22031v2 Announce Type: replace-cross Abstract: The electric power sector is a leading source of air pollutant emissions, impacting the public health of nearly every community. Although regulatory measures have reduced air pollutants, fossil fuels remain a significant component of the energy supply, highlighting the need for more advanced demand-side approaches to reduce the public health impacts. To enable health-informed demand-side management, we introduce HealthPredictor, a domain-specific AI model that provides an end-to-end pipeline linking electricity use to public health outcomes. The model comprises three components: a fuel mix predictor that estimates the contribution of different generation sources, an air quality converter that models pollutant emissions and atmospher"
-  },
-  {
-   "title": "Limitations of Using Identical Distributions for Training and Testing When Learning Boolean Functions",
-   "link": "https://arxiv.org/abs/2512.00791",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2512.00791v3 Announce Type: replace-cross Abstract: When the distributions of the training and test data do not coincide, the problem of understanding generalization becomes considerably more complex, prompting a variety of questions. Prior work has shown that, for some fixed learning methods, there are scenarios where training on a distribution different from the test distribution improves generalization. However, these results do not account for the possibility of choosing, for each training distribution, the optimal learning algorithm, leaving open whether the observed benefits stem from the mismatch itself or from suboptimality of the learner. In this work, we address this question. That is, we study whether it is always optimal for the training distribution to be identical to th"
-  },
-  {
-   "title": "Evolutionary Architecture Search through Grammar-Based Sequence Alignment",
-   "link": "https://arxiv.org/abs/2512.04992",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2512.04992v2 Announce Type: replace-cross Abstract: Neural architecture search (NAS) in expressive search spaces is a computationally hard problem, but it also holds the potential to automatically discover completely novel and performant architectures. To achieve this we need effective search algorithms that can identify powerful components and reuse them in new candidate architectures. In this paper, we introduce two adapted variants of the Smith-Waterman algorithm for local sequence alignment and use them to compute the edit distance in a grammar-based evolutionary architecture search. These algorithms enable us to efficiently calculate a distance metric for neural architectures and to generate a set of hybrid offspring from two parent models. This facilitates the deployment of cro"
-  },
-  {
-   "title": "Outgrowing the Curse of Multilinguality: Scaling Strategies for Efficient Language Adaptation",
-   "link": "https://arxiv.org/abs/2512.10772",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2512.10772v2 Announce Type: replace-cross Abstract: Training high-performing language models which include medium- and lower-resource languages remains a challenge. Massively multilingual models still underperform language-specific adaptations, especially at smaller scales, due to the curse of multilinguality. In this work, we investigate scaling as an efficient strategy for adapting pretrained models to new target languages. Through comprehensive ablations matched for data and training FLOPs, we test whether upscaling from English base models enables more effective and resource-efficient adaptation than standard continued pretraining. We find that upscaling is an efficient strategy for improving target-language performance by relieving capacity constraints, especially for higher-res"
-  },
-  {
-   "title": "MCGI: Manifold-Consistent Graph Indexing for Billion-Scale Disk-Resident Vector Search",
-   "link": "https://arxiv.org/abs/2601.01930",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2601.01930v4 Announce Type: replace-cross Abstract: Graph-based Approximate Nearest Neighbor (ANN) search often suffers from performance degradation in high-dimensional spaces due to the Euclidean-Geodesic mismatch, where greedy routing diverges from the underlying data manifold. To address this challenge, this paper presents Manifold-Consistent Graph Indexing (MCGI), a geometry-aware and disk-resident indexing method that leverages Local Intrinsic Dimensionality (LID) to allocate the search effort of a graph index according to the intrinsic geometry of data. Specifically, MCGI estimates the LID around each query from the distances that its own search has already computed and resizes the candidate list of the query once, so that queries in high-LID regions receive longer lists while "
-  },
-  {
-   "title": "Remote Sensing Change Detection via Weak Temporal Supervision",
-   "link": "https://arxiv.org/abs/2601.02126",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2601.02126v2 Announce Type: replace-cross Abstract: Semantic change detection in remote sensing aims to identify land cover changes between bi-temporal image pairs. Progress in this area has been limited by the scarcity of annotated datasets, as pixel-level annotation is costly and time-consuming. To address this, recent methods leverage synthetic data or generate artificial change pairs, but transferring change detection models across datasets and acquisition conditions remains challenging. In this work, we introduce a weak temporal supervision strategy that leverages additional temporal observations of existing single-temporal datasets, without requiring any new annotations. Specifically, we extend single-date remote sensing datasets with new observations acquired at different time"
-  },
-  {
-   "title": "Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data",
-   "link": "https://arxiv.org/abs/2601.15158",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2601.15158v5 Announce Type: replace-cross Abstract: Transformers trained via Reinforcement Learning (RL) with outcome-based supervision can spontaneously develop the ability to generate intermediate reasoning steps (Chain-of-Thought). Yet the mechanism by which sparse rewards drive policy gradient to discover such systematic reasoning remains poorly understood. We address this by analyzing the policy gradient dynamics of single-layer linear Transformers on a synthetic graph traversal task that cannot be solved without Chain-of-Thought but admits a simple iterative solution. We prove that despite training solely on final-answer correctness, policy gradient drives the Transformer to converge to a structured, interpretable algorithm that iteratively traverses the graph vertex-by-vertex."
-  },
-  {
-   "title": "Fast Statistical Rates for Flow Matching without Curvature Assumptions",
-   "link": "https://arxiv.org/abs/2601.20250",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2601.20250v3 Announce Type: replace-cross Abstract: Flow-based generative models have emerged as an efficient alternative to diffusion models. We study the sample complexity of learning a target distribution in Wasserstein distance via flow matching, which learns a velocity field transporting a base distribution to the target. Under exact empirical risk minimization over a fixed network class and standard assumptions on the architecture and data distribution, we show that any squared-loss flow-matching variant including rectified flow with bounded derivatives achieves $\\widetilde{O}(\\varepsilon^{-2})$ sample complexity for the statistical term with the Wasserstein guarantee taking the form $W_2 \\le K(\\varepsilon + C\\varepsilon_{app})$, where $\\varepsilon_{app}$ is the approximation e"
-  },
-  {
-   "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
-   "link": "https://arxiv.org/abs/2602.02474",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2602.02474v3 Announce Type: replace-cross Abstract: Most Large Language Model (LLM) agent memory systems rely on a small set of static, hand-designed operations for extracting memory. These fixed procedures hard-code human priors about what to store and how to revise memory, making them rigid under diverse interaction patterns and inefficient on long histories. To this end, we present \\textbf{MemSkill}, which reframes these operations as learnable and evolvable memory skills, structured and reusable routines for extracting, consolidating, and pruning information from interaction traces. Inspired by the design philosophy of agent skills, MemSkill employs a \\emph{controller} that learns to select a small set of relevant skills, paired with an LLM-based \\emph{executor} that produces ski"
   }
  ]
 }

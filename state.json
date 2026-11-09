@@ -1,88 +1,5 @@
 {
  "stories": {
-  "s1eac7fe42e": {
-   "id": "s1eac7fe42e",
-   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-05T22:40:55+00:00",
-   "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-   "related": [],
-   "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s8424b8cbc8": {
-   "id": "s8424b8cbc8",
-   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-   "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-05T23:09:36+00:00",
-   "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
-   "related": [],
-   "summary": "Certain configurations of Alpine are affected.",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s6f78e24cdb": {
-   "id": "s6f78e24cdb",
-   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-   "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-05T23:09:57+00:00",
-   "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 224",
-   "related": [],
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 224",
-   "why": "",
-   "topics": [
-    "Products"
-   ],
-   "summary_by": "heuristic"
-  },
-  "scfd4354afa": {
-   "id": "scfd4354afa",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-06T00:00:00+00:00",
-   "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-   "related": [],
-   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Research"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s82196d4ece": {
-   "id": "s82196d4ece",
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-06T00:00:00+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Egyptian and Nigerian English datasets were added to Hugging Face's Open ASR Leaderboard for speech recognition evaluation.",
-   "why": "",
-   "topics": [
-    "Research",
-    "Open source"
-   ],
-   "summary_by": "heuristic"
-  },
   "sfaf1f8f27b": {
    "id": "sfaf1f8f27b",
    "title": "Closed AI models dominate the price-performance frontier",
@@ -951,14 +868,24 @@
     "Enterprise",
     "Regulation"
    ]
+  },
+  "s67abd93f19": {
+   "id": "s67abd93f19",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-08T22:54:50+00:00",
+   "description": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+   "related": [],
+   "summary": "Nvidia's board launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive described as an agent of the Chinese government, and Huang sent employees a memo acknowledging the affair.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027": "s1eac7fe42e",
-  "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password": "s8424b8cbc8",
-  "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html": "s6f78e24cdb",
-  "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": "scfd4354afa",
-  "https://huggingface.co/blog/open-asr-leaderboard-liva": "s82196d4ece",
   "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier": "sfaf1f8f27b",
   "https://www.lesswrong.com/posts/dalnikbjmgmf8grme/arjun-panickssery-s-shortform": "s5d4c93fbae",
   "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m": "s904574e3ce",
@@ -1013,6 +940,7 @@
   "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic": "s53044e44b3",
   "https://sergeykuhne.com/blog/fighting-ai-brain-fry": "s45fb196cb1",
   "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy": "secd65815b5",
-  "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy": "secd65815b5"
+  "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy": "secd65815b5",
+  "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia": "s67abd93f19"
  }
 }

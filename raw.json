@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-08T21:13:27.441185+00:00",
+ "updated": "2026-11-09T00:58:04.469494+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-08T22:54:50+00:00",
+   "description": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]"
+  },
   {
    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
@@ -24,7 +32,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-08T19:37:42+00:00",
-   "description": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 58 # Comments: 41"
+   "description": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 141 # Comments: 123"
   },
   {
    "title": "Apple is racing to make Siri more agentic",
@@ -40,7 +48,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-08T18:43:07+00:00",
-   "description": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 65 # Comments: 67"
+   "description": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 89 # Comments: 107"
   },
   {
    "title": "Elvis and Eminem rights holders are suing Suno",
@@ -112,7 +120,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-07T02:20:06+00:00",
-   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 98 # Comments: 82"
+   "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 98 # Comments: 83"
   },
   {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -160,15 +168,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-06T20:27:23+00:00",
-   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 372 # Comments: 350"
-  },
-  {
-   "title": "All the latest updates on AI data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-06T20:02:22+00:00",
-   "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]"
+   "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 373 # Comments: 354"
   },
   {
    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",

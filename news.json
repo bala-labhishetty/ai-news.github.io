@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-08T21:13:33.392638+00:00",
+ "updated": "2026-11-09T00:58:08.369358+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s67abd93f19",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge",
+   "published": "2026-11-08T22:54:50+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Nvidia's board launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive described as an agent of the Chinese government, and Huang sent employees a memo acknowledging the affair.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
   {
    "id": "secd65815b5",
    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
@@ -93,7 +107,7 @@
    "summary": "TechCrunch's Equity podcast discussed what the midterm elections mean for Elon Musk and the tech industry, including data centers.",
    "why": "The description gives too little detail on specific policy or market effects to say more.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sef7df344eb",
@@ -770,79 +784,6 @@
     "Models"
    ],
    "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 73",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "scfd4354afa",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "source": "OpenAI",
-   "published": "2026-11-06T00:00:00+00:00",
-   "topics": [
-    "Agents",
-    "Research"
-   ],
-   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s82196d4ece",
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "source": "Hugging Face",
-   "published": "2026-11-06T00:00:00+00:00",
-   "topics": [
-    "Research",
-    "Open source"
-   ],
-   "summary": "Egyptian and Nigerian English datasets were added to Hugging Face's Open ASR Leaderboard for speech recognition evaluation.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s6f78e24cdb",
-   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-   "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-   "source": "Hacker News",
-   "published": "2026-11-05T23:09:57+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 224",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s8424b8cbc8",
-   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-   "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-   "source": "Ars Technica",
-   "published": "2026-11-05T23:09:36+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Certain configurations of Alpine are affected.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s1eac7fe42e",
-   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-   "source": "TechCrunch",
-   "published": "2026-11-05T22:40:55+00:00",
-   "topics": [
-    "Agents",
-    "Products"
-   ],
-   "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
    "why": "",
    "related": [],
    "top": false

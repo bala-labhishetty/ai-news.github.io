@@ -1,7 +1,183 @@
 {
- "updated": "2026-11-09T18:51:07.716653+00:00",
+ "updated": "2026-11-10T02:11:01.770449+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T01:27:12+00:00",
+   "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+  },
+  {
+   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T00:28:49+00:00",
+   "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]"
+  },
+  {
+   "title": "How skills and agents work in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-10T00:21:34+00:00",
+   "description": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them."
+  },
+  {
+   "title": "What could China get from Jensen Huang?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T23:51:58+00:00",
+   "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]"
+  },
+  {
+   "title": "Here’s what Trump said he knew about Jensen Huang",
+   "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T23:47:46+00:00",
+   "description": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]"
+  },
+  {
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T23:28:37+00:00",
+   "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+  },
+  {
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T23:07:59+00:00",
+   "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]"
+  },
+  {
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T22:46:09+00:00",
+   "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+  },
+  {
+   "title": "The race is on to sue Nvidia",
+   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T22:23:42+00:00",
+   "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+  },
+  {
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-09T22:19:12+00:00",
+   "description": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 110 # Comments: 131"
+  },
+  {
+   "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+   "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-09T20:13:18+00:00",
+   "description": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant."
+  },
+  {
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T20:09:06+00:00",
+   "description": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+  },
+  {
+   "title": "Introducing Claude Fable 5.2 on AWS",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-09T20:04:37+00:00",
+   "description": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock."
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-09T20:01:20+00:00",
+   "description": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads."
+  },
+  {
+   "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+   "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-09T19:41:34+00:00",
+   "description": "\"*sshole\" poses a serious threat to Internet security."
+  },
+  {
+   "title": "The backlash about data centers might really just be about electricity",
+   "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-09T19:35:33+00:00",
+   "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…"
+  },
+  {
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-09T19:24:51+00:00",
+   "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+  },
+  {
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T19:09:58+00:00",
+   "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]"
+  },
+  {
+   "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-09T19:05:54+00:00",
+   "description": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer without redesigning the rest of the stack."
+  },
+  {
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-09T19:00:00+00:00",
+   "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+  },
+  {
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-09T19:00:00+00:00",
+   "description": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]"
+  },
+  {
+   "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-09T18:55:43+00:00",
+   "description": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses."
+  },
   {
    "title": "Professional work deserves professional tools. Meet AWS Quick.",
    "link": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
@@ -25,6 +201,14 @@
    "category": "Industry",
    "published": "2026-11-09T18:07:23+00:00",
    "description": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]"
+  },
+  {
+   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+   "link": "https://github.com/Dodaios/ste80-humanizer",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-09T18:05:44+00:00",
+   "description": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 58 # Comments: 16"
   },
   {
    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
@@ -56,7 +240,7 @@
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-09T16:56:54+00:00",
-   "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse."
+   "description": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
   },
   {
    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
@@ -83,28 +267,12 @@
    "description": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]"
   },
   {
-   "title": "Hold up — I had a great time talking to the RIAA guy",
-   "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T15:30:00+00:00",
-   "description": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […]"
-  },
-  {
    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
    "source": "Hugging Face",
    "category": "Open Source",
    "published": "2026-11-09T15:05:57+00:00",
    "description": ""
-  },
-  {
-   "title": "Jonathan Kanter is using AI to take on Big Tech",
-   "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T14:30:00+00:00",
-   "description": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]"
   },
   {
    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
@@ -121,6 +289,14 @@
    "category": "Industry",
    "published": "2026-11-09T14:00:00+00:00",
    "description": "Automattic aims to compete with the likes of Lovable with Spacefast."
+  },
+  {
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "link": "https://openai.com/index/control-room",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-09T13:00:00+00:00",
+   "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
   },
   {
    "title": "Innovating with AI in the special chemicals industry",
@@ -144,7 +320,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-09T11:36:55+00:00",
-   "description": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 68 # Comments: 11"
+   "description": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 75 # Comments: 12"
   },
   {
    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
@@ -152,7 +328,23 @@
    "source": "NVIDIA",
    "category": "AI Labs",
    "published": "2026-11-09T08:00:53+00:00",
-   "description": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]"
+   "description": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]"
+  },
+  {
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "link": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-09T08:00:00+00:00",
+   "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+  },
+  {
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "link": "https://openai.com/index/kuken",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-09T08:00:00+00:00",
+   "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
   },
   {
    "title": "Apple capped engineers at a $200 daily AI budget",
@@ -160,7 +352,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-09T05:30:11+00:00",
-   "description": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 107 # Comments: 112"
+   "description": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 112 # Comments: 120"
   },
   {
    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
@@ -2209,198 +2401,6 @@
    "category": "Research",
    "published": "2026-11-09T05:00:00+00:00",
    "description": "arXiv:2609.08572v3 Announce Type: replace Abstract: Large language model (LLM)-based multi-agent systems (MAS) achieve strong performance by employing specialized multiple agents, yet their performance depends on the prompt design of each agent. For MAS prompt optimization, textual gradient methods that guide prompt updates using natural-language feedback have emerged as a leading paradigm. In this paper, we identify limitations in two stages of existing textual gradient approaches: gradient extraction and gradient aggregation. In gradient extraction, previous works select a prompt to update without verifying whether modifying it resolves the failure, and derive gradients without agent-level supervision over the corresponding agent's intermediate output. In gradient aggregation, individual"
-  },
-  {
-   "title": "LLMs as Post-hoc Auditors of Physiological Plausibility in Symbolic Regression: A Clinician-Evaluated Case Study",
-   "link": "https://arxiv.org/abs/2609.11431",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2609.11431v2 Announce Type: replace Abstract: Genetic programming and its variants, such as grammatical evolution, are widely used in symbolic regression to derive mathematical expressions from multivariate data. In addition to predictive accuracy, models are appreciated for their potential to provide interpretability, offering explicit equations that relate input variables to outcomes. However, achieving interpretability and plausibility remains challenging, as evolved models may be complex or scientifically inconsistent. In this study, we explore whether large language models (LLMs) can assist in improving the interpretability of symbolic regression models generated by evolutionary computation methods. Building on our previous work on estimating body fat percentage using grammar-ba"
-  },
-  {
-   "title": "MoMHa: Multi-Objective Optimization of LLM Harnesses over Accuracy, Safety, and Tokens",
-   "link": "https://arxiv.org/abs/2609.30967",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2609.30967v2 Announce Type: replace Abstract: Most work on improving large language models treats accuracy as the sole objective. We argue that the harness, the Python code surrounding the model that constructs prompts, routes calls, and parses outputs, is a first-class design surface whose quality is inherently multi-objective: an accurate harness that refuses no unsafe request, or that consumes an order of magnitude more tokens, is not a good harness. We present Meta-Harness, a system that casts harness design as search over three per-domain objectives (accuracy, behavioural safety, and token cost) solved by an agentic proposer (Claude Code) with full filesystem access to prior harness source, execution traces, and scoring artifacts. Our central finding is that a singlephase joint-"
-  },
-  {
-   "title": "Programs-of-Layers in LLMs through the Lens of Cortical Areas",
-   "link": "https://arxiv.org/abs/2609.31360",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2609.31360v2 Announce Type: replace Abstract: Inference in LLMs is conventionally a fixed-depth, fixed-order forward pass through every layer, regardless of how difficult the input is. The human brain does not work this way. Using the thalamus as a central hub, it routes information flexibly to all regions of the cortex according to demand. Li et al. (2026) recently showed, with program-of-layers (PoLar), that transformers can be given an analogous flexibility if their layers are treated as a library of functions rather than a fixed sequence. Performance improves over the standard forward pass when each input is dynamically routed through an adaptive sequence of skipped or repeated contiguous layer blocks. Reconstructing PoLar's diagnostic Monte Carlo Tree Search in more detail acros"
-  },
-  {
-   "title": "Structured Sparse Memory for Recurrent Reasoning",
-   "link": "https://arxiv.org/abs/2609.33270",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2609.33270v2 Announce Type: replace Abstract: Recurrent models trained from scratch have recently become competitive on ARC-style reasoning tasks, but the usual framing around small recurrent backbones overlooks two important parts of the system: task-conditioned memory and synthetic augmentation data. We study this regime through CHARM, a compact hybrid ARC model that combines recurrent reasoning with structured task memory, synthetic data, and inference-time aggregation. In existing approaches, task-conditioned memory supplies a large hidden source of capacity, reaching more than 30x the size of the recurrent backbone. We introduce a compositional sparse embedding (CoSE) for task conditioning that reduces learned task-memory parameters by over 90% while improving pass@2 in controll"
-  },
-  {
-   "title": "Code Owns the Simulation, Jev Owns the Evaluation",
-   "link": "https://arxiv.org/abs/2610.01834",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.01834v3 Announce Type: replace Abstract: Judgment models such as \\jev{} return, in a single call and without reasoning text, a probability for each described option. This makes them attractive as an agent's action-selection layer, but it is unclear which decisions they can be trusted with. We test \\jev{} on reflection tests, one-shot matrix games, the text game ALFWorld and robot control, and find a sharp boundary. \\jev{} succeeds when the right option can be judged from what the input describes, which we call \\emph{evaluation}. Specifically, it solves 99\\% of the counterintuitive Cognitive Reflection Test questions. However, it fails when the right option depends on \\emph{simulation} (i.e., predicting something not in the input), such as the opponent's action or the subgoal tha"
-  },
-  {
-   "title": "Continual Graph Memory and Community Infrastructure for AI-Assisted Mathematical Discovery",
-   "link": "https://arxiv.org/abs/2610.02945",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.02945v2 Announce Type: replace Abstract: Mathematical discovery requires preserving partial ideas and the evidence supporting their reuse. We present Ansatz, a research harness whose continual graph memory separates model-accepted claims and dependencies from curated exploration, and Ansatze, a community platform for inspecting, guiding and checking this work. On First Proof, Ansatz recorded nine local verifier closures in each of two ten-problem batches; a partial result in the Second Batch also counted as a pass under the study's criterion. These model-assessed outcomes include continued searches and differ from expert validation. Component studies and re-review expose disagreements and their dependency reach. Open-problem investigations produced candidate results, with five L"
-  },
-  {
-   "title": "HarnessNet: Feedback-driven Hierarchical Joint Harness Evolution for Multi-agent Systems",
-   "link": "https://arxiv.org/abs/2610.15221",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.15221v2 Announce Type: replace Abstract: AI agents can evolve by using environment feedback to revise their harnesses, the software managing model inputs, tool use, memory, and execution, while keeping foundation models frozen. Existing studies focus on single agents, leaving joint harness evolution in multi-agent systems (MAS) underexplored. A single global optimizer faces growing context and workload as the system scales, while access restrictions may prevent sharing agent internals or system-wide feedback. We propose HarnessNet, a framework for hierarchical harness evolution in MAS. Its basic unit, Agentron, comprises an evolvable forward harness, a foundation model, and a local optimizer that can observe and modify only that harness. Agentrons form a layered graph through wh"
-  },
-  {
-   "title": "AuthGateBench: Benchmarking LLMs as Authorization Gate",
-   "link": "https://arxiv.org/abs/2610.16426",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.16426v2 Announce Type: replace Abstract: Automated approval systems let coding agents execute high-risk actions with minimal human oversight by delegating the authorization decision to a classifier, typically a large language model (LLM). Such systems, adopted in tools like Claude Code and Codex, remain vulnerable to failure modes such as scope escalation, where the agent takes actions exceeding what the user authorized. Existing benchmarks focus mainly on malicious requests, evaluating refusal under an implicit policy. We introduce AuthGateBench, the first policy-guided benchmark for authorization gating under benign requests. We implement a novel pipeline where an LLM generates contrast pairs with identical action and trajectory but differing request, flipping the label betwee"
-  },
-  {
-   "title": "SteadyThought: Mitigating LLM Under-Thinking via Thought-Level Preference Optimization",
-   "link": "https://arxiv.org/abs/2610.25045",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.25045v2 Announce Type: replace Abstract: Flexible switching between reasoning trajectories (i.e., thought switching) has significantly enhanced the reasoning capabilities of Large Reasoning Models (LRMs). However, existing models often switch excessively yet fail to sustain promising reasoning thoughts, a phenomenon termed \"under-thinking\". While recent efforts suppress switching to mitigate this, such over-correction may discard valuable trajectories. To address this challenge, we propose Steady Thought (ST), a novel thought-level preference optimization framework. ST formalizes under-thinking as a preference issue at switching points, forcing single-path continuations from identified points to yield high-quality reasoning. Then, ST performs thought-level preference optimizatio"
-  },
-  {
-   "title": "CoRS: Fast Neural Flexible Job-Shop Scheduling via Composite Interval State Reuse",
-   "link": "https://arxiv.org/abs/2610.26239",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.26239v2 Announce Type: replace Abstract: Neural solvers for the Flexible Job-Shop Scheduling Problem (FJSP) typically refresh graph representations and update feasibility after every operation--machine decision. However, only feasibility must remain exact at every step, whereas graph encoding is substantially more expensive and can potentially be refreshed less frequently. We present CoRS, which decouples them: an interval-level graph representation is reused across multiple sequential decisions, while a stepwise feasibility state is updated after every action. This two-timescale design amortizes graph encoding without parallelizing action generation or relaxing scheduling constraints. CoRS further develops a feasibility-preserving composite-interval decoding scheme with dynamic"
-  },
-  {
-   "title": "REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge",
-   "link": "https://arxiv.org/abs/2610.26261",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.26261v5 Announce Type: replace Abstract: RNA molecules often function through multiple experimentally observed conformational states. A central challenge is to capture ensemble diversity without sacrificing structural fidelity: samples may collapse toward averaged representative structures or drift into unsupported conformational regions. We introduce REFLEX (RNA Ensemble generation calibrated by FLEXibility), a sequence-conditioned generator for RNA backbone-frame ensembles based on a heteroscedastic stochastic bridge on SE(3). During training, experimental B-factors calibrate residue-wise bridge widths, exposing each observed conformer through local perturbation neighborhoods with residue-specific scales while keeping constrained regions sharper. A learned flexibility conditio"
-  },
-  {
-   "title": "HarnessMM: Recursive Self-Improvement for Harness Token Efficiency",
-   "link": "https://arxiv.org/abs/2610.32813",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.32813v2 Announce Type: replace Abstract: HarnessMinusMinus (HarnessMM) is a research project on improving the efficiency of agent harnesses, the software coordinating model reasoning, tool execution, and feedback. This technical report consolidates its shared framework, implementations, and empirical studies across coding, tool-based, and visual-agent settings. Agent harnesses often invoke reasoning after each tool result, even when earlier calls have already determined subsequent actions. HarnessMM addresses this overhead through guarded decision reuse and recursive self-improvement (RSI). RSI refines author prompts, context settings, and adapter rules using training feedback, with validation selecting deployment configurations. At inference time, a controller reuses resolved d"
-  },
-  {
-   "title": "DecoyCount: Evaluating Visual-Reasoning Misalignment in Counting",
-   "link": "https://arxiv.org/abs/2610.34855",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.34855v2 Announce Type: replace Abstract: Visual counting benchmarks report whether vision-language models produce the correct number, but not whether errors arise from perception or reasoning. We introduce DecoyCount, a benchmark built from 1,586 real-world images with designed decoys across seven mechanisms, along with paired prompts: a neutral question, a matched alignment cue, and a novel multi-hop, multi-image question that situates the same counting problem in a realistic scenario. Using this design, we find that counting failures are induced partly by visual misalignment: models can execute the intended counting process when cue-guided but fail to select it unaided, and we term this difference in accuracy the reasoning-alignment gap. Despite being highly capable on general"
-  },
-  {
-   "title": "Radial Kernel Attention for Global Feature Exchange in Polymer Machine Learning Force Fields",
-   "link": "https://arxiv.org/abs/2610.41675",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2610.41675v3 Announce Type: replace Abstract: We introduce Radial Kernel Attention (RKA) for long-range modeling in polymer machine learning force fields. Existing approaches often rely on local neighbor graphs, which limit communication across polymer chains and their surrounding environments, whereas explicit all-pair attention incurs quadratic computational cost. RKA maps interatomic distances from the cluster centroid to learned radial features and combines their kernelized overlap with content-dependent queries and keys. Factorized aggregation and readout enable global feature exchange at linear complexity in the number of atoms for fixed feature dimensions. To ensure physically consistent predictions, we insert the invariant scalar update between EquiformerV3 local blocks and o"
-  },
-  {
-   "title": "A Discrete-Time Variational Objective for Degenerate Diffusion and Equivalence to Flow Matching",
-   "link": "https://arxiv.org/abs/2611.00800",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.00800v3 Announce Type: replace Abstract: Diffusion models and more recently Flow models have widespread application. In this work we consider degenerate Diffusion models in which the per-step generator is deterministic. We construct a modified variational framework and show a formal equivalence between Flow models and Degenerate Diffusion models. For our discrete-time variational objective we show that the optimal degenerate generator recovers the data distribution in the limit of an infinite number of generator steps. Our work therefore provides a unified perspective, showing that discrete-time implementations of flow matching and the discrete-time Degenerate Diffusion model can be considered within the same simple variational framework, removing the need for the continuous-tim"
-  },
-  {
-   "title": "Seeing What Matters, Verifying What Pays: Load-Adaptive Speculative Decoding for Vision-Language Models",
-   "link": "https://arxiv.org/abs/2611.01617",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.01617v2 Announce Type: replace Abstract: Speculative decoding accelerates vision-language model (VLM) inference without altering the output distribution, yet two factors limit its gains. Existing drafters either lack the image evidence required for visually grounded tokens or pay to condition on every visual token, although a short draft block typically depends on only a few image regions. Moreover, the value of verifying additional candidates varies with GPU load, so no fixed verification structure is efficient across serving conditions. We present Uni-LaSpec, a block-parallel speculative decoding framework that addresses both factors. To improve draft quality, Uni-LaSpec reuses the verifier's own attention: the query retained from the preceding verification ranks the cached, i"
-  },
-  {
-   "title": "LUCA: A Synthetic World for Experimental Reasoning",
-   "link": "https://arxiv.org/abs/2611.03100",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.03100v2 Announce Type: replace Abstract: An experimental agent can succeed for the wrong reasons. Evaluations, however, often focus on the outcome, not the experiments, evidence, and inferences that produced it. We introduce LUCA, a configurable synthetic world for evaluating this process under fully known ground truth. Agents learn unknown regulatory systems through budgeted experimentation, then predict unseen interventions, diagnose hidden faults, and attempt rescues. This setup allows us to evaluate experiment selection, prediction, diagnosis, and intervention separately. Across seven frontier LLMs and three baselines, these capabilities dissociate sharply. Agents frequently rescue malfunctioning systems while diagnosing the wrong fault; diagnosis varies 7x across models whi"
-  },
-  {
-   "title": "AceAction-5M: Hierarchical Goals for Generalist Action Learning Across 3D Game Worlds",
-   "link": "https://arxiv.org/abs/2611.04241",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.04241v2 Announce Type: replace Abstract: Video games provide a practical setting for collecting vision-language-action (VLA) data, whose acquisition in physical environments is costly. Existing datasets, however, remain limited by restricted game coverage, sparse language supervision, or temporal hierarchies that do not necessarily reflect changes in task objectives. We introduce AceAction, a dataset of human gameplay across multiple 3D games for learning skill composition and subgoal transitions. AceAction organizes demonstrations around complete tasks, linking overall instructions, ordered subgoals, and local skill instructions to temporally aligned visual observations and keyboard-and-mouse actions. To construct these annotations, we develop a vision-language model pipeline t"
-  },
-  {
-   "title": "Treating the Symptom, Missing the Cause: Anatomy of a Scientific Reasoning Failure",
-   "link": "https://arxiv.org/abs/2611.04473",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.04473v2 Announce Type: replace Abstract: Scientific agents can find interventions that work without understanding why they do. We study this failure mode in controlled synthetic regulatory systems, where agents must experimentally identify a hidden fault and rescue the resulting phenotype. Across seven LLMs, every model restores the healthy phenotypes more often than it identifies the fault. Claude Opus 4.6 and Sonnet 4.6 rescue every organism while diagnosing only 55% and 35% of them. This failure is not simply due to insufficient exploration or unavailable evidence. In most cases, the cause is experimentally identifiable, and agents encounter evidence that distinguishes competing causes in 91% of relevant sessions, and still frequently misdiagnose the system. Targeted probes r"
-  },
-  {
-   "title": "A Definition of Catastrophic Performance",
-   "link": "https://arxiv.org/abs/2611.06219",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.06219v2 Announce Type: replace Abstract: A central challenge in AI is specifying objectives that align with human preferences. While existing theoretical results elucidate how misspecification impacts performance, they typically do not distinguish between merely suboptimal and catastrophic outcomes. To enable rigorous analysis of catastrophic risk from AI misalignment, we introduce a formal definition of catastrophic performance. Our definition is based on two reference values. The first, baseline value, captures the value attained if no agent is deployed. The second, orthogonal value, captures the value of a trajectory that is unrelated to human preferences, in a sense we describe. Orthogonal value is typically far worse than baseline value. We interpret these reference values "
-  },
-  {
-   "title": "AdaFloor: Adaptive Floor Planning and Rank-Time Reuse for Long-Tail MoE RL Rollouts",
-   "link": "https://arxiv.org/abs/2611.06984",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.06984v2 Announce Type: replace Abstract: Synchronous MoE reinforcement-learning post-training suffers from response-length imbalance. Existing methods reduce request tails, yet completed ranks remain bound to Expert Parallelism (EP) collectives and expert ownership. In a representative 16-accelerator Qwen3-30B-A3B rollout, this dummy run traps 32.83% of rank-time. AdaFloor converts this EP-coupled capacity into bounded leases for auxiliary work to improve system resource efficiency through rank-time reuse. Historical prompt-tail prediction and a calibrated guard construct the KV-safe layout. AdaFloor then selects the floor-specific safe quorum schedule with the largest predicted release area. Its runtime shrinks the EP group and leases detached ranks until full-world restoration"
-  },
-  {
-   "title": "BabyTheorist: A Benchmark for Learning to Theorize the World from Observation Alone",
-   "link": "https://arxiv.org/abs/2611.08177",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2611.08177v2 Announce Type: replace Abstract: How would we know whether a machine truly understands the world? We argue that one key capability is observational theory learning: acquiring reusable theories from pure observations and applying them to new situations. Current visual reasoning benchmarks focus primarily on the latter, presenting each task as a few-shot puzzle grouped by a common rule. We introduce BabyTheorist, a benchmark for controlled training and evaluation of observational theory learning. BabyTheorist generates continual streams of before-after visual observations from hidden compositional programs; during training, learners see only the resulting transitions, with no program labels, task identities, or support sets. To support theory learning and evaluation, BabyT"
-  },
-  {
-   "title": "Stay on the Manifold: Hierarchical Bayesian Trajectory-Family Transfer for Sparse-Target Reconstruction and Sampling",
-   "link": "https://arxiv.org/abs/2310.07801",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2310.07801v2 Announce Type: replace-cross Abstract: Where should reconstructions and new samples lie when a few observations reveal only fragments of a trajectory? We propose hierarchical Bayesian trajectory principal-manifold sampling (HB-TPM), which learns a family of smooth curves from ordered source tasks and adapts it to sparse targets. For unordered vectors, alternating progression assignments and coefficient updates estimate trajectory structure between and beyond the observed shots under the learned source family. Observation-aware extensions connect the trajectory prior to photon arrivals and image-encoded cardiac cycles. Our analysis characterizes the coefficient directions supplied by the prior and bounds sampling error conditional on curve recovery. Across 30 held-out vec"
-  },
-  {
-   "title": "Differentiable Nonlinear Model Predictive Control",
-   "link": "https://arxiv.org/abs/2505.01353",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-09T05:00:00+00:00",
-   "description": "arXiv:2505.01353v3 Announce Type: replace-cross Abstract: The efficient computation of parametric solution sensitivities is a key challenge in the integration of learning-enhanced methods with nonlinear model predictive control, as their availability is crucial for many learning algorithms. This paper discusses the computation of solution sensitivities of general nonlinear programs using the implicit function theorem and smoothed optimality conditions treated in interior-point methods (IPM). We introduce sequential barrier quadratic programming (SBQP), which generalizes SQP with an IPM quadratic programming (QP) solver by allowing the barrier parameter to approach a prescribed nonnegative target value, recovering classical SQP when this target is zero. Previous works are limited to convex "
   }
  ]
 }

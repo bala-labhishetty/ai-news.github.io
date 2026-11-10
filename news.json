@@ -1,7 +1,323 @@
 {
- "updated": "2026-11-09T18:51:21.391410+00:00",
+ "updated": "2026-11-10T02:11:18.141295+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s6289435bdb",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T01:27:12+00:00",
+   "topics": [
+    "Funding",
+    "Enterprise"
+   ],
+   "summary": "Anthropic reportedly plans to move forward with its IPO and is expected to set a valuation range this week, per the Wall Street Journal.",
+   "why": "A public listing by a leading AI lab would signal market valuations and funding dynamics that affect vendor stability and pricing.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s8d28cfa555",
+   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+   "source": "The Verge",
+   "published": "2026-11-10T00:28:49+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Paramount Skydance CEO David Ellison said on an earnings call that AI could have a bigger impact on film production than CGI.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s831bd9db6c",
+   "title": "How skills and agents work in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-10T00:21:34+00:00",
+   "topics": [
+    "Agents",
+    "Developer tools"
+   ],
+   "summary": "AWS published a post explaining how agents, skills, and data fit together in AWS Quick, plus how teams can build, share, and use them.",
+   "why": "Engineers building internal automation on AWS get a reference for structuring reusable agent skills and custom agents.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s285987eab7",
+   "title": "What could China get from Jensen Huang?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+   "source": "The Verge",
+   "published": "2026-11-09T23:51:58+00:00",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ],
+   "summary": "The Verge asks what China could gain from Nvidia CEO Jensen Huang, noting Nvidia's chips underpin US AI and its wide investments.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sfd48ce2874",
+   "title": "Here’s what Trump said he knew about Jensen Huang",
+   "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+   "source": "The Verge",
+   "published": "2026-11-09T23:47:46+00:00",
+   "topics": [
+    "Regulation"
+   ],
+   "summary": "President Trump responded to questions at a White House briefing about his knowledge of Nvidia CEO Jensen Huang's alleged affair with a suspected Chinese spy.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s9b0466c1eb",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "source": "TechCrunch",
+   "published": "2026-11-09T23:28:37+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Jensen Huang reportedly hired a PR firm known for handling high-profile sex scandals about a year ago, shortly after a New York Times report.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s15c28179b2",
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "published": "2026-11-09T23:07:59+00:00",
+   "topics": [
+    "Enterprise",
+    "Regulation"
+   ],
+   "summary": "Nvidia CEO Jensen Huang acknowledged an affair with Megaspeed executive Alice Huang, prompting a company investigation and wider scrutiny.",
+   "why": "Leadership scandal and investigation at a core AI chip supplier could affect Nvidia's supply, governance, and partner confidence.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s432027aa08",
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "source": "TechCrunch",
+   "published": "2026-11-09T22:46:09+00:00",
+   "topics": [
+    "Enterprise",
+    "Regulation"
+   ],
+   "summary": "Short seller Culper Research reportedly questioned Jensen Huang's close relationship with a Chinese executive six months before the scandal surfaced.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s09274ed8ec",
+   "title": "The race is on to sue Nvidia",
+   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "source": "TechCrunch",
+   "published": "2026-11-09T22:23:42+00:00",
+   "topics": [
+    "Enterprise",
+    "Funding"
+   ],
+   "summary": "Nvidia's stock fell more than 4% after its board opened an investigation into Jensen Huang's ties to a suspected Chinese spy.",
+   "why": "Legal exposure from securities suits could affect Nvidia's costs and stability, which matters for teams depending on its hardware.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s7a2ece4aa1",
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "source": "Hacker News",
+   "published": "2026-11-09T22:19:12+00:00",
+   "topics": [
+    "Developer tools",
+    "Enterprise"
+   ],
+   "summary": "A Hacker News thread discusses a year after a 100% AI coding mandate, with commenters saying no one understands the resulting code.",
+   "why": "It highlights the risk of code ownership and comprehension when teams mandate AI-generated code at scale.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s0eb7f2999a",
+   "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+   "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-09T20:13:18+00:00",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ],
+   "summary": "AWS describes Amazon Bedrock Managed Knowledge Base support for single-shot RAG and retrieval-only requests alongside agentic retrieval, using a maxAgentIteration parameter.",
+   "why": "Engineers can tune retrieval effort per request, trading latency and cost against answer depth in RAG pipelines.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s3541a994b8",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "source": "TechCrunch",
+   "published": "2026-11-09T20:09:06+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Nvidia CEO Jensen Huang withdrew from the ElevenLabs Summit amid the controversy, after also pulling out of an earlier Anthropic event.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2e186972ef",
+   "title": "Introducing Claude Fable 5.2 on AWS",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-09T20:04:37+00:00",
+   "topics": [
+    "Models",
+    "Infrastructure"
+   ],
+   "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS.",
+   "why": "Engineers on AWS can now evaluate and build with these newer Claude models directly through Bedrock.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s51fd6bae6a",
+   "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-09T20:01:20+00:00",
+   "topics": [
+    "Models",
+    "Infrastructure"
+   ],
+   "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart in NVFP4 or BF16 variants.",
+   "why": "Teams can deploy a large open multimodal model for document intelligence and computer-use agents with minimal setup on SageMaker.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sf00e71ef88",
+   "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+   "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+   "source": "Ars Technica",
+   "published": "2026-11-09T19:41:34+00:00",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ],
+   "summary": "A vulnerability called *sshole that lets hackers SSH into Linux devices is under active exploitation.",
+   "why": "Actively exploited remote access flaws in Linux devices require immediate patching and exposure review by any team running them.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc4cbbe7643",
+   "title": "The backlash about data centers might really just be about electricity",
+   "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "source": "MIT Tech Review",
+   "published": "2026-11-09T19:35:33+00:00",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ],
+   "summary": "Reporting from Ashburn, Virginia, in Data Center Alley, argues that local backlash against data centers may be driven mainly by electricity concerns.",
+   "why": "Rising power demand from data centers may create grid and community pushback that affects where and when infrastructure can be built.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s4a7141713a",
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "The Verge",
+   "published": "2026-11-09T19:09:58+00:00",
+   "topics": [
+    "Products",
+    "Models"
+   ],
+   "summary": "Apple added a one-time $49.99 \"Buy More Usage\" option in Logic Pro for its AI assistant, following a September support article on Apple Intelligence usage limits.",
+   "why": "Shows usage-based paid tiers for built-in AI features, which may affect how teams budget for AI functionality in apps.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "scafe7e1bd3",
+   "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-09T19:05:54+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise",
+    "Infrastructure"
+   ],
+   "summary": "AWS published a seven-layer composable reference architecture for moving enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore.",
+   "why": "Gives teams a layered blueprint with stable contracts so individual technologies can be swapped without redesigning the whole stack.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s9c331579e2",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI",
+   "published": "2026-11-09T19:00:00+00:00",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ],
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, letting organizations buy it via existing AWS purchasing and billing.",
+   "why": "Simplifies procurement for enterprises already on AWS, streamlining approval and billing for ChatGPT Enterprise.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sf1eea0a278",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "source": "The Verge",
+   "published": "2026-11-09T19:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "summary": "Anthropic announced Claude Fable 5.2 and Claude Mythos 5.2, which it says improve coding, reasoning, and vision and generate outputs faster than the 5.1 versions.",
+   "why": "New model versions claiming coding and speed gains may matter for teams evaluating which Claude model to use.",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s033426cd1f",
+   "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-09T18:55:43+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "CrossnoKaye used Amazon Bedrock AgentCore to build ATLAS and AURA, which ground AI reasoning in live plant data and run verifiable Python in isolated sandboxes.",
+   "why": "Illustrates an approach to industrial AI that uses executable, checkable computation instead of unverified model answers.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "s9015c30696",
    "title": "Professional work deserves professional tools. Meet AWS Quick.",
@@ -16,7 +332,7 @@
    "summary": "AWS introduced AWS Quick, formerly Amazon Quick, an AI workspace where teams use agents to research, analyze, and act across their data and apps.",
    "why": "Signals AWS pushing agentic AI workspaces into everyday business tools, relevant to enterprise platform decisions.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s9d5aee5d27",
@@ -34,6 +350,20 @@
    "top": false
   },
   {
+   "id": "sa4e01cee6a",
+   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+   "link": "https://github.com/Dodaios/ste80-humanizer",
+   "source": "Hacker News",
+   "published": "2026-11-09T18:05:44+00:00",
+   "topics": [
+    "Developer tools"
+   ],
+   "summary": "A Show HN post presents STE80 Humanizer, a tool that de-AI-ifies text by writing about 80% of the way toward ASD-STE100.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "s99d632aaa4",
    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
@@ -46,7 +376,7 @@
    "summary": "Meta released Muse Ember, a lightweight model for agent execution priced at 10 cents per million input tokens.",
    "why": "Its low per-token price makes it a cost-focused option for running agent workloads compared with frontier models.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "sa06869aa80",
@@ -79,7 +409,7 @@
    "summary": "Scott Wiener, who authored California AI risk legislation, won a congressional race for Nancy Pelosi's seat and may shape federal AI policy.",
    "why": "A legislator with a track record on advanced AI risk could influence federal rules affecting AI developers.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sd75c80b545",
@@ -93,7 +423,7 @@
    "summary": "Anthropic bought $3.4 billion worth of natural gas turbines to power its AI infrastructure buildout.",
    "why": "Highlights the growing energy and power constraints facing large-scale AI compute capacity.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sdbd9680f73",
@@ -227,6 +557,21 @@
    "top": false
   },
   {
+   "id": "sf37b680abc",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "link": "https://openai.com/index/control-room",
+   "source": "OpenAI",
+   "published": "2026-11-09T13:00:00+00:00",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ],
+   "summary": "OpenAI described Control Room, a central system that tracks model workloads across its research infrastructure and can quickly stop them over safety or security concerns.",
+   "why": "Shows how a lab centralizes monitoring and rapid shutdown of training workloads, a pattern relevant to large-scale compute governance.",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "s7b1451fc78",
    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
@@ -267,6 +612,35 @@
    ],
    "summary": "NVIDIA announced planned investments in Korean startups, including Point2, at the MSIT-NVIDIA AI Startup Partnership Forum in Seoul.",
    "why": "It signals NVIDIA's expanding investment ties with AI startups across foundation models, physical AI, and AI semiconductors in Korea.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s23b94c6976",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "link": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI",
+   "published": "2026-11-09T08:00:00+00:00",
+   "topics": [
+    "Developer tools",
+    "Enterprise"
+   ],
+   "summary": "CodeRabbit uses OpenAI models to govern AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "why": "A vendor case study claiming large output gains; the text gives few details on methods or verification.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s932fe34bad",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "link": "https://openai.com/index/kuken",
+   "source": "OpenAI",
+   "published": "2026-11-09T08:00:00+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings, cutting drawing lookup for repairs to 4.5 minutes from nearly an hour.",
+   "why": "Shows how retrieval over large legacy engineering document archives can cut lookup time in industrial maintenance.",
    "related": [],
    "top": false
   },
@@ -4751,7 +5125,7 @@
      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s45fb196cb1",
@@ -4909,112 +5283,6 @@
     "Products"
    ],
    "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 75 # Comments: 66",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc2107a5a7c",
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "source": "TechCrunch",
-   "published": "2026-11-07T01:40:28+00:00",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary": "The deal highlights the challenges of developing massive AI data centers.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s6813d62fd9",
-   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-   "source": "The Verge",
-   "published": "2026-11-06T23:46:18+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s1bc7ba2a28",
-   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-   "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-   "source": "The Verge",
-   "published": "2026-11-06T23:00:44+00:00",
-   "topics": [
-    "Infrastructure",
-    "Products"
-   ],
-   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
-   "why": "",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s118369de89",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "source": "TechCrunch",
-   "published": "2026-11-06T22:53:46+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7ff4ba923e",
-   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-   "source": "Ars Technica",
-   "published": "2026-11-06T20:56:41+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ],
-   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s5072f0d6af",
-   "title": "AI is dramatically accelerating AI research",
-   "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "source": "Hacker News",
-   "published": "2026-11-06T20:27:23+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 337 # Comments: 307",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc0641eb0de",
-   "title": "All the latest updates on AI data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "source": "The Verge",
-   "published": "2026-11-06T20:02:22+00:00",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
    "why": "",
    "related": [],
    "top": false

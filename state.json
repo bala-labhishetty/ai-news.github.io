@@ -1,70 +1,5 @@
 {
  "stories": {
-  "s8879475e62": {
-   "id": "s8879475e62",
-   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-07T12:30:00+00:00",
-   "description": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
-   "related": [],
-   "summary": "Anthropic is using AI to build more powerful AI.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Safety",
-    "Research"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s055e03fe8f": {
-   "id": "s055e03fe8f",
-   "title": "AI broke the cybersecurity world. What’s next?",
-   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-07T15:00:00+00:00",
-   "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
-   "related": [],
-   "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
-   "why": "",
-   "topics": [
-    "Funding"
-   ],
-   "summary_by": "heuristic"
-  },
-  "s73be1ddc7f": {
-   "id": "s73be1ddc7f",
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-07T15:43:45+00:00",
-   "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-   "related": [],
-   "summary": "According to The New York Times, the US approved New Matrix, a Chinese firm with an empty office, to handle Nvidia H200 AI chip sales.",
-   "why": "It raises questions about how export-control vetting of Chinese buyers of advanced AI chips is being carried out.",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ]
-  },
-  "sfa06ff8fdc": {
-   "id": "sfa06ff8fdc",
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-07T15:50:00+00:00",
-   "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-   "related": [],
-   "summary": "A Verge reviewer tested NYT Cooking's AI assistant for weeknight dinner, finding it helped with chicken but caused problems with a cake.",
-   "why": "This is a consumer product review with little relevance to engineering or technology leadership decisions.",
-   "topics": [
-    "Products"
-   ]
-  },
   "sef7df344eb": {
    "id": "sef7df344eb",
    "title": "The End of AI Frontiers",
@@ -10381,13 +10316,409 @@
     "Enterprise",
     "Research"
    ]
+  },
+  "s3588ceed41": {
+   "id": "s3588ceed41",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-10T07:00:00+00:00",
+   "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "related": [],
+   "summary": "OpenAI and Upwork research finds shifting freelance demand, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "why": "Shows how AI is reshaping freelance hiring and skill demand, relevant for leaders planning contractor and talent strategy.",
+   "topics": [
+    "Research",
+    "Enterprise"
+   ]
+  },
+  "sa7266a93fa": {
+   "id": "sa7266a93fa",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-10T07:19:38+00:00",
+   "description": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 144 # Comments: 51",
+   "related": [],
+   "summary": "Notion disclosed a security incident involving third-party AI vendor Fireworks AI that impacts Notion and its customers.",
+   "why": "Vendor security incidents in AI inference providers can expose customer data, so teams should review third-party AI dependencies and their safeguards.",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ]
+  },
+  "s534e23320d": {
+   "id": "s534e23320d",
+   "title": "AI usage generates a fragile codebase",
+   "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-10T10:25:58+00:00",
+   "description": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 133 # Comments: 171",
+   "related": [],
+   "summary": "A blog post argues that AI usage produces fragile codebases; it drew 133 points and 171 comments on Hacker News.",
+   "why": "Engineering leaders may want to weigh maintainability risks when adopting AI-generated code, though the text offers only the headline claim.",
+   "topics": [
+    "Developer tools"
+   ]
+  },
+  "sc9c85dcf53": {
+   "id": "sc9c85dcf53",
+   "title": "Meet the Sad Wives of AI",
+   "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-10T10:40:51+00:00",
+   "description": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 71 # Comments: 63",
+   "related": [],
+   "summary": "A Wired article titled \"Meet the Sad Wives of AI\" was shared on Hacker News, drawing 71 points and 63 comments.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s46ecb159c1": {
+   "id": "s46ecb159c1",
+   "title": "Helping caregivers use AI in everyday life",
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-10T12:00:00+00:00",
+   "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "related": [],
+   "summary": "OpenAI Academy is offering free, hands-on ChatGPT workshops for caregivers in five U.S. cities to build everyday AI skills.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "sf8c1a7370c": {
+   "id": "sf8c1a7370c",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-11-10T12:02:28+00:00",
+   "description": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "related": [],
+   "summary": "Google DeepMind introduced AlphaProof Code, whose agents wrote three million lines of Lean proofs to verify Signal's core encryption.",
+   "why": "Shows AI agents producing large-scale formal verification of production cryptography, a useful signal for high-assurance software teams.",
+   "topics": [
+    "Research",
+    "Agents",
+    "Safety"
+   ]
+  },
+  "s02e4a20d19": {
+   "id": "s02e4a20d19",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-10T13:00:00+00:00",
+   "description": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+   "related": [],
+   "summary": "Google Cloud launched Gemini for healthcare, aimed at unifying clinical data and automating workflows to reduce administrative burden.",
+   "why": "Healthcare engineering teams get a managed Gemini offering for clinical data integration, though the text gives few technical details.",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
+  },
+  "sd8a967756f": {
+   "id": "sd8a967756f",
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T13:00:00+00:00",
+   "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+   "related": [],
+   "summary": "Hugging Face executive Irene Solaiman warns that rising cyberattacks on open AI platforms could lead to tighter security restrictions.",
+   "why": "Stricter platform security could limit open access to models and tools that developers rely on.",
+   "topics": [
+    "Open source",
+    "Safety"
+   ]
+  },
+  "s707c973eec": {
+   "id": "s707c973eec",
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T13:30:00+00:00",
+   "description": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced […]",
+   "related": [],
+   "summary": "Ring plans to ship a flying indoor drone camera, the Ring Drone Cam, on January 27th, 2027, priced at $249.99, per founder Jamie Siminoff.",
+   "why": "Consumer AI hardware with autonomous flight raises privacy and security questions for product teams building always-on home sensing devices.",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s66ed14c641": {
+   "id": "s66ed14c641",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+   "related": [],
+   "summary": "Google and Adobe are integrating creative and productivity tools, including editing PDFs in Drive and using Adobe AI within Gemini.",
+   "why": "Brings Adobe capabilities into everyday Google apps, which may simplify document and creative workflows for enterprise users.",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
+  },
+  "sc188bc0e22": {
+   "id": "sc188bc0e22",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "related": [],
+   "summary": "Cyanogen co-founder is launching Kora, a free Windows alternative aimed at users who rely heavily on AI models and agents.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "sf650f08e36": {
+   "id": "sf650f08e36",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+   "related": [],
+   "summary": "Spotify Premium users can now pick new AI DJ voices with different personalities or turn off commentary between songs.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s04566ece2f": {
+   "id": "s04566ece2f",
+   "title": "Adobe is going all in on agentic AI",
+   "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […]",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly"
+    }
+   ],
+   "summary": "Adobe announced agentic AI tools at its Max conference, including letting third-party AI agents access and change design files.",
+   "why": "Shows creative software vendors opening design tools to external agents, which affects integration plans for creative workflows.",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
+  },
+  "s9871791e1b": {
+   "id": "s9871791e1b",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T14:01:39+00:00",
+   "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+     "title": "Anthropic targets $1.4 trillion IPO"
+    }
+   ],
+   "summary": "Anthropic set an IPO price range of $70 to $78 per share, implying a valuation of up to $1.404 trillion on a fully diluted basis.",
+   "why": "A listing at this valuation would mark a major funding and market milestone for a leading AI lab, shaping sector investment expectations.",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "sa92c103556": {
+   "id": "sa92c103556",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T15:29:30+00:00",
+   "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "related": [],
+   "summary": "Meta's AI assistant Muse is now available on Apple Watch and Android Wear OS, with voice, text, and dictation interaction.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s196c0edf93": {
+   "id": "s196c0edf93",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T15:54:08+00:00",
+   "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "related": [],
+   "summary": "Google announced two new specialized TPUs aimed at confidential model training and greater memory capacity.",
+   "why": "New accelerator options for confidential training and memory-heavy workloads could affect infrastructure planning and cloud cost choices.",
+   "topics": [
+    "Infrastructure"
+   ]
+  },
+  "sa14681e2dd": {
+   "id": "sa14681e2dd",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T16:00:00+00:00",
+   "description": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+   "related": [
+    {
+     "source": "Google DeepMind",
+     "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+     "title": "Gemini 4 Carbon is now available"
+    }
+   ],
+   "summary": "Google is releasing Gemini 4 Carbon to the public after a two-week preview with cybersecurity defenders, and says it is its strongest model with an agent swarm feature.",
+   "why": "A new frontier model with multi-agent capabilities that Google positions against Anthropic and OpenAI, relevant for evaluating model choices.",
+   "topics": [
+    "Models",
+    "Agents"
+   ]
+  },
+  "s405fdcad1c": {
+   "id": "s405fdcad1c",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-10T16:00:03+00:00",
+   "description": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+   "related": [],
+   "summary": "Nvidia announced at KubeCon + CloudNativeCon that it is donating OpenShell to open source and expanding its open source commitment with new AI infrastructure.",
+   "why": "Adds a donated open source project and infrastructure tooling for Kubernetes-based AI workloads, relevant to platform teams running AI factories.",
+   "topics": [
+    "Open source",
+    "Infrastructure"
+   ]
+  },
+  "s3e50515c6d": {
+   "id": "s3e50515c6d",
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T16:20:30+00:00",
+   "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
+   "related": [],
+   "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing its platform, according to a reader's report to The Verge.",
+   "why": "Shows marketplaces may restrict third-party AI shopping agents, which could limit how agents access and act on commerce sites.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "s58426d8e2b": {
+   "id": "s58426d8e2b",
+   "title": "Amazon Bedrock tokenomics data lake",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-10T16:56:36+00:00",
+   "description": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token counts, model choice, and per-invocation cost across your organization.",
+   "related": [],
+   "summary": "An AWS post describes building a centralized data lake that aggregates Amazon Bedrock invocation logs from all linked accounts into one queryable table.",
+   "why": "Gives engineers a way to track prompts, token counts, model choice, and per-call cost across an organization's Bedrock accounts.",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ]
+  },
+  "s82110824f2": {
+   "id": "s82110824f2",
+   "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-10T16:59:43+00:00",
+   "description": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
+   "related": [],
+   "summary": "TCS built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into governed tests for BFSI clients, cutting testing effort 88% in an internal benchmark.",
+   "why": "Offers a concrete enterprise pattern for multi-agent test automation with per-tenant isolation, though the 88% figure is an internal benchmark.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "s9922bcaa36": {
+   "id": "s9922bcaa36",
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T17:04:19+00:00",
+   "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "related": [],
+   "summary": "A timeline reports on an alleged affair between Nvidia CEO Jensen Huang and a suspected Chinese spy, with possible national security implications.",
+   "why": "The story concerns national security risk tied to the US-China race for advanced AI infrastructure, which may affect chip supply and policy.",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ]
+  },
+  "saf7403b456": {
+   "id": "saf7403b456",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T17:30:00+00:00",
+   "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+     "title": "Anthropic has its own AI-powered office suite now"
+    }
+   ],
+   "summary": "Anthropic launched Claude Meetings, which can draft plans, map timelines on a whiteboard, answer chat questions, and pull data from connected work apps during meetings.",
+   "why": "Signals AI assistants moving into live collaboration with access to company apps, raising integration and data-access decisions for IT teams.",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
+  },
+  "s7ac1a3b293": {
+   "id": "s7ac1a3b293",
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T17:32:47+00:00",
+   "description": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+   "related": [],
+   "summary": "Some IGF jurors said they won't vote for games using generative AI in any capacity, and indie hit Big Walk's developer disclosed limited AI use during development.",
+   "why": "Shows growing community backlash over generative AI use in creative work, which can affect how studios disclose tools and where games get recognized.",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": "s8879475e62",
-  "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": "s055e03fe8f",
-  "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": "s73be1ddc7f",
-  "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": "sfa06ff8fdc",
   "https://hunch.net": "sef7df344eb",
   "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers": "sd44fec61cc",
   "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit": "sae06ecf718",
@@ -11042,6 +11373,35 @@
   "https://arxiv.org/abs/2611.10958": "s7f6c478793",
   "https://arxiv.org/abs/2611.10960": "sd2cfdb67c1",
   "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages": "s0cb7ad579a",
-  "https://openai.com/index/closing-ai-guidance-gap-education": "s01a8528fa1"
+  "https://openai.com/index/closing-ai-guidance-gap-education": "s01a8528fa1",
+  "https://openai.com/index/ai-effect-on-freelance-work": "s3588ceed41",
+  "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor": "sa7266a93fa",
+  "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase": "s534e23320d",
+  "https://www.wired.com/story/meet-the-sad-wives-of-ai": "sc9c85dcf53",
+  "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": "s46ecb159c1",
+  "https://deepmind.google/blog/introducing-alphaproof-code": "sf8c1a7370c",
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare": "s02e4a20d19",
+  "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns": "sd8a967756f",
+  "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot": "s707c973eec",
+  "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration": "s66ed14c641",
+  "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era": "sc188bc0e22",
+  "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter": "sf650f08e36",
+  "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates": "s04566ece2f",
+  "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates": "s04566ece2f",
+  "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion": "s9871791e1b",
+  "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp": "s04566ece2f",
+  "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion": "s9871791e1b",
+  "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os": "sa92c103556",
+  "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips": "s196c0edf93",
+  "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout": "sa14681e2dd",
+  "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": "s405fdcad1c",
+  "https://deepmind.google/blog/gemini-4-carbon-is-now-available": "sa14681e2dd",
+  "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping": "s3e50515c6d",
+  "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake": "s58426d8e2b",
+  "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "s82110824f2",
+  "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "s9922bcaa36",
+  "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks": "saf7403b456",
+  "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": "saf7403b456",
+  "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai": "s7ac1a3b293"
  }
 }

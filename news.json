@@ -1,7 +1,349 @@
 {
- "updated": "2026-11-10T09:58:24.205943+00:00",
+ "updated": "2026-11-10T17:54:10.361418+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s7ac1a3b293",
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "source": "The Verge",
+   "published": "2026-11-10T17:32:47+00:00",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ],
+   "summary": "Some IGF jurors said they won't vote for games using generative AI in any capacity, and indie hit Big Walk's developer disclosed limited AI use during development.",
+   "why": "Shows growing community backlash over generative AI use in creative work, which can affect how studios disclose tools and where games get recognized.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "saf7403b456",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T17:30:00+00:00",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ],
+   "summary": "Anthropic launched Claude Meetings, which can draft plans, map timelines on a whiteboard, answer chat questions, and pull data from connected work apps during meetings.",
+   "why": "Signals AI assistants moving into live collaboration with access to company apps, raising integration and data-access decisions for IT teams.",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s9922bcaa36",
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T17:04:19+00:00",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ],
+   "summary": "A timeline reports on an alleged affair between Nvidia CEO Jensen Huang and a suspected Chinese spy, with possible national security implications.",
+   "why": "The story concerns national security risk tied to the US-China race for advanced AI infrastructure, which may affect chip supply and policy.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s82110824f2",
+   "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-10T16:59:43+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "TCS built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into governed tests for BFSI clients, cutting testing effort 88% in an internal benchmark.",
+   "why": "Offers a concrete enterprise pattern for multi-agent test automation with per-tenant isolation, though the 88% figure is an internal benchmark.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s58426d8e2b",
+   "title": "Amazon Bedrock tokenomics data lake",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-10T16:56:36+00:00",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ],
+   "summary": "An AWS post describes building a centralized data lake that aggregates Amazon Bedrock invocation logs from all linked accounts into one queryable table.",
+   "why": "Gives engineers a way to track prompts, token counts, model choice, and per-call cost across an organization's Bedrock accounts.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s3e50515c6d",
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "source": "The Verge",
+   "published": "2026-11-10T16:20:30+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing its platform, according to a reader's report to The Verge.",
+   "why": "Shows marketplaces may restrict third-party AI shopping agents, which could limit how agents access and act on commerce sites.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s405fdcad1c",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "source": "NVIDIA",
+   "published": "2026-11-10T16:00:03+00:00",
+   "topics": [
+    "Open source",
+    "Infrastructure"
+   ],
+   "summary": "Nvidia announced at KubeCon + CloudNativeCon that it is donating OpenShell to open source and expanding its open source commitment with new AI infrastructure.",
+   "why": "Adds a donated open source project and infrastructure tooling for Kubernetes-based AI workloads, relevant to platform teams running AI factories.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sa14681e2dd",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge",
+   "published": "2026-11-10T16:00:00+00:00",
+   "topics": [
+    "Models",
+    "Agents"
+   ],
+   "summary": "Google is releasing Gemini 4 Carbon to the public after a two-week preview with cybersecurity defenders, and says it is its strongest model with an agent swarm feature.",
+   "why": "A new frontier model with multi-agent capabilities that Google positions against Anthropic and OpenAI, relevant for evaluating model choices.",
+   "related": [
+    {
+     "source": "Google DeepMind",
+     "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s196c0edf93",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T15:54:08+00:00",
+   "topics": [
+    "Infrastructure"
+   ],
+   "summary": "Google announced two new specialized TPUs aimed at confidential model training and greater memory capacity.",
+   "why": "New accelerator options for confidential training and memory-heavy workloads could affect infrastructure planning and cloud cost choices.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sa92c103556",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T15:29:30+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Meta's AI assistant Muse is now available on Apple Watch and Android Wear OS, with voice, text, and dictation interaction.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s9871791e1b",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T14:01:39+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "Anthropic set an IPO price range of $70 to $78 per share, implying a valuation of up to $1.404 trillion on a fully diluted basis.",
+   "why": "A listing at this valuation would mark a major funding and market milestone for a leading AI lab, shaping sector investment expectations.",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s66ed14c641",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI",
+   "published": "2026-11-10T14:00:00+00:00",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ],
+   "summary": "Google and Adobe are integrating creative and productivity tools, including editing PDFs in Drive and using Adobe AI within Gemini.",
+   "why": "Brings Adobe capabilities into everyday Google apps, which may simplify document and creative workflows for enterprise users.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc188bc0e22",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T14:00:00+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Cyanogen co-founder is launching Kora, a free Windows alternative aimed at users who rely heavily on AI models and agents.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sf650f08e36",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T14:00:00+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Spotify Premium users can now pick new AI DJ voices with different personalities or turn off commentary between songs.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s04566ece2f",
+   "title": "Adobe is going all in on agentic AI",
+   "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "source": "The Verge",
+   "published": "2026-11-10T14:00:00+00:00",
+   "topics": [
+    "Agents",
+    "Products"
+   ],
+   "summary": "Adobe announced agentic AI tools at its Max conference, including letting third-party AI agents access and change design files.",
+   "why": "Shows creative software vendors opening design tools to external agents, which affects integration plans for creative workflows.",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s707c973eec",
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+   "source": "The Verge",
+   "published": "2026-11-10T13:30:00+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Ring plans to ship a flying indoor drone camera, the Ring Drone Cam, on January 27th, 2027, priced at $249.99, per founder Jamie Siminoff.",
+   "why": "Consumer AI hardware with autonomous flight raises privacy and security questions for product teams building always-on home sensing devices.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s02e4a20d19",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI",
+   "published": "2026-11-10T13:00:00+00:00",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ],
+   "summary": "Google Cloud launched Gemini for healthcare, aimed at unifying clinical data and automating workflows to reduce administrative burden.",
+   "why": "Healthcare engineering teams get a managed Gemini offering for clinical data integration, though the text gives few technical details.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sd8a967756f",
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T13:00:00+00:00",
+   "topics": [
+    "Open source",
+    "Safety"
+   ],
+   "summary": "Hugging Face executive Irene Solaiman warns that rising cyberattacks on open AI platforms could lead to tighter security restrictions.",
+   "why": "Stricter platform security could limit open access to models and tools that developers rely on.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sf8c1a7370c",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "published": "2026-11-10T12:02:28+00:00",
+   "topics": [
+    "Research",
+    "Agents",
+    "Safety"
+   ],
+   "summary": "Google DeepMind introduced AlphaProof Code, whose agents wrote three million lines of Lean proofs to verify Signal's core encryption.",
+   "why": "Shows AI agents producing large-scale formal verification of production cryptography, a useful signal for high-assurance software teams.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s46ecb159c1",
+   "title": "Helping caregivers use AI in everyday life",
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "published": "2026-11-10T12:00:00+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "OpenAI Academy is offering free, hands-on ChatGPT workshops for caregivers in five U.S. cities to build everyday AI skills.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc9c85dcf53",
+   "title": "Meet the Sad Wives of AI",
+   "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+   "source": "Hacker News",
+   "published": "2026-11-10T10:40:51+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A Wired article titled \"Meet the Sad Wives of AI\" was shared on Hacker News, drawing 71 points and 63 comments.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s534e23320d",
+   "title": "AI usage generates a fragile codebase",
+   "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "source": "Hacker News",
+   "published": "2026-11-10T10:25:58+00:00",
+   "topics": [
+    "Developer tools"
+   ],
+   "summary": "A blog post argues that AI usage produces fragile codebases; it drew 133 points and 171 comments on Hacker News.",
+   "why": "Engineering leaders may want to weigh maintainability risks when adopting AI-generated code, though the text offers only the headline claim.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "s01a8528fa1",
    "title": "Closing the AI guidance gap in education",
@@ -15,7 +357,22 @@
    "summary": "OpenAI shares lessons from its EMEA education partnerships and new ThinkYoung research on supporting teachers, AI literacy and independent learning.",
    "why": "Offers guidance for leaders deploying AI in education, focusing on teacher support and AI literacy rather than tooling details.",
    "related": [],
-   "top": true
+   "top": false
+  },
+  {
+   "id": "sa7266a93fa",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Hacker News",
+   "published": "2026-11-10T07:19:38+00:00",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ],
+   "summary": "Notion disclosed a security incident involving third-party AI vendor Fireworks AI that impacts Notion and its customers.",
+   "why": "Vendor security incidents in AI inference providers can expose customer data, so teams should review third-party AI dependencies and their safeguards.",
+   "related": [],
+   "top": false
   },
   {
    "id": "s0cb7ad579a",
@@ -29,7 +386,22 @@
    "summary": "Otter AI added support for 27 languages and announced an upcoming feature that can follow conversations when speakers switch languages.",
    "why": "Expands multilingual transcription coverage for meeting tools, though the text gives no details on accuracy or availability timing.",
    "related": [],
-   "top": true
+   "top": false
+  },
+  {
+   "id": "s3588ceed41",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI",
+   "published": "2026-11-10T07:00:00+00:00",
+   "topics": [
+    "Research",
+    "Enterprise"
+   ],
+   "summary": "OpenAI and Upwork research finds shifting freelance demand, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "why": "Shows how AI is reshaping freelance hiring and skill demand, relevant for leaders planning contractor and talent strategy.",
+   "related": [],
+   "top": false
   },
   {
    "id": "sa144563512",
@@ -45,7 +417,7 @@
    "summary": "An arXiv paper investigates where sycophancy emerges across LLM training pipelines, comparing preference alignment methods like RLHF and DPO with earlier stages.",
    "why": "Suggests that blaming preference tuning alone may be misplaced, which matters for teams choosing where to mitigate flattering model behavior.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s9a6a306f9b",
@@ -4850,7 +5222,7 @@
      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s7f47f4f445",
@@ -9665,65 +10037,6 @@
     "Research"
    ],
    "summary": "A Hacker News post linked to an essay titled 'The End of AI Frontiers' on hunch.net, with 81 points and 4 comments.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sfa06ff8fdc",
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "source": "The Verge",
-   "published": "2026-11-07T15:50:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "A Verge reviewer tested NYT Cooking's AI assistant for weeknight dinner, finding it helped with chicken but caused problems with a cake.",
-   "why": "This is a consumer product review with little relevance to engineering or technology leadership decisions.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s73be1ddc7f",
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-   "source": "The Verge",
-   "published": "2026-11-07T15:43:45+00:00",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary": "According to The New York Times, the US approved New Matrix, a Chinese firm with an empty office, to handle Nvidia H200 AI chip sales.",
-   "why": "It raises questions about how export-control vetting of Chinese buyers of advanced AI chips is being carried out.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s055e03fe8f",
-   "title": "AI broke the cybersecurity world. What’s next?",
-   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-   "source": "The Verge",
-   "published": "2026-11-07T15:00:00+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s8879475e62",
-   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-   "source": "The Verge",
-   "published": "2026-11-07T12:30:00+00:00",
-   "topics": [
-    "Models",
-    "Safety",
-    "Research"
-   ],
-   "summary": "Anthropic is using AI to build more powerful AI.",
    "why": "",
    "related": [],
    "top": false

@@ -1,14 +1,246 @@
 {
- "updated": "2026-11-10T09:55:30.696500+00:00",
+ "updated": "2026-11-10T17:53:53.555450+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T17:32:47+00:00",
+   "description": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]"
+  },
+  {
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T17:30:00+00:00",
+   "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
+  },
+  {
+   "title": "Anthropic has its own AI-powered office suite now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T17:30:00+00:00",
+   "description": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T17:04:19+00:00",
+   "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-10T16:59:43+00:00",
+   "description": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark."
+  },
+  {
+   "title": "Amazon Bedrock tokenomics data lake",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-10T16:56:36+00:00",
+   "description": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token counts, model choice, and per-invocation cost across your organization."
+  },
+  {
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T16:20:30+00:00",
+   "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]"
+  },
+  {
+   "title": "Gemini 4 Carbon is now available",
+   "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-11-10T16:03:47+00:00",
+   "description": ""
+  },
+  {
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-10T16:00:03+00:00",
+   "description": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]"
+  },
+  {
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T16:00:00+00:00",
+   "description": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]"
+  },
+  {
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T15:54:08+00:00",
+   "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+  },
+  {
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T15:29:30+00:00",
+   "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+  },
+  {
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T14:06:54+00:00",
+   "description": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal […]"
+  },
+  {
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T14:05:10+00:00",
+   "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+  },
+  {
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T14:01:39+00:00",
+   "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+  },
+  {
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+  },
+  {
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+  },
+  {
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+  },
+  {
+   "title": "Adobe is going all in on agentic AI",
+   "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […]"
+  },
+  {
+   "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+   "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T14:00:00+00:00",
+   "description": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]"
+  },
+  {
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T13:30:00+00:00",
+   "description": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced […]"
+  },
+  {
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-10T13:00:00+00:00",
+   "description": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+  },
+  {
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T13:00:00+00:00",
+   "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide."
+  },
+  {
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-11-10T12:02:28+00:00",
+   "description": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+  },
+  {
+   "title": "Helping caregivers use AI in everyday life",
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-10T12:00:00+00:00",
+   "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+  },
+  {
+   "title": "Meet the Sad Wives of AI",
+   "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-10T10:40:51+00:00",
+   "description": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 71 # Comments: 63"
+  },
+  {
+   "title": "AI usage generates a fragile codebase",
+   "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-10T10:25:58+00:00",
+   "description": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 133 # Comments: 171"
+  },
   {
    "title": "Closing the AI guidance gap in education",
    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
    "source": "OpenAI",
    "category": "AI Labs",
    "published": "2026-11-10T09:00:00+00:00",
-   "description": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+   "description": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+  },
+  {
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-10T07:19:38+00:00",
+   "description": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 144 # Comments: 51"
+  },
+  {
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-10T07:00:00+00:00",
+   "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
   },
   {
    "title": "Otter AI can now follow conversations across 30+ languages",
@@ -2169,238 +2401,6 @@
    "category": "Research",
    "published": "2026-11-10T05:00:00+00:00",
    "description": "arXiv:2611.10748v1 Announce Type: cross Abstract: Agent harnesses -- runtime scaffolds that wrap an LLM's reasoning loop with tool dispatch, verification, and persistent memory -- have become the standard substrate for deploying LLMs as autonomous agents, as demonstrated by Claude Code and Codex in software engineering. In trajectory planning, however, this paradigm has not taken hold: existing LLM-based trajectory planning methods either keep the LLM in the decision loop, exceeding the millisecond-level control budget, or offload it to offline rules or training-time supervision -- leaving the runtime planner non-evolving. Intermediate hybrids still lack the verification-and-consolidation loop that makes harnesses reliable. We ask: what runtime harness would let an LLM planner meet real-ti"
-  },
-  {
-   "title": "Mirage: Provable Defense Against LLM KV Cache Timing Side Channels with Topology-Aware Isolation",
-   "link": "https://arxiv.org/abs/2611.10756",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10756v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed as shared multi-tenant services, relying on advanced optimizations like KV cache and prefix sharing to improve throughput and reduce latency. However, these optimizations introduce a critical vulnerability: attackers can exploit time-to-first-token (TTFT) variations between KV cache hits and misses to infer sensitive prompt tokens via prefix-matching side-channel attacks. Existing defenses indiscriminately restrict cross-tenant cache sharing, which incurs prohibitive performance overhead and negates the fundamental efficiency benefits of the KV cache. We propose Mirage, a topology-aware emission obfuscation framework that provably bounds timing leakage without sacrificing the performanc"
-  },
-  {
-   "title": "Unified Framework with Convex-Concave Decomposition and Sparse Topological Learning for Skeleton-Based Clinical Assessment",
-   "link": "https://arxiv.org/abs/2611.10758",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10758v1 Announce Type: cross Abstract: Skeleton-based rehabilitation assessment faces fundamental limitations of fixed topologies which cannot model compensatory patterns, uniform joint treatments overlook clinically important deviations, and lack of geometric understand- ing. We propose Concave-Convex Decomposition Sparse Topological Graph Convolutional Network (CC2-STG), a multi-stream model that combines geo- metric decomposition, sparse feature learning, and adaptive topology. Our framework decomposes joint relationships into complementary convex-concave distance functions to model both local and global movement characteristics, with sparse regularization with proximal optimization selecting clinically relevant geo- metric features, while multi-scale topological analysis cap"
-  },
-  {
-   "title": "BAPLe++: Cross-Model Transferability and Prompt-Level Defense of Backdoors in Medical Foundation Models",
-   "link": "https://arxiv.org/abs/2611.10764",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10764v1 Announce Type: cross Abstract: Medical foundation models (Med-FMs) are increasingly adapted to clinical tasks through prompt learning, which tunes a small set of prompt tokens while the backbone remains frozen. Recent work has shown that this efficiency introduces a vulnerability: jointly optimizing learnable prompts and an imperceptible noise trigger during few-shot adaptation implants a backdoor that leaves clean performance intact but steers triggered inputs to an attacker-chosen class. Since prompts are compact and readily shared, this raises two questions: whether a backdoored prompt remains effective on a different Med-FM, and whether it can be repaired without retraining the backbone. We address both in BAPLe++. First, we present the first study of cross-model tra"
-  },
-  {
-   "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
-   "link": "https://arxiv.org/abs/2611.10771",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10771v1 Announce Type: cross Abstract: Visual generative models increasingly blur the line between synthesizing observations and simulating environments. Yet visual plausibility alone does not constitute successful world modeling: compelling outputs may lack persistent state, physical dynamics, or causally consistent responses to interactions. We define a generative world model as a predictive dynamical system that maintains a persistent, history-conditioned representation of an environment, updates that representation in response to actions or interventions, and generates temporally coherent trajectories that reflect outcomes under observed and counterfactual interventions. From this definition, we derive an intelligence-oriented framework spanning perceptual grounding, persist"
-  },
-  {
-   "title": "Proximal Preference Optimization: A Unified Framework for Stable and Reward-Free Alignment",
-   "link": "https://arxiv.org/abs/2611.10785",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10785v1 Announce Type: cross Abstract: We introduce a proximal preference optimization framework that unifies the implicit reward formulation of Direct Preference Optimization (DPO) with the trust-region stability of Proximal Policy Optimization (PPO). Our framework yields two complementary algorithms. P$^2$O (Proximal Preference Optimization) introduces a clipped importance ratio directly into the DPO preference margin, producing a reward-model-free algorithm that supports safe dataset reuse, bounded policy divergence, and monotonic preference improvement guarantees. PKTO (Proximal Kahneman-Tversky Optimization) extends P$^2$O by replacing the DPO margin with KTO's prospect-theoretic utility margins, adding a self-regulating adaptive baseline that tightens the effective trust r"
-  },
-  {
-   "title": "Trustworthy Recursive Self-Improvement with Statistical Guarantees",
-   "link": "https://arxiv.org/abs/2611.10787",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10787v1 Announce Type: cross Abstract: Recursive self-improvement offers a promising path toward AI agents that improve through experience by refining their own harnesses without retraining their underlying large language models (LLMs). Making this self-improvement process reliable, however, requires more than generating new updates: agents must decide which changes are worth keeping. A greedy gate that accepts updates based solely on higher validation scores can mistake an observed gain for genuine progress and lead to performance degeneration, whereas overly conservative statistical gates may reject beneficial updates and hinder performance improvement. We introduce Trustworthy Recursive Updates with Statistical Testing (TRUST), a framework that adapts an online multiple hypot"
-  },
-  {
-   "title": "Generating Diverse and Verified Synthetic Clinical Notes with Labels by Construction",
-   "link": "https://arxiv.org/abs/2611.10789",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10789v1 Announce Type: cross Abstract: Under strict privacy regulations in the clinical domain, de-identification is necessary to enable the use of clinical data such as for natural language processing. However, we currently lack sophisticated ways to tell which de-identification models actually are suitable. Specifically, we need benchmarks that are challenging, diverse, and clinically plausible, all while ensuring label correctness. To this end, we present SPARCLING, an LLM-based pipeline to generate synthetic discharge letters with character-exact PHI span annotations. Our pipeline combines structured attribute sampling, template generation, and red teaming to obtain diverse PHI-labeled discharge letters. In our experiments, we demonstrate this superior content diversity over"
-  },
-  {
-   "title": "Adapting Large Language Models via Multi-Task Learning for Mental Health Problem, Emotion, and Sentiment Detection",
-   "link": "https://arxiv.org/abs/2611.10797",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10797v1 Announce Type: cross Abstract: This study investigates sequential multi-task learning using Parameter-Efficient Fine-Tuning (PEFT), LoRA, and 4-bit quantization on Llama 3.1 8B Instruct for mental health problem detection, emotion detection, and sentiment analysis. Using 4,243 English social media posts, it compares two task sequences and demonstrates that task ordering significantly affects knowledge transfer and task interference. The MHP-first sequence achieves the best mental health problem detection (Micro-F1: 0.7624), while the Emotion-first sequence performs better in emotion (F1: 0.6052) and sentiment analysis (F1: 0.9459). A Joint-MTL baseline further highlights the challenges of simultaneous learning, including task interference and generative format collapse. "
-  },
-  {
-   "title": "RTLREX: LLM-Guided Framework for Exact High-Level RTL Recovery",
-   "link": "https://arxiv.org/abs/2611.10798",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10798v1 Announce Type: cross Abstract: Hardware designs may be available only as gate-level netlists or input-output descriptions when the original register-transfer-level (RTL) design and documentation are not accessible. Low-level representations obscure word-level computation and its finite-width behavior. Recovering high-level RTL from such representations therefore helps engineers understand a circuit's functionality and enables RTL rewriting and resynthesis. A plausible function model is also insufficient unless the generated RTL is equivalent to the original circuit for all input combinations. In this paper, we present RTLREX, a large language model (LLM)-guided framework that coordinates domain-specific tools for function recovery, RTL generation, independent verificatio"
-  },
-  {
-   "title": "Enhancing Mathematical Reasoning in Turkish Large Language Models with Search-Based Inference and Model Merging",
-   "link": "https://arxiv.org/abs/2611.10800",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10800v1 Announce Type: cross Abstract: We improve Turkish mathematical reasoning in Large Language Models by combining LoRA fine-tuning, weight-space model merging, and search-based inference. Using Turkish-Llama 8B-DPO with Turkish translations of MetaMath, NuminaMath, and TigerLab, we find data quality beats scale (Mix-30k best among fine-tuned; large MetaMath underperforms). Linear merging delivers the largest gains (GSM8K up to 0.63), while Ties is modest and Breadcrumbs/Slerp degrade. Search with MCTS and Tree of Thoughts improves mean LLM-judge scores for reasoning quality on a 0-100 scale. Limitations include machine translation, limited scale, and search stochasticity."
-  },
-  {
-   "title": "Trained, Frozen, or Absent: Identifying What a Quantum Layer Contributes to Cross-Sectional Equity Ranking",
-   "link": "https://arxiv.org/abs/2611.10801",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10801v1 Announce Type: cross Abstract: Hybrid quantumclassical models are increasingly proposed for nancial prediction, but reported gains are rarely separated from the classical components around them. We study a hybrid quantum temporal convolutional network for daily cross-sectional ranking of 2000 Tokyo Stock Exchange equities under a protocol built to make the quantum contribution identiable: six conditions (circuit trained, frozen or absent, a parameter-matched classical surrogate, and the circuit alone, trained or frozen) through one code path; four walk-forward folds with ve seeds; bootstrap intervals, Deated Sharpe Ratios, backtest-overtting probabilities and family-wise error control; ve classical baselines including a gradient-boosted tree; and a locked holdout. On 500"
-  },
-  {
-   "title": "Evaluating Jev on Arabic: Comparing Decision Models and LLMs Across Arabic Tasks and Dialects",
-   "link": "https://arxiv.org/abs/2611.10802",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10802v1 Announce Type: cross Abstract: How does Jev compare with other systems on Arabic tasks, and how does its performance change between Modern Standard Arabic (MSA) and dialects? We evaluate 67 systems, including 47 decision models and 20 large language models (LLMs), on 43 tasks across 9 task families using a shared zero-shot protocol. The Arabic-focused frozen suite includes English controls in three parallel resources, which we also remove in a separate descriptive comparison. Jev 1.14.0 achieves a mean task-primary metric of 69.24 on a scale multiplied by 100, compared with 68.77 for Jev 1.13.0 and 71.81 for Gemma-4-31B, the highest-scoring system on this aggregate. Removing the recorded English controls, repeated cross-task items or both leaves the full system order unc"
-  },
-  {
-   "title": "CompAIssionate Other: Identity Assumptions in LLM Responses to Distress",
-   "link": "https://arxiv.org/abs/2611.10808",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10808v1 Announce Type: cross Abstract: Individuals experiencing suicidal ideation (SI) or psychological distress may disclose their social identities when seeking support from LLMs. Attending to identity-related stressors can be important for providing contextually appropriate and empathetic support. However, disclosing an identity does not necessarily mean that it is a cause of distress. In this work, we audit how LLMs interpret distress through disclosed identities. Using paired counterfactual interventions, we evaluate six LLMs across two SI and distress datasets, 16 identity and control conditions, and two prompting protocols. Our findings suggest that models can transform identity disclosures into explanatory narratives, attributing distress to presumed identity-related adv"
-  },
-  {
-   "title": "Selective Cooperative Perception via Blind Spot Reasoning and Agentic Dialogue with Vision-Language Models",
-   "link": "https://arxiv.org/abs/2611.10819",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10819v1 Announce Type: cross Abstract: Real-time cooperative perception (CP) in multi-agent traffic environments is highly resource-intensive, which posing scalability challenges for large-scale deployment. Efficiency can be significantly improved by selectively performing CP only in safety-critical scenarios and for key occluding objects. Vision-Language Models (VLMs) are well-suited for complex reasoning in dynamic and uncertain environments, making them a promising tool for this selective CP task. This study proposes a VLM-driven agentic framework for blind spot reasoning and dialogue-based CP. A mixed-model architecture is designed that integrates conventional object detection for stable perception, vision-language reasoning for identifying impactful occlusions, and a physic"
-  },
-  {
-   "title": "Learning Biological Hierarchies in Single-Cell Foundation Models",
-   "link": "https://arxiv.org/abs/2611.10838",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10838v1 Announce Type: cross Abstract: Cell types are organized by taxonomic relationships that define lineages in the so-called cell ontology. However, most existing foundation models typically ignore cell-type lineages encoded in this cell ontology. We introduce a biologically informed foundation model called scOntoFM, which embeds hierarchical cell ontology into representation learning. Using Lowest Common Ancestor (LCA) distances from the ontology graph, our framework pairs efficient offline triplet sampling with hierarchical cell-ontology learning. This approach jointly preserves local neighborhoods and shapes the global embedding geometry to reflect the ontology structure. Across diverse cell- and gene-level benchmarks, the model consistently improves performance, with esp"
-  },
-  {
-   "title": "Fine-resolution land-use segmentation and synthetic image-label augmentation in the Kathmandu Valley",
-   "link": "https://arxiv.org/abs/2611.10847",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10847v1 Announce Type: cross Abstract: Parcel-scale land-use data is missing for most rapidly urbanizing Global South cities, as current segmentation architectures rely on multispectral imagery and planned layouts. We introduce a hand-annotated six-class land-use corpus covering 202 km$^2$ of Kathmandu Valley across 408 fine-resolution RGB scenes. The dataset is uniquely challenging: RGB spectral similarity is high, class imbalance approaches 100:1, and key structural features like rivers measure just two to three pixels wide at a standard hierarchical decoder's prediction stride. Evaluating five architectures reveals that standard random data splitting conceals massive spatial leakage. Switching to a strict sequence-block split drops performance by up to 0.095 mIoU. This penalt"
-  },
-  {
-   "title": "KeyASRBench: Measuring Whole-Phrase Keyword Preservation in Real-World ASR",
-   "link": "https://arxiv.org/abs/2611.10852",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10852v1 Announce Type: cross Abstract: Public automatic speech recognition (ASR) benchmarks increasingly report low sequence error rates, yet production systems still use hotword lists, contextual biasing, retrieval, and post-correction. This motivates a complementary question: does a transcript preserve selected names, products, technical terms, versions, and relational phrases? We present KeyASRBench, a bilingual pilot that operationalizes occurrence-based Keyword Error Rate (KER) over frozen whole-phrase annotations. The 10-hour model-conditioned challenge set contains 1,501 Chinese and English clips with 4,723 keyword occurrences. Across five locally inferred checkpoints and two official API systems, language-specific MER/WER ranges from 5.31% to 12.91%, while KER ranges fro"
-  },
-  {
-   "title": "A Geometry-Guided Feature-Space Framework for Interpretable Unsupervised 4D-STEM Analysis of Complex Multiphase Materials",
-   "link": "https://arxiv.org/abs/2611.10853",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10853v1 Announce Type: cross Abstract: Rapid, high-fidelity analysis of four-dimensional scanning transmission electron microscopy (4D-STEM) datasets from heterogeneous materials remains challenging because coexisting phases, orientation variants, local strain gradients, and intrinsic TEM thin-foil effects produce complex, overlapping diffraction signatures. Here, we present a machine-learning (ML) framework that combines physics-informed geometric descriptors with weighted high-dimensional embeddings to identify latent structural patterns with minimal prior knowledge. By constructing a regularized descriptor space before embedding and density-based clustering, the method improves cluster stability, suppresses noise-driven fragmentation, and reduces sensitivity to embedding hype"
-  },
-  {
-   "title": "Self-contained Data Cleaning for Unsupervised Anomaly Detection",
-   "link": "https://arxiv.org/abs/2611.10856",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10856v1 Announce Type: cross Abstract: Training datasets for unsupervised anomaly detection are often assumed to be anomaly-free, but in practice, they frequently contain malicious or anomalous contamination. This contamination severely degrades the dependability and security of downstream detection models. While some contamination-robust methods exist, they rarely generalize across different model architectures and typically rely on a priori knowledge of the contamination ratio\\textemdash information that is rarely available in real-world security operations. In this paper, we propose a novel, self-contained preprocessing framework for anomaly detection that identifies and removes training set contamination without relying on known contamination ratios. Our approach performs a "
-  },
-  {
-   "title": "Structurally Separated DAG Learning with Multi-Scale Normalized Closure",
-   "link": "https://arxiv.org/abs/2611.10860",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10860v1 Announce Type: cross Abstract: Continuous DAG learning commonly enforces acyclicity through scalar functions of a weighted adjacency that aggregate evidence from weighted closed walks. We add a complementary layer: matrix-valued closure logits---explicit multi-hop structural relation scores for each ordered pair---supervised alongside data fit, sparsity, and a DAGMA-style barrier on the weighted adjacency. The distinction is not scalarization of the overall objective but how path evidence is represented and exposed before aggregation. SMNC (scale-normalized multi-scale closure) builds these scores on a structural gate by repeated squaring in log space and divides each scale by its path-length budget, counteracting product-style attenuation along long cycles; diagonal ent"
-  },
-  {
-   "title": "Interactive Person Retrieval with On-the-Fly Visual Feedback",
-   "link": "https://arxiv.org/abs/2611.10869",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10869v1 Announce Type: cross Abstract: Traditional text-based person retrieval (TPR) assumes that a witness provides a complete description at once, whereas interactive person retrieval (Inter-PR) refines a partial description through question-answer exchanges. In this setting, the questioner inspects retrieved candidates to decide what evidence to request next, while the answerer sees only the witness-side memory and cannot report candidate-specific visual differences. Existing methods mainly learn offline question orderings, leaving this visual-feedback loop underexplored. To address this limitation, we introduce visual-feedback interactive person retrieval (VFI-PR), a new interactive retrieval paradigm in which retrieved candidates produce visual feedback that becomes evidenc"
-  },
-  {
-   "title": "Zero-Shot VLA Adaptation with Retrieved Guidance",
-   "link": "https://arxiv.org/abs/2611.10894",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10894v1 Announce Type: cross Abstract: Pre-training large parametric \"Vision-Language-Action\" (VLA) models on large demonstration datasets has recently yielded promising results for general-purpose manipulation. However, these models still struggle under even small domain shifts relative to the training data, such as changes in camera viewpoint, background, object identity, or robot morphology. Motivated by the success of Retrieval-Augmented Generation (RAG) in language models, we pursue retrieval to boost VLA performance. Specifically, we seek to leverage retrieval from domain-mismatched, \"in-the-wild\" demonstration datasets like DROID to guide a VLA's behavior in a new target domain. To achieve this, we introduce RAGu, which overcomes robotics-specific challenges for RAG: (1) "
-  },
-  {
-   "title": "Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts",
-   "link": "https://arxiv.org/abs/2611.10895",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10895v1 Announce Type: cross Abstract: Standard ensemble methods can improve robustness by mitigating individual model stochasticity, but they frequently fail to generalize beyond the training distribution, leaving systems vulnerable to out-of-distribution (OOD) data. We introduce the Robust Satisficing Ensemble (RSE), a scalable probabilistic aggregation framework designed to secure model combinations by minimizing their fragility against distributional changes. By bridging a robust satisficing objective with a quadratic risk surrogate, RSE derives an analytical inner adversary. This fundamental reformulation enables highly efficient weight updates without the computational bottleneck of standard minimax optimization, crucially decoupling optimization complexity from sample siz"
-  },
-  {
-   "title": "DeepFinance: Can AI Diligence a $100MM Deal?",
-   "link": "https://arxiv.org/abs/2611.10926",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10926v1 Announce Type: cross Abstract: Existing evaluations of AI models on high-finance work focus on retrieving answers from financial documents and producing numerically correct outputs. Real private equity (PE) and investment banking (IB) work also depends on choosing between conflicting sources, making sound assumptions, and keeping every step auditable. We introduce DeepFinance, an ultra long-horizon benchmark of 21 end-to-end PE and IB tasks that take a human professional an average of 27.1 hours. Each task pairs a request with a data room averaging 19 files and is graded against an average of 84 expert-written rubric criteria covering output, workflow, and judgment. We evaluate 22 model configurations, each in its native agent harness. The best configuration, GPT-6 Astra"
-  },
-  {
-   "title": "Semantic Synthesis over Brute-Force Search: LLM-Guided Transformation Design for Efficient Learning",
-   "link": "https://arxiv.org/abs/2611.10940",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10940v1 Announce Type: cross Abstract: Data transformation pipelines shape the training distribution in computer vision, but designing them is a computationally expensive problem. We investigate whether large language models can enable efficient discovery by synthesizing executable transformation programs outside predefined augmentation spaces. We compare nine strategies under a unified training protocol, including standard augmentation policies, brute-force search, direct code generation with two LLMs, and performance-guided generation using LLMs fine-tuned on accuracy-ordered transformation pairs. When the best candidates are retrained for 20 epochs, LLM-generated transformation programs lead on every dataset, reaching 0.8877 accuracy on CIFAR-10, 0.5825 on CIFAR-100, and 0.95"
-  },
-  {
-   "title": "CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs",
-   "link": "https://arxiv.org/abs/2611.10945",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10945v1 Announce Type: cross Abstract: This paper introduces COUPLED FLOW, a new neural operator learning framework for multi-physics PDE systems that captures the co-evolution of multiple physical processes by modeling their cross-process interactions. Unlike existing neural operator methods that primarily target single-physics settings, COUPLED FLOW employs a novel structure-constrained flow matching algorithm to learn process- specific mean velocity fields conditioned on the full multi-physics state. This enables fast and accurate one-step prediction of coupled PDE systems that would otherwise require expensive numerical simulations. A key challenge in training COUPLED FLOW however lies in sampling structure-constrained conditional flow interpolants that capture cross-process"
-  },
-  {
-   "title": "Interpretable Cyber-Physical Attack Detection in Smart Grids: A Leakage-Controlled Multi-Testbed Evaluation of Fusion, Robustness, and Observability Limits",
-   "link": "https://arxiv.org/abs/2611.10950",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10950v1 Announce Type: cross Abstract: Cyber-physical smart-grid detectors are typically treated as black boxes and validated exclusively on clean, temporally shuffled datasets, which risk overly optimistic performance claims. This work presents a multi-testbed evaluation study built around an interpretable, time-windowed fusion Random Forest, adopting the pessimistic result whenever evaluation protocols disagree. (i) On a public paired cyber-physical dataset, shuffled cross-validation is optimistic: macro-F1 falls from 0.96 to 0.88 +/- 0.06 under rolling-origin temporal evaluation. A topology-free graph convolutional network (GCN) serving as a control confirms that this lightweight model is competitive on these splits. (ii) The adaptive and adaptive-joint feature-space attacks,"
-  },
-  {
-   "title": "Hybrid Source Code Change Impact Analysis",
-   "link": "https://arxiv.org/abs/2611.10958",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10958v1 Announce Type: cross Abstract: Change impact analysis (CIA) helps developers identify code entities impacted by their initial changes. While several approaches for CIA were proposed, they still struggle with either low precision or low recall, thereby increasing manual effort for developers to verify the results. Furthermore, limitations in the used datasets and experimental setups can bias the results reported by many CIA approaches. In this paper, we first address the dataset limitations by manually labeling 1,931 changed code entities stemming from 263 commits of 22 open-source Java projects. Next, we introduce two variants of katIA, our code change impact analysis approach that combines static impact analysis with the reasoning capabilities of large language models ("
-  },
-  {
-   "title": "Anatomy-Activated Mixture-of-Experts for 3D Medical Vision-Language Pre-training",
-   "link": "https://arxiv.org/abs/2611.10960",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10960v1 Announce Type: cross Abstract: Medical Vision-Language Pre-training (VLP) leverages the semantic richness of radiology reports to learn 3D representations, yet current architectures remain fundamentally anatomy-agnostic. While clinical diagnostics rely on organ-specific context, standard encoders apply a uniform, dense parameterization to all volumetric patches, and existing Mixture-of-Experts (MoE) routers gate on isolated local features without explicit access to the organ composition of the scan or crop. We propose Anatomy-Activated Mixture-of-Experts (A$^{2}$MoE), a framework that incorporates anatomical inductive biases within the model's computational path. A$^{2}$MoE introduces two key components: (1) a Histogram Representation Router (HRR) that conditions expert "
   }
  ]
 }

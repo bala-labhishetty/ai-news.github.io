@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-10T17:53:53.555450+00:00",
+ "updated": "2026-11-10T23:26:09.759805+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+   "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-10T22:35:03+00:00",
+   "description": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match each behavior that matters to the right evaluator at the right level."
+  },
+  {
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-10T21:25:03+00:00",
+   "description": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 70 # Comments: 31"
+  },
+  {
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-10T21:12:59+00:00",
+   "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+  },
+  {
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T21:08:52+00:00",
+   "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+  },
+  {
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T20:52:13+00:00",
+   "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+  },
+  {
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T19:57:52+00:00",
+   "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+  },
+  {
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T19:23:34+00:00",
+   "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+  },
+  {
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T19:04:05+00:00",
+   "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]"
+  },
+  {
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T19:03:52+00:00",
+   "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+  },
+  {
+   "title": "Gemini Intelligence: New features, on more devices",
+   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-10T19:00:00+00:00",
+   "description": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
+  },
+  {
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T18:49:52+00:00",
+   "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+  },
+  {
+   "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-10T18:11:08+00:00",
+   "description": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterprise scale."
+  },
+  {
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-10T18:00:00+00:00",
+   "description": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]"
+  },
   {
    "title": "The indie game community is in disarray over AI and Big Walk",
    "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
@@ -163,6 +267,14 @@
    "description": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]"
   },
   {
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-10T13:30:00+00:00",
+   "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
+  },
+  {
    "title": "Hands-on with Ring’s new AI drone camera for your home",
    "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
    "source": "The Verge",
@@ -208,7 +320,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-10T10:40:51+00:00",
-   "description": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 71 # Comments: 63"
+   "description": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 75 # Comments: 66"
   },
   {
    "title": "AI usage generates a fragile codebase",
@@ -216,7 +328,15 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-10T10:25:58+00:00",
-   "description": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 133 # Comments: 171"
+   "description": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 331 # Comments: 376"
+  },
+  {
+   "title": "Introducing Businesses in ChatGPT",
+   "link": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-10T10:00:00+00:00",
+   "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
   },
   {
    "title": "Closing the AI guidance gap in education",
@@ -232,7 +352,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-10T07:19:38+00:00",
-   "description": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 144 # Comments: 51"
+   "description": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 159 # Comments: 60"
   },
   {
    "title": "Work at the Frontier: AI’s effect on freelance work",
@@ -2281,126 +2401,6 @@
    "category": "Research",
    "published": "2026-11-10T05:00:00+00:00",
    "description": "arXiv:2611.10592v1 Announce Type: cross Abstract: Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, appearance, and temporal requirements. We introduce MotionGraphicsBench, an expert-curated benchmark of 100 instances for animating an input static SVG with a motion edit prompt. By supplying all required visual elements, our editing task reflects a designer-like workflow and isolates motion generation from graphic generation. Derived from real-world Lottie motion designs, our benchmark contains diverse combinations of spatio-temporal animation behaviors. Each benchmark instance pairs its model input with a deterministic, human-readable verificatio"
-  },
-  {
-   "title": "The RenAIssance: Caption-Guided Diffusion Models for Historical-Art Visual Media",
-   "link": "https://arxiv.org/abs/2611.10599",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10599v1 Announce Type: cross Abstract: Generative AI can expand cultural collections into prompt-responsive visual media, but historical artworks rarely provide the paired descriptions needed to adapt modern image generators. We present The RenAIssance, a scalable pipeline that turns a collection of historical European artworks into a reusable text-to-image media resource. The pipeline generates scene-level captions with BLIP and uses the resulting approximately 15,000 image--text pairs from DEArt to train a compact LoRA adapter for Stable Diffusion v1.5. The adapter shifts generated images toward the historical-art distribution while retaining the base model's ability to render novel concepts. On historical and contemporary prompts of different lengths, it improves FID to the D"
-  },
-  {
-   "title": "AI in the Clinical Documentation Loop: Effects of LLM-Induced Note Bloat and Diagnostic Overcall on Downstream LLMs",
-   "link": "https://arxiv.org/abs/2611.10601",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10601v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to process medical records for healthcare tasks such as clinical documentation. Because these tools also generate documentation, the relationship is now bidirectional: models both read from and write to the record. Understanding how LLMs behave when reading records that already contain LLM-authored content is therefore critical for their safe deployment. In this study, we examine how LLM-authored content in the medical record affects downstream LLMs that read the same record. We consider two types of LLM-induced artifacts: bloat, in which LLM-generated summaries accumulate in the record and change the length and provenance of its content over time; and distortion, in which LLMs subtly alter"
-  },
-  {
-   "title": "Reason First, Retrieve What Matters: Hypothesis-Guided Keyframe Selection for Long Video Understanding",
-   "link": "https://arxiv.org/abs/2611.10609",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10609v1 Announce Type: cross Abstract: Long video understanding requires models to identify and reason over sparse, temporally distributed evidence within limited frame budgets. Existing keyframe selection methods typically retrieve query-relevant frames from a densely sampled candidate set before inference. However, global image-text matching incurs unnecessary computation when a small set of uniformly sampled frames already provides sufficient evidence. Query relevance alone may also overlook evidence that distinguishes competing answers, while one-shot selection offers no opportunity to correct earlier selection errors. We propose HypoKFS, a training-free, plug-and-play framework that couples keyframe selection with iterative inference by multimodal large language models (MLL"
-  },
-  {
-   "title": "What Do Collusion Probes Read? Three Pitfalls in Evaluating Multi-Agent Collusion Monitors",
-   "link": "https://arxiv.org/abs/2611.10620",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10620v1 Announce Type: cross Abstract: Activation probes look like near-perfect monitors for secret collusion among large language model (LLM) agents. We show that they mostly detect that an agent was told to collude, not that it decided to. Our benchmark (2,500 committee and 1,476 code-review episodes) adds agents who receive the collusion instruction and refuse it, separating instruction from decision. Published detectors barely tell colluders from these refusers, and our best probe separates them mostly by reading the instruction: without it, agent AUROC falls from 1.00 to 0.61. Two further pitfalls inflate reported results: scored after the vote, a rule that only reads the votes reaches AUROC 0.990 but finds nothing before it; and in 57% of attempts no colluder argues for th"
-  },
-  {
-   "title": "EndoSCOP-V: A Multi-Turn Video Understanding Evaluation Framework for Multimodal Models in Endoscopy Reporting and Clinical Reasoning",
-   "link": "https://arxiv.org/abs/2611.10626",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10626v1 Announce Type: cross Abstract: Endoscopic diagnosis unfolds over native video, where a single positive finding during traversal of the gastrointestinal tract sets off a multi-minute chain of reasoning over location, morphology, severity and intervention. Existing endoscopy multimodal benchmarks test only static images or single-disease videos, which miss the temporal and clinical reasoning that real-world reporting demands. We introduce EndoSCOP-V, a video-grounded multi-turn evaluation framework for structured endoscopy reporting and clinical reasoning. It contains 1,307 real-world endoscopy and colonoscopy videos (63.2 h; 97% 1080p) averaging about 174 s. Its 20,274 question-answer turns are instantiated deterministically from clinician-filled structured endoscopy-repo"
-  },
-  {
-   "title": "An Improved Algorithm for Quantified Boolean Formulas",
-   "link": "https://arxiv.org/abs/2611.10633",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10633v1 Announce Type: cross Abstract: Quantified Boolean formula (QBF), the quantified version of Boolean satisfiability (SAT), is a fundamental problem in constraint solving. Due to the $\\mathsf{PSPACE}$-complete nature of QBF, designing theoretically efficient QBF algorithms is much harder and receives less attention in academia. In this work, we present a new algorithm based on memoized search, which solves QBF with $n$ variables and $m$ clauses in $1.685^m\\cdot\\text{poly}(n)$ time and space. This is the first improvement over the $1.709^m\\cdot\\text{poly}(n)$ bound by Williams in over 20 years. Our technique is based on the minimum vertex cover of the conflict graphs, which was proposed to study the parameterized complexity of SAT. We extend this idea to QBF and further show"
-  },
-  {
-   "title": "VisProve: Learning Typed Visual Provenance for Scientific Document Question Answering",
-   "link": "https://arxiv.org/abs/2611.10642",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10642v1 Announce Type: cross Abstract: Visual citations show where an answer is supported, but not how the cited content contributes to it. In scientific document question answering, a model may read a value directly, compress several observations, or combine evidence to infer a conclusion. We study typed visual provenance, where a system generates an answer together with source regions and explicit support relations. We introduce ReViE, a dataset of 3,941 questions over complete scientific documents, with page, section, and region annotations labeled as Quotation, Compression, or Inference. We further propose VisProve, which augments joint answer and provenance generation with differentiable Spatial Evidence Reading and Evidence-Answer Relation Feedback. VisProve conditions nex"
-  },
-  {
-   "title": "STABLE: A Continual Learning Optimizer with Adaptive Drift Control",
-   "link": "https://arxiv.org/abs/2611.10655",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10655v1 Announce Type: cross Abstract: Continual learning suffers from catastrophic forgetting, leading to the loss of past knowledge and unstable adaptation across task streams. Existing approaches typically address this issue through replay buffers, architectural changes, or additional regularization terms. We argue that forgetting is a consequence of unstable learning dynamics, which may benefit from an optimizer-level solution. The main challenge is that learning dynamics are time-dependent, as demonstrated by empirical phenomena such as the stability gap. First, we formally prove that, for distance-based classifiers, bounded parameter drift guarantees bounded margin erosion under a local score-stability condition. Based on this insight, we propose STABLE, a primal-dual opti"
-  },
-  {
-   "title": "Causal Heteroscedastic Structure Learning From Incomplete Temporal data",
-   "link": "https://arxiv.org/abs/2611.10668",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10668v1 Announce Type: cross Abstract: Discovering causal structures in multivariate time series (MTS) is critical in domains such as finance and neuroscience, yet remains challenging in practice due to three distinct obstacles. First, MTS are routinely corrupted by missing values, where naive impute-then-discover pipelines distort the underlying data distribution and yield spurious causal graphs. Second, identifying instantaneous effects is difficult even on complete data, and missingness further entangles imputation with graph recovery. Third, real-world data frequently exhibits heteroscedastic noise with variance driven by both instantaneous and lagged causes, violating the core assumptions of standard discovery methods. Existing approaches fail to address these challenges co"
-  },
-  {
-   "title": "Perception, Not Reasoning, Limits Visual Theory of Mind",
-   "link": "https://arxiv.org/abs/2611.10694",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10694v1 Announce Type: cross Abstract: Vision-language models pass text-based false-belief probes at near-human levels but drop by over twenty percentage points on abstract panels the moment the same problem is conveyed visually. The consensus diagnosis is conceptual, prescribing new belief-reasoning modules. We argue the dominant bottleneck is perceptual: not what the model cannot reason about, but what it cannot see. We propose a five-condition dissociation protocol that holds the reasoning task constant while varying perceptual fidelity from visual only to text only, and quantify the result with the Perceptual Contribution Ratio, the share of the visual-to-text gap a given fidelity closes. We test this on two kinds of scenes: abstract 2D panels in the Heider--Simmel tradition"
-  },
-  {
-   "title": "Behavioral Evaluation of Large Language Models Under Cognitive Biases in HAZOP Studies",
-   "link": "https://arxiv.org/abs/2611.10721",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10721v1 Announce Type: cross Abstract: Hazard and Operability (HAZOP) studies safeguard industrial processes against catastrophic accidents. Large language models (LLMs) increasingly assist HAZOP drafting, yet evaluations rely on lexical overlap. Because LLMs internalize human heuristics, prompts may trigger biased judgments. Whether frontier LLMs withstand cognitive perturbations in safety-critical workflows remains unknown. Here we show across 420 trials that three frontier LLMs resisted 96.8% of cognitive manipulations, rendering overall susceptibility statistically inconclusive. Contrary to assumed broad fragility, models rejected confirmation and availability cues. However, safety-critical risk downgrades emerged under low anchors and gain frames. Thus, automated hazard ana"
-  },
-  {
-   "title": "CyberBinGym: Can AI Agents Turn Binary Patches into Real Exploits?",
-   "link": "https://arxiv.org/abs/2611.10723",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10723v1 Announce Type: cross Abstract: Security fixes usually reach users as compiled updates, but deployment delays leave unpatched systems exposed. During this window, comparing patched and unpatched binaries can reveal how to exploit a vulnerability, turning a defensive update into actionable information for attackers. Existing benchmarks do not measure this capability: they expose source code, rely on human-crafted challenges, or evaluate binary comprehension without requiring exploitation. We introduce CyberBinGym, a benchmark containing 100 tasks derived from real vulnerabilities in 53 widely used projects, spanning six vulnerability families and three levels of analysis complexity. Agents receive stripped vulnerable and patched binaries without source code or vulnerabilit"
-  },
-  {
-   "title": "Tiny Evidence Region Localization with Selective Contrastive On-Policy Self-Distillation",
-   "link": "https://arxiv.org/abs/2611.10734",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10734v1 Announce Type: cross Abstract: Multimodal large language models have made progress in general visual tasks. However, limitations remain in fine-grained visual tasks requiring evidence from minute image regions. Existing methods primarily train models using evidence-related regions while overlooking the influence of extensive background regions, resulting in a limited ability to resist interference from irrelevant regions. We propose selective positive-negative on-policy self-distillation (SPN-OPSD), which considers both evidence and background regions. Supervision from both views improves the model's ability to resist interference from irrelevant regions. Furthermore, selective token-level distillation provides more informative supervision, improving the model's ability "
-  },
-  {
-   "title": "RoadState: A Domain-Prior-Enhanced Vision-Language System for Industrial-Grade Lane-Level Map Updating",
-   "link": "https://arxiv.org/abs/2611.10746",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10746v1 Announce Type: cross Abstract: Lane-level map updating requires temporally consistent, physically valid, and auditable road-scene semantics despite occlusions, ambiguous lane markings, temporary obstacles, and viewpoint changes. We present RoadState, a production-deployed vision-language system that transforms sequential road-scene observations into structured lane-level semantics for Baidu Maps' map-updating pipeline. Its core model, RoadState-VLM, formulates road-scene understanding as autoregressive state estimation, predicting the current structured road state from the previous observation and symbolic state together with the current observation. We introduce Geometric Chain-of-Thought (Geo-CoT), which uses a directed acyclic graph of semantic dependencies as a domai"
-  },
-  {
-   "title": "REINS: A Self-Evolving Agent Harness for Real-Time Trajectory Planning",
-   "link": "https://arxiv.org/abs/2611.10748",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-10T05:00:00+00:00",
-   "description": "arXiv:2611.10748v1 Announce Type: cross Abstract: Agent harnesses -- runtime scaffolds that wrap an LLM's reasoning loop with tool dispatch, verification, and persistent memory -- have become the standard substrate for deploying LLMs as autonomous agents, as demonstrated by Claude Code and Codex in software engineering. In trajectory planning, however, this paradigm has not taken hold: existing LLM-based trajectory planning methods either keep the LLM in the decision loop, exceeding the millisecond-level control budget, or offload it to offline rules or training-time supervision -- leaving the runtime planner non-evolving. Intermediate hybrids still lack the verification-and-consolidation loop that makes harnesses reliable. We ask: what runtime harness would let an LLM planner meet real-ti"
   }
  ]
 }

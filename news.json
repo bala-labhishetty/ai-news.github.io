@@ -1,7 +1,170 @@
 {
- "updated": "2026-11-10T17:54:10.361418+00:00",
+ "updated": "2026-11-10T23:26:18.776043+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s14f6b8b420",
+   "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+   "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-10T22:35:03+00:00",
+   "topics": [
+    "Agents",
+    "Developer tools",
+    "Infrastructure"
+   ],
+   "summary": "AWS explains how to evaluate AI agents on Amazon Bedrock AgentCore using built-in, DeepEval, and AutoEval evaluators matched to specific behaviors.",
+   "why": "Engineers deploying agents get a framework for matching task completion, topic adherence, data leakage, and step-skipping checks to the right evaluator.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s77d255b4e9",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "source": "Hacker News",
+   "published": "2026-11-10T21:25:03+00:00",
+   "topics": [
+    "Products",
+    "Developer tools"
+   ],
+   "summary": "Apple is reportedly preparing a new Mac app that makes running local AI models easier.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc3e82675d5",
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "source": "Ars Technica",
+   "published": "2026-11-10T21:12:59+00:00",
+   "topics": [
+    "Safety",
+    "Developer tools"
+   ],
+   "summary": "Researcher found about 35,000 Grok Build apps exposed publicly, leaking confidential information, some belonging to SpaceXSI.",
+   "why": "Shows that AI coding agent deployments can expose sensitive data, so teams should audit access controls and secrets handling.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s571fb0494b",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T21:08:52+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "OpenAI acquired Odessia, a travel startup founded by Sonder founder Francis Davidson, and has not said what it plans to do with it.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc012fc7ecd",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T20:52:13+00:00",
+   "topics": [
+    "Regulation",
+    "Safety"
+   ],
+   "summary": "New York's AI safety law is taking effect, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "why": "Companies building or deploying frontier models in New York now face registration, disclosure, and incident-reporting obligations with fines for noncompliance.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "se18f58ec7d",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T19:57:52+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "Each of Anthropic's seven co-founders plans to sell the same number of shares in its IPO, about $250 million each at the price range midpoint.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s7739f93bab",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T19:23:34+00:00",
+   "topics": [
+    "Funding",
+    "Enterprise"
+   ],
+   "summary": "Oura agreed to acquire AI-native primary care startup Counsel Health for $625 million, weeks after postponing its IPO indefinitely.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s34a6071342",
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "source": "The Verge",
+   "published": "2026-11-10T19:04:05+00:00",
+   "topics": [
+    "Regulation"
+   ],
+   "summary": "The Verge reports on espionage concerns surrounding Nvidia CEO Jensen Huang and their implications for US leadership in the AI race.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s6fcd75d626",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T19:03:52+00:00",
+   "topics": [
+    "Research",
+    "Enterprise"
+   ],
+   "summary": "PSI is building a business around AI-driven scientific discovery, using an unreleased Anthropic model to address a quantum computing question scientists have pursued for nearly two decades.",
+   "why": "Shows frontier unreleased models being applied to scientific research problems, a signal for R&D teams exploring AI-assisted discovery.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sb73105fe4e",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "source": "Google AI",
+   "published": "2026-11-10T19:00:00+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Google announced Gemini Intelligence, bringing new features to more devices.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "scd0c3adea5",
+   "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-10T18:11:08+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise",
+    "Infrastructure"
+   ],
+   "summary": "Trovata built autonomous treasury agents on Amazon Bedrock and AgentCore, using an RBAC-secured architecture for bank-branded AI deployments.",
+   "why": "Offers a reference architecture for deploying role-based, secured autonomous agents in regulated financial workflows at enterprise scale.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "s7ac1a3b293",
    "title": "The indie game community is in disarray over AI and Big Walk",
@@ -257,6 +420,20 @@
    "top": false
   },
   {
+   "id": "s661f340c13",
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T13:30:00+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Amazon-owned Ring launched a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "s02e4a20d19",
    "title": "Google Cloud launches Gemini for healthcare.",
    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
@@ -343,6 +520,30 @@
    "why": "Engineering leaders may want to weigh maintainability risks when adopting AI-generated code, though the text offers only the headline claim.",
    "related": [],
    "top": false
+  },
+  {
+   "id": "s5ca4dc7b6d",
+   "title": "Introducing Businesses in ChatGPT",
+   "link": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI",
+   "published": "2026-11-10T10:00:00+00:00",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ],
+   "summary": "OpenAI introduced Businesses in ChatGPT, letting businesses manage their information, see how they appear, and turn interest into action.",
+   "why": "Businesses can now manage their presence inside ChatGPT, which may affect how companies handle discoverability and customer engagement.",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    }
+   ],
+   "top": true
   },
   {
    "id": "s01a8528fa1",
@@ -5128,7 +5329,7 @@
      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s033426cd1f",
@@ -10009,35 +10210,6 @@
    ],
    "summary": "Rights holders of Elvis Presley's music and the publisher of some Eminem hits are suing Suno, alleging it generates music and lyrics mimicking those artists.",
    "why": "Another lawsuit against Suno adds to legal pressure on generative music models over training data and voice or style imitation.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd44fec61cc",
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "source": "TechCrunch",
-   "published": "2026-11-07T22:07:22+00:00",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary": "TechCrunch's Equity podcast discussed what the midterm elections mean for Elon Musk and the tech industry, including data centers.",
-   "why": "The description gives too little detail on specific policy or market effects to say more.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sef7df344eb",
-   "title": "The End of AI Frontiers",
-   "link": "https://hunch.net/?p=13764006",
-   "source": "Hacker News",
-   "published": "2026-11-07T18:04:07+00:00",
-   "topics": [
-    "Research"
-   ],
-   "summary": "A Hacker News post linked to an essay titled 'The End of AI Frontiers' on hunch.net, with 81 points and 4 comments.",
-   "why": "",
    "related": [],
    "top": false
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:17:13.505427+00:00",
+ "updated": "2026-11-11T22:06:26.041178+00:00",
  "model": "claude-haiku-5-5",
  "items": [
   {
@@ -13,6 +13,251 @@
    ],
    "summary": "OpenAI published a conversation with Sam Nickless, CEO of Gilbert + Tobin, about rethinking the law firm business with AI.",
    "why": "Shows how a large professional services firm is restructuring its operations around AI, a useful case study for enterprise adoption leaders.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s6dbf5bd5b9",
+   "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+   "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T21:05:59+00:00",
+   "topics": [
+    "Infrastructure",
+    "Agents"
+   ],
+   "summary": "AWS published an attendee guide to the AI/ML track at re:Invent 2026, which includes more than 140 sessions.",
+   "why": "It helps engineers pick sessions on AI chips, inference, agents, and agent trust for their role and goals.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s3beb9de192",
+   "title": "Automating AWS Agent Registry updates with push-based architecture",
+   "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T20:52:48+00:00",
+   "topics": [
+    "Agents",
+    "Infrastructure",
+    "Developer tools"
+   ],
+   "summary": "AWS shows how to automatically update the AWS Agent Registry using an event-driven pipeline that detects MCP server changes.",
+   "why": "Teams running agents across accounts can keep tool metadata current without storing secrets.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2f5ac4847b",
+   "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T20:45:45+00:00",
+   "topics": [
+    "Enterprise",
+    "Agents",
+    "Infrastructure"
+   ],
+   "summary": "DXC Technology describes DCX OASIS, its Human+AI operating model built on a multi-model substrate in Amazon Bedrock.",
+   "why": "It shows a pattern for separating the model layer from a governance harness that orchestrates and audits agents at scale.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sae5556d61c",
+   "title": "Why the data center you dread might never even be built",
+   "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T20:15:15+00:00",
+   "topics": [
+    "Infrastructure"
+   ],
+   "summary": "Many announced data center projects may never be built, adding to local opposition, permitting delays, and electricity shortages.",
+   "why": "Infrastructure planners should expect capacity announcements to slip, making delivery timelines less reliable.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s70b89fd3ef",
+   "title": "Meta is losing its longtime head of infrastructure",
+   "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T20:12:01+00:00",
+   "topics": [
+    "Infrastructure"
+   ],
+   "summary": "Meta's longtime head of infrastructure, Santosh Janardhan, is stepping down from the role.",
+   "why": "Leadership changes in Meta's infrastructure organization could affect the direction of its large-scale systems.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sbdeaa23eb9",
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T20:02:14+00:00",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ],
+   "summary": "Local backlash, permitting delays, and electricity constraints are slowing data center projects, and many announced projects may never be built.",
+   "why": "Engineering leaders relying on planned capacity should account for delays and cancellations in their roadmaps.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s850c064410",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T19:54:00+00:00",
+   "topics": [
+    "Infrastructure",
+    "Enterprise",
+    "Funding"
+   ],
+   "summary": "CoreWeave is asking customers for upfront payments and offering shorter contracts, according to its third-quarter earnings.",
+   "why": "Shifts in GPU cloud contract terms affect cost planning and capacity commitments for AI teams.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s6f3c74a04f",
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T19:34:55+00:00",
+   "topics": [
+    "Funding",
+    "Infrastructure"
+   ],
+   "summary": "Britain's Fractile raised a $720M round, making it one of the top-funded startups building purpose-built AI chips.",
+   "why": "Well-funded alternatives to GPUs could broaden the hardware options for AI inference and training.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s94fcbf10f8",
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T19:22:22+00:00",
+   "topics": [
+    "Regulation"
+   ],
+   "summary": "House Republicans have asked Nvidia CEO Jensen Huang for a closed-door briefing about his alleged affair with a Chinese spy.",
+   "why": "Congressional scrutiny of Nvidia's leadership could carry implications for the company and its chip supply.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s0afd1907df",
+   "title": "Accelerating generative AI delivery with reusable assets",
+   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T19:19:21+00:00",
+   "topics": [
+    "Open source",
+    "Developer tools"
+   ],
+   "summary": "AWS's Generative AI Innovation Center offers a catalog of 23 open source, production-ready reusable assets for generative AI delivery.",
+   "why": "Teams can reuse tested RAG pipelines, document processors, and agent scaffolding instead of rebuilding them.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "scce714811b",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Google AI",
+   "published": "2026-11-11T18:00:00+00:00",
+   "topics": [
+    "Models",
+    "Developer tools"
+   ],
+   "summary": "Google announced the Gemini Decisions API, powered by its Gemini Decision model, for fast, calibrated multimodal decisions.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s7a8ca7de71",
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T16:16:07+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "An investment intel consultant says many senior industry figures know about Jensen Huang's alleged misconduct and effectively condone it.",
+   "why": "Reputational and governance concerns around Nvidia's leadership may matter to investors and partners.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2ed3a890d3",
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T16:14:44+00:00",
+   "topics": [
+    "Funding",
+    "Enterprise"
+   ],
+   "summary": "OpenAI's quarterly revenue reportedly crossed $10 billion for the first time, up almost 50% from $6.7 billion in the prior second quarter.",
+   "why": "Rapid revenue growth at a leading model provider signals sustained enterprise and consumer demand for AI services.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s6e11a23c04",
+   "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T16:05:33+00:00",
+   "topics": [
+    "Agents",
+    "Products",
+    "Developer tools"
+   ],
+   "summary": "AWS describes an AI-driven product development lifecycle using six AWS Quick agents, with human approval at each gate and handoff to coding agents like Kiro.",
+   "why": "It offers a structured workflow for turning customer signals into prototypes and specs for coding agents.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sbad6ee94c3",
+   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "source": "Google AI",
+   "published": "2026-11-11T16:00:00+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Google Labs released Tabletop, a experimental collaborative space for building itineraries, polls, and brackets, with a waitlist.",
+   "why": "",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+    }
+   ],
+   "top": false
+  },
+  {
+   "id": "s7026ee2cdd",
+   "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+   "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T15:50:55+00:00",
+   "topics": [
+    "Agents",
+    "Developer tools",
+    "Research"
+   ],
+   "summary": "AWS ML Blog describes UAEF, a framework-agnostic system that converts agent traces into one canonical format and scores them with 36 metrics across 7 dimensions.",
+   "why": "Teams running agents across multiple frameworks can compare versions and catch regressions with one shared evaluation pipeline.",
    "related": [],
    "top": false
   },
@@ -51,6 +296,21 @@
     }
    ],
    "top": true
+  },
+  {
+   "id": "s6619f09dbc",
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T15:00:00+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "Databricks CEO Ali Ghodsi says he uses the revised Genie agent to surface problems his 12,000 employees are unlikely to report directly.",
+   "why": "",
+   "related": [],
+   "top": false
   },
   {
    "id": "s0ccfb511c0",
@@ -138,7 +398,7 @@
    "summary": "OpenAI reports more than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "se28ff692f1",
@@ -152,7 +412,7 @@
    "summary": "Corporate governance experts say nobody has seen anything like the crisis currently unfolding at Nvidia.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sb22522d14a",
@@ -4640,7 +4900,7 @@
      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s9922bcaa36",
@@ -4735,7 +4995,7 @@
      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s196c0edf93",
@@ -14574,84 +14834,6 @@
    ],
    "summary": "Nvidia's board launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive described as an agent of the Chinese government, and Huang sent employees a memo acknowledging the affair.",
    "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "secd65815b5",
-   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-   "source": "The Verge",
-   "published": "2026-11-08T20:22:39+00:00",
-   "topics": [
-    "Enterprise",
-    "Regulation"
-   ],
-   "summary": "Nvidia's board is launching an independent investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, reportedly recruited by China's Ministry of State Security to spy on the company.",
-   "why": "A governance probe at a core AI chip supplier, tied to alleged espionage, could affect supply chains, partner trust, and export-compliance risk.",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s45fb196cb1",
-   "title": "How I Fight AI Brain Fry",
-   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-   "source": "Hacker News",
-   "published": "2026-11-08T19:37:42+00:00",
-   "topics": [
-    "Research"
-   ],
-   "summary": "A Hacker News post shares a blog article on ways to fight \"AI brain fry,\" the mental fatigue from heavy AI tool use.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s53044e44b3",
-   "title": "Apple is racing to make Siri more agentic",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-   "source": "The Verge",
-   "published": "2026-11-08T19:18:19+00:00",
-   "topics": [
-    "Agents",
-    "Products"
-   ],
-   "summary": "Bloomberg reports Apple CEO John Ternus is pressing AI chief Craig Federighi to speed up Siri's roadmap and ship a powerful AI agent to compete with rivals.",
-   "why": "Apple's push toward agentic Siri signals how major platforms will expose AI agents to users and third-party developers.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd8ba3532e1",
-   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-   "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-   "source": "Hacker News",
-   "published": "2026-11-08T18:43:07+00:00",
-   "topics": [
-    "Research"
-   ],
-   "summary": "A WSJ article reports that drugmaker CEOs are skeptical of Silicon Valley claims that AI will cure disease.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sae06ecf718",
-   "title": "Elvis and Eminem rights holders are suing Suno",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-   "source": "The Verge",
-   "published": "2026-11-08T17:23:19+00:00",
-   "topics": [
-    "Regulation",
-    "Models"
-   ],
-   "summary": "Rights holders of Elvis Presley's music and the publisher of some Eminem hits are suing Suno, alleging it generates music and lyrics mimicking those artists.",
-   "why": "Another lawsuit against Suno adds to legal pressure on generative music models over training data and voice or style imitation.",
    "related": [],
    "top": false
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:17:05.743732+00:00",
+ "updated": "2026-11-11T22:06:13.020863+00:00",
  "count": 300,
  "items": [
   {
@@ -9,6 +9,142 @@
    "category": "AI Labs",
    "published": "2026-11-12T00:00:00+00:00",
    "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
+   "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+   "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T21:05:59+00:00",
+   "description": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a smarter re:Invent schedule."
+  },
+  {
+   "title": "Automating AWS Agent Registry updates with push-based architecture",
+   "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T20:52:48+00:00",
+   "description": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments."
+  },
+  {
+   "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T20:45:45+00:00",
+   "description": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scale."
+  },
+  {
+   "title": "Why the data center you dread might never even be built",
+   "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T20:15:15+00:00",
+   "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]"
+  },
+  {
+   "title": "Meta is losing its longtime head of infrastructure",
+   "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T20:12:01+00:00",
+   "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
+  },
+  {
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T20:02:14+00:00",
+   "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]"
+  },
+  {
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T19:54:00+00:00",
+   "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
+  },
+  {
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T19:34:55+00:00",
+   "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+  },
+  {
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T19:22:22+00:00",
+   "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+  },
+  {
+   "title": "Accelerating generative AI delivery with reusable assets",
+   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T19:19:21+00:00",
+   "description": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh."
+  },
+  {
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-11T18:00:00+00:00",
+   "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+  },
+  {
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T16:16:07+00:00",
+   "description": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said."
+  },
+  {
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T16:14:44+00:00",
+   "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+  },
+  {
+   "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T16:05:33+00:00",
+   "description": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro."
+  },
+  {
+   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-11T16:00:00+00:00",
+   "description": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+  },
+  {
+   "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T16:00:00+00:00",
+   "description": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]"
+  },
+  {
+   "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+   "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T15:50:55+00:00",
+   "description": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regressions."
   },
   {
    "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
@@ -25,6 +161,14 @@
    "category": "AI Labs",
    "published": "2026-11-11T15:00:15+00:00",
    "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+  },
+  {
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T15:00:00+00:00",
+   "description": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that."
   },
   {
    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
@@ -51,28 +195,12 @@
    "description": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]"
   },
   {
-   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-   "link": "https://pietromiotti.com/latest/maya-site/?maya",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-11T12:05:22+00:00",
-   "description": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 455 # Comments: 172"
-  },
-  {
    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
    "source": "Google AI",
    "category": "AI Labs",
    "published": "2026-11-11T09:00:00+00:00",
    "description": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
-  },
-  {
-   "title": "OSS projects banning AI-generated contributions",
-   "link": "https://osssaysno.com",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-11T08:51:45+00:00",
-   "description": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 57 # Comments: 94"
   },
   {
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -2273,134 +2401,6 @@
    "category": "Research",
    "published": "2026-11-11T05:00:00+00:00",
    "description": "arXiv:2609.36630v2 Announce Type: replace Abstract: Knowledge distillation provides a teacher-student framework for transferring capabilities at reduced cost and has been widely studied for large language models (LLMs). As LLM-based agents move from response generation to sustained, closed-loop task solving, distillation expands beyond model parameters to knowledge retained in reusable resources and execution workflows. This shift from model-level to agent-level knowledge transfer supports efficient deployment, broader capability access, and continual self-evolution. However, existing surveys largely examine model distillation and agent system design separately, limiting comparison of transfer strategies across agent components. To bridge this gap, we formalize Agent Distillation as persis"
-  },
-  {
-   "title": "Decide, Ask, or Defer: Clinical LLMs under Incomplete Evidence",
-   "link": "https://arxiv.org/abs/2610.04542",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.04542v3 Announce Type: replace Abstract: Clinical LLMs must decide not only what diagnosis to produce, but also whether the available evidence is sufficient for autonomous decision making. Binary DECIDE/ABSTAIN formulations merge distinct non decision states and do not explicitly evaluate information acquisition. We introduce a DECIDE/ASK/DEFER formulation together with a blinded protocol that prevents models from using evidence completeness metadata. We evaluate Qwen, Gemini, and GPT on 200 matched clinical evidence states constructed from DDXPlus. The models show substantial differences in action selection under identical evidence, with disagreement in 137 of 200 states. For Qwen, a matched targeted versus random analysis shows that selected information changes the likelihood "
-  },
-  {
-   "title": "Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design",
-   "link": "https://arxiv.org/abs/2610.06190",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.06190v2 Announce Type: replace Abstract: Large language models can reason over scientific literature, but textual plans do not reliably produce biological sequences with the intended properties. Sequence generators capture sequence patterns, yet they do not interpret evidence, choose interventions, or reflect on outcomes. This separation creates an evidence-to-execution gap between scientific reasoning and sequence-level control. We introduce EASER, a reflective agent that connects the two through a learned property interface. The interface consists of property-specific low-rank directions trained offline and fixed during search; an LLM controller (the controller) composes them to steer a frozen diffusion generator. From retrieved evidence, sequence context, and prior outcomes, "
-  },
-  {
-   "title": "GAGR-Lab: Evaluating Joint Spatial-Geometric and Analytic Function Reasoning",
-   "link": "https://arxiv.org/abs/2610.10201",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.10201v2 Announce Type: replace Abstract: Joint spatial-geometric and analytic function reasoning requires translating a perceived spatial configuration into a symbolic function whose executed curve satisfies geometric constraints. We present GAGR-Lab, a framework for measuring this capability through Cartesian game scenes, explicit function semantics, and authoritative Rust trajectory execution. It distinguishes spatial perception, metric grounding, geometric relations, function interpretation, function construction, and constrained synthesis. We specify four configurable scene-difficulty presets and a prospective 24-cell diagnostic design, while reporting only the subset actually evaluated. A bounded pilot of one hosted model (Llama 3.2 11B Vision Instruct) using two API creden"
-  },
-  {
-   "title": "MSCR: Jointly Balancing Utilization Across Modalities and Discovering Synergistic Information",
-   "link": "https://arxiv.org/abs/2610.24395",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.24395v2 Announce Type: replace Abstract: In multimodal learning, modality imbalance often lets one modality dominate optimization and keeps the model from fully exploiting cross-modal interactions. Balance-oriented methods such as the Multimodal Competition Regularizer (MCR) perform well by alleviating this imbalance during training. These dynamic balancing methods, however, mainly adjust modality contributions and do not consider how imbalance affects the formation of synergistic information during fusion. Synergy is a major source of multimodal advantage, because it is predictive gain that cannot be recovered from unimodal evidence alone. We propose the Multimodal Synergistic Competition Regularizer (MSCR), a fusion method that jointly promotes balanced modality utilization an"
-  },
-  {
-   "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
-   "link": "https://arxiv.org/abs/2610.26185",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.26185v3 Announce Type: replace Abstract: Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to capture critical domain requirements such as exercise safety, physiological appropriateness, personalization, and actionable coaching quality. This gap is particularly concerning in fitness and health applications, where incorrect or unsafe recommendations can lead to physical harm. To address this limitation, we introduce MoveBench, the first comprehensive benchmarking framework specifically designed for evaluating LLMs in sport"
-  },
-  {
-   "title": "IECG: Weakly-Supervised Interpretability-Enhancing Foundation Model for Electrocardiogram",
-   "link": "https://arxiv.org/abs/2610.28083",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.28083v2 Announce Type: replace Abstract: Electrocardiography (ECG) is a cornerstone of cardiac diagnosis, yet most machine learning methods for ECG analysis lack interpretability, limiting their clinical adoption. We present IECG, a weakly-supervised ECG foundation model that jointly performs diagnostic classification and abnormality localization without requiring manual abnormal region annotations, overcoming a long-standing bottleneck in interpretable ECG learning. Central to IECG is a weakly-supervised attention strategy that explicitly incorporates clinical priors by deriving abnormality heatmap pseudo-labels from established ECG clinical knowledge. These pseudo-labels guide the model's CLS-token attention through a KL-divergence loss, encouraging it to focus on diagnostical"
-  },
-  {
-   "title": "The Value of Memory in Language Agents",
-   "link": "https://arxiv.org/abs/2610.31303",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.31303v4 Announce Type: replace Abstract: Language agents carry information from past experience into future tasks whose demands may be unknown or change over time. We develop a decision-theoretic account of the capability available in history, retained in storage and realized through use, together with the costs of recovery and revision. Drawing on comparison of statistical experiments, information acquisition and the value of computation, we express these values in units of avoided task loss. Recovery and revision define attainable risk-cost profiles and preservation across uses. A cost-aware simulation condition and five minimal counterexamples establish how information timing, access, computation, feedback and demand shape these comparisons; a pointer with zero answer mutual "
-  },
-  {
-   "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-   "link": "https://arxiv.org/abs/2610.31882",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.31882v2 Announce Type: replace Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the agentic design of a 240-251 GHz sub-THz transmitter in a 90 nm SiGe BiCMOS process. The agent semi-autonomously designed the sub-blocks including a 60 GHz push-push Colpitts VCO with second-harmonic extraction, multistage differential cascode power drivers, a push-push frequency doubler, a differential bowtie antenna, and all the interstage match"
-  },
-  {
-   "title": "Scoped Semantic Invariance as a Foundation for LLM Reliability",
-   "link": "https://arxiv.org/abs/2610.33267",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.33267v2 Announce Type: replace Abstract: LLMs often answer semantically equivalent queries inconsistently, even when the underlying facts are known. We formalize consistency as semantic invariance over equivalence classes of queries and show that invariance under arbitrary meaning-preserving transformations is undecidable in general. This motivates scoped semantic invariance, where model behavior is evaluated relative to bounded semantic domains. We operationalize this framework using knowledge graphs (KGs), which act as explicit semantic control structures defining local semantic constraints and grounding contexts. Across the MITRE D3FEND ontology and eight Wikidata- derived domains, we show that inconsistencies are structured rather than random, concentrating in localized hots"
-  },
-  {
-   "title": "Are Spiking Neural Networks Harder to Steal? The Role of Stochastic Encoding in Model Extraction",
-   "link": "https://arxiv.org/abs/2610.36298",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.36298v2 Announce Type: replace Abstract: Machine learning models deployed on edge devices are vulnerable to model stealing attacks, in which an adversary replicates a model using only its predictions. Existing defenses add mechanisms that are costly on resource-constrained hardware. Spiking neural networks (SNNs) offer energy-efficient inference at the edge and have been shown to leak less information about their training data than artificial neural networks (ANNs). This work investigates whether SNNs also resist model stealing and identifies the source of any such resistance. We evaluate four model stealing attacks against SNN and ANN models on three image datasets and introduce a metric that accounts for the stochastic outputs of SNNs. SNNs exhibit greater resistance than ANNs"
-  },
-  {
-   "title": "Learning Where to Trust: Reliability-Guided Expert Routing and Velocity Gating for 3D Deformable Registration",
-   "link": "https://arxiv.org/abs/2610.36672",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.36672v2 Announce Type: replace Abstract: Deformable image registration relies on accurate anatomical correspondences. However, explicitly coupling local matching reliability with spatial context selection and deformation update strength remains insufficiently explored in learning-based registration. This challenge is particularly pronounced in homogeneous, weakly textured, and severely deformed regions, where ambiguous matches may induce erroneous deformation updates. We propose ReliMorph, a reliability-routed symmetric framework for 3D deformable registration that couples correspondence assessment with spatial context selection and update strength.Local correlation distributions characterize correspondence ambiguity using shared anatomical features with modality-specific adapta"
-  },
-  {
-   "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
-   "link": "https://arxiv.org/abs/2610.36991",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.36991v4 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) systems ground large language models (LLMs) by retrieving external evidence and conditioning generation on the retrieved context. Although dense retrieval is effective for local semantic matching, independently ranked retrieval can return redundant passages, miss cross-chunk dependencies, and provide incomplete evidence for multi-hop reasoning. We propose SpectRAG, a spectral graph-augmented retrieval framework that combines hybrid candidate seeding, weighted chunk graph construction, graph-based expansion, spectral relevance propagation, and token-budgeted context selection. Document chunks are represented by dense semantic embeddings and graph-spectral coordinates derived from a weighted chunk graph "
-  },
-  {
-   "title": "Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training",
-   "link": "https://arxiv.org/abs/2610.38851",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2610.38851v3 Announce Type: replace Abstract: In many settings where LLM post-training is desirable, high-quality answers are recognizable but difficult to score with explicit rewards. Reinforcement learning with verifiable rewards (RLVR) is limited to tasks where an explicit correctness signal is available. Prior adversarial approaches to training reasoning LLMs either complement verifiable rewards with co-trained critics or require reference reasoning traces. We ask whether a co-trained LLM judge can turn reference answers alone into the sole reward for on-policy post-training of reasoning LLMs. We call this method Reinforced Adversarial Learning (RAL). We first validate RAL on three verifiable tasks (integer multiplication, code-based arithmetic-expression synthesis, and SMILES-to"
-  },
-  {
-   "title": "Low-Margin Branch Points in Deterministic LLM Deliberation",
-   "link": "https://arxiv.org/abs/2611.00546",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.00546v2 Announce Type: replace Abstract: Deterministic multi-agent LLM deliberation can exactly re- play a fixed transcript, yet exact replay alone does not test local resistance to controlled internal interventions. Because each response becomes context for later agents, a changed greedy token can redirect a transcript-mediated execution. We present a white-box audit of this local failure mode in a five-agent committee under greedy decoding. We prospectively select low- and high-margin token positions, require exact no-op re- play, inject norm-relative residual displacements, and measure first transcript divergence within ten generated tokens. Low- margin positions are more branch-sensitive than high-margin controls, while matched margin-reducing gradient directions branch subs"
-  },
-  {
-   "title": "MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework",
-   "link": "https://arxiv.org/abs/2611.02472",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.02472v2 Announce Type: replace Abstract: A GUI command can be correct at the interface level yet still produce an incorrect assembly. An agent must identify the relevant components, respect their structural relationships, and determine which parts should move during recovery. We introduce MAGAR-Bench, a benchmark of 4,000 multimodal samples from 26 assembly families that separates Assembly Decision, Atomic Action, and Minimal Rework. For rework, the objective counts distinct moved parts within the validated recovery candidate set for each state, rather than the number of actions. We also introduce MAGAR, a selective correction framework built on a frozen policy obtained by supervised fine-tuning. Its key design matches correction granularity to output dependencies. Structured ca"
-  },
-  {
-   "title": "FORGE: Fault-Oriented Rework Code Generation for Executable Interlocking Assembly",
-   "link": "https://arxiv.org/abs/2611.02536",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.02536v2 Announce Type: replace Abstract: Large language models have demonstrated strong capabilities in structured reasoning and code generation, yet identifying an assembly fault does not guarantee the ability to generate executable rework programs. In interlocking assemblies, a locally plausible repair program may violate blocking dependencies, omit required recovery operations, or terminate in an incorrect configuration. We identify this challenge as fault-conditioned executable rework generation, where models must jointly reason about structural failures and generate programs that restore constrained assembly states. To benchmark this capability, we introduce FORGE-Bench, containing 4,000 tasks across 26 interlocking assemblies with five assemblies held out for evaluating ge"
   }
  ]
 }

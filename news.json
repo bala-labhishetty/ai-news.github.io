@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:34:28.633122+00:00",
+ "updated": "2026-11-11T15:17:13.505427+00:00",
  "model": "claude-haiku-5-5",
  "items": [
   {
@@ -17,6 +17,116 @@
    "top": false
   },
   {
+   "id": "s3bb3af5987",
+   "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T15:10:23+00:00",
+   "topics": [
+    "Infrastructure",
+    "Enterprise",
+    "Products"
+   ],
+   "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker AI bidirectional streaming inference, with Deepgram as launch partner for speech-to-text and text-to-speech.",
+   "why": "Engineers building live voice or streaming AI services can now bill customers per consumed usage through AWS Marketplace.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sa86af765ff",
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "source": "The Verge",
+   "published": "2026-11-11T15:00:00+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "summary": "Google DeepMind unveiled AlphaGenome 2, a successor model that aims to explain how DNA changes affect different cells and the causes of disease.",
+   "why": "",
+   "related": [
+    {
+     "source": "Google DeepMind",
+     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s0ccfb511c0",
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T14:00:00+00:00",
+   "topics": [
+    "Agents",
+    "Research"
+   ],
+   "summary": "Plurai is working on improving AI agents by applying an end-to-end training approach similar to the one used for self-driving cars.",
+   "why": "Engineers building agents may find the idea of training for probabilistic, unpredictable environments relevant, though the text gives few details.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s450a9863af",
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "source": "The Verge",
+   "published": "2026-11-11T14:00:00+00:00",
+   "topics": [
+    "Products",
+    "Research"
+   ],
+   "summary": "Adobe announced experimental AI features at its Max conference, including turning images into explorable 3D scenes, designing AI characters through conversation, and copy/paste-style photo editing.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s8d8bc38f54",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "link": "https://pietromiotti.com/latest/maya-site/?maya",
+   "source": "Hacker News",
+   "published": "2026-11-11T12:05:22+00:00",
+   "topics": [
+    "Agents",
+    "Research"
+   ],
+   "summary": "A Hacker News post describes Google SWE using 48 AI agents on NASA Lidar data that reportedly found an unmapped Maya pyramid in 72 hours.",
+   "why": "It shows multi-agent systems applied to large geospatial datasets, though the description gives little detail on the method.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s14eef01dc0",
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "source": "Google AI",
+   "published": "2026-11-11T09:00:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "Google AI published a piece on the art and legacy of Dr. Esther Mahlangu, with a portrait of Dr. Nontobeko Ntombela from Wits School of Arts.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sa44764839f",
+   "title": "OSS projects banning AI-generated contributions",
+   "link": "https://osssaysno.com",
+   "source": "Hacker News",
+   "published": "2026-11-11T08:51:45+00:00",
+   "topics": [
+    "Open source",
+    "Developer tools"
+   ],
+   "summary": "A Hacker News post links to a site listing open source projects that ban AI-generated contributions.",
+   "why": "Maintainers and engineering leaders should note that some open source projects are refusing AI-generated code contributions.",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "s80b38ea7da",
    "title": "ChatGPT Plus for veterans and servicemembers",
    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
@@ -28,7 +138,21 @@
    "summary": "OpenAI reports more than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus.",
    "why": "",
    "related": [],
-   "top": false
+   "top": true
+  },
+  {
+   "id": "se28ff692f1",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T07:30:51+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Corporate governance experts say nobody has seen anything like the crisis currently unfolding at Nvidia.",
+   "why": "",
+   "related": [],
+   "top": true
   },
   {
    "id": "sb22522d14a",
@@ -4658,7 +4782,7 @@
      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s66ed14c641",
@@ -4721,7 +4845,7 @@
      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s707c973eec",
@@ -4861,7 +4985,7 @@
      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s01a8528fa1",

@@ -15509,6 +15509,139 @@
    "topics": [
     "Enterprise"
    ]
+  },
+  "se28ff692f1": {
+   "id": "se28ff692f1",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T07:30:51+00:00",
+   "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+   "related": [],
+   "summary": "Corporate governance experts say nobody has seen anything like the crisis currently unfolding at Nvidia.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "sa44764839f": {
+   "id": "sa44764839f",
+   "title": "OSS projects banning AI-generated contributions",
+   "link": "https://osssaysno.com",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T08:51:45+00:00",
+   "description": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 57 # Comments: 94",
+   "related": [],
+   "summary": "A Hacker News post links to a site listing open source projects that ban AI-generated contributions.",
+   "why": "Maintainers and engineering leaders should note that some open source projects are refusing AI-generated code contributions.",
+   "topics": [
+    "Open source",
+    "Developer tools"
+   ]
+  },
+  "s14eef01dc0": {
+   "id": "s14eef01dc0",
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-11T09:00:00+00:00",
+   "description": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+   "related": [],
+   "summary": "Google AI published a piece on the art and legacy of Dr. Esther Mahlangu, with a portrait of Dr. Nontobeko Ntombela from Wits School of Arts.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s8d8bc38f54": {
+   "id": "s8d8bc38f54",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "link": "https://pietromiotti.com/latest/maya-site/?maya",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T12:05:22+00:00",
+   "description": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 455 # Comments: 172",
+   "related": [],
+   "summary": "A Hacker News post describes Google SWE using 48 AI agents on NASA Lidar data that reportedly found an unmapped Maya pyramid in 72 hours.",
+   "why": "It shows multi-agent systems applied to large geospatial datasets, though the description gives little detail on the method.",
+   "topics": [
+    "Agents",
+    "Research"
+   ]
+  },
+  "s0ccfb511c0": {
+   "id": "s0ccfb511c0",
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T14:00:00+00:00",
+   "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+   "related": [],
+   "summary": "Plurai is working on improving AI agents by applying an end-to-end training approach similar to the one used for self-driving cars.",
+   "why": "Engineers building agents may find the idea of training for probabilistic, unpredictable environments relevant, though the text gives few details.",
+   "topics": [
+    "Agents",
+    "Research"
+   ]
+  },
+  "s450a9863af": {
+   "id": "s450a9863af",
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T14:00:00+00:00",
+   "description": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]",
+   "related": [],
+   "summary": "Adobe announced experimental AI features at its Max conference, including turning images into explorable 3D scenes, designing AI characters through conversation, and copy/paste-style photo editing.",
+   "why": "",
+   "topics": [
+    "Products",
+    "Research"
+   ]
+  },
+  "sa86af765ff": {
+   "id": "sa86af765ff",
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T15:00:00+00:00",
+   "description": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]",
+   "related": [
+    {
+     "source": "Google DeepMind",
+     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
+    }
+   ],
+   "summary": "Google DeepMind unveiled AlphaGenome 2, a successor model that aims to explain how DNA changes affect different cells and the causes of disease.",
+   "why": "",
+   "topics": [
+    "Models",
+    "Research"
+   ]
+  },
+  "s3bb3af5987": {
+   "id": "s3bb3af5987",
+   "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T15:10:23+00:00",
+   "description": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS Marketplace.",
+   "related": [],
+   "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker AI bidirectional streaming inference, with Deepgram as launch partner for speech-to-text and text-to-speech.",
+   "why": "Engineers building live voice or streaming AI services can now bill customers per consumed usage through AWS Marketplace.",
+   "topics": [
+    "Infrastructure",
+    "Enterprise",
+    "Products"
+   ]
   }
  },
  "seen": {
@@ -16503,6 +16636,15 @@
   "https://arxiv.org/abs/2611.07948": "sdb72c38858",
   "https://huggingface.co/blog/qvac/botpsy": "sb22522d14a",
   "https://openai.com/index/chatgpt-plus-for-veterans": "s80b38ea7da",
-  "https://openai.com/index/gilbert-tobin-sam-nickless": "sf28f90d289"
+  "https://openai.com/index/gilbert-tobin-sam-nickless": "sf28f90d289",
+  "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn": "se28ff692f1",
+  "https://osssaysno.com": "sa44764839f",
+  "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu": "s14eef01dc0",
+  "https://pietromiotti.com/latest/maya-site": "s8d8bc38f54",
+  "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads": "s0ccfb511c0",
+  "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai": "s450a9863af",
+  "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model": "sa86af765ff",
+  "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "sa86af765ff",
+  "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming": "s3bb3af5987"
  }
 }

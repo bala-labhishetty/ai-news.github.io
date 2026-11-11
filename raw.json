@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:31:45.068604+00:00",
+ "updated": "2026-11-11T15:17:05.743732+00:00",
  "count": 300,
  "items": [
   {
@@ -11,12 +11,84 @@
    "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
   },
   {
+   "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T15:10:23+00:00",
+   "description": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS Marketplace."
+  },
+  {
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-11-11T15:00:15+00:00",
+   "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+  },
+  {
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T15:00:00+00:00",
+   "description": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]"
+  },
+  {
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T14:00:00+00:00",
+   "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+  },
+  {
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T14:00:00+00:00",
+   "description": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]"
+  },
+  {
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "link": "https://pietromiotti.com/latest/maya-site/?maya",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T12:05:22+00:00",
+   "description": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 455 # Comments: 172"
+  },
+  {
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-11T09:00:00+00:00",
+   "description": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
+  },
+  {
+   "title": "OSS projects banning AI-generated contributions",
+   "link": "https://osssaysno.com",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T08:51:45+00:00",
+   "description": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 57 # Comments: 94"
+  },
+  {
    "title": "ChatGPT Plus for veterans and servicemembers",
    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
    "source": "OpenAI",
    "category": "AI Labs",
    "published": "2026-11-11T08:00:00+00:00",
    "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  {
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T07:30:51+00:00",
+   "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
   },
   {
    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -2329,78 +2401,6 @@
    "category": "Research",
    "published": "2026-11-11T05:00:00+00:00",
    "description": "arXiv:2611.02536v2 Announce Type: replace Abstract: Large language models have demonstrated strong capabilities in structured reasoning and code generation, yet identifying an assembly fault does not guarantee the ability to generate executable rework programs. In interlocking assemblies, a locally plausible repair program may violate blocking dependencies, omit required recovery operations, or terminate in an incorrect configuration. We identify this challenge as fault-conditioned executable rework generation, where models must jointly reason about structural failures and generate programs that restore constrained assembly states. To benchmark this capability, we introduce FORGE-Bench, containing 4,000 tasks across 26 interlocking assemblies with five assemblies held out for evaluating ge"
-  },
-  {
-   "title": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
-   "link": "https://arxiv.org/abs/2611.04785",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.04785v2 Announce Type: replace Abstract: Large language models are candidates for collecting and analyzing records in criminal investigations and mass surveillance. Their capability and accuracy in this work cannot currently be measured. Real deployments lack the ground truth needed to score a model's conclusions, and no benchmark evaluates these capabilities in a simulated environment. We present Kierston, a city-scale simulation engine, and KierstonBench, a benchmark that tests these capabilities against known simulated events. Kierston models approximately 125,000 residents of Allentown, Pennsylvania, generating their daily activities and the telecommunications, financial, administrative and license-plate records that surveillance and investigative systems collect about them."
-  },
-  {
-   "title": "Combining Relevant Expert Knowledge Using Mixtures of Feedback Fuzzy Cognitive Maps",
-   "link": "https://arxiv.org/abs/2611.05664",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.05664v2 Announce Type: replace Abstract: A neuro-symbolic system should combine only relevant answers from expert agents or other knowledge sources. Using only relevant experts for a given input query becomes ever more important for accuracy and scalability as the knowledge network grows and connects ever more knowledge sources. We extend the standard definition of relevance from the legal theory of evidence: An answer is relevant if and only if it is both probative and material for the matter at hand given the knowledge available. We apply this relevancy scheme to mixing the feedback fuzzy cognitive maps (FCMs) of real or artificial experts. The expert FCM directed causal graphs mix or combine into a common knowledge network. We compare the equilibrium limit-cycle predictions o"
-  },
-  {
-   "title": "CompressionBench: How can your coding agents compress LLMs?",
-   "link": "https://arxiv.org/abs/2611.06858",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.06858v2 Announce Type: replace Abstract: Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's behavior within a smaller model storage budget. We study whether coding agents can carry out this step autonomously. We formulate compression as a terminal task in which an agent receives a source checkpoint, storage limit, inference environment, and time budget, then constructs compressed weights and executable inference code. The agent controls its algorithm and experiments; perplexity feedback guides search, and independent verification checks the final model. Across six agents and six model--size settings, 29 of 36 submissions pass verifi"
-  },
-  {
-   "title": "Circe: Training-Free LLM Self-Evaluation via Component Interaction Consistency",
-   "link": "https://arxiv.org/abs/2611.07948",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.07948v2 Announce Type: replace Abstract: As large language models (LLMs) are increasingly deployed in real-world applications, evaluating the correctness of their responses is crucial for reliable use. However, such evaluation is challenging because reference answers are rarely available in practice. Existing reference-free methods mainly rely on output signals, which may assign high scores to incorrect responses and thus do not necessarily reflect correctness. This motivates exploring the model's internal computation for complementary correctness signals. Recent studies exploit internal states, but they mainly analyze hidden-state trajectories across layers, which record only the combined updates of attention and feed-forward networks (FFNs) and overlook how these components in"
-  },
-  {
-   "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
-   "link": "https://arxiv.org/abs/2611.09792",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.09792v2 Announce Type: replace Abstract: Current evaluations of agentic AI systems primarily rely on benchmarks. However, the static nature of benchmarks makes them uninformative about the value of auditing interventions at deployment time. For reliable deployment, we often need to determine within an agent's trajectory whether or not to intervene, e.g., by verifying the agent's current output or steering it toward different behavior, using either human review or more costly models or time-consuming agentic supervision. The value of such interventions is fundamentally a causal inference question, asking whether the causal effect of such an intervention is beneficial for the final outcome. Estimating this causal effect is particularly challenging due to the dynamic nature of the "
-  },
-  {
-   "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
-   "link": "https://arxiv.org/abs/2611.10048",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.10048v2 Announce Type: replace Abstract: Large language models (LLMs) offer a scalable approach for annotating mental health and crisis-related social media content, but their reliability in safety-critical tasks remains unclear. This study evaluates LLM-based crisis-severity annotation of veteran-related social media posts against annotations from eight Veteran Subject Matter Experts (SMEs). Using 149 tweets and five severity categories, we evaluate 15 open-source and 10 proprietary LLMs across eight prompt variants, examining annotation performance, inter-model agreement, prompt sensitivity, and high-severity crisis detection. Human reviewers showed higher ordinal than nominal agreement ({\\alpha} = 0.494), indicating that disagreements often occurred between neighboring severi"
-  },
-  {
-   "title": "Key Institutional Considerations for Designing Effective Independent Verification Organizations",
-   "link": "https://arxiv.org/abs/2611.10168",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.10168v2 Announce Type: replace Abstract: Independent verification organizations (IVOs) have emerged as a popular, bipartisan solution for facilitating high-quality independent evaluations of AI technologies. But momentum is outpacing design: there is emerging consensus on the necessary operating conditions for robust IVOs, but little discourse on institutional and policy specifications to ensure those conditions are met. IVOs are currently envisioned primarily as a mechanism operating at the AI frontier and model level to evaluate catastrophic risks. Little work has yet been done on how to establish or enforce an IVO ecosystem that is equipped to handle myriad risks (i.e., beyond catastrophic ones) and operate at the system and application level across the deployment and use sta"
-  },
-  {
-   "title": "FAIDER: Fairness-Aware Item-Level Decoding for Large Language Model Recommenders",
-   "link": "https://arxiv.org/abs/2611.10285",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.10285v2 Announce Type: replace Abstract: Large language model (LLM) recommenders can produce semantically different recommendations when a user's protected attribute changes, even if the interaction history remains fixed. Controlling this disparity is challenging when model weights and full-vocabulary logits are inaccessible. We propose FAIDER (Fairness-Aware Item-level DEcoding for Recommendation), which incorporates fairness into list construction by selecting complete item candidates rather than manipulating token-level logits or repeatedly repairing finished outputs. The central idea is to separate the operational criterion for a violation from how strongly generation is constrained. Conformal-inspired empirical calibration fixes a cross-group semantic-disparity threshold, w"
-  },
-  {
-   "title": "Seeing Isn't Enough: Unlocking Visual Reasoning by Bridging the Reasoning-Access Gap with TIGER",
-   "link": "https://arxiv.org/abs/2611.10552",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2611.10552v2 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) inherit strong textual reasoning capabilities from their language backbones and text pretraining, but often fail to apply the same level of competency to visual inputs. We show that this degradation cannot be attributed to only perception failures, by evaluating models on semantically-equivalent text and rendered-text image inputs: models can accurately read text in the images and recover near-text performance when provided their own transcriptions, but just cannot reason well on the images directly. We characterize this discrepancy as a modality reasoning-access gap, where models fail to route perceived visual content into existing reasoning machinery accessible with text. To bridge this, we propo"
   }
  ]
 }

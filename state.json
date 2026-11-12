@@ -1,425 +1,5 @@
 {
  "stories": {
-  "s5aa2811f45": {
-   "id": "s5aa2811f45",
-   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-   "link": "https://github.com/samir-sarwar/samir-vllm",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-09T11:36:55+00:00",
-   "description": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 68 # Comments: 11",
-   "related": [],
-   "summary": "A Hacker News post links to a GitHub project offering about 6 hours of YouTube videos and 85 handwritten pages of notes on LLM inference.",
-   "why": "It offers a learning resource on LLM inference, a topic relevant to engineers building or serving models.",
-   "topics": [
-    "Developer tools",
-    "Infrastructure"
-   ]
-  },
-  "s7b1451fc78": {
-   "id": "s7b1451fc78",
-   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-09T12:34:29+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Hugging Face published a post titled 'Your Experts Have Partners. There's HOPE for Keeping Them Together', but the provided text includes no description.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  "s42e7d6fc34": {
-   "id": "s42e7d6fc34",
-   "title": "Innovating with AI in the special chemicals industry",
-   "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-   "source": "MIT Tech Review",
-   "category": "Industry",
-   "published": "2026-11-09T13:00:00+00:00",
-   "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
-   "related": [],
-   "summary": "Lubrizol describes how it is applying AI, cloud computing, and advanced modeling to speed up specialty chemicals innovation.",
-   "why": "Illustrates the practical challenge of connecting AI tools to reliable scientific data and product development.",
-   "topics": [
-    "Enterprise",
-    "Research"
-   ]
-  },
-  "sbd74b7cf0c": {
-   "id": "sbd74b7cf0c",
-   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-   "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T14:00:00+00:00",
-   "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-   "related": [],
-   "summary": "Automattic launched Spacefast, a platform for deploying vibe-coded apps, positioning it against Lovable.",
-   "why": "Adds another hosting option for AI-generated apps, relevant to teams evaluating deployment platforms for prototypes.",
-   "topics": [
-    "Developer tools",
-    "Infrastructure"
-   ]
-  },
-  "s7cd5e10290": {
-   "id": "s7cd5e10290",
-   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-   "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-09T14:00:01+00:00",
-   "description": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
-   "related": [],
-   "summary": "At CoRL, NVIDIA and partners showed robots learning delicate manipulation tasks like aligning gears and connecting cables through simulation.",
-   "why": "Simulation-based training for fine manipulation is a practical route for robotics teams to reduce costly real-world trials.",
-   "topics": [
-    "Research"
-   ]
-  },
-  "scc49c1ae68": {
-   "id": "scc49c1ae68",
-   "title": "Jonathan Kanter is using AI to take on Big Tech",
-   "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T14:30:00+00:00",
-   "description": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
-   "related": [],
-   "summary": "Former DOJ antitrust chief Jonathan Kanter, with Doha Mekki, launched a private-sector venture using AI to pursue Big Tech antitrust cases.",
-   "why": "",
-   "topics": [
-    "Regulation",
-    "Funding"
-   ]
-  },
-  "s057e22ab69": {
-   "id": "s057e22ab69",
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-09T15:05:57+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Hugging Face released Nemotron-Personas-Finance-Japan, a synthetic dataset modeling Japan's demographics and financial context.",
-   "why": "Provides a synthetic dataset for building or testing finance-oriented Japanese AI applications, though the text gives few details.",
-   "topics": [
-    "Open source"
-   ]
-  },
-  "sbce465cdb5": {
-   "id": "sbce465cdb5",
-   "title": "Hold up — I had a great time talking to the RIAA guy",
-   "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T15:30:00+00:00",
-   "description": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […]",
-   "related": [],
-   "summary": "A podcast conversation with RIAA CEO Mitch Glazier covers the music industry's history with copyright and file sharing.",
-   "why": "",
-   "topics": [
-    "Regulation"
-   ]
-  },
-  "s86961a9937": {
-   "id": "s86961a9937",
-   "title": "Disney and Adobe are building generative AI tools together",
-   "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T15:38:56+00:00",
-   "description": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
-   "related": [],
-   "summary": "Disney and Adobe announced a multiyear partnership to build proprietary, artist-led generative AI models for Disney's production pipeline.",
-   "why": "Shows major studios building custom generative models on licensed creative tooling for production workflows.",
-   "topics": [
-    "Products",
-    "Enterprise"
-   ]
-  },
-  "s67d134866a": {
-   "id": "s67d134866a",
-   "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T15:50:38+00:00",
-   "description": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
-   "related": [],
-   "summary": "In a 60 Minutes interview, Trump said AI executives' safety risks are manageable and claimed the DOJ is managing them.",
-   "why": "Reflects the White House stance on AI safety risk, which may shape federal oversight priorities.",
-   "topics": [
-    "Regulation",
-    "Safety"
-   ]
-  },
-  "sdbd9680f73": {
-   "id": "sdbd9680f73",
-   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T16:12:28+00:00",
-   "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-   "related": [],
-   "summary": "Medium launched TK, a writing app that brings AI assistance directly into the writing process amid publishing controversy.",
-   "why": "Shows AI writing assistance being built into mainstream authoring tools despite backlash.",
-   "topics": [
-    "Products"
-   ]
-  },
-  "sd75c80b545": {
-   "id": "sd75c80b545",
-   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T16:56:54+00:00",
-   "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
-   "related": [],
-   "summary": "Anthropic bought $3.4 billion worth of natural gas turbines to power its AI infrastructure buildout.",
-   "why": "Highlights the growing energy and power constraints facing large-scale AI compute capacity.",
-   "topics": [
-    "Infrastructure"
-   ]
-  },
-  "s7f47f4f445": {
-   "id": "s7f47f4f445",
-   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-   "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-   "source": "MIT Tech Review",
-   "category": "Industry",
-   "published": "2026-11-09T17:05:43+00:00",
-   "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
-   "related": [],
-   "summary": "Scott Wiener, who authored California AI risk legislation, won a congressional race for Nancy Pelosi's seat and may shape federal AI policy.",
-   "why": "A legislator with a track record on advanced AI risk could influence federal rules affecting AI developers.",
-   "topics": [
-    "Regulation"
-   ]
-  },
-  "sa06869aa80": {
-   "id": "sa06869aa80",
-   "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T17:36:08+00:00",
-   "description": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny"
-    }
-   ],
-   "summary": "An opinion piece criticizes Nvidia CEO Jensen Huang's judgment around a national security incident and links it to the future of AI.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "s99d632aaa4": {
-   "id": "s99d632aaa4",
-   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T18:00:00+00:00",
-   "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-   "related": [],
-   "summary": "Meta released Muse Ember, a lightweight model for agent execution priced at 10 cents per million input tokens.",
-   "why": "Its low per-token price makes it a cost-focused option for running agent workloads compared with frontier models.",
-   "topics": [
-    "Models",
-    "Agents"
-   ]
-  },
-  "s9d5aee5d27": {
-   "id": "s9d5aee5d27",
-   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-   "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T18:07:23+00:00",
-   "description": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
-   "related": [],
-   "summary": "Instagram launched Effect Builder, which generates custom Stories filters from text prompts, available now to US users over 18.",
-   "why": "Shows consumer platforms embedding generative AI creation tools directly into product features.",
-   "topics": [
-    "Products",
-    "Models"
-   ]
-  },
-  "s9015c30696": {
-   "id": "s9015c30696",
-   "title": "Professional work deserves professional tools. Meet AWS Quick.",
-   "link": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-09T18:43:30+00:00",
-   "description": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on.",
-   "related": [],
-   "summary": "AWS introduced AWS Quick, formerly Amazon Quick, an AI workspace where teams use agents to research, analyze, and act across their data and apps.",
-   "why": "Signals AWS pushing agentic AI workspaces into everyday business tools, relevant to enterprise platform decisions.",
-   "topics": [
-    "Products",
-    "Agents",
-    "Enterprise"
-   ]
-  },
-  "sf37b680abc": {
-   "id": "sf37b680abc",
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "link": "https://openai.com/index/control-room",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-09T13:00:00+00:00",
-   "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-   "related": [],
-   "summary": "OpenAI described Control Room, a central system that tracks model workloads across its research infrastructure and can quickly stop them over safety or security concerns.",
-   "why": "Shows how a lab centralizes monitoring and rapid shutdown of training workloads, a pattern relevant to large-scale compute governance.",
-   "topics": [
-    "Safety",
-    "Infrastructure"
-   ]
-  },
-  "sa4e01cee6a": {
-   "id": "sa4e01cee6a",
-   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-   "link": "https://github.com/Dodaios/ste80-humanizer",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-09T18:05:44+00:00",
-   "description": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 58 # Comments: 16",
-   "related": [],
-   "summary": "A Show HN post presents STE80 Humanizer, a tool that de-AI-ifies text by writing about 80% of the way toward ASD-STE100.",
-   "why": "",
-   "topics": [
-    "Developer tools"
-   ]
-  },
-  "s033426cd1f": {
-   "id": "s033426cd1f",
-   "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-09T18:55:43+00:00",
-   "description": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses.",
-   "related": [],
-   "summary": "CrossnoKaye used Amazon Bedrock AgentCore to build ATLAS and AURA, which ground AI reasoning in live plant data and run verifiable Python in isolated sandboxes.",
-   "why": "Illustrates an approach to industrial AI that uses executable, checkable computation instead of unverified model answers.",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ]
-  },
-  "s9c331579e2": {
-   "id": "s9c331579e2",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-09T19:00:00+00:00",
-   "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-   "related": [],
-   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, letting organizations buy it via existing AWS purchasing and billing.",
-   "why": "Simplifies procurement for enterprises already on AWS, streamlining approval and billing for ChatGPT Enterprise.",
-   "topics": [
-    "Enterprise",
-    "Products"
-   ]
-  },
-  "sf1eea0a278": {
-   "id": "sf1eea0a278",
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T19:00:00+00:00",
-   "description": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns"
-    }
-   ],
-   "summary": "Anthropic announced Claude Fable 5.2 and Claude Mythos 5.2, which it says improve coding, reasoning, and vision and generate outputs faster than the 5.1 versions.",
-   "why": "New model versions claiming coding and speed gains may matter for teams evaluating which Claude model to use.",
-   "topics": [
-    "Models"
-   ]
-  },
-  "scafe7e1bd3": {
-   "id": "scafe7e1bd3",
-   "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-09T19:05:54+00:00",
-   "description": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer without redesigning the rest of the stack.",
-   "related": [],
-   "summary": "AWS published a seven-layer composable reference architecture for moving enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore.",
-   "why": "Gives teams a layered blueprint with stable contracts so individual technologies can be swapped without redesigning the whole stack.",
-   "topics": [
-    "Agents",
-    "Enterprise",
-    "Infrastructure"
-   ]
-  },
-  "s4a7141713a": {
-   "id": "s4a7141713a",
-   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-   "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T19:09:58+00:00",
-   "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
-   "related": [],
-   "summary": "Apple added a one-time $49.99 \"Buy More Usage\" option in Logic Pro for its AI assistant, following a September support article on Apple Intelligence usage limits.",
-   "why": "Shows usage-based paid tiers for built-in AI features, which may affect how teams budget for AI functionality in apps.",
-   "topics": [
-    "Products",
-    "Models"
-   ]
-  },
-  "sc4cbbe7643": {
-   "id": "sc4cbbe7643",
-   "title": "The backlash about data centers might really just be about electricity",
-   "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-   "source": "MIT Tech Review",
-   "category": "Industry",
-   "published": "2026-11-09T19:35:33+00:00",
-   "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
-   "related": [],
-   "summary": "Reporting from Ashburn, Virginia, in Data Center Alley, argues that local backlash against data centers may be driven mainly by electricity concerns.",
-   "why": "Rising power demand from data centers may create grid and community pushback that affects where and when infrastructure can be built.",
-   "topics": [
-    "Infrastructure",
-    "Regulation"
-   ]
-  },
-  "sf00e71ef88": {
-   "id": "sf00e71ef88",
-   "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-   "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-09T19:41:34+00:00",
-   "description": "\"*sshole\" poses a serious threat to Internet security.",
-   "related": [],
-   "summary": "A vulnerability called *sshole that lets hackers SSH into Linux devices is under active exploitation.",
-   "why": "Actively exploited remote access flaws in Linux devices require immediate patching and exposure review by any team running them.",
-   "topics": [
-    "Safety",
-    "Infrastructure"
-   ]
-  },
   "s51fd6bae6a": {
    "id": "s51fd6bae6a",
    "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
@@ -10670,7 +10250,13 @@
    "category": "Community",
    "published": "2026-11-11T12:05:22+00:00",
    "description": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 455 # Comments: 172",
-   "related": [],
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+     "title": "No, AI agents did not discover a previously unknown Maya site"
+    }
+   ],
    "summary": "A Hacker News post describes Google SWE using 48 AI agents on NASA Lidar data that reportedly found an unmapped Maya pyramid in 72 hours.",
    "why": "It shows multi-agent systems applied to large geospatial datasets, though the description gives little detail on the method.",
    "topics": [
@@ -11070,6 +10656,11 @@
      "source": "The Verge",
      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
      "title": "United won’t let your AI agent book your flight"
+    },
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+     "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks"
     }
    ],
    "summary": "United Airlines has reportedly banned AI agents from booking flights on behalf of travelers, according to a CBS News report shared on Hacker News.",
@@ -11192,7 +10783,13 @@
    "category": "Industry",
    "published": "2026-11-11T23:50:00+00:00",
    "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "related": [],
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+     "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals"
+    }
+   ],
    "summary": "TechCrunch publishes a timeline of an affair scandal involving Nvidia CEO Jensen Huang, which it says could affect national security amid US-China AI infrastructure competition.",
    "why": "",
    "topics": [
@@ -11214,22 +10811,6 @@
     "Agents",
     "Developer tools",
     "Infrastructure"
-   ]
-  },
-  "s7da1b2b475": {
-   "id": "s7da1b2b475",
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-   "source": "Google DeepMind",
-   "category": "AI Labs",
-   "published": "2026-11-09T19:51:47+00:00",
-   "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-   "related": [],
-   "summary": "Google DeepMind announced Gemini Robotics 2.5, its most capable vision-language-action model, aimed at improving robot dexterity, reliability, and safety.",
-   "why": "It signals progress in general-purpose robot control models, though the description gives no benchmarks or availability details.",
-   "topics": [
-    "Models",
-    "Research"
    ]
   },
   "s1ff74ee2cb": {
@@ -11469,37 +11050,392 @@
     "Enterprise",
     "Developer tools"
    ]
+  },
+  "s56dac742ff": {
+   "id": "s56dac742ff",
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "link": "https://huggingface.co/blog/3d-lora-finetuning",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-12T00:00:00+00:00",
+   "description": "",
+   "related": [],
+   "summary": "Hugging Face published a definitive fine-tuning guide for 3D generation models.",
+   "why": "",
+   "topics": [
+    "Research",
+    "Developer tools"
+   ]
+  },
+  "s24d7fb83f2": {
+   "id": "s24d7fb83f2",
+   "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+   "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T13:26:25+00:00",
+   "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+   "related": [],
+   "summary": "Nine Korean startups are competing for a spot in Disrupt 2027's Startup Battlefield 200, spanning deep tech sectors including AI, healthcare, and semiconductors.",
+   "why": "",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "s91eeb3c113": {
+   "id": "s91eeb3c113",
+   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-12T14:00:59+00:00",
+   "description": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
+   "related": [],
+   "summary": "Warhammer 40,000: Dawn of War IV arrives on GeForce NOW, with DLSS 5 coming to War Thunder and Where Winds Meet.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s39f4c129e4": {
+   "id": "s39f4c129e4",
+   "title": "I reviewed the Apple HomeView, ask me anything",
+   "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-12T14:10:00+00:00",
+   "description": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on […]",
+   "related": [],
+   "summary": "The Verge's smart home reviewer tested Apple's first smart display, the $299 HomeView, in tabletop and wall-mounted versions, and opened the review to reader questions.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s660711644c": {
+   "id": "s660711644c",
+   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T15:02:28+00:00",
+   "description": "This is Fireworks' second data breach in as many months.",
+   "related": [],
+   "summary": "A cyberattack on Fireworks AI let hackers access Notion customers' chat transcripts, marking Fireworks' second data breach in two months.",
+   "why": "Repeated breaches at an AI infrastructure vendor highlight the need to vet third-party AI providers and limit sensitive data exposure.",
+   "topics": [
+    "Safety",
+    "Enterprise"
+   ]
+  },
+  "sbfccb2d385": {
+   "id": "sbfccb2d385",
+   "title": "Norwest pushes deeper into AI with new $4B fund",
+   "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T15:18:14+00:00",
+   "description": "This is the investment firm's largest fund to date.",
+   "related": [],
+   "summary": "Norwest has raised a $4 billion fund, its largest to date, to deepen its AI investing.",
+   "why": "",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "saff6802cc5": {
+   "id": "saff6802cc5",
+   "title": "From prototype to production: Engineering agents with Agent DLC",
+   "link": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T15:38:47+00:00",
+   "description": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured case where an aggregate metric hides a coverage gap, and Agent DLC: one lifecycle, two loops, and one explicit standard for judging every change.",
+   "related": [],
+   "summary": "AWS introduces Agent DLC, a lifecycle framework for measuring agent quality and checking whether each change helps, addressing gaps in traditional CI/CD.",
+   "why": "Aggregate metrics can hide coverage gaps, so teams moving agents to production need repeatable evaluation loops for every change.",
+   "topics": [
+    "Agents",
+    "Developer tools"
+   ]
+  },
+  "s9ed2099ae4": {
+   "id": "s9ed2099ae4",
+   "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+   "link": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T15:40:24+00:00",
+   "description": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
+   "related": [],
+   "summary": "AWS explains exposing a Bedrock Managed Knowledge Base to agents as MCP tools via AgentCore Gateway while enforcing per-user access control.",
+   "why": "It offers a pattern for securing agent access to enterprise knowledge bases using verified identity injection, independent policy checks, and resource-based restrictions.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "sd3206ea89c": {
+   "id": "sd3206ea89c",
+   "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T15:42:21+00:00",
+   "description": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated calls, with neither side depending on the other's framework or SDK.",
+   "related": [],
+   "summary": "AWS shows how to build a multi-agent system where a LangChain orchestrator on ECS talks to a Strands agent on Bedrock AgentCore via the A2A protocol.",
+   "why": "It demonstrates cross-framework, cross-organization agent interoperability with OAuth-authenticated, bidirectional calls, without shared SDK dependencies.",
+   "topics": [
+    "Agents",
+    "Infrastructure"
+   ]
+  },
+  "s6d29ea24a6": {
+   "id": "s6d29ea24a6",
+   "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+   "link": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T16:16:45+00:00",
+   "description": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new knowledge base or an infrastructure-as-code template alongside the original, and validates retrieval before you cut over.",
+   "related": [],
+   "summary": "AWS describes how a coding agent using the amazon-bedrock skill can migrate a customer-managed Bedrock knowledge base to a Managed Knowledge Base with read-only discovery and validation.",
+   "why": "Gives teams a guided, validated path to move RAG knowledge bases to managed infrastructure without disrupting retrieval.",
+   "topics": [
+    "Developer tools",
+    "Infrastructure"
+   ]
+  },
+  "saff4b2c655": {
+   "id": "saff4b2c655",
+   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+   "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T16:32:33+00:00",
+   "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+   "related": [],
+   "summary": "An article argues that Nvidia's ousted CEO Jensen Huang used his influence to push the AI industry in specific ways, and that his departure could affect it.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s0cefd18c08": {
+   "id": "s0cefd18c08",
+   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T17:00:00+00:00",
+   "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+   "related": [],
+   "summary": "Phota Labs is building AI that automates photo editing to turn everyday photos into professional-looking shots for consumers.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s3293393520": {
+   "id": "s3293393520",
+   "title": "AI chatbots are recommending fake retail websites, study finds",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-12T17:00:00+00:00",
+   "description": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]",
+   "related": [],
+   "summary": "A study by IP protection firm Podqi found AI chatbots including ChatGPT, Gemini, and Perplexity can recommend fake retail websites to shoppers.",
+   "why": "Shows that AI assistant shopping recommendations carry phishing and impersonation risk that product teams need to account for.",
+   "topics": [
+    "Safety",
+    "Products"
+   ]
+  },
+  "s4213b9afef": {
+   "id": "s4213b9afef",
+   "title": "More game developers are starting to use generative AI",
+   "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-12T17:00:00+00:00",
+   "description": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that […]",
+   "related": [],
+   "summary": "A GDC survey found 40% of game developers use generative AI as part of their job, up from 36% in 2025.",
+   "why": "Gives a benchmark for generative AI adoption among professional game developers year over year.",
+   "topics": [
+    "Research",
+    "Enterprise"
+   ]
+  },
+  "sca80552a27": {
+   "id": "sca80552a27",
+   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T17:00:52+00:00",
+   "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+   "related": [],
+   "summary": "SoftBank lost over $3 billion on preordered natural gas turbines intended to power AI data centers, and the article examines the impact on power markets.",
+   "why": "Shows financial risk in securing power infrastructure for AI data centers, which can constrain energy-intensive AI buildouts.",
+   "topics": [
+    "Infrastructure",
+    "Funding"
+   ]
+  },
+  "s85bacafff4": {
+   "id": "s85bacafff4",
+   "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+   "link": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T17:59:59+00:00",
+   "description": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolation that now extends to your data.",
+   "related": [],
+   "summary": "AWS announced the next-generation Bedrock AgentCore runtime, offering hardware-isolated sessions, faster starts, more compute, usage-based billing, and data isolation.",
+   "why": "Long-running agents need isolated, scalable compute, and this runtime targets secure multi-hour agent workloads with usage-based pricing.",
+   "topics": [
+    "Agents",
+    "Infrastructure"
+   ]
+  },
+  "sad614f81e4": {
+   "id": "sad614f81e4",
+   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-12T18:00:00+00:00",
+   "description": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+   "related": [
+    {
+     "source": "Google DeepMind",
+     "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+     "title": "Introducing Gemini 4 Hydrogen"
+    }
+   ],
+   "summary": "Google announced a major Google Search upgrade powered by Gemini 4 Hydrogen, shown through a card carousel with product examples.",
+   "why": "",
+   "topics": [
+    "Models",
+    "Products"
+   ]
+  },
+  "sd545fdc617": {
+   "id": "sd545fdc617",
+   "title": "Oh, Palantir is ‘progressive’ now, is it?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-12T18:06:54+00:00",
+   "description": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
+   "related": [],
+   "summary": "An opinion piece criticizes Palantir CEO Alex Karp's recent political repositioning and comments on last week's elections.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s83054ecb02": {
+   "id": "s83054ecb02",
+   "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+   "link": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T18:41:12+00:00",
+   "description": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
+   "related": [],
+   "summary": "AWS shows how to build a self-service LLM gateway using LiteLLM on Fargate that exposes Bedrock models via an OpenAI-compatible API with per-user controls.",
+   "why": "Platform teams can offer developers instant model access while keeping per-user cost controls, quota isolation, and observability.",
+   "topics": [
+    "Developer tools",
+    "Infrastructure"
+   ]
+  },
+  "s4e46e49750": {
+   "id": "s4e46e49750",
+   "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T18:43:19+00:00",
+   "description": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output constraints, and prove agent ROI with human baselines, holdout experiments, and a five-dimension scorecard.",
+   "related": [],
+   "summary": "AWS outlines how to calculate true per-task cost on Amazon Bedrock, reduce it with caching, routing and output limits, and measure agent ROI.",
+   "why": "Per-token prices understate real costs, so teams need per-task cost and ROI measurement to justify running agents in production.",
+   "topics": [
+    "Enterprise",
+    "Agents"
+   ]
+  },
+  "sa88bddb172": {
+   "id": "sa88bddb172",
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-12T19:07:35+00:00",
+   "description": "",
+   "related": [],
+   "summary": "LLMON, an LLM-native markup language, is now available in Granite 4.1 3B and 8B models, according to Hugging Face.",
+   "why": "",
+   "topics": [
+    "Models",
+    "Open source"
+   ]
+  },
+  "sd3c21aad12": {
+   "id": "sd3c21aad12",
+   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T19:11:00+00:00",
+   "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+   "related": [],
+   "summary": "Nectar launched an AI agent that automates influencer marketing, including creator discovery, outreach, partnership management, and campaign result tracking.",
+   "why": "",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
+  },
+  "s875637b2c3": {
+   "id": "s875637b2c3",
+   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T19:27:45+00:00",
+   "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+   "related": [],
+   "summary": "Google says its AI Mode in Search now better handles complex queries, surfaces relevant links, and gives richer visual responses, powered by Gemini 4 Hydrogen.",
+   "why": "Signals Google's Search model upgrades, which may shape how users find and consume information and how publishers get traffic.",
+   "topics": [
+    "Models",
+    "Products"
+   ]
+  },
+  "sc8c5dc2929": {
+   "id": "sc8c5dc2929",
+   "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+   "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T19:29:55+00:00",
+   "description": "Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that apply a Deny policy when a threshold is crossed.",
+   "related": [],
+   "summary": "AWS describes using IAM principal tags, CUR 2.0 or Cost Explorer, and AWS Budgets actions to track and cap Amazon Bedrock spend per identity.",
+   "why": "Engineering leaders can enforce per-identity Bedrock spend limits with AWS-native tooling, often without application code changes.",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://github.com/samir-sarwar/samir-vllm": "s5aa2811f45",
-  "https://huggingface.co/blog/amazon/higher-order-pruning-experts": "s7b1451fc78",
-  "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry": "s42e7d6fc34",
-  "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet": "sbd74b7cf0c",
-  "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": "s7cd5e10290",
-  "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech": "scc49c1ae68",
-  "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": "s057e22ab69",
-  "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music": "sbce465cdb5",
-  "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership": "s86961a9937",
-  "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai": "s67d134866a",
-  "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process": "sdbd9680f73",
-  "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines": "sd75c80b545",
-  "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai": "s7f47f4f445",
-  "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me": "sa06869aa80",
-  "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution": "s99d632aaa4",
-  "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters": "s9d5aee5d27",
-  "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny": "sa06869aa80",
-  "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick": "s9015c30696",
-  "https://openai.com/index/control-room": "sf37b680abc",
-  "https://github.com/dodaios/ste80-humanizer": "sa4e01cee6a",
-  "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore": "s033426cd1f",
-  "https://openai.com/index/chatgpt-enterprise-aws-marketplace": "s9c331579e2",
-  "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2": "sf1eea0a278",
-  "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore": "scafe7e1bd3",
-  "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": "s4a7141713a",
-  "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns": "sf1eea0a278",
-  "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity": "sc4cbbe7643",
-  "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation": "sf00e71ef88",
   "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart": "s51fd6bae6a",
   "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws": "s2e186972ef",
   "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy": "s3541a994b8",
@@ -12188,7 +12124,6 @@
   "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock": "s0566809c65",
   "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "sefdd0bfa61",
   "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai": "sa0a8bd6843",
-  "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "s7da1b2b475",
   "https://openai.com/index/cogent-security": "s1ff74ee2cb",
   "https://huggingface.co/blog/hub-gcp-marketplace": "s724fae9251",
   "https://huggingface.co/blog/decision": "s3229de0d91",
@@ -12203,6 +12138,43 @@
   "https://blogs.nvidia.com/blog/ai-recycling-startups": "sa3f9078912",
   "https://openai.com/index/children-first-declaration": "sb06379671e",
   "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors": "sdf5c4c0af6",
-  "https://openai.com/business/customer-stories/holidays-extras-codex": "s0990939c7d"
+  "https://openai.com/business/customer-stories/holidays-extras-codex": "s0990939c7d",
+  "https://huggingface.co/blog/3d-lora-finetuning": "s56dac742ff",
+  "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition": "s24d7fb83f2",
+  "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns": "sefdd0bfa61",
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming": "s91eeb3c113",
+  "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything": "s39f4c129e4",
+  "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "sefdd0bfa61",
+  "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts": "s660711644c",
+  "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund": "sbfccb2d385",
+  "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement": "sefdd0bfa61",
+  "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc": "saff6802cc5",
+  "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools": "s9ed2099ae4",
+  "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws": "sd3206ea89c",
+  "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang": "sefdd0bfa61",
+  "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor": "sefdd0bfa61",
+  "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent": "s6d29ea24a6",
+  "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump": "sefdd0bfa61",
+  "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry": "saff4b2c655",
+  "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress": "sefdd0bfa61",
+  "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots": "s0cefd18c08",
+  "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations": "s3293393520",
+  "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs": "s4213b9afef",
+  "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions": "sca80552a27",
+  "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks": "s645f1651bd",
+  "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit": "saff4b2c655",
+  "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling": "sefdd0bfa61",
+  "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "s85bacafff4",
+  "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade": "sad614f81e4",
+  "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "sad614f81e4",
+  "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video": "sd545fdc617",
+  "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question": "saff4b2c655",
+  "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm": "s83054ecb02",
+  "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock": "s4e46e49750",
+  "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": "sa88bddb172",
+  "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands": "sd3c21aad12",
+  "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions": "s875637b2c3",
+  "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets": "sc8c5dc2929",
+  "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery": "s8d8bc38f54"
  }
 }

@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T22:06:13.020863+00:00",
+ "updated": "2026-11-12T03:04:15.278931+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T01:18:23+00:00",
+   "description": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore."
+  },
   {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -9,6 +17,94 @@
    "category": "AI Labs",
    "published": "2026-11-12T00:00:00+00:00",
    "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T23:50:00+00:00",
+   "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "OpenAI Codex on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:35:47+00:00",
+   "description": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on."
+  },
+  {
+   "title": "Semantic diffing of formal policies with anti-unification",
+   "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:33:03+00:00",
+   "description": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between two candidate authorization policies."
+  },
+  {
+   "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+   "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:30:03+00:00",
+   "description": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automatic recovery for replacement."
+  },
+  {
+   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T23:28:45+00:00",
+   "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+  },
+  {
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T23:17:05+00:00",
+   "description": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+  },
+  {
+   "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:13:16+00:00",
+   "description": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines."
+  },
+  {
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T22:44:36+00:00",
+   "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]"
+  },
+  {
+   "title": "ICYMI: What landed for AI builders in October 2026",
+   "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T22:26:40+00:00",
+   "description": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders."
+  },
+  {
+   "title": "United won’t let your AI agent book your flight",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T21:54:21+00:00",
+   "description": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]"
+  },
+  {
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T21:24:35+00:00",
+   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 422 # Comments: 408"
   },
   {
    "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
@@ -64,7 +160,7 @@
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-11T19:54:00+00:00",
-   "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
+   "description": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
   },
   {
    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
@@ -91,12 +187,28 @@
    "description": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh."
   },
   {
+   "title": "Retirement Savings Are Fueling the AI Bubble",
+   "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T19:06:43+00:00",
+   "description": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 140 # Comments: 148"
+  },
+  {
    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
    "source": "Google AI",
    "category": "AI Labs",
    "published": "2026-11-11T18:00:00+00:00",
    "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+  },
+  {
+   "title": "AI, activity, and outcomes in software engineering",
+   "link": "https://cabird.com/talks/shipping-faster/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T16:33:28+00:00",
+   "description": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 107 # Comments: 102"
   },
   {
    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
@@ -195,12 +307,28 @@
    "description": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]"
   },
   {
+   "title": "My AI agents found an unmapped Maya site?",
+   "link": "https://pietromiotti.com/latest/maya-site",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T12:05:22+00:00",
+   "description": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 937 # Comments: 339"
+  },
+  {
    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
    "source": "Google AI",
    "category": "AI Labs",
    "published": "2026-11-11T09:00:00+00:00",
    "description": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
+  },
+  {
+   "title": "OSS projects banning AI-generated contributions",
+   "link": "https://osssaysno.com",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T08:51:45+00:00",
+   "description": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 62 # Comments: 106"
   },
   {
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -2273,134 +2401,6 @@
    "category": "Research",
    "published": "2026-11-11T05:00:00+00:00",
    "description": "arXiv:2605.05980v3 Announce Type: replace Abstract: When language model agents tackle complex software engineering tasks, they often degrade over long trajectories, which we define as *agent drift*. We focus on two recurring failure modes *overthinking* and *overacting*, i.e., where the agent repeatedly reasons over information it already has, and where it issues tool calls without integrating recent observations or acquiring new evidence. In this paper, we introduce TACT (Think-Act Calibration via activation Steering), to detect and mitigate agent drift in the residual stream before it surfaces as a behavioral failure. In specific, we label trajectory steps as overthinking, overacting, or calibrated, and find that their hidden states can separate linearly along two *drift axes*, pointing "
-  },
-  {
-   "title": "Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors",
-   "link": "https://arxiv.org/abs/2605.06490",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2605.06490v3 Announce Type: replace Abstract: AI systems have become increasingly capable of dangerous behaviours in many domains. This raises the question: Do models sometimes choose to violate human instructions in order to perform behaviour that is more useful for certain goals? We introduce a benchmark for measuring model propensity for instrumental convergence (IC) behaviour in terminal-based agents. This is behaviour such as self-preservation that has been hypothesised to play a key role in risks from highly capable AI agents. Our benchmark is realistic and low-stakes, aiming to reduce evaluation-awareness and roleplay confounds. The suite contains seven operational tasks, each with an official workflow and a shortcut whose policy status varies by condition. An eight-variant sh"
-  },
-  {
-   "title": "Differentiable Learning of Lifted Action Schemas for Classical Planning",
-   "link": "https://arxiv.org/abs/2605.13282",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2605.13282v4 Announce Type: replace Abstract: Classical planners can effectively solve very large deterministic MDPs represented in STRIPS or PDDL where states are sets of atoms over objects and relations, and lifted action schemas add or delete these atoms. This compact representation yields strong search heuristics and provides an ideal setting for structural generalization, since lifted relations and action schemas give rise to infinitely many domain instances. A central challenge is to learn these relations and action schemas from data, and recent approaches have addressed this problem using different types of observations. In this work, we develop a novel neural network architecture for learning action schemas from traces where states are fully observed but action arguments are "
-  },
-  {
-   "title": "Market Regime Council for Dynamic Credit Assignment in Multi-Agent LLM Decision Systems",
-   "link": "https://arxiv.org/abs/2605.24490",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2605.24490v2 Announce Type: replace Abstract: Multi-agent LLM decision systems for portfolio management still lack a principled way to assign credit across specialist agents, remain vulnerable to cold-start dominance under regime shifts, and offer limited transparency into how final allocations are formed. We propose Market Regime Council (MRC), an online credit-assignment mechanism over coalitions of specialist agents, with portfolio management as the downstream task. MRC computes exact Shapley credits across all single, pairwise, and Grand-coalition outputs for online agent weighting. Instantiated with N=3 specialist agents, at each trading period, MRC recomputes coalition-based Shapley weights from exponentially weighted performance histories, uses a Bayesian adaptive mixture to s"
-  },
-  {
-   "title": "Towards end-to-end LLM-based censoring-aware survival analysis",
-   "link": "https://arxiv.org/abs/2605.25399",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2605.25399v2 Announce Type: replace Abstract: Objective: Survival analysis is central to medical prediction, yet large language models (LLMs) are rarely used as end-to-end survival models because censoring prevents straightforward supervised fine-tuning. Here we present LLMSurvival, a framework that enables censoring-aware survival analysis with unmodified LLMs operating directly on tabular clinical data. Materials and Methods: LLMSurvival reformulates time-to-event prediction as pairwise ranking among comparable subjects, and derives test-time risk by aggregating comparisons against anchor individuals from the training cohort. Results: Across two clinical tasks (ICU mortality prediction in MIMIC-IV and fragility fracture prediction in a NewYork-Presbyterian/Weill Cornell Medicine co"
-  },
-  {
-   "title": "Can AI Agents Synthesize Scientific Conclusions in Health?",
-   "link": "https://arxiv.org/abs/2606.11337",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2606.11337v2 Announce Type: replace Abstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their ability to do so in high-stakes domains such as health remains unclear. We introduce SciConBench, a large-scale live benchmark of 9.21K questions and expert-written conclusions from systematic reviews to evaluate open-domain scientific conclusion synthesis in health and medical domains. The benchmark draws on an expert-validated automated evaluation pipeline that decomposes conclusions into atomic facts and measures correctness and comprehensiveness via factual precision and recall. To mitigate data leakage, we further introduce SciConHarness, a clean-room evaluation harness that equips agents "
-  },
-  {
-   "title": "From AGI to ASI",
-   "link": "https://arxiv.org/abs/2606.12683",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2606.12683v3 Announce Type: replace Abstract: Over the last decade, building human-level artificial general intelligence has moved from far-fetched speculation to being a concrete next-decade target for many of the largest AI organizations. Achieving this goal would have profound and far-reaching impacts on human society, which raises many complex questions for the decade ahead. This report investigates how AI itself might continue to develop in a post-AGI world along the continuum of machine intelligence. The endpoint of this continuum, Universal AI, is theoretically well understood, which provides some formal grounding for the main focus of this report: the transition from human-level AGI to artificial general superintelligence, which can intuitively be understood as a system that "
-  },
-  {
-   "title": "Einstein World Models",
-   "link": "https://arxiv.org/abs/2606.26969",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2606.26969v2 Announce Type: replace Abstract: Does intelligence require the ability to reason about phenomena beyond direct experience? It is natural to suspect that some complex thought cannot be captured through language alone. However, of particular concern to this work, is whether visualising counterfactual events can complement language as a mechanism for complex thought. We ask whether LLMs can be trained to utilise such visualisation mechanisms, in a way that benefits their reasoning abilities. Motivated by this question, we propose Einstein World Models. EWMs are a blueprint for LLM-based reasoning systems that place visual-temporal rollouts inside the reasoning trace, allowing them to reason in ways that text alone may not support well. In an EWM, the LLM calls a world-modul"
-  },
-  {
-   "title": "Forethought: Verifiable Reasoning from Neurosymbolic Primitive Programming",
-   "link": "https://arxiv.org/abs/2607.04096",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2607.04096v2 Announce Type: replace Abstract: Modern agentic workflows decompose user requests into sequences of tool calls with correctly resolved parameters, the results of which are processed through reasoning traces in the language model's context window. The prevailing route to improving such reasoning is test-time scaling, which trains models to search over long chains of thought; but the resulting capability is entangled in model weights, cannot be checked step by step, and is costly at inference. We present Forethought, a neurosymbolic reasoning system built from a library of symbolic and neural primitives composed through a typed domain-specific language. The results are reasoning programs: concrete representations of the model's work, in which every step carries an output c"
-  },
-  {
-   "title": "SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks",
-   "link": "https://arxiv.org/abs/2607.09745",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2607.09745v2 Announce Type: replace Abstract: This paper introduces SupplyNetPy, an open-source, well-documented Python library for modeling and discrete-event simulation of supply chain networks with arbitrary multi-echelon structures. It supports multiple replenishment policies, perishable inventory, node disruptions, and stochastic demand and lead times. All components are extensible via inheritance. Users describe a supply chain as a graph with node and link attributes, while the library handles simulation, providing logs and extensive node and network level performance reports. This paper presents the motivation, design, key features, and architecture of SupplyNetPy, along with detailed validation results (against analytical benchmarks, a commercial tool, and a published case st"
-  },
-  {
-   "title": "TRACE: Business Rule-Grounded Reasoning Curriculum for Knowledge-Preserving Parametric Tool Retrieval in Enterprise LLMs",
-   "link": "https://arxiv.org/abs/2607.22639",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2607.22639v2 Announce Type: replace Abstract: Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training, and its beam-search decoding is too slow for real-time deployment. We introduce TRACE (Tool Retrieval via Augmented Chain-of-thought and Enterprise rules), a two-stage curriculum that resolves this dissociation. Stage 1 reuses the multi-format memorization SFT from ToolSense to seed tool knowledge with LoRA. Stage 2 is our core contribution: the model is trained to emit a thinking trace before producing a JSON list of tool tokens, using two data sources"
-  },
-  {
-   "title": "Messier: A High-Resolution Corpus for Cross-Benchmark Agent Evaluation",
-   "link": "https://arxiv.org/abs/2607.25891",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2607.25891v3 Announce Type: replace Abstract: Comprehensively evaluating AI agents across interactive environments is difficult due to fragmented tasks, scaffolds, verifiers, and scoring rules. Unfortunately, existing efforts to unify these evaluations are limited in scale and domain, making costly reruns necessary and leaving available data incomparable. We introduce Messier, a unified corpus of 923,158 records spanning 30 benchmarks, 745 agents, 11,891 tasks, and 71,969 verifiers. Messier combines public evaluation results with new runs on six underrepresented professional and scientific benchmarks, standardizing their heterogeneous components into a common schema. Using this corpus, we show that frontier progress is uneven across benchmark groups, with function-calling evaluations"
-  },
-  {
-   "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-   "link": "https://arxiv.org/abs/2607.26119",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2607.26119v2 Announce Type: replace Abstract: Large language models trained with reinforcement learning (RL) to reason step by step have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks. Yet the mechanistic basis for this improvement remains unclear. We therefore ask, what internal representational differences enable RL-trained reasoning language models to reason better? Our work presents two primary lines of evidence: First, layer-wise linear probes tend to predict answer correctness more accurately in RL-trained reasoning language models than in instruction-tuned models on synthetic math problems, although output length alone matches the DeepSeek-Math-RL probe on two templates. Second, mean ablation studies suggest"
-  },
-  {
-   "title": "When Words and Bodies Disagree: Realizing Verbal and Nonverbal Mismatch",
-   "link": "https://arxiv.org/abs/2608.22731",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2608.22731v2 Announce Type: replace Abstract: Traditional nonverbal behavior generation systems for virtual agents typically take utterances as input and generate behaviors that match or illustrate the spoken words. However, human nonverbal behavior is shaped by more than speech content. It is influenced by speaker roles, interpersonal relationships, social context, and cognitive and emotional states of interactants. Therefore, the nonverbal channel carries information or emotions hidden in words. Modeling these complex verbal-nonverbal mismatches is critical for realistic virtual agents, particularly in training applications. We propose a taxonomy of mismatches, strengthening, mitigating, and leaking, and evaluate whether LLMs can select contextually appropriate mismatched behaviors"
-  },
-  {
-   "title": "Learning Action Models with Conditional and Quantified Effects via Uncertainty-Guided Exploration",
-   "link": "https://arxiv.org/abs/2608.30955",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2608.30955v2 Announce Type: replace Abstract: Accurate action models are critical for effective planning. Existing action-model learning methods largely assume simple action representations or become computationally intractable when learning conditional and quantified effects. We present Online Hypothesis-Driven Conditional Action Model Learning (OHCAM), an online approach for learning action models with conditional and quantified effects from limited interactions with the environment. OHCAM maintains a belief over hypothesized action models and actively selects informative actions to reduce uncertainty by maximizing disagreement among competing hypotheses, while being robust to noisy observations. To enable scalability, OHCAM begins with a small set of simple action model hypotheses"
-  },
-  {
-   "title": "Purin: A Biology-inspired Mechanism for Artificial Neural Networks",
-   "link": "https://arxiv.org/abs/2609.31235",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2609.31235v2 Announce Type: replace Abstract: Artificial neural networks (ANNs) usually represent neural transmission with fixed trainable weights during a training batch, which omits short-term changes in synaptic efficacy. In addition, the discrete time-step simulation requires additional temporal processing that many conventional ANN architectures do not use. To overcome these challenges, we propose Purin, a biology-inspired and ANN-compatible mechanism, that introduces synaptic efficacy modulation into conventional convolutional neural networks. Purin uses a time-interval-based abstraction for neural activities, which allows Purin to introduce short- and long-term synaptic efficacy changes without using discrete time-steps. Purin introduces a bounded factor to represent temporary"
-  },
-  {
-   "title": "A Comprehensive Survey of Agent Distillation across Models, Artifacts, and Harnesses",
-   "link": "https://arxiv.org/abs/2609.36630",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-11T05:00:00+00:00",
-   "description": "arXiv:2609.36630v2 Announce Type: replace Abstract: Knowledge distillation provides a teacher-student framework for transferring capabilities at reduced cost and has been widely studied for large language models (LLMs). As LLM-based agents move from response generation to sustained, closed-loop task solving, distillation expands beyond model parameters to knowledge retained in reusable resources and execution workflows. This shift from model-level to agent-level knowledge transfer supports efficient deployment, broader capability access, and continual self-evolution. However, existing surveys largely examine model distillation and agent system design separately, limiting comparison of transfer strategies across agent components. To bridge this gap, we formalize Agent Distillation as persis"
   }
  ]
 }

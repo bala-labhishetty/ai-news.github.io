@@ -1,20 +1,5 @@
 {
  "stories": {
-  "s67abd93f19": {
-   "id": "s67abd93f19",
-   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-08T22:54:50+00:00",
-   "description": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
-   "related": [],
-   "summary": "Nvidia's board launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive described as an agent of the Chinese government, and Huang sent employees a memo acknowledging the affair.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
   "sc5536f6e12": {
    "id": "sc5536f6e12",
    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
@@ -15836,10 +15821,198 @@
     "Infrastructure",
     "Agents"
    ]
+  },
+  "se05d76cd33": {
+   "id": "se05d76cd33",
+   "title": "AI, activity, and outcomes in software engineering",
+   "link": "https://cabird.com/talks/shipping-faster/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T16:33:28+00:00",
+   "description": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 107 # Comments: 102",
+   "related": [],
+   "summary": "A linked video discusses AI's effects on activity and outcomes in software engineering, shared on Hacker News with no further detail in the feed.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s4443c3f3c0": {
+   "id": "s4443c3f3c0",
+   "title": "Retirement Savings Are Fueling the AI Bubble",
+   "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T19:06:43+00:00",
+   "description": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 140 # Comments: 148",
+   "related": [],
+   "summary": "A blog post argues that retirement savings are fueling the AI bubble, linking pension and retirement investment to AI market valuations.",
+   "why": "",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "s645f1651bd": {
+   "id": "s645f1651bd",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-11T21:24:35+00:00",
+   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 422 # Comments: 408",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+     "title": "United won’t let your AI agent book your flight"
+    }
+   ],
+   "summary": "United Airlines has reportedly banned AI agents from booking flights on behalf of travelers, according to a CBS News report shared on Hacker News.",
+   "why": "Signals that some large travel providers are restricting third-party AI agents, which affects agent-driven booking designs.",
+   "topics": [
+    "Regulation",
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "s8b208eddf6": {
+   "id": "s8b208eddf6",
+   "title": "ICYMI: What landed for AI builders in October 2026",
+   "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T22:26:40+00:00",
+   "description": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders.",
+   "related": [],
+   "summary": "AWS publishes a recap of October 2026 updates to Amazon Bedrock, AgentCore, and Strands, including new models, agent availability features, and clearer cost reporting.",
+   "why": "Summarizes recent platform changes that affect agent availability, grounding, and cost tracking on AWS.",
+   "topics": [
+    "Products",
+    "Infrastructure"
+   ]
+  },
+  "s4a6d926314": {
+   "id": "s4a6d926314",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-11T22:44:36+00:00",
+   "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+     "title": "Jensen Huang accused of having another affair — with an Nvidia exec"
+    }
+   ],
+   "summary": "The Verge reports, citing WSJ and NYT, that Nvidia's board is reportedly preparing to dismiss CEO Jensen Huang after a second alleged extramarital affair was reported.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s263d7dc4e1": {
+   "id": "s263d7dc4e1",
+   "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:13:16+00:00",
+   "description": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
+   "related": [],
+   "summary": "AWS launches a Web Search API on Amazon Bedrock AgentCore that lets code search the web via a single signed API call, with no gateway or resources to create.",
+   "why": "Lets developers add web search to agents and pipelines through the AWS SDK or CLI without provisioning extra resources.",
+   "topics": [
+    "Products",
+    "Agents",
+    "Developer tools"
+   ]
+  },
+  "s005484e05b": {
+   "id": "s005484e05b",
+   "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+   "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:30:03+00:00",
+   "description": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automatic recovery for replacement.",
+   "related": [],
+   "summary": "AWS explains how to detect silent GPU data corruption in PyTorch DDP training, localize the faulty node on SageMaker HyperPod, and trigger automatic node replacement.",
+   "why": "Gives ML infrastructure teams a way to catch silent GPU errors that could quietly corrupt distributed training runs.",
+   "topics": [
+    "Infrastructure",
+    "Safety"
+   ]
+  },
+  "scf5ad5ad49": {
+   "id": "scf5ad5ad49",
+   "title": "Semantic diffing of formal policies with anti-unification",
+   "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:33:03+00:00",
+   "description": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between two candidate authorization policies.",
+   "related": [],
+   "summary": "AWS describes computing a deterministic semantic diff of formal authorization policies using an open-source anti-unification engine, so reviewers see only behavior-changing differences.",
+   "why": "Helps teams review authorization policy changes by surfacing behavioral differences rather than cosmetic text edits.",
+   "topics": [
+    "Safety",
+    "Developer tools",
+    "Research"
+   ]
+  },
+  "s0566809c65": {
+   "id": "s0566809c65",
+   "title": "OpenAI Codex on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-11T23:35:47+00:00",
+   "description": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
+   "related": [],
+   "summary": "AWS publishes a guide for enterprises rolling out OpenAI Codex to developers, using Amazon Bedrock as the model backend and covering access, governance, and cost decisions.",
+   "why": "Outlines the access, governance, and cost decisions platform, security, and finance teams must align on before a Codex rollout.",
+   "topics": [
+    "Developer tools",
+    "Enterprise",
+    "Infrastructure"
+   ]
+  },
+  "sefdd0bfa61": {
+   "id": "sefdd0bfa61",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-11T23:50:00+00:00",
+   "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "related": [],
+   "summary": "TechCrunch publishes a timeline of an affair scandal involving Nvidia CEO Jensen Huang, which it says could affect national security amid US-China AI infrastructure competition.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "sa0a8bd6843": {
+   "id": "sa0a8bd6843",
+   "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T01:18:23+00:00",
+   "description": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore.",
+   "related": [],
+   "summary": "AWS shows Java developers how to build autonomous AI agents with Amazon Bedrock and Spring AI, covering tool calling, memory, resilience, multi-agent orchestration, and deployment to AgentCore.",
+   "why": "Gives Java teams a concrete production pattern for agents on AWS, spanning tool calling, memory, resilience, and deployment.",
+   "topics": [
+    "Agents",
+    "Developer tools",
+    "Infrastructure"
+   ]
   }
  },
  "seen": {
-  "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia": "s67abd93f19",
   "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models": "sc5536f6e12",
   "https://arxiv.org/abs/2611.08572": "s0df939a352",
   "https://arxiv.org/abs/2611.08613": "sbd98e7aa89",
@@ -16851,6 +17024,20 @@
   "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built": "sae5556d61c",
   "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock": "s2f5ac4847b",
   "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture": "s3beb9de192",
-  "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track": "s6dbf5bd5b9"
+  "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track": "s6dbf5bd5b9",
+  "https://cabird.com/talks/shipping-faster": "se05d76cd33",
+  "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble": "s4443c3f3c0",
+  "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights": "s645f1651bd",
+  "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents": "s645f1651bd",
+  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026": "s8b208eddf6",
+  "https://www.theverge.com/tech/1031652/jensen-huang-rumor": "s4a6d926314",
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore": "s263d7dc4e1",
+  "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec": "s4a6d926314",
+  "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang": "s4a6d926314",
+  "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod": "s005484e05b",
+  "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification": "scf5ad5ad49",
+  "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock": "s0566809c65",
+  "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "sefdd0bfa61",
+  "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai": "sa0a8bd6843"
  }
 }

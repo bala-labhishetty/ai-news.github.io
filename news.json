@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-11T22:06:26.041178+00:00",
+ "updated": "2026-11-12T03:04:24.636684+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sa0a8bd6843",
+   "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-12T01:18:23+00:00",
+   "topics": [
+    "Agents",
+    "Developer tools",
+    "Infrastructure"
+   ],
+   "summary": "AWS shows Java developers how to build autonomous AI agents with Amazon Bedrock and Spring AI, covering tool calling, memory, resilience, multi-agent orchestration, and deployment to AgentCore.",
+   "why": "Gives Java teams a concrete production pattern for agents on AWS, spanning tool calling, memory, resilience, and deployment.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "sf28f90d289",
    "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -15,6 +31,138 @@
    "why": "Shows how a large professional services firm is restructuring its operations around AI, a useful case study for enterprise adoption leaders.",
    "related": [],
    "top": false
+  },
+  {
+   "id": "sefdd0bfa61",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "published": "2026-11-11T23:50:00+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "TechCrunch publishes a timeline of an affair scandal involving Nvidia CEO Jensen Huang, which it says could affect national security amid US-China AI infrastructure competition.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s0566809c65",
+   "title": "OpenAI Codex on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T23:35:47+00:00",
+   "topics": [
+    "Developer tools",
+    "Enterprise",
+    "Infrastructure"
+   ],
+   "summary": "AWS publishes a guide for enterprises rolling out OpenAI Codex to developers, using Amazon Bedrock as the model backend and covering access, governance, and cost decisions.",
+   "why": "Outlines the access, governance, and cost decisions platform, security, and finance teams must align on before a Codex rollout.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "scf5ad5ad49",
+   "title": "Semantic diffing of formal policies with anti-unification",
+   "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T23:33:03+00:00",
+   "topics": [
+    "Safety",
+    "Developer tools",
+    "Research"
+   ],
+   "summary": "AWS describes computing a deterministic semantic diff of formal authorization policies using an open-source anti-unification engine, so reviewers see only behavior-changing differences.",
+   "why": "Helps teams review authorization policy changes by surfacing behavioral differences rather than cosmetic text edits.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s005484e05b",
+   "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+   "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T23:30:03+00:00",
+   "topics": [
+    "Infrastructure",
+    "Safety"
+   ],
+   "summary": "AWS explains how to detect silent GPU data corruption in PyTorch DDP training, localize the faulty node on SageMaker HyperPod, and trigger automatic node replacement.",
+   "why": "Gives ML infrastructure teams a way to catch silent GPU errors that could quietly corrupt distributed training runs.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s263d7dc4e1",
+   "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T23:13:16+00:00",
+   "topics": [
+    "Products",
+    "Agents",
+    "Developer tools"
+   ],
+   "summary": "AWS launches a Web Search API on Amazon Bedrock AgentCore that lets code search the web via a single signed API call, with no gateway or resources to create.",
+   "why": "Lets developers add web search to agents and pipelines through the AWS SDK or CLI without provisioning extra resources.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s4a6d926314",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "published": "2026-11-11T22:44:36+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "The Verge reports, citing WSJ and NYT, that Nvidia's board is reportedly preparing to dismiss CEO Jensen Huang after a second alleged extramarital affair was reported.",
+   "why": "",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s8b208eddf6",
+   "title": "ICYMI: What landed for AI builders in October 2026",
+   "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-11T22:26:40+00:00",
+   "topics": [
+    "Products",
+    "Infrastructure"
+   ],
+   "summary": "AWS publishes a recap of October 2026 updates to Amazon Bedrock, AgentCore, and Strands, including new models, agent availability features, and clearer cost reporting.",
+   "why": "Summarizes recent platform changes that affect agent availability, grounding, and cost tracking on AWS.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s645f1651bd",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "published": "2026-11-11T21:24:35+00:00",
+   "topics": [
+    "Regulation",
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "United Airlines has reportedly banned AI agents from booking flights on behalf of travelers, according to a CBS News report shared on Hacker News.",
+   "why": "Signals that some large travel providers are restricting third-party AI agents, which affects agent-driven booking designs.",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    }
+   ],
+   "top": true
   },
   {
    "id": "s6dbf5bd5b9",
@@ -75,7 +223,7 @@
    "summary": "Many announced data center projects may never be built, adding to local opposition, permitting delays, and electricity shortages.",
    "why": "Infrastructure planners should expect capacity announcements to slip, making delivery timelines less reliable.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s70b89fd3ef",
@@ -135,7 +283,7 @@
    "summary": "Britain's Fractile raised a $720M round, making it one of the top-funded startups building purpose-built AI chips.",
    "why": "Well-funded alternatives to GPUs could broaden the hardware options for AI inference and training.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s94fcbf10f8",
@@ -167,6 +315,20 @@
    "top": false
   },
   {
+   "id": "s4443c3f3c0",
+   "title": "Retirement Savings Are Fueling the AI Bubble",
+   "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+   "source": "Hacker News",
+   "published": "2026-11-11T19:06:43+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "A blog post argues that retirement savings are fueling the AI bubble, linking pension and retirement investment to AI market valuations.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "scce714811b",
    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -177,6 +339,20 @@
     "Developer tools"
    ],
    "summary": "Google announced the Gemini Decisions API, powered by its Gemini Decision model, for fast, calibrated multimodal decisions.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "se05d76cd33",
+   "title": "AI, activity, and outcomes in software engineering",
+   "link": "https://cabird.com/talks/shipping-faster/",
+   "source": "Hacker News",
+   "published": "2026-11-11T16:33:28+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A linked video discusses AI's effects on activity and outcomes in software engineering, shared on Hacker News with no further detail in the feed.",
    "why": "",
    "related": [],
    "top": false
@@ -14820,20 +14996,6 @@
    ],
    "summary": "MemSkill proposes learnable, evolvable memory skills for LLM agents, replacing static hand-designed operations for extracting and revising memory.",
    "why": "Points toward agent memory systems that adapt their own memory routines instead of relying on fixed procedures for long interaction histories.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s67abd93f19",
-   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-   "source": "The Verge",
-   "published": "2026-11-08T22:54:50+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Nvidia's board launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive described as an agent of the Chinese government, and Huang sent employees a memo acknowledging the affair.",
-   "why": "",
    "related": [],
    "top": false
   }

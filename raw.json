@@ -1,7 +1,127 @@
 {
- "updated": "2026-11-13T16:29:14.068517+00:00",
+ "updated": "2026-11-13T22:40:44.294255+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+   "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T22:30:12+00:00",
+   "description": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines."
+  },
+  {
+   "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+   "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T22:02:39+00:00",
+   "description": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request."
+  },
+  {
+   "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+   "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T21:53:40+00:00",
+   "description": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost."
+  },
+  {
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-13T20:45:10+00:00",
+   "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]"
+  },
+  {
+   "title": "No AI Slop: A Manifesto",
+   "link": "https://www.slopmanifesto.com/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T19:51:56+00:00",
+   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 133 # Comments: 75"
+  },
+  {
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T19:37:57+00:00",
+   "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+  },
+  {
+   "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+   "link": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T19:35:35+00:00",
+   "description": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions."
+  },
+  {
+   "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T18:44:02+00:00",
+   "description": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits."
+  },
+  {
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T18:40:30+00:00",
+   "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+  },
+  {
+   "title": "The avalanche that hit math is coming for AI development",
+   "link": "https://www.dwarkesh.com/p/rsi",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T18:39:42+00:00",
+   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 56 # Comments: 94"
+  },
+  {
+   "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T18:01:15+00:00",
+   "description": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift."
+  },
+  {
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-13T18:00:39+00:00",
+   "description": ""
+  },
+  {
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T17:30:10+00:00",
+   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 273 # Comments: 82"
+  },
+  {
+   "title": "XYBench: Helping with the problem behind the question",
+   "link": "https://huggingface.co/blog/allenai/xybench",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-13T17:02:35+00:00",
+   "description": ""
+  },
+  {
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-13T16:26:32+00:00",
+   "description": "\"SignDrop\" exploit lets local users gain all-powerful System rights."
+  },
   {
    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -17,6 +137,22 @@
    "category": "Industry",
    "published": "2026-11-13T15:58:00+00:00",
    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "link": "https://text.npr.org/nx-s1-6029408",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T15:29:10+00:00",
+   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 155 # Comments: 158"
+  },
+  {
+   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+   "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T15:08:44+00:00",
+   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 144 # Comments: 130"
   },
   {
    "title": "Introducing ChatGPT Wallet",
@@ -91,12 +227,12 @@
    "description": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]"
   },
   {
-   "title": "AI Is Destroying the Trust Between Writers and Readers",
+   "title": "AI is destroying the trust between writers and readers",
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T11:13:46+00:00",
-   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 150 # Comments: 53"
+   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 297 # Comments: 188"
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -104,7 +240,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T10:18:13+00:00",
-   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 412 # Comments: 339"
+   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 478 # Comments: 377"
   },
   {
    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
@@ -2265,142 +2401,6 @@
    "category": "Research",
    "published": "2026-11-13T05:00:00+00:00",
    "description": "arXiv:2611.16425v1 Announce Type: cross Abstract: We describe the RMIT-ADM+S team's participation in the TREC 2026 Retrieval-Augmented Generation (RAG) track using the ClimbMix corpus. We submitted seven research-agent runs using proprietary OpenAI and open-weight models, exploring different retrieval strategies, writer models, and agent workflows. Pre-submission ablations identified writer selection and adjacent-chunk expansion as the main factors affecting answer quality. In the official NIST evaluation, six of seven runs exceeded the track median across all three rubric/nugget collections. Our best-performing run, brief-hybrid, achieved the highest all-item coverage among our submissions and tied the track maximum (0.892) for Batch-1 vital coverage. Human side-by-side preferences differ"
-  },
-  {
-   "title": "SoScale: Second-Order Scale Search for FP4 Quantization",
-   "link": "https://arxiv.org/abs/2611.16426",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16426v1 Announce Type: cross Abstract: Low-bit quantization reduces the memory footprint and inference cost of large language models (LLMs), yet accurate FP4 quantization remains challenging. Practical formats such as MXFP4, NVFP4, and HiF4 pair a 4-bit floating-point payload with block-wise or hierarchical scale codes, making accuracy highly sensitive to how each local distribution is scaled. Default maximum-absolute-value scaling preserves dynamic range, but can spend scarce FP4 levels on rarely occupied outlier regions and leave dense tensor values poorly resolved. Existing scale-search methods minimize local element-wise reconstruction error, optimizing tensor fidelity rather than layer-output fidelity. We propose SoScale, a second-order weight scale-code search method for h"
-  },
-  {
-   "title": "DesignTaste: Benchmarking AI-Generator Visual Design Against Award-Wining Works",
-   "link": "https://arxiv.org/abs/2611.16442",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16442v1 Announce Type: cross Abstract: Text-to-image benchmarks commonly assess text-image alignment or overall preference. Whether models can produce good designs when a brief leaves the appearance open remains less well understood. We introduce DesignTaste, a visual design benchmark that compares generated images with award-winning works. From these works and their publicly available context, we derive 403 design briefs: 100 poster tasks from 100 Beste Plakate 2025 and 303 tasks spanning 20 categories from ADC 2026. Six leading commercial text-to-image models each generate an image from the same brief. A single model judge scores each output and the corresponding award-winning work independently on five evaluation dimensions. On each dataset, only ArtArk achieves a higher mean"
-  },
-  {
-   "title": "Robots That Talk Too Much and Don't Listen Enough",
-   "link": "https://arxiv.org/abs/2611.16473",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16473v1 Announce Type: cross Abstract: Until recently, the biggest obstacles to natural spoken interaction with social robots were speech recognition errors and turn-taking failures. Advances in speech recognition have enabled much better spoken interaction, but turn-taking failures and other misunderstandings continue to be far too prevalent. This short paper looks back at earlier methods for improving speech recognition and turn-taking in interaction with social robots, and then looks at what can be done today, arguing that multimodal bidirectional streaming is needed to reduce the frequency of turn-taking failures."
-  },
-  {
-   "title": "Where in the Input Does a One-Pass Decision Encoder Look?",
-   "link": "https://arxiv.org/abs/2611.16477",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16477v1 Announce Type: cross Abstract: Laya is a small model that answers a multiple-choice question about a text in one pass: the question, the options (each with a name and a description) and the text form one sequence of at most 512 tokens, the window, in the English release. A longer text is silently cut at the end, and we measure what that costs. Test documents place a held-out row's text, the evidence, at a chosen token offset among distractor text; 177 items, five tasks, three checkpoints (released, short-row fine-tune, long-document fine-tune), four window sizes and 93,275 scored requests. When the evidence lies beyond the window, accuracy falls to 26.4% for the released checkpoint (27.2% for both fine-tunes), near the 27.0% of guessing and below the 35.6% of always givi"
-  },
-  {
-   "title": "PISim: A Unified Photonic Inference Simulator for Hardware-Aware Cross-Layer Design-Space Exploration",
-   "link": "https://arxiv.org/abs/2611.16522",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16522v1 Announce Type: cross Abstract: Photonic neural accelerators offer ultra-low latency linear algebra, yet their usable numerical precision, sustainable throughput, and application accuracy remain tightly bounded by surrounding electro-optical interfaces and physical non-idealities. Pre-fabrication design-space exploration (DSE) requires a cross-layer electronic design automation (EDA) framework capable of evaluating disparate optical topologies under identical neural workloads and physical assumptions. We present \\textbf{PISim}, a unified Photonic Inference Simulator that couples pretrained deep neural network execution with physics-based models of six accelerator architecture families, six electro-optic modulator technologies, four optical source organizations, and direct"
-  },
-  {
-   "title": "RESYNC: Residual Latent-State Synchronization for Deadline-Bound Streaming Inference",
-   "link": "https://arxiv.org/abs/2611.16523",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16523v1 Announce Type: cross Abstract: Predicting every observation in a high-rate stream requires a model to finish before the next arrival. A large model may offer better predictions but miss that deadline. We propose RESYNC: the large model runs asynchronously, while a fast path updates its latest exact but stale latent state using the observations received since that state was computed and applies its unchanged prediction head. The updater learns from the frozen model's representations without task labels. Across one real and two synthetic streams and five architecture families, RESYNC beats the best compact or distilled alternative with a paired 95% interval above zero in all twelve dataset--architecture pairs with a material teacher advantage at anchor ages of 4--12 observ"
-  },
-  {
-   "title": "A Joint LLM and Optimization Agent Solution for Drone Scheduling in Victim Search Missions",
-   "link": "https://arxiv.org/abs/2611.16524",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16524v1 Announce Type: cross Abstract: Victim search in wilderness areas is time-critical. Drones enable rapid area search, but scheduling them is challenging because victims may continue moving, detection results are uncertain, and effective decisions must combine structured mission information with unstructured contextual clues and domain knowledge. To address this, we propose an agent-aided drone scheduling system. The system employs an agent at the ground control station (GCS) to coordinate multiple drones over successive search cycles. In each cycle, the agent applies a scheduling policy that combines a large language model (LLM) for reasoning about where to search with an optimizer for determining how to dispatch the drones under energy constraints. Simulation results show"
-  },
-  {
-   "title": "ZONOS3-Mini Technical Report",
-   "link": "https://arxiv.org/abs/2611.16525",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16525v1 Announce Type: cross Abstract: ZONOS3-Mini is an ultra-compact, ultra-fast, zero-shot voice-cloning TTS model. The model can run in real time on a laptop or smartphone. For its latency and size, it achieves state-of-the-art accuracy and cloning fidelity. To achieve this we propose a latent MoE backbone with only 886M parameters (100M active per token) and a new audio codec, Zyphra Audio Codec 1 (ZAC-1), which represents 44.1 kHz audio at a 15 Hz frame rate. On the new ZTTS2-Eval benchmark, ZONOS3-Mini reaches a 6.71% macro-average WER over 55 language sets (35 clean and 20 in the wild), which is competitive with larger and slower state-of-the-art models. We release the model weights, inference, and training code."
-  },
-  {
-   "title": "When Chekhov's Gun Fires Anyway: Over-Realization in Text-to-Image Models",
-   "link": "https://arxiv.org/abs/2611.16630",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16630v1 Announce Type: cross Abstract: In text-to-image generation, a target that the prompt mentions often appears in the generated image in a way the prompt does not call for. We call this failure over-realization. Mental-spaces theory points to the situations where it can happen: under a negation, inside what a character believes or imagines, as the vehicle of a figurative comparison, or behind a viewpoint that hides the target. Prior work has studied only negation in depth, and the conventional alignment and preference metrics do not penalize the failure. We build OverReal to measure it: OverReal-Gen, 698 prompts covering the four situations, on which we measure each generator's over-realization rate; and OverReal-Det, 2,841 generated images human-labeled for whether and how"
-  },
-  {
-   "title": "Dataset Distillation via Drifting",
-   "link": "https://arxiv.org/abs/2611.16642",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16642v1 Announce Type: cross Abstract: The task of dataset distillation concerns the learning of a small set of synthetic samples that can serve as an effective replacement for a large real dataset when used for downstream tasks. While many solutions have been proposed since the problem's inception, most of them primarily seek to optimize the distilled data with respect to a classifier. In this work, we propose a new distillation method that learns a set of samples such that they directly approximate the per-class data distribution. Specifically, we \"drift\" our distilled data in the latent space of a feature extractor such that they move both toward the real data and away from each other without using a classification objective. We find that our drifted data cover the real distr"
-  },
-  {
-   "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
-   "link": "https://arxiv.org/abs/2611.16661",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16661v1 Announce Type: cross Abstract: Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the time required to complete all tasks in a batch. For hybrid LLMs, a workload-based resource model guides GPU-memory allocation between key-value (KV) cache and recurrent state and provides a reference sample concurrency to exploit parallelism while limiting recomputation. Trajectory-aware routing and scheduling promote cache reuse while balancing worker load. Under constrained environment capacity, we decouple sample admission fr"
-  },
-  {
-   "title": "MuSeToM: Multi-Sensory Evaluation of Belief Revision with Textual Cues Across Six Senses",
-   "link": "https://arxiv.org/abs/2611.16662",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16662v1 Announce Type: cross Abstract: Theory of Mind (ToM), the ability to infer mental states in others, is pivotal for human social cognition. Existing evaluations of ToM in large language models (LLMs) mainly focus on static belief attribution and false-belief reasoning, leaving a critical aspect of social reasoning underexplored: can LLMs decide whether perceptual evidence is sufficient to justify another person's belief revision? To address this gap, we present MuSeToM, a human-validated, text-based benchmark for evaluating epistemic belief revision in ToM reasoning. MuSeToM contains 2,415 instances adapted from BigToM and OpenToM, with textual cues spanning six sensory categories, and tests whether models can determine when a protagonist should revise a belief and infer t"
-  },
-  {
-   "title": "Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph",
-   "link": "https://arxiv.org/abs/2611.16678",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16678v1 Announce Type: cross Abstract: Temporal link prediction is critical for understand- ing dynamic interactions in evolving networks, informing appli- cations ranging from social network analysis to recommendation systems. Existing methods typically rely on raw temporal graph data, often neglecting explicit edge-change information that can significantly improve predictive performance. To address this gap, we propose edge-gradient reinforced learning (EG-RL), a framework that explicitly encodes edge-gradient events (edge births and deaths) through dedicated node and link encoding modules. EG-RL uses a policy-driven reinforcement-learning mechanism to dynamically select and augment the most infor- mative edge snapshots, guided by critic-based feedback to opti- mize prediction"
-  },
-  {
-   "title": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
-   "link": "https://arxiv.org/abs/2611.16693",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16693v1 Announce Type: cross Abstract: Mobile GUI agents read the screen of a phone and operate apps on a user's behalf to complete multi-step tasks such as online shopping or messaging. Because the agent acts on whatever the screen shows, an attacker can embed malicious instructions into ordinary UI content and redirect its actions. We refer to this threat as environmental injection attack (EIA). Existing benchmarks measure this risk by pinning hand-crafted payloads to a fixed step of a fixed task. This approach faces two limitations. First, each payload is bound to one task in one app and does not transfer without manual redesign. Second, agents given the same task may follow different routes, so an agent that never reaches the injected page is recorded as safe without being t"
-  },
-  {
-   "title": "MusicRWKV: A Multimodal RWKV Framework for Music Representation Learning",
-   "link": "https://arxiv.org/abs/2611.16718",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16718v1 Announce Type: cross Abstract: Recent music foundation models have achieved remarkable progress in music representation learning, yet most existing approaches rely on Transformer architectures whose quadratic attention complexity introduces substantial computational and memory overhead when modeling long-duration music recordings. In this work, we propose MusicRWKV, a multimodal music representation learning framework built upon the RWKV architecture. MusicRWKV jointly models waveform, spectrogram, and metadata information within a unified self-supervised learning framework. To improve efficiency for long musical sequences, we introduce an invertible compression module that reduces sequence length while preserving reconstruction capability. A FiLM-based conditioning stra"
-  },
-  {
-   "title": "From Data to Wisdom: Rethinking AI Through an Epistemic Lens",
-   "link": "https://arxiv.org/abs/2611.16726",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16726v1 Announce Type: cross Abstract: This paper proposes the Data-to-Wisdom Epistemic Architecture for AI (EAAI), a conceptual framework treating Data, Information, Knowledge, Understanding and Wisdom as five distinct but recursively interacting epistemic functions: observation, contextual interpretation, modeling and prediction, critical evaluation and informed judgment. Two observations motivate it: sequential readings of the Knowledge Pyramid obscure how these functions interact, and a targeted review of ten Bayesian reference books finds that prior distributions are defined mathematically while \"prior information\" and \"prior knowledge\" are not consistently distinguished as epistemic categories. A Bayesian interpretation relates the likelihood, prior and posterior distribut"
-  },
-  {
-   "title": "From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach",
-   "link": "https://arxiv.org/abs/2611.16727",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16727v1 Announce Type: cross Abstract: Adapting general Vision-Language Models (VLMs) to Autonomous Driving (AD) is thought to require heavy 3D spatial priors or intrusive architectural overhauls to compensate for a lack of spatial grounding. In this work, we present a counterintuitive pilot study: off-the-shelf general VLMs already exhibit remarkable adaptability across diverse driving tasks, while precise metric depth remains the primary missing link, a bottleneck readily addressable via onboard sensors and depth foundation models. To this end, we introduce the Triplet Incremental Training Framework, a non-intrusive paradigm that seamlessly instills 3D geometric awareness into a general VLM backbone while fully preserving its open-world capabilities. Driven by automatically co"
   }
  ]
 }

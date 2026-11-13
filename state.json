@@ -1,265 +1,5 @@
 {
  "stories": {
-  "s58426d8e2b": {
-   "id": "s58426d8e2b",
-   "title": "Amazon Bedrock tokenomics data lake",
-   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-10T16:56:36+00:00",
-   "description": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token counts, model choice, and per-invocation cost across your organization.",
-   "related": [],
-   "summary": "An AWS post describes building a centralized data lake that aggregates Amazon Bedrock invocation logs from all linked accounts into one queryable table.",
-   "why": "Gives engineers a way to track prompts, token counts, model choice, and per-call cost across an organization's Bedrock accounts.",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ]
-  },
-  "s82110824f2": {
-   "id": "s82110824f2",
-   "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-10T16:59:43+00:00",
-   "description": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
-   "related": [],
-   "summary": "TCS built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into governed tests for BFSI clients, cutting testing effort 88% in an internal benchmark.",
-   "why": "Offers a concrete enterprise pattern for multi-agent test automation with per-tenant isolation, though the 88% figure is an internal benchmark.",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ]
-  },
-  "s9922bcaa36": {
-   "id": "s9922bcaa36",
-   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-10T17:04:19+00:00",
-   "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "related": [],
-   "summary": "A timeline reports on an alleged affair between Nvidia CEO Jensen Huang and a suspected Chinese spy, with possible national security implications.",
-   "why": "The story concerns national security risk tied to the US-China race for advanced AI infrastructure, which may affect chip supply and policy.",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ]
-  },
-  "saf7403b456": {
-   "id": "saf7403b456",
-   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-10T17:30:00+00:00",
-   "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-     "title": "Anthropic has its own AI-powered office suite now"
-    }
-   ],
-   "summary": "Anthropic launched Claude Meetings, which can draft plans, map timelines on a whiteboard, answer chat questions, and pull data from connected work apps during meetings.",
-   "why": "Signals AI assistants moving into live collaboration with access to company apps, raising integration and data-access decisions for IT teams.",
-   "topics": [
-    "Products",
-    "Enterprise"
-   ]
-  },
-  "s7ac1a3b293": {
-   "id": "s7ac1a3b293",
-   "title": "The indie game community is in disarray over AI and Big Walk",
-   "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-10T17:32:47+00:00",
-   "description": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
-   "related": [],
-   "summary": "Some IGF jurors said they won't vote for games using generative AI in any capacity, and indie hit Big Walk's developer disclosed limited AI use during development.",
-   "why": "Shows growing community backlash over generative AI use in creative work, which can affect how studios disclose tools and where games get recognized.",
-   "topics": [
-    "Products",
-    "Enterprise"
-   ]
-  },
-  "scd0c3adea5": {
-   "id": "scd0c3adea5",
-   "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-10T18:11:08+00:00",
-   "description": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterprise scale.",
-   "related": [],
-   "summary": "Trovata built autonomous treasury agents on Amazon Bedrock and AgentCore, using an RBAC-secured architecture for bank-branded AI deployments.",
-   "why": "Offers a reference architecture for deploying role-based, secured autonomous agents in regulated financial workflows at enterprise scale.",
-   "topics": [
-    "Agents",
-    "Enterprise",
-    "Infrastructure"
-   ]
-  },
-  "sb73105fe4e": {
-   "id": "sb73105fe4e",
-   "title": "Gemini Intelligence: New features, on more devices",
-   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-   "source": "Google AI",
-   "category": "AI Labs",
-   "published": "2026-11-10T19:00:00+00:00",
-   "description": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-   "related": [],
-   "summary": "Google announced Gemini Intelligence, bringing new features to more devices.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s6fcd75d626": {
-   "id": "s6fcd75d626",
-   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-10T19:03:52+00:00",
-   "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-   "related": [],
-   "summary": "PSI is building a business around AI-driven scientific discovery, using an unreleased Anthropic model to address a quantum computing question scientists have pursued for nearly two decades.",
-   "why": "Shows frontier unreleased models being applied to scientific research problems, a signal for R&D teams exploring AI-assisted discovery.",
-   "topics": [
-    "Research",
-    "Enterprise"
-   ]
-  },
-  "s34a6071342": {
-   "id": "s34a6071342",
-   "title": "The US is winning the AI race. Jensen Huang could have blown it",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-10T19:04:05+00:00",
-   "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
-   "related": [],
-   "summary": "The Verge reports on espionage concerns surrounding Nvidia CEO Jensen Huang and their implications for US leadership in the AI race.",
-   "why": "",
-   "topics": [
-    "Regulation"
-   ]
-  },
-  "s7739f93bab": {
-   "id": "s7739f93bab",
-   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-10T19:23:34+00:00",
-   "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-   "related": [],
-   "summary": "Oura agreed to acquire AI-native primary care startup Counsel Health for $625 million, weeks after postponing its IPO indefinitely.",
-   "why": "",
-   "topics": [
-    "Funding",
-    "Enterprise"
-   ]
-  },
-  "se18f58ec7d": {
-   "id": "se18f58ec7d",
-   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-10T19:57:52+00:00",
-   "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-   "related": [],
-   "summary": "Each of Anthropic's seven co-founders plans to sell the same number of shares in its IPO, about $250 million each at the price range midpoint.",
-   "why": "",
-   "topics": [
-    "Funding"
-   ]
-  },
-  "sc012fc7ecd": {
-   "id": "sc012fc7ecd",
-   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-   "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-10T20:52:13+00:00",
-   "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "related": [],
-   "summary": "New York's AI safety law is taking effect, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "why": "Companies building or deploying frontier models in New York now face registration, disclosure, and incident-reporting obligations with fines for noncompliance.",
-   "topics": [
-    "Regulation",
-    "Safety"
-   ]
-  },
-  "s571fb0494b": {
-   "id": "s571fb0494b",
-   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-10T21:08:52+00:00",
-   "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-   "related": [],
-   "summary": "OpenAI acquired Odessia, a travel startup founded by Sonder founder Francis Davidson, and has not said what it plans to do with it.",
-   "why": "",
-   "topics": [
-    "Funding"
-   ]
-  },
-  "sc3e82675d5": {
-   "id": "sc3e82675d5",
-   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-   "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-10T21:12:59+00:00",
-   "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-   "related": [],
-   "summary": "Researcher found about 35,000 Grok Build apps exposed publicly, leaking confidential information, some belonging to SpaceXSI.",
-   "why": "Shows that AI coding agent deployments can expose sensitive data, so teams should audit access controls and secrets handling.",
-   "topics": [
-    "Safety",
-    "Developer tools"
-   ]
-  },
-  "s77d255b4e9": {
-   "id": "s77d255b4e9",
-   "title": "Apple has new Mac app coming to make running local AI models easy",
-   "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-10T21:25:03+00:00",
-   "description": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 70 # Comments: 31",
-   "related": [],
-   "summary": "Apple is reportedly preparing a new Mac app that makes running local AI models easier.",
-   "why": "",
-   "topics": [
-    "Products",
-    "Developer tools"
-   ]
-  },
-  "s14f6b8b420": {
-   "id": "s14f6b8b420",
-   "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
-   "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-10T22:35:03+00:00",
-   "description": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match each behavior that matters to the right evaluator at the right level.",
-   "related": [],
-   "summary": "AWS explains how to evaluate AI agents on Amazon Bedrock AgentCore using built-in, DeepEval, and AutoEval evaluators matched to specific behaviors.",
-   "why": "Engineers deploying agents get a framework for matching task completion, topic adherence, data leakage, and step-skipping checks to the right evaluator.",
-   "topics": [
-    "Agents",
-    "Developer tools",
-    "Infrastructure"
-   ]
-  },
   "sfd7c333979": {
    "id": "sfd7c333979",
    "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
@@ -11165,26 +10905,277 @@
     "Products",
     "Agents"
    ]
+  },
+  "s774f7412d1": {
+   "id": "s774f7412d1",
+   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+   "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T15:08:44+00:00",
+   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 144 # Comments: 130",
+   "related": [],
+   "summary": "Game developer Jonathan Blow gave a video talk questioning why software has not visibly improved even though AI is said to have solved coding.",
+   "why": "It is a critical perspective on AI's real impact on software quality, relevant to tech leaders evaluating productivity claims.",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s5f1afeeb96": {
+   "id": "s5f1afeeb96",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "link": "https://text.npr.org/nx-s1-6029408",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T15:29:10+00:00",
+   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 155 # Comments: 158",
+   "related": [],
+   "summary": "An NPR article asks why Google is cutting off Search access for AI-free schools, and offers several theories.",
+   "why": "The text gives too little detail on the policy or its mechanics to say what it means for engineers or tech leaders.",
+   "topics": [
+    "Products",
+    "Regulation"
+   ]
+  },
+  "sbc9e424bec": {
+   "id": "sbc9e424bec",
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-13T16:26:32+00:00",
+   "description": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+   "related": [],
+   "summary": "A disgruntled researcher released a Windows zero-day called \"SignDrop\" that lets local users gain System privileges.",
+   "why": "Unpatched local privilege escalation exploits let attackers with local access take full control, so patch and hardening priorities need review.",
+   "topics": [
+    "Safety"
+   ]
+  },
+  "s8400bdfe1e": {
+   "id": "s8400bdfe1e",
+   "title": "XYBench: Helping with the problem behind the question",
+   "link": "https://huggingface.co/blog/allenai/xybench",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-13T17:02:35+00:00",
+   "description": "",
+   "related": [],
+   "summary": "Hugging Face introduced XYBench, a benchmark project described as helping with the problem behind the question.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "se940fd9875": {
+   "id": "se940fd9875",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T17:30:10+00:00",
+   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 273 # Comments: 82",
+   "related": [],
+   "summary": "Reports say AI helped unlock Kurt Gödel's notebooks, which are said to contain hundreds of proved theorems.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s2427bacb74": {
+   "id": "s2427bacb74",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-13T18:00:39+00:00",
+   "description": "",
+   "related": [],
+   "summary": "Hugging Face published a tutorial on building a robot pick-and-place simulation using SimReady assets.",
+   "why": "",
+   "topics": [
+    "Developer tools",
+    "Research"
+   ]
+  },
+  "se504c61a39": {
+   "id": "se504c61a39",
+   "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T18:01:15+00:00",
+   "description": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
+   "related": [],
+   "summary": "AWS walks through using SageMaker HyperPod Data Capture to log live inference traffic, find a blind spot with Athena, fine-tune, and measure the lift.",
+   "why": "Offers a practical loop for turning production inference logs into fine-tuning data and measuring improvement.",
+   "topics": [
+    "Models",
+    "Infrastructure"
+   ]
+  },
+  "s80a7173f8d": {
+   "id": "s80a7173f8d",
+   "title": "The avalanche that hit math is coming for AI development",
+   "link": "https://www.dwarkesh.com/p/rsi",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T18:39:42+00:00",
+   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 56 # Comments: 94",
+   "related": [],
+   "summary": "A Hacker News post links to a Dwarkesh Patel essay arguing that a wave of change hitting mathematics is coming for AI development.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "sf17748102e": {
+   "id": "sf17748102e",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T18:40:30+00:00",
+   "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "related": [],
+   "summary": "New research finds that the most advanced Chinese AI models were trained on Nvidia chips that are export-banned.",
+   "why": "Highlights export-control enforcement gaps that could affect chip supply, compliance, and model provenance for companies.",
+   "topics": [
+    "Regulation",
+    "Research"
+   ]
+  },
+  "s773ec8d2db": {
+   "id": "s773ec8d2db",
+   "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T18:44:02+00:00",
+   "description": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
+   "related": [],
+   "summary": "AWS shows how to attribute Amazon Bedrock costs per user for AI developer tools using IAM Identity Center, session tags, and CUR 2.0, and enforce per-user limits.",
+   "why": "Per-user cost attribution and usage limits help engineering leaders control spend on AI developer tools.",
+   "topics": [
+    "Infrastructure",
+    "Enterprise",
+    "Developer tools"
+   ]
+  },
+  "sa05d08fd0b": {
+   "id": "sa05d08fd0b",
+   "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+   "link": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T19:35:35+00:00",
+   "description": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+   "related": [],
+   "summary": "AssemblyAI describes running cost-optimized speech-to-text inference on AWS using ECS, EC2 Spot GPU instances, and an SQS-based retry design across European Regions.",
+   "why": "Shows a concrete architecture for cutting GPU inference costs by about 70% while meeting SLA commitments using Spot capacity.",
+   "topics": [
+    "Infrastructure"
+   ]
+  },
+  "s38741df50e": {
+   "id": "s38741df50e",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T19:37:57+00:00",
+   "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "related": [],
+   "summary": "LangChain has reached a $3 billion valuation and claims 7,000 customers for its LangSmith agent management platform.",
+   "why": "Signals strong enterprise demand for agent tooling and observability platforms that are model-agnostic.",
+   "topics": [
+    "Funding",
+    "Agents",
+    "Developer tools"
+   ]
+  },
+  "sbab1fcc278": {
+   "id": "sbab1fcc278",
+   "title": "No AI Slop: A Manifesto",
+   "link": "https://www.slopmanifesto.com/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T19:51:56+00:00",
+   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 133 # Comments: 75",
+   "related": [],
+   "summary": "A Hacker News post links to a manifesto titled \"No AI Slop,\" which received 133 points and 75 comments.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s951c845619": {
+   "id": "s951c845619",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-13T20:45:10+00:00",
+   "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+   "related": [],
+   "summary": "OpenAI is rolling out ChatGPT Wallet, letting its Dots AI agents make purchases for US ChatGPT Pro subscribers with eligible US cards.",
+   "why": "Agents that spend money on users' behalf raise new questions about payment authorization, controls, and liability for product builders.",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
+  },
+  "s41b9d660ec": {
+   "id": "s41b9d660ec",
+   "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+   "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T21:53:40+00:00",
+   "description": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+   "related": [],
+   "summary": "AWS describes deploying the OpenFold3-preview protein structure model from SageMaker JumpStart, with asynchronous inference, multi-GPU support, and scale-to-zero.",
+   "why": "Gives teams a managed path to run biomolecular structure prediction in their own account with cost controls like scale-to-zero.",
+   "topics": [
+    "Models",
+    "Infrastructure"
+   ]
+  },
+  "s99d40623cf": {
+   "id": "s99d40623cf",
+   "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+   "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T22:02:39+00:00",
+   "description": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+   "related": [],
+   "summary": "AWS explains how Bedrock AgentCore runtime V2 snapshots initialized environments so session startup no longer scales with image size, and offers four patterns for faster startup.",
+   "why": "Snapshot-based restore decouples session start time from container image size, which affects latency planning for agent deployments.",
+   "topics": [
+    "Infrastructure",
+    "Agents"
+   ]
+  },
+  "s94d8e8d365": {
+   "id": "s94d8e8d365",
+   "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+   "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T22:30:12+00:00",
+   "description": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
+   "related": [],
+   "summary": "AWS shows how to deploy LiteLLM with NVIDIA NeMo Switchyard routing on Amazon Bedrock and measure cost per solved coding-agent task against single-model baselines.",
+   "why": "Cost per solved task, not price per token, is the metric to track when routing coding-agent requests across models.",
+   "topics": [
+    "Developer tools",
+    "Infrastructure",
+    "Agents"
+   ]
   }
  },
  "seen": {
-  "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake": "s58426d8e2b",
-  "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "s82110824f2",
-  "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "s9922bcaa36",
-  "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks": "saf7403b456",
-  "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": "saf7403b456",
-  "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai": "s7ac1a3b293",
-  "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore": "scd0c3adea5",
-  "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices": "sb73105fe4e",
-  "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery": "s6fcd75d626",
-  "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy": "s34a6071342",
-  "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m": "s7739f93bab",
-  "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo": "se18f58ec7d",
-  "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect": "sc012fc7ecd",
-  "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder": "s571fb0494b",
-  "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi": "sc3e82675d5",
-  "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy": "s77d255b4e9",
-  "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore": "s14f6b8b420",
   "https://arxiv.org/abs/2611.12933": "sfd7c333979",
   "https://arxiv.org/abs/2611.12934": "s6d6fb689fb",
   "https://arxiv.org/abs/2611.12935": "s541a6d0474",
@@ -11889,6 +11880,23 @@
   "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast": "s71dad9da95",
   "https://openai.com/index/introducing-chatgpt-wallet": "s5bf4951adb",
   "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "s71dad9da95",
-  "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you": "s5bf4951adb"
+  "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you": "s5bf4951adb",
+  "https://www.youtube.com/watch": "s774f7412d1",
+  "https://text.npr.org/nx-s1-6029408": "s5f1afeeb96",
+  "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights": "sbc9e424bec",
+  "https://huggingface.co/blog/allenai/xybench": "s8400bdfe1e",
+  "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths": "se940fd9875",
+  "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": "s2427bacb74",
+  "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture": "se504c61a39",
+  "https://www.dwarkesh.com/p/rsi": "s80a7173f8d",
+  "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen": "sf17748102e",
+  "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock": "s773ec8d2db",
+  "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot": "sa05d08fd0b",
+  "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation": "s38741df50e",
+  "https://www.slopmanifesto.com": "sbab1fcc278",
+  "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet": "s951c845619",
+  "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures": "s41b9d660ec",
+  "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime": "s99d40623cf",
+  "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard": "s94d8e8d365"
  }
 }

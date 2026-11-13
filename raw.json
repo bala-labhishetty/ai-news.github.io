@@ -1,7 +1,119 @@
 {
- "updated": "2026-11-12T19:58:26.367031+00:00",
+ "updated": "2026-11-13T01:08:13.643028+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Why You Should Expect an AI Crash",
+   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-12T23:08:31+00:00",
+   "description": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 81 # Comments: 65"
+  },
+  {
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T22:42:51+00:00",
+   "description": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+  },
+  {
+   "title": "Muse can now place calls to US businesses — if you pay",
+   "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T22:22:28+00:00",
+   "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
+  },
+  {
+   "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+   "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T22:03:34+00:00",
+   "description": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch."
+  },
+  {
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "link": "https://unemploymentlabs.com/checkpoint-forensics",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-12T21:56:11+00:00",
+   "description": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 139 # Comments: 41"
+  },
+  {
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-12T21:55:32+00:00",
+   "description": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]"
+  },
+  {
+   "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T21:47:07+00:00",
+   "description": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets."
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T21:35:00+00:00",
+   "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T21:27:10+00:00",
+   "description": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
+  },
+  {
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-12T21:09:49+00:00",
+   "description": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 74 # Comments: 69"
+  },
+  {
+   "title": "Four Amazon Bedrock inference choices that affect cost",
+   "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T20:51:55+00:00",
+   "description": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect."
+  },
+  {
+   "title": "Jensen Huang was having a third affair, Reuters reports",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T20:26:47+00:00",
+   "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+  },
+  {
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-12T20:16:24+00:00",
+   "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…"
+  },
+  {
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "link": "https://openai.com/business/customer-stories/amplitude",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-12T20:00:00+00:00",
+   "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+  },
   {
    "title": "No, AI agents did not discover a previously unknown Maya site",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
@@ -259,14 +371,6 @@
    "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]"
   },
   {
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T14:30:01+00:00",
-   "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-  },
-  {
    "title": "I reviewed the Apple HomeView, ask me anything",
    "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
    "source": "The Verge",
@@ -283,20 +387,20 @@
    "description": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]"
   },
   {
-   "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-12T13:53:16+00:00",
-   "description": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and […]"
-  },
-  {
    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-12T13:26:25+00:00",
    "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S."
+  },
+  {
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "link": "https://openai.com/business/customer-stories/gondola",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-12T12:00:00+00:00",
+   "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
   },
   {
    "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -371,22 +475,6 @@
    "description": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automatic recovery for replacement."
   },
   {
-   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-   "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T23:28:45+00:00",
-   "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
-  },
-  {
-   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-   "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T23:17:05+00:00",
-   "description": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
-  },
-  {
    "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
    "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
    "source": "AWS ML Blog",
@@ -408,7 +496,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-11T21:24:35+00:00",
-   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 651 # Comments: 678"
+   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 661 # Comments: 684"
   },
   {
    "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
@@ -435,36 +523,12 @@
    "description": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scale."
   },
   {
-   "title": "Why the data center you dread might never even be built",
-   "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T20:15:15+00:00",
-   "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]"
-  },
-  {
-   "title": "Meta is losing its longtime head of infrastructure",
-   "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T20:12:01+00:00",
-   "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
-  },
-  {
-   "title": "Accelerating generative AI delivery with reusable assets",
-   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T19:19:21+00:00",
-   "description": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh."
-  },
-  {
    "title": "Retirement Savings Are Fueling the AI Bubble",
    "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-11T19:06:43+00:00",
-   "description": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 187"
+   "description": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 194"
   },
   {
    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -480,15 +544,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-11T16:33:28+00:00",
-   "description": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 124 # Comments: 110"
-  },
-  {
-   "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
-   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T16:05:33+00:00",
-   "description": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro."
+   "description": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 125 # Comments: 112"
   },
   {
    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
@@ -497,14 +553,6 @@
    "category": "AI Labs",
    "published": "2026-11-11T16:00:00+00:00",
    "description": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
-  },
-  {
-   "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
-   "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T15:50:55+00:00",
-   "description": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regressions."
   },
   {
    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
@@ -520,7 +568,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-11T12:05:22+00:00",
-   "description": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1023 # Comments: 385"
+   "description": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1026 # Comments: 390"
   },
   {
    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -536,7 +584,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-11T08:51:45+00:00",
-   "description": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 64 # Comments: 111"
+   "description": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 65 # Comments: 112"
   },
   {
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -592,7 +640,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-10T21:25:03+00:00",
-   "description": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 549 # Comments: 550"
+   "description": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 550 # Comments: 551"
   },
   {
    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -680,7 +728,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-10T10:25:58+00:00",
-   "description": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 637 # Comments: 622"
+   "description": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 639 # Comments: 624"
   },
   {
    "title": "Introducing Businesses in ChatGPT",
@@ -712,7 +760,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-10T07:19:38+00:00",
-   "description": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 65"
+   "description": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 165 # Comments: 65"
   },
   {
    "title": "Work at the Frontier: AI’s effect on freelance work",
@@ -760,7 +808,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-09T22:19:12+00:00",
-   "description": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 161 # Comments: 200"
+   "description": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 162 # Comments: 200"
   },
   {
    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
@@ -800,7 +848,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-09T18:05:44+00:00",
-   "description": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 111 # Comments: 43"
+   "description": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 112 # Comments: 43"
   },
   {
    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
@@ -929,30 +977,6 @@
    "category": "AI Labs",
    "published": "2026-11-09T05:00:00+00:00",
    "description": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]"
-  },
-  {
-   "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-   "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-09T03:06:55+00:00",
-   "description": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 74 # Comments: 40"
-  },
-  {
-   "title": "I'm not convinced the AI bubble exists",
-   "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-08T23:44:36+00:00",
-   "description": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 573 # Comments: 972"
-  },
-  {
-   "title": "How I'm fighting the AI brain fry",
-   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-08T19:37:42+00:00",
-   "description": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 313 # Comments: 215"
   },
   {
    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -1323,20 +1347,20 @@
    "description": ""
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
-   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-02T18:00:00+00:00",
-   "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-  },
-  {
    "title": "Preparing our next security sprint to harden OpenAI",
    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "source": "OpenAI",
    "category": "AI Labs",
    "published": "2026-11-02T18:00:00+00:00",
    "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+  },
+  {
+   "title": "Rewarding defenders with bigger bug bounties",
+   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-02T18:00:00+00:00",
+   "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
   },
   {
    "title": "The latest AI news we announced in October 2026",
@@ -1369,14 +1393,6 @@
    "category": "AI Labs",
    "published": "2026-11-02T15:00:00+00:00",
    "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-  },
-  {
-   "title": "Stop counting tokens, start counting what ships",
-   "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-   "source": "MIT Tech Review",
-   "category": "Industry",
-   "published": "2026-11-02T13:10:32+00:00",
-   "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…"
   },
   {
    "title": "LifeVal",
@@ -1987,20 +2003,20 @@
    "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors."
   },
   {
-   "title": "How Localiza reorganized work around generative AI",
-   "link": "https://openai.com/index/localiza-generative-ai",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-10-16T00:00:00+00:00",
-   "description": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences."
-  },
-  {
    "title": "How Grupo Boticário uses AI to strengthen human connections",
    "link": "https://openai.com/index/grupo-boticario",
    "source": "OpenAI",
    "category": "AI Labs",
    "published": "2026-10-16T00:00:00+00:00",
    "description": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role."
+  },
+  {
+   "title": "How Localiza reorganized work around generative AI",
+   "link": "https://openai.com/index/localiza-generative-ai",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-10-16T00:00:00+00:00",
+   "description": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences."
   },
   {
    "title": "Benefit Street Partners answers questions faster with Codex",
@@ -2385,22 +2401,6 @@
    "category": "AI Labs",
    "published": "2026-10-01T16:00:00+00:00",
    "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-  },
-  {
-   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "link": "https://openai.com/index/the-den-family-social",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-10-01T00:00:00+00:00",
-   "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-  },
-  {
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "source": "Google DeepMind",
-   "category": "AI Labs",
-   "published": "2026-09-30T20:01:45+00:00",
-   "description": ""
   }
  ]
 }

@@ -1,209 +1,5 @@
 {
  "stories": {
-  "s51fd6bae6a": {
-   "id": "s51fd6bae6a",
-   "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-   "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-09T20:01:20+00:00",
-   "description": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
-   "related": [],
-   "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart in NVFP4 or BF16 variants.",
-   "why": "Teams can deploy a large open multimodal model for document intelligence and computer-use agents with minimal setup on SageMaker.",
-   "topics": [
-    "Models",
-    "Infrastructure"
-   ]
-  },
-  "s2e186972ef": {
-   "id": "s2e186972ef",
-   "title": "Introducing Claude Fable 5.2 on AWS",
-   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-09T20:04:37+00:00",
-   "description": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
-   "related": [],
-   "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS.",
-   "why": "Engineers on AWS can now evaluate and build with these newer Claude models directly through Bedrock.",
-   "topics": [
-    "Models",
-    "Infrastructure"
-   ]
-  },
-  "s3541a994b8": {
-   "id": "s3541a994b8",
-   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T20:09:06+00:00",
-   "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-   "related": [],
-   "summary": "Nvidia CEO Jensen Huang withdrew from the ElevenLabs Summit amid the controversy, after also pulling out of an earlier Anthropic event.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "s0eb7f2999a": {
-   "id": "s0eb7f2999a",
-   "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-   "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-09T20:13:18+00:00",
-   "description": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
-   "related": [],
-   "summary": "AWS describes Amazon Bedrock Managed Knowledge Base support for single-shot RAG and retrieval-only requests alongside agentic retrieval, using a maxAgentIteration parameter.",
-   "why": "Engineers can tune retrieval effort per request, trading latency and cost against answer depth in RAG pipelines.",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ]
-  },
-  "s7a2ece4aa1": {
-   "id": "s7a2ece4aa1",
-   "title": "A year after the 100% AI mandate nobody understands our code",
-   "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-09T22:19:12+00:00",
-   "description": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 110 # Comments: 131",
-   "related": [],
-   "summary": "A Hacker News thread discusses a year after a 100% AI coding mandate, with commenters saying no one understands the resulting code.",
-   "why": "It highlights the risk of code ownership and comprehension when teams mandate AI-generated code at scale.",
-   "topics": [
-    "Developer tools",
-    "Enterprise"
-   ]
-  },
-  "s09274ed8ec": {
-   "id": "s09274ed8ec",
-   "title": "The race is on to sue Nvidia",
-   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T22:23:42+00:00",
-   "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-   "related": [],
-   "summary": "Nvidia's stock fell more than 4% after its board opened an investigation into Jensen Huang's ties to a suspected Chinese spy.",
-   "why": "Legal exposure from securities suits could affect Nvidia's costs and stability, which matters for teams depending on its hardware.",
-   "topics": [
-    "Enterprise",
-    "Funding"
-   ]
-  },
-  "s432027aa08": {
-   "id": "s432027aa08",
-   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-   "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T22:46:09+00:00",
-   "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-   "related": [],
-   "summary": "Short seller Culper Research reportedly questioned Jensen Huang's close relationship with a Chinese executive six months before the scandal surfaced.",
-   "why": "",
-   "topics": [
-    "Enterprise",
-    "Regulation"
-   ]
-  },
-  "s15c28179b2": {
-   "id": "s15c28179b2",
-   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T23:07:59+00:00",
-   "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
-   "related": [],
-   "summary": "Nvidia CEO Jensen Huang acknowledged an affair with Megaspeed executive Alice Huang, prompting a company investigation and wider scrutiny.",
-   "why": "Leadership scandal and investigation at a core AI chip supplier could affect Nvidia's supply, governance, and partner confidence.",
-   "topics": [
-    "Enterprise",
-    "Regulation"
-   ]
-  },
-  "s9b0466c1eb": {
-   "id": "s9b0466c1eb",
-   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-09T23:28:37+00:00",
-   "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-   "related": [],
-   "summary": "Jensen Huang reportedly hired a PR firm known for handling high-profile sex scandals about a year ago, shortly after a New York Times report.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "sfd48ce2874": {
-   "id": "sfd48ce2874",
-   "title": "Here’s what Trump said he knew about Jensen Huang",
-   "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T23:47:46+00:00",
-   "description": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
-   "related": [],
-   "summary": "President Trump responded to questions at a White House briefing about his knowledge of Nvidia CEO Jensen Huang's alleged affair with a suspected Chinese spy.",
-   "why": "",
-   "topics": [
-    "Regulation"
-   ]
-  },
-  "s285987eab7": {
-   "id": "s285987eab7",
-   "title": "What could China get from Jensen Huang?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-09T23:51:58+00:00",
-   "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
-   "related": [],
-   "summary": "The Verge asks what China could gain from Nvidia CEO Jensen Huang, noting Nvidia's chips underpin US AI and its wide investments.",
-   "why": "",
-   "topics": [
-    "Infrastructure",
-    "Regulation"
-   ]
-  },
-  "s831bd9db6c": {
-   "id": "s831bd9db6c",
-   "title": "How skills and agents work in AWS Quick",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-10T00:21:34+00:00",
-   "description": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them.",
-   "related": [],
-   "summary": "AWS published a post explaining how agents, skills, and data fit together in AWS Quick, plus how teams can build, share, and use them.",
-   "why": "Engineers building internal automation on AWS get a reference for structuring reusable agent skills and custom agents.",
-   "topics": [
-    "Agents",
-    "Developer tools"
-   ]
-  },
-  "s8d28cfa555": {
-   "id": "s8d28cfa555",
-   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-   "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-10T00:28:49+00:00",
-   "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
-   "related": [],
-   "summary": "Paramount Skydance CEO David Ellison said on an earnings call that AI could have a bigger impact on film production than CGI.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
   "s6289435bdb": {
    "id": "s6289435bdb",
    "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -10813,54 +10609,6 @@
     "Infrastructure"
    ]
   },
-  "s1ff74ee2cb": {
-   "id": "s1ff74ee2cb",
-   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-   "link": "https://openai.com/index/cogent-security",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-10T00:00:00+00:00",
-   "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-   "related": [],
-   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities using agents, in what it calls cyber defense factories.",
-   "why": "Shows agents being applied to automated vulnerability remediation, a direct concern for security and platform teams.",
-   "topics": [
-    "Agents",
-    "Safety",
-    "Enterprise"
-   ]
-  },
-  "s724fae9251": {
-   "id": "s724fae9251",
-   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-   "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-10T00:00:00+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Hugging Face announced that users can pay for Hub services using their Google Cloud account.",
-   "why": "Simplifies procurement and billing for teams already consolidating spend on Google Cloud.",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ]
-  },
-  "s3229de0d91": {
-   "id": "s3229de0d91",
-   "title": "Decision Models in Hugging Face",
-   "link": "https://huggingface.co/blog/decision",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-10T00:00:00+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Hugging Face published a post titled Decision Models in Hugging Face, with no description provided.",
-   "why": "",
-   "topics": [
-    "Models"
-   ]
-  },
   "s9c5da62bab": {
    "id": "s9c5da62bab",
    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
@@ -11410,7 +11158,13 @@
    "category": "Industry",
    "published": "2026-11-12T19:27:45+00:00",
    "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-   "related": [],
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+     "title": "Google’s new Gemini model is better at understanding complicated questions"
+    }
+   ],
    "summary": "Google says its AI Mode in Search now better handles complex queries, surfaces relevant links, and gives richer visual responses, powered by Gemini 4 Hydrogen.",
    "why": "Signals Google's Search model upgrades, which may shape how users find and consume information and how publishers get traffic.",
    "topics": [
@@ -11433,22 +11187,228 @@
     "Infrastructure",
     "Enterprise"
    ]
+  },
+  "s90d7922370": {
+   "id": "s90d7922370",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "link": "https://openai.com/business/customer-stories/gondola",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-12T12:00:00+00:00",
+   "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+   "related": [],
+   "summary": "Gondola says it doubled revenue and that Codex raised its lead engineer's output by 50%, alongside ChatGPT simplifying daily work.",
+   "why": "A company reports measurable engineering productivity gains from Codex, though the claims are self-reported and unverified.",
+   "topics": [
+    "Developer tools",
+    "Enterprise"
+   ]
+  },
+  "s15c28179b2": {
+   "id": "s15c28179b2",
+   "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-12T15:01:31+00:00",
+   "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
+   "related": [],
+   "summary": "Nvidia CEO Jensen Huang resigned after acknowledging an affair, and The New York Times reported evidence of another affair with a direct report.",
+   "why": "Leadership turmoil at Nvidia, the leading AI chip supplier, could affect company direction and partner confidence.",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s5b0f73df89": {
+   "id": "s5b0f73df89",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "link": "https://openai.com/business/customer-stories/amplitude",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-12T20:00:00+00:00",
+   "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "related": [],
+   "summary": "Amplitude describes how it ships product improvements in one to two days using OpenAI models, with its Wave product agent and coding agents.",
+   "why": "It shows a production pattern of pairing a product agent with coding agents to shorten release cycles.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "sd1b4a11479": {
+   "id": "sd1b4a11479",
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-12T20:16:24+00:00",
+   "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
+   "related": [],
+   "summary": "Nvidia reportedly told Rep. Bill Foster that tracking chips to fight smuggling is technically possible, though an industry group called the measures potentially infeasible.",
+   "why": "Feasibility of chip-tracking under the Chip Security Act affects hardware compliance requirements and supply chain obligations.",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ]
+  },
+  "s92467d3f16": {
+   "id": "s92467d3f16",
+   "title": "Jensen Huang was having a third affair, Reuters reports",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T20:26:47+00:00",
+   "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+   "related": [],
+   "summary": "Reuters reports Jensen Huang had a third affair, this time with an unnamed Nvidia employee, which Reuters says it is withholding by name.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "se9b2308e4a": {
+   "id": "se9b2308e4a",
+   "title": "Four Amazon Bedrock inference choices that affect cost",
+   "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T20:51:55+00:00",
+   "description": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.",
+   "related": [],
+   "summary": "AWS explains four request-level Amazon Bedrock settings (cache duration, service tier, reasoning effort, maxTokens) that change token processing and billing, with testing results.",
+   "why": "Engineers can cut Bedrock inference costs by tuning these request settings and verifying their effect on token usage.",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ]
+  },
+  "s10ab378046": {
+   "id": "s10ab378046",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-12T21:09:49+00:00",
+   "description": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 74 # Comments: 69",
+   "related": [],
+   "summary": "A synth developer post says AI is complicating Apple's app review process, creating difficulties for synthesizer app developers.",
+   "why": "",
+   "topics": [
+    "Developer tools",
+    "Regulation"
+   ]
+  },
+  "sfc0f425d48": {
+   "id": "sfc0f425d48",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T21:27:10+00:00",
+   "description": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "related": [],
+   "summary": "Nebius plans to fund a $40 billion AI infrastructure expansion through customer prepayments and loans, amid delays at a Microsoft data center.",
+   "why": "Neocloud financing that relies on customer prepayments and loans raises questions about capacity delivery and vendor risk for cloud buyers.",
+   "topics": [
+    "Infrastructure",
+    "Funding"
+   ]
+  },
+  "scb86ca9a5a": {
+   "id": "scb86ca9a5a",
+   "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T21:47:07+00:00",
+   "description": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
+   "related": [],
+   "summary": "Natera built SWARM, an agentic lab-operations system on Amazon Bedrock AgentCore, reporting about 130x faster first response and 96.2% automated support-ticket coverage.",
+   "why": "It offers a concrete architecture and reported results for deploying agentic AI on institutional knowledge in enterprise support workflows.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "sd096a8a420": {
+   "id": "sd096a8a420",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "link": "https://unemploymentlabs.com/checkpoint-forensics",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-12T21:56:11+00:00",
+   "description": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 139 # Comments: 41",
+   "related": [],
+   "summary": "A forensic analysis claims Chinese frontier AI models carry traces of export-controlled GPUs, per a post with 139 Hacker News points.",
+   "why": "If accurate, it suggests export-controlled hardware is embedded in models, relevant to compliance and provenance decisions.",
+   "topics": [
+    "Research",
+    "Regulation"
+   ]
+  },
+  "sec886a92fa": {
+   "id": "sec886a92fa",
+   "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+   "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-12T22:03:34+00:00",
+   "description": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
+   "related": [],
+   "summary": "AWS made SGLang-Neuron publicly available through a Deep Learning Container for serving models and generating RL rollouts on Trainium.",
+   "why": "Teams on AWS Trainium can serve models and run RL rollouts with the familiar SGLang interface on native PyTorch.",
+   "topics": [
+    "Infrastructure",
+    "Open source"
+   ]
+  },
+  "s82d9be9587": {
+   "id": "s82d9be9587",
+   "title": "Muse can now place calls to US businesses — if you pay",
+   "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T22:22:28+00:00",
+   "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+   "related": [],
+   "summary": "Muse's AI can now place outbound calls to U.S. businesses, but the feature requires a paid plan.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s4e2810e47e": {
+   "id": "s4e2810e47e",
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T22:42:51+00:00",
+   "description": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "related": [],
+   "summary": "Democrats launched a Congressional investigation into Nvidia's China sales and its dealings with Trump, the second such probe since an alleged spy affair surfaced.",
+   "why": "Heightened congressional scrutiny of Nvidia's China sales could bring new export-control or compliance pressure on the chip supply chain.",
+   "topics": [
+    "Regulation"
+   ]
+  },
+  "s85fb0dda3e": {
+   "id": "s85fb0dda3e",
+   "title": "Why You Should Expect an AI Crash",
+   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-12T23:08:31+00:00",
+   "description": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 81 # Comments: 65",
+   "related": [],
+   "summary": "The Economist's leader argues that an AI crash should be expected, according to a Hacker News post linking to the article.",
+   "why": "",
+   "topics": [
+    "Models"
+   ]
   }
  },
  "seen": {
-  "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart": "s51fd6bae6a",
-  "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws": "s2e186972ef",
-  "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy": "s3541a994b8",
-  "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base": "s0eb7f2999a",
-  "https://www.reddit.com/r/claudecode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody": "s7a2ece4aa1",
-  "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia": "s09274ed8ec",
-  "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal": "s432027aa08",
-  "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang": "s15c28179b2",
-  "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago": "s9b0466c1eb",
-  "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference": "sfd48ce2874",
-  "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang": "s285987eab7",
-  "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick": "s831bd9db6c",
-  "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai": "s8d28cfa555",
   "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans": "s6289435bdb",
   "https://arxiv.org/abs/2611.10045": "sa144563512",
   "https://arxiv.org/abs/2611.10048": "s9a6a306f9b",
@@ -12124,9 +12084,6 @@
   "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock": "s0566809c65",
   "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "sefdd0bfa61",
   "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai": "sa0a8bd6843",
-  "https://openai.com/index/cogent-security": "s1ff74ee2cb",
-  "https://huggingface.co/blog/hub-gcp-marketplace": "s724fae9251",
-  "https://huggingface.co/blog/decision": "s3229de0d91",
   "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html": "s9c5da62bab",
   "https://openai.com/index/singapore-airlines-travel-work": "s4e3e5904c8",
   "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays": "s6488c22837",
@@ -12175,6 +12132,21 @@
   "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands": "sd3c21aad12",
   "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions": "s875637b2c3",
   "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets": "sc8c5dc2929",
-  "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery": "s8d8bc38f54"
+  "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery": "s8d8bc38f54",
+  "https://openai.com/business/customer-stories/gondola": "s90d7922370",
+  "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang": "s15c28179b2",
+  "https://openai.com/business/customer-stories/amplitude": "s5b0f73df89",
+  "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": "sd1b4a11479",
+  "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports": "s92467d3f16",
+  "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost": "se9b2308e4a",
+  "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html": "s10ab378046",
+  "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending": "sfc0f425d48",
+  "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore": "scb86ca9a5a",
+  "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen": "s875637b2c3",
+  "https://unemploymentlabs.com/checkpoint-forensics": "sd096a8a420",
+  "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": "sec886a92fa",
+  "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay": "s82d9be9587",
+  "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump": "s4e2810e47e",
+  "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash": "s85fb0dda3e"
  }
 }

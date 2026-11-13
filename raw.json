@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-13T08:03:42.233729+00:00",
+ "updated": "2026-11-13T16:29:14.068517+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T16:00:12+00:00",
+   "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T15:58:00+00:00",
+   "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "Introducing ChatGPT Wallet",
+   "link": "https://openai.com/index/introducing-chatgpt-wallet",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-13T15:00:00+00:00",
+   "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+  },
+  {
+   "title": "What&#8217;s really at stake in the Jensen Huang saga",
+   "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-13T14:47:16+00:00",
+   "description": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]"
+  },
+  {
+   "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T14:44:48+00:00",
+   "description": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+  },
+  {
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-13T14:05:22+00:00",
+   "description": ""
+  },
+  {
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-13T14:00:00+00:00",
+   "description": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]"
+  },
+  {
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-13T13:00:42+00:00",
+   "description": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]"
+  },
+  {
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T12:52:19+00:00",
+   "description": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+  },
+  {
+   "title": "Jensen Huang didn’t show confidence in his successor, report says",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T12:28:23+00:00",
+   "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
+  },
+  {
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-13T12:00:00+00:00",
+   "description": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]"
+  },
+  {
+   "title": "AI Is Destroying the Trust Between Writers and Readers",
+   "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T11:13:46+00:00",
+   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 150 # Comments: 53"
+  },
+  {
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "link": "https://status.claude.com/incidents/nn11wk485zfn",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T10:18:13+00:00",
+   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 412 # Comments: 339"
+  },
   {
    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
    "link": "https://arxiv.org/abs/2611.14544",
@@ -2297,110 +2401,6 @@
    "category": "Research",
    "published": "2026-11-13T05:00:00+00:00",
    "description": "arXiv:2611.16727v1 Announce Type: cross Abstract: Adapting general Vision-Language Models (VLMs) to Autonomous Driving (AD) is thought to require heavy 3D spatial priors or intrusive architectural overhauls to compensate for a lack of spatial grounding. In this work, we present a counterintuitive pilot study: off-the-shelf general VLMs already exhibit remarkable adaptability across diverse driving tasks, while precise metric depth remains the primary missing link, a bottleneck readily addressable via onboard sensors and depth foundation models. To this end, we introduce the Triplet Incremental Training Framework, a non-intrusive paradigm that seamlessly instills 3D geometric awareness into a general VLM backbone while fully preserving its open-world capabilities. Driven by automatically co"
-  },
-  {
-   "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
-   "link": "https://arxiv.org/abs/2611.16728",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16728v1 Announce Type: cross Abstract: Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentric cross-embodiment learning framework that organizes heterogeneous demonstrations through semantically corresponding observation and action modalities. EgoX pretrains a Modularized Cross-Embodiment Transformer with Embodiment Dreaming (MXT+) on this mixture and fine-tunes it on target-embodiment demonstrations. Within each embodiment, MXT+ assigns a dedicated tokenizer to each observation modality and a dedicated expert to each action modality, wi"
-  },
-  {
-   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
-   "link": "https://arxiv.org/abs/2611.16748",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16748v1 Announce Type: cross Abstract: Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed to support physically grounded self-improvement in video generation models. The harness guides and constrains LLMs throughout video generation, selection, and correction, distilling their physical knowledge into physically consistent videos. The framewor"
-  },
-  {
-   "title": "ORCA:Orthogonal Residual Consensus Alignment for Multi-View Clustering",
-   "link": "https://arxiv.org/abs/2611.16749",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16749v1 Announce Type: cross Abstract: Deep multi-view clustering often suffers from redundant information accumulation during fusion and indiscriminate alignment across representation levels. We propose Orthogonal Residual Consensus Alignment (ORCA) to address these challenges. Its semantic incremental recurrent fusion module extracts cross-view orthogonal residuals as non-redundant increments and adaptively weights recurrent states through divergence-guided gating. Its consensus-calibrated hierarchical contrastive alignment module uses the global consensus to weight contrastive alignment of view-level, pairwise, and recurrent representations. Together, these modules balance view-specific structure with cross-view consistency. Experiments on five benchmarks against fifteen comp"
-  },
-  {
-   "title": "AgriSense: Vision-Language Decision Support and Robotic Intervention in a Virtual Greenhouse Copy title",
-   "link": "https://arxiv.org/abs/2611.16752",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16752v1 Announce Type: cross Abstract: Autonomous greenhouse management increasingly requires robotic systems that integrate perception, navigation, environmental regulation, and plant-level intervention. This paper presents AgriSense, a framework combining an Isaac Sim virtual greenhouse, a quadruped mobile manipulator, RGB and LiDAR-inertial sensing, environmental control, and supervised vision-language decision support. Frozen DINOv2 and BERT encoders, together with structured environmental inputs, support joint prediction of twelve environmental references, a target zone, and an intervention flag. Checkpoint replay reproduces 41/43 zone decisions. Across five seeds on a source-grouped test set, the full, image-removed, and language-removed configurations each achieve 43/44 c"
-  },
-  {
-   "title": "Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving",
-   "link": "https://arxiv.org/abs/2611.16767",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16767v1 Announce Type: cross Abstract: Natural language explanations promised by modern Video Large Language Models (Video LLMs) offer autonomous driving systems a path toward detailed scene description and interpretable decision making on the road. While recent benchmarks have begun assessing these models on driving scenes, they mainly target routine traffic conditions and general comprehension tasks based on existing driving datasets and therefore fail to evaluate model performance on the rarest and most safety-critical driving events, also known as \"corner cases\". To provide a comprehensive evaluation of Video LLMs on precisely these scenarios, we introduce DashBench, a benchmark testing 25 Video LLMs on 1,709 carefully curated driving videos spanning not only collision-relat"
-  },
-  {
-   "title": "DPA: Decentralized Primal Averaging with Quasi-Global Momentum for Highly Heterogeneous Data",
-   "link": "https://arxiv.org/abs/2611.16871",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16871v1 Announce Type: cross Abstract: Decentralized training of deep learning models keeps training data local and supports on-device learning over networks. In realistic scenarios, heterogeneity across agents' local data poses an optimization challenge and can severely degrade test accuracy, especially on sparse communication graphs. Building on recent advances in centralized primal averaging, we propose Decentralized Primal Averaging (DPA), a decentralized learning algorithm that combines primal averaging with a local quasi-global momentum buffer. DPA maintains three coupled sequences for optimization, gradient evaluation, and output averaging, while using consecutive mixed iterates to construct a network-aware momentum direction without transmitting an auxiliary tracking var"
-  },
-  {
-   "title": "Context Graph: Explainable Multi-Agent Decision Chains in AI-RAN",
-   "link": "https://arxiv.org/abs/2611.16879",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16879v1 Announce Type: cross Abstract: AI-RAN distributes network control across multiple autonomous agents, namely xApps and rApps operating over shared radio resources. When an alert or degradation appears, operators currently lack a structured way to trace which decision caused it, what context triggered that decision, and how other agents interacted. Existing explainability tools focus on single-model feature attribution or linear event logging, neither of which captures cross-agent decision chains. We propose the Context Graph, a heterogeneous directed graph that organizes policies, measurements, decisions, and alerts into a queryable explanation layer. Its foundational primitive is the Decision-Event node acting as a causal junction, where incoming edges capture triggering"
-  },
-  {
-   "title": "Protein Language Models Fail To Capture Contact Predictions Under Invariant Relabeling",
-   "link": "https://arxiv.org/abs/2611.16881",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16881v1 Announce Type: cross Abstract: Protein language models (pLMs) produce highly accurate contact maps from single-sequence inputs. People often take this accuracy as proof that these models implicitly learn invariant coevolutionary statistics, extracting the same signals as classical alignment-based methods like Potts. In this work, we introduce a diagnostic framework around a global bijective relabeling of the amino-acid alphabet. This transformation permutes residue letters while leaving all alignment-level information, column entropies, and pairwise edit distances unchanged. Pseudolikelihood Potts models and inverse-covariance estimators remain invariant under this transformation, but pLMs fail the test. Across multiple architectures (ESM-2, MSA Transformer, AMPLIFY) and"
-  },
-  {
-   "title": "LLM-Assisted Verification in Dafny",
-   "link": "https://arxiv.org/abs/2611.16886",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16886v1 Announce Type: cross Abstract: Formal verification of complex algorithms requires expertise in program specification, invariant construction, mathematical proof, and the management of automated theorem provers. Although large language models (LLMs) can generate program code and proof fragments, reliably developing complete machine-checked verifications remains challenging: it requires an iterative process of constructing and validating specifications and invariants, building proofs, diagnosing solver failures, and optimizing verification performance. This paper presents a systematic ten-step workflow for LLM-assisted verification of scientific algorithms using the Dafny verification system. The workflow integrates algorithm formalization, contract development, empirical "
-  },
-  {
-   "title": "Look It Up: Multi-bit LLM Watermarking via Codebook Search",
-   "link": "https://arxiv.org/abs/2611.16890",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16890v1 Announce Type: cross Abstract: Attributing short LLM-generated texts to a specific source remains challenging for existing multi-bit watermarking methods, which often require long generations or costly decoding to recover payloads reliably. We propose a codebook-based watermarking scheme that maps an $n$-bit payload to a longer $u$-bit codeword and embeds it during generation through token-level logit biasing. During extraction, the received bit sequence is matched to the nearest codeword in a precomputed secret codebook using Hamming or Levenshtein distance. Experiments show that our method achieves near-perfect recovery for 16-24 bit payloads on 200-token generations and strong performance on 127-token generations for base models. Results are weaker on some instruction"
-  },
-  {
-   "title": "STEALTH: Steganographic Text Encoding Agnostic to Low-Level Tensor Hardware",
-   "link": "https://arxiv.org/abs/2611.16928",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16928v1 Announce Type: cross Abstract: Provably secure linguistic steganography hides a message inside text sampled from a language model, so that without the key, a stegotext is computationally indistinguishable from an honest model sample. Nearly every such scheme assumes the receiver can recompute the sender's token probabilities exactly bit for bit. We show this assumption is fragile: across three model families, bit-exact schemes decode almost none of our messages once the receiver's floating-point precision, quantization, or GPU architecture differs from the sender's, or even when the receiver merely scores a text in parallel versus one token at a time, with the same model, precision, and hardware held fixed. We present STEALTH, a scheme built for exactly this setting. The"
-  },
-  {
-   "title": "SPADE: Soft Prompts for Ai-text DEtection",
-   "link": "https://arxiv.org/abs/2611.16929",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16929v1 Announce Type: cross Abstract: The easy access to Large Language Models (LLMs) has made AI-generated texts on the web increasingly ubiquitous, making AI-text detection a crucial task. Prompts greatly influence the generation process, but existing detectors focus solely on the generated texts --- supervised methods learn from labeled texts only, and zero-shot methods rely on the text's probability distributions --- ignoring the underlying generation process, which limits their robustness in open-world scenarios. We introduce SPADE: Soft Prompts for Ai-text DEtection, a novel framework for detecting AI-generated text that transfers better across datasets. Specifically, we measure the prompt's influence and use it as a discriminative signal. We characterize the prompt's inf"
-  },
-  {
-   "title": "Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data",
-   "link": "https://arxiv.org/abs/2611.16933",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16933v1 Announce Type: cross Abstract: Full-duplex spoken dialogue models learn turn-taking, overlaps and backchannels from conversations recorded with one channel per speaker, but most available conversational audio is a single mono mix. We present Kezek, a model that turns a mono recording of exactly two people into one track per person with the original length and timing; overlaps and short replies (\"yeah\", \"mm-hm\") stay on the track of the person who said them. Kezek decides who speaks when and who is who once for the whole recording (stage 1: a two-voice activity model guided by a speaker fingerprint trained to be insensitive to phase), and a conditioned time-domain separator only carries out that decision (stage 2), with outputs that always sum to the input. Standard separ"
   }
  ]
 }

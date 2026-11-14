@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T18:09:51.806722+00:00",
+ "updated": "2026-11-14T22:29:10.643449+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-14T21:41:22+00:00",
+   "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+  },
   {
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -40,7 +48,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T06:56:42+00:00",
-   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 68 # Comments: 47"
+   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 74 # Comments: 49"
   },
   {
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -48,7 +56,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T02:52:59+00:00",
-   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 953 # Comments: 577"
+   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1008 # Comments: 608"
   },
   {
    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
@@ -56,7 +64,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T00:28:11+00:00",
-   "description": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 97 # Comments: 90"
+   "description": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 98 # Comments: 91"
   },
   {
    "title": "Amazon has a plan to index the world’s online shopping data",
@@ -120,7 +128,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T19:51:56+00:00",
-   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 214 # Comments: 127"
+   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 216 # Comments: 129"
   },
   {
    "title": "AI agent startup LangChain hits $3B valuation",
@@ -160,7 +168,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T18:39:42+00:00",
-   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 64 # Comments: 105"
+   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 65 # Comments: 109"
   },
   {
    "title": "Are we just going to ignore that books are destroyed for AI?",
@@ -168,7 +176,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T18:14:38+00:00",
-   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 57 # Comments: 62"
+   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 57 # Comments: 69"
   },
   {
    "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
@@ -192,7 +200,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T17:30:10+00:00",
-   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 412 # Comments: 106"
+   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 420 # Comments: 107"
   },
   {
    "title": "XYBench: Helping with the problem behind the question",
@@ -232,7 +240,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:29:10+00:00",
-   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 191 # Comments: 184"
+   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 191 # Comments: 190"
   },
   {
    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
@@ -240,7 +248,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:08:44+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 436 # Comments: 618"
+   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 451 # Comments: 650"
   },
   {
    "title": "Introducing ChatGPT Wallet",
@@ -320,7 +328,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T11:13:46+00:00",
-   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 359 # Comments: 227"
+   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 363 # Comments: 229"
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -328,7 +336,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T10:18:13+00:00",
-   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 489 # Comments: 390"
+   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390"
   },
   {
    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -344,7 +352,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T00:38:41+00:00",
-   "description": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 89 # Comments: 29"
+   "description": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 90 # Comments: 30"
   },
   {
    "title": "Why You Should Expect an AI Crash",
@@ -352,7 +360,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T23:08:31+00:00",
-   "description": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 102 # Comments: 84"
+   "description": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 103 # Comments: 84"
   },
   {
    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
@@ -360,7 +368,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T23:06:17+00:00",
-   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 347 # Comments: 105"
+   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 351 # Comments: 105"
   },
   {
    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -392,7 +400,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T21:56:11+00:00",
-   "description": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 369 # Comments: 160"
+   "description": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 371 # Comments: 160"
   },
   {
    "title": "Google’s new Gemini model is better at understanding complicated questions",
@@ -571,14 +579,6 @@
    "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
   },
   {
-   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-   "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T17:00:52+00:00",
-   "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
-  },
-  {
    "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
    "link": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
    "source": "AWS ML Blog",
@@ -680,7 +680,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-11T21:24:35+00:00",
-   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 678 # Comments: 706"
+   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 706"
   },
   {
    "title": "Retirement Savings Are Fueling the AI Bubble",

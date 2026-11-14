@@ -15,225 +15,6 @@
     "Enterprise"
    ]
   },
-  "s0afd1907df": {
-   "id": "s0afd1907df",
-   "title": "Accelerating generative AI delivery with reusable assets",
-   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T19:19:21+00:00",
-   "description": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh.",
-   "related": [],
-   "summary": "AWS's Generative AI Innovation Center offers a catalog of 23 open source, production-ready reusable assets for generative AI delivery.",
-   "why": "Teams can reuse tested RAG pipelines, document processors, and agent scaffolding instead of rebuilding them.",
-   "topics": [
-    "Open source",
-    "Developer tools"
-   ]
-  },
-  "s94fcbf10f8": {
-   "id": "s94fcbf10f8",
-   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-   "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T19:22:22+00:00",
-   "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-   "related": [],
-   "summary": "House Republicans have asked Nvidia CEO Jensen Huang for a closed-door briefing about his alleged affair with a Chinese spy.",
-   "why": "Congressional scrutiny of Nvidia's leadership could carry implications for the company and its chip supply.",
-   "topics": [
-    "Regulation"
-   ]
-  },
-  "s6f3c74a04f": {
-   "id": "s6f3c74a04f",
-   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-   "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T19:34:55+00:00",
-   "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-   "related": [],
-   "summary": "Britain's Fractile raised a $720M round, making it one of the top-funded startups building purpose-built AI chips.",
-   "why": "Well-funded alternatives to GPUs could broaden the hardware options for AI inference and training.",
-   "topics": [
-    "Funding",
-    "Infrastructure"
-   ]
-  },
-  "s850c064410": {
-   "id": "s850c064410",
-   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-   "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T19:54:00+00:00",
-   "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-   "related": [],
-   "summary": "CoreWeave is asking customers for upfront payments and offering shorter contracts, according to its third-quarter earnings.",
-   "why": "Shifts in GPU cloud contract terms affect cost planning and capacity commitments for AI teams.",
-   "topics": [
-    "Infrastructure",
-    "Enterprise",
-    "Funding"
-   ]
-  },
-  "sbdeaa23eb9": {
-   "id": "sbdeaa23eb9",
-   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-   "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T20:02:14+00:00",
-   "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
-   "related": [],
-   "summary": "Local backlash, permitting delays, and electricity constraints are slowing data center projects, and many announced projects may never be built.",
-   "why": "Engineering leaders relying on planned capacity should account for delays and cancellations in their roadmaps.",
-   "topics": [
-    "Infrastructure",
-    "Regulation"
-   ]
-  },
-  "s70b89fd3ef": {
-   "id": "s70b89fd3ef",
-   "title": "Meta is losing its longtime head of infrastructure",
-   "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T20:12:01+00:00",
-   "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-   "related": [],
-   "summary": "Meta's longtime head of infrastructure, Santosh Janardhan, is stepping down from the role.",
-   "why": "Leadership changes in Meta's infrastructure organization could affect the direction of its large-scale systems.",
-   "topics": [
-    "Infrastructure"
-   ]
-  },
-  "sae5556d61c": {
-   "id": "sae5556d61c",
-   "title": "Why the data center you dread might never even be built",
-   "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-11T20:15:15+00:00",
-   "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
-   "related": [],
-   "summary": "Many announced data center projects may never be built, adding to local opposition, permitting delays, and electricity shortages.",
-   "why": "Infrastructure planners should expect capacity announcements to slip, making delivery timelines less reliable.",
-   "topics": [
-    "Infrastructure"
-   ]
-  },
-  "s2f5ac4847b": {
-   "id": "s2f5ac4847b",
-   "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T20:45:45+00:00",
-   "description": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scale.",
-   "related": [],
-   "summary": "DXC Technology describes DCX OASIS, its Human+AI operating model built on a multi-model substrate in Amazon Bedrock.",
-   "why": "It shows a pattern for separating the model layer from a governance harness that orchestrates and audits agents at scale.",
-   "topics": [
-    "Enterprise",
-    "Agents",
-    "Infrastructure"
-   ]
-  },
-  "s3beb9de192": {
-   "id": "s3beb9de192",
-   "title": "Automating AWS Agent Registry updates with push-based architecture",
-   "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T20:52:48+00:00",
-   "description": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments.",
-   "related": [],
-   "summary": "AWS shows how to automatically update the AWS Agent Registry using an event-driven pipeline that detects MCP server changes.",
-   "why": "Teams running agents across accounts can keep tool metadata current without storing secrets.",
-   "topics": [
-    "Agents",
-    "Infrastructure",
-    "Developer tools"
-   ]
-  },
-  "s6dbf5bd5b9": {
-   "id": "s6dbf5bd5b9",
-   "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
-   "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T21:05:59+00:00",
-   "description": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a smarter re:Invent schedule.",
-   "related": [],
-   "summary": "AWS published an attendee guide to the AI/ML track at re:Invent 2026, which includes more than 140 sessions.",
-   "why": "It helps engineers pick sessions on AI chips, inference, agents, and agent trust for their role and goals.",
-   "topics": [
-    "Infrastructure",
-    "Agents"
-   ]
-  },
-  "s4443c3f3c0": {
-   "id": "s4443c3f3c0",
-   "title": "Retirement Savings Are Fueling the AI Bubble",
-   "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-11T19:06:43+00:00",
-   "description": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 140 # Comments: 148",
-   "related": [],
-   "summary": "A blog post argues that retirement savings are fueling the AI bubble, linking pension and retirement investment to AI market valuations.",
-   "why": "",
-   "topics": [
-    "Funding"
-   ]
-  },
-  "s645f1651bd": {
-   "id": "s645f1651bd",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-11T21:24:35+00:00",
-   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 422 # Comments: 408",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-     "title": "United won’t let your AI agent book your flight"
-    },
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-     "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks"
-    }
-   ],
-   "summary": "United Airlines has reportedly banned AI agents from booking flights on behalf of travelers, according to a CBS News report shared on Hacker News.",
-   "why": "Signals that some large travel providers are restricting third-party AI agents, which affects agent-driven booking designs.",
-   "topics": [
-    "Regulation",
-    "Agents",
-    "Enterprise"
-   ]
-  },
-  "s8b208eddf6": {
-   "id": "s8b208eddf6",
-   "title": "ICYMI: What landed for AI builders in October 2026",
-   "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T22:26:40+00:00",
-   "description": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders.",
-   "related": [],
-   "summary": "AWS publishes a recap of October 2026 updates to Amazon Bedrock, AgentCore, and Strands, including new models, agent availability features, and clearer cost reporting.",
-   "why": "Summarizes recent platform changes that affect agent availability, grounding, and cost tracking on AWS.",
-   "topics": [
-    "Products",
-    "Infrastructure"
-   ]
-  },
   "s4a6d926314": {
    "id": "s4a6d926314",
    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
@@ -6435,24 +6216,42 @@
     "Products",
     "Enterprise"
    ]
+  },
+  "s322f998ba4": {
+   "id": "s322f998ba4",
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T17:17:58+00:00",
+   "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+   "related": [],
+   "summary": "United Airlines will not let customers use AI agents to book flights or manage reservations, citing cybersecurity risks.",
+   "why": "Airlines blocking AI agents signals that third-party agent booking integrations may face access restrictions tied to security concerns.",
+   "topics": [
+    "Agents",
+    "Safety",
+    "Enterprise"
+   ]
+  },
+  "s9a736294c4": {
+   "id": "s9a736294c4",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-14T21:41:22+00:00",
+   "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "related": [],
+   "summary": "Elon Musk and other tech executives signed a petition urging Nvidia to reinstate Jensen Huang, which had over 115,000 signatures by Saturday afternoon.",
+   "why": "The article gives little detail on the dispute behind the petition, so its impact on engineers or tech leaders is unclear.",
+   "topics": [
+    "Enterprise"
+   ]
   }
  },
  "seen": {
   "https://openai.com/index/gilbert-tobin-sam-nickless": "sf28f90d289",
-  "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets": "s0afd1907df",
-  "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair": "s94fcbf10f8",
-  "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips": "s6f3c74a04f",
-  "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth": "s850c064410",
-  "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave": "sbdeaa23eb9",
-  "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure": "s70b89fd3ef",
-  "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built": "sae5556d61c",
-  "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock": "s2f5ac4847b",
-  "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture": "s3beb9de192",
-  "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track": "s6dbf5bd5b9",
-  "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble": "s4443c3f3c0",
-  "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights": "s645f1651bd",
-  "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents": "s645f1651bd",
-  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026": "s8b208eddf6",
   "https://www.theverge.com/tech/1031652/jensen-huang-rumor": "s4a6d926314",
   "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore": "s263d7dc4e1",
   "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec": "s4a6d926314",
@@ -6487,7 +6286,6 @@
   "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations": "s3293393520",
   "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs": "s4213b9afef",
   "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions": "sca80552a27",
-  "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks": "s645f1651bd",
   "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit": "saff4b2c655",
   "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling": "sefdd0bfa61",
   "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "s85bacafff4",
@@ -6860,6 +6658,8 @@
   "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo": "s567fa29889",
   "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": "sd46b516a4c",
   "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit": "s2a2bfff112",
-  "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it": "sb08cefd999"
+  "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it": "sb08cefd999",
+  "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks": "s322f998ba4",
+  "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang": "s9a736294c4"
  }
 }

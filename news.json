@@ -1,7 +1,81 @@
 {
- "updated": "2026-11-14T11:33:00.151033+00:00",
+ "updated": "2026-11-14T18:09:58.568138+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sb08cefd999",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch",
+   "published": "2026-11-14T17:30:00+00:00",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ],
+   "summary": "TechCrunch published a running list of AI projects and startups that shut down or missed expectations, including Apple's delayed Siri AI and OpenAI's \"super app\" launch.",
+   "why": "A catalog of failed or delayed AI launches offers useful lessons on overpromising and shipping timelines for teams building AI products.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2a2bfff112",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "published": "2026-11-14T16:34:15+00:00",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ],
+   "summary": "Several Asian governments responded to Nvidia CEO Jensen Huang's exit, with some confirming chip supply commitments and others monitoring effects on local projects and investigations.",
+   "why": "Leadership change at Nvidia may affect chip supply assurances and regional AI infrastructure projects that depend on them.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sd46b516a4c",
+   "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "source": "The Verge",
+   "published": "2026-11-14T15:00:00+00:00",
+   "topics": [
+    "Safety",
+    "Regulation"
+   ],
+   "summary": "The Verge interviews Helen Toner, a former OpenAI board member who voted to fire Sam Altman, on whether AI CEOs can be trusted, as part two of a series on AI in real life.",
+   "why": "Perspective from a former board member and AI policy expert on governance and trust in AI leadership is relevant to tech leaders evaluating AI vendors.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s567fa29889",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "source": "The Verge",
+   "published": "2026-11-14T12:00:00+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "The Verge reflects on Nvidia CEO Jensen Huang's showman-style founder persona, citing his January 6, 2025 stage entrance at a packed arena.",
+   "why": "The text is a cultural profile of a CEO's public persona and gives little concrete technical or business information for engineers.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s49db83e253",
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "link": "https://news.ycombinator.com/item?id=50494696",
+   "source": "Hacker News",
+   "published": "2026-11-14T06:56:42+00:00",
+   "topics": [
+    "Agents",
+    "Models"
+   ],
+   "summary": "A Hacker News user asks which concrete AI skills an individual can learn from internet resources and experimentation to gain economic advantage from LLMs and agents.",
+   "why": "Discussion on practical, self-taught AI skills is relevant to engineers planning their learning paths, though the post itself offers no answers.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "sc6caa4d4f0",
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -30,7 +104,7 @@
    "summary": "Anthropic has upgraded Claude Code projects so multiple AI workers can run in parallel without manual intervention.",
    "why": "Parallel autonomous coding agents could change how teams split and automate development tasks, though the source gives few details.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "s04367a7d0b",
@@ -360,7 +434,7 @@
      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
     }
    ],
-   "top": true
+   "top": false
   },
   {
    "id": "s025a6c711b",
@@ -5170,6 +5244,21 @@
    "top": false
   },
   {
+   "id": "s3b869b1138",
+   "title": "No, AI agents did not discover a previously unknown Maya site",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+   "source": "The Verge",
+   "published": "2026-11-12T19:42:40+00:00",
+   "topics": [
+    "Agents",
+    "Research"
+   ],
+   "summary": "The Verge reports that a claim by Google researcher Pietro Miotti, that AI agents found an unmapped Maya site in Mexico, was false because the site was already published in a journal last year.",
+   "why": "The incident shows that AI-agent research claims need verification against existing literature before being publicized.",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "sc8c5dc2929",
    "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
    "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
@@ -5938,216 +6027,6 @@
    "summary": "A blog post argues that retirement savings are fueling the AI bubble, linking pension and retirement investment to AI market valuations.",
    "why": "",
    "related": [],
-   "top": false
-  },
-  {
-   "id": "scce714811b",
-   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "source": "Google AI",
-   "published": "2026-11-11T18:00:00+00:00",
-   "topics": [
-    "Models",
-    "Developer tools"
-   ],
-   "summary": "Google announced the Gemini Decisions API, powered by its Gemini Decision model, for fast, calibrated multimodal decisions.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "se05d76cd33",
-   "title": "AI, activity, and outcomes in software engineering",
-   "link": "https://cabird.com/talks/shipping-faster/",
-   "source": "Hacker News",
-   "published": "2026-11-11T16:33:28+00:00",
-   "topics": [
-    "Research"
-   ],
-   "summary": "A linked video discusses AI's effects on activity and outcomes in software engineering, shared on Hacker News with no further detail in the feed.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7a8ca7de71",
-   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-   "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-   "source": "TechCrunch",
-   "published": "2026-11-11T16:16:07+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "An investment intel consultant says many senior industry figures know about Jensen Huang's alleged misconduct and effectively condone it.",
-   "why": "Reputational and governance concerns around Nvidia's leadership may matter to investors and partners.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s2ed3a890d3",
-   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-   "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-   "source": "TechCrunch",
-   "published": "2026-11-11T16:14:44+00:00",
-   "topics": [
-    "Funding",
-    "Enterprise"
-   ],
-   "summary": "OpenAI's quarterly revenue reportedly crossed $10 billion for the first time, up almost 50% from $6.7 billion in the prior second quarter.",
-   "why": "Rapid revenue growth at a leading model provider signals sustained enterprise and consumer demand for AI services.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s6e11a23c04",
-   "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
-   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-11T16:05:33+00:00",
-   "topics": [
-    "Agents",
-    "Products",
-    "Developer tools"
-   ],
-   "summary": "AWS describes an AI-driven product development lifecycle using six AWS Quick agents, with human approval at each gate and handoff to coding agents like Kiro.",
-   "why": "It offers a structured workflow for turning customer signals into prototypes and specs for coding agents.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sbad6ee94c3",
-   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-   "source": "Google AI",
-   "published": "2026-11-11T16:00:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Google Labs released Tabletop, a experimental collaborative space for building itineraries, polls, and brackets, with a waitlist.",
-   "why": "",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s7026ee2cdd",
-   "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
-   "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-11T15:50:55+00:00",
-   "topics": [
-    "Agents",
-    "Developer tools",
-    "Research"
-   ],
-   "summary": "AWS ML Blog describes UAEF, a framework-agnostic system that converts agent traces into one canonical format and scores them with 36 metrics across 7 dimensions.",
-   "why": "Teams running agents across multiple frameworks can compare versions and catch regressions with one shared evaluation pipeline.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s3bb3af5987",
-   "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
-   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-11T15:10:23+00:00",
-   "topics": [
-    "Infrastructure",
-    "Enterprise",
-    "Products"
-   ],
-   "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker AI bidirectional streaming inference, with Deepgram as launch partner for speech-to-text and text-to-speech.",
-   "why": "Engineers building live voice or streaming AI services can now bill customers per consumed usage through AWS Marketplace.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sa86af765ff",
-   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-   "source": "The Verge",
-   "published": "2026-11-11T15:00:00+00:00",
-   "topics": [
-    "Models",
-    "Research"
-   ],
-   "summary": "Google DeepMind unveiled AlphaGenome 2, a successor model that aims to explain how DNA changes affect different cells and the causes of disease.",
-   "why": "",
-   "related": [
-    {
-     "source": "Google DeepMind",
-     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s6619f09dbc",
-   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-   "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-   "source": "TechCrunch",
-   "published": "2026-11-11T15:00:00+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ],
-   "summary": "Databricks CEO Ali Ghodsi says he uses the revised Genie agent to surface problems his 12,000 employees are unlikely to report directly.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0ccfb511c0",
-   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-   "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-   "source": "TechCrunch",
-   "published": "2026-11-11T14:00:00+00:00",
-   "topics": [
-    "Agents",
-    "Research"
-   ],
-   "summary": "Plurai is working on improving AI agents by applying an end-to-end training approach similar to the one used for self-driving cars.",
-   "why": "Engineers building agents may find the idea of training for probabilistic, unpredictable environments relevant, though the text gives few details.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s450a9863af",
-   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-   "source": "The Verge",
-   "published": "2026-11-11T14:00:00+00:00",
-   "topics": [
-    "Products",
-    "Research"
-   ],
-   "summary": "Adobe announced experimental AI features at its Max conference, including turning images into explorable 3D scenes, designing AI characters through conversation, and copy/paste-style photo editing.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s8d8bc38f54",
-   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-   "link": "https://pietromiotti.com/latest/maya-site/?maya",
-   "source": "Hacker News",
-   "published": "2026-11-11T12:05:22+00:00",
-   "topics": [
-    "Agents",
-    "Research"
-   ],
-   "summary": "A Hacker News post describes Google SWE using 48 AI agents on NASA Lidar data that reportedly found an unmapped Maya pyramid in 72 hours.",
-   "why": "It shows multi-agent systems applied to large geospatial datasets, though the description gives little detail on the method.",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
-    }
-   ],
    "top": false
   }
  ]

@@ -5225,101 +5225,6 @@
     "Infrastructure"
    ]
   },
-  "s55fb77d5f9": {
-   "id": "s55fb77d5f9",
-   "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
-   "link": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-10T23:34:05+00:00",
-   "description": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code, and checks every finding against its cited sources.",
-   "related": [],
-   "summary": "AWS shows how to build a daily dependency watcher using LangGraph and the Amazon Bedrock AgentCore Web Search API, with cited results checked against sources.",
-   "why": "Offers a reference pattern for agents that gather cited web research in parallel and verify findings against sources.",
-   "topics": [
-    "Agents",
-    "Developer tools"
-   ]
-  },
-  "s8c999d6885": {
-   "id": "s8c999d6885",
-   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-   "link": "https://openai.com/index/jiostar-vijay-seshadri",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-11T00:00:00+00:00",
-   "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-   "related": [],
-   "summary": "JioStar's chief architect Vijay Seshadri discusses AI-driven discovery at 500M-user scale, including lessons on evals, guardrails, and production deployment.",
-   "why": "Provides practical lessons from running AI discovery features at very large user scale, especially on evaluation and guardrails.",
-   "topics": [
-    "Enterprise",
-    "Products"
-   ]
-  },
-  "sd2296a64c0": {
-   "id": "sd2296a64c0",
-   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-   "link": "https://huggingface.co/blog/token-pooling",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-11T00:00:00+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Hugging Face published a post on token pooling-aware training for multi-vector embedding models.",
-   "why": "",
-   "topics": [
-    "Research",
-    "Models"
-   ]
-  },
-  "sdedf14429b": {
-   "id": "sdedf14429b",
-   "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-   "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-11T00:15:33+00:00",
-   "description": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 58 # Comments: 86",
-   "related": [],
-   "summary": "A Nieman Lab article reports that AI is becoming an information gateway, but audiences still do not want AI making their news.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  "s52c1a0c937": {
-   "id": "s52c1a0c937",
-   "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
-   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-11T01:07:19+00:00",
-   "description": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
-   "related": [],
-   "summary": "Moonshot AI's Kimi K3.1 Pro is now available on Amazon Bedrock, with guidance on OpenAI-compatible APIs, prompt caching, and use as a coding assistant.",
-   "why": "Gives teams a managed-cloud path to test a new model via familiar OpenAI-compatible APIs and prompt caching for cost-sensitive inference.",
-   "topics": [
-    "Models",
-    "Infrastructure"
-   ]
-  },
-  "sa3f9078912": {
-   "id": "sa3f9078912",
-   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-   "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-11T03:00:20+00:00",
-   "description": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-   "related": [],
-   "summary": "Nvidia describes how vision AI and robotics sort mixed waste on conveyor belts, recovering materials and diverting thousands of tons from landfills.",
-   "why": "Offers an applied example of computer vision and robotics deployed in heavy industrial sorting operations.",
-   "topics": [
-    "Products",
-    "Research"
-   ]
-  },
   "sb06379671e": {
    "id": "sb06379671e",
    "title": "Supporting research on AI and children’s safety",
@@ -11173,6 +11078,101 @@
     "Infrastructure",
     "Agents"
    ]
+  },
+  "sd1318183fe": {
+   "id": "sd1318183fe",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "link": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-13T08:00:00+00:00",
+   "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "related": [],
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals, with its Forge agents navigating systems for them.",
+   "why": "Agents that navigate legacy enterprise systems show how AI can take routine portal work while leaving judgment calls to humans.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "s655a070d2b": {
+   "id": "s655a070d2b",
+   "title": "Are we just going to ignore that books are destroyed for AI?",
+   "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T18:14:38+00:00",
+   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 54 # Comments: 56",
+   "related": [],
+   "summary": "A Forbes report says AI companies are buying and destroying antique books, prompting discussion on Hacker News.",
+   "why": "",
+   "topics": [
+    "Enterprise",
+    "Regulation"
+   ]
+  },
+  "sad639fbc65": {
+   "id": "sad639fbc65",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T22:43:00+00:00",
+   "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "related": [],
+   "summary": "Founders and VCs say Jensen Huang's departure from Nvidia leaves a major gap in AI startup funding, expecting smaller checks and lower valuations.",
+   "why": "Changes in Nvidia's startup investment could affect funding availability and valuations for AI companies that rely on its backing.",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "sdb2e460523": {
+   "id": "sdb2e460523",
+   "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+   "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T23:22:09+00:00",
+   "description": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+   "related": [],
+   "summary": "GS Caltex uses Amazon SageMaker Canvas connected to SageMaker Pipelines so process engineers' no-code models run in production.",
+   "why": "It shows a path for moving no-code models into production MLOps, cutting deployment from about a week to a few hours.",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ]
+  },
+  "s04367a7d0b": {
+   "id": "s04367a7d0b",
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-13T23:49:11+00:00",
+   "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+   "related": [],
+   "summary": "Amazon reportedly plans a 'World Product Graph' indexing product data sold across the internet, including items it does not sell, per Reuters.",
+   "why": "A broad cross-web product index could affect retailers, marketplaces, and anyone building product-data or shopping integrations.",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ]
+  },
+  "sda51afadad": {
+   "id": "sda51afadad",
+   "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+   "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-14T00:28:11+00:00",
+   "description": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 52 # Comments: 34",
+   "related": [],
+   "summary": "Anthropic has upgraded Claude Code projects so multiple AI workers can run in parallel without manual intervention.",
+   "why": "Parallel autonomous coding agents could change how teams split and automate development tasks, though the source gives few details.",
+   "topics": [
+    "Agents",
+    "Developer tools"
+   ]
   }
  },
  "seen": {
@@ -11507,12 +11507,6 @@
   "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock": "s0566809c65",
   "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "sefdd0bfa61",
   "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai": "sa0a8bd6843",
-  "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search": "s55fb77d5f9",
-  "https://openai.com/index/jiostar-vijay-seshadri": "s8c999d6885",
-  "https://huggingface.co/blog/token-pooling": "sd2296a64c0",
-  "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news": "sdedf14429b",
-  "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock": "s52c1a0c937",
-  "https://blogs.nvidia.com/blog/ai-recycling-startups": "sa3f9078912",
   "https://openai.com/index/children-first-declaration": "sb06379671e",
   "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors": "sdf5c4c0af6",
   "https://openai.com/business/customer-stories/holidays-extras-codex": "s0990939c7d",
@@ -11897,6 +11891,12 @@
   "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet": "s951c845619",
   "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures": "s41b9d660ec",
   "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime": "s99d40623cf",
-  "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard": "s94d8e8d365"
+  "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard": "s94d8e8d365",
+  "https://openai.com/business/customer-stories/shield": "sd1318183fe",
+  "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why": "s655a070d2b",
+  "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say": "sad639fbc65",
+  "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1": "sdb2e460523",
+  "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search": "s04367a7d0b",
+  "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free": "sda51afadad"
  }
 }

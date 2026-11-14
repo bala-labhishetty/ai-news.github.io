@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-13T22:40:44.294255+00:00",
+ "updated": "2026-11-14T03:21:27.952601+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+   "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-14T00:28:11+00:00",
+   "description": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 52 # Comments: 34"
+  },
+  {
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-13T23:49:11+00:00",
+   "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]"
+  },
+  {
+   "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+   "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-13T23:22:09+00:00",
+   "description": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes."
+  },
+  {
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-13T22:43:00+00:00",
+   "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+  },
   {
    "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
    "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
@@ -40,7 +72,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T19:51:56+00:00",
-   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 133 # Comments: 75"
+   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 186 # Comments: 107"
   },
   {
    "title": "AI agent startup LangChain hits $3B valuation",
@@ -80,7 +112,15 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T18:39:42+00:00",
-   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 56 # Comments: 94"
+   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 60 # Comments: 101"
+  },
+  {
+   "title": "Are we just going to ignore that books are destroyed for AI?",
+   "link": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-13T18:14:38+00:00",
+   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 54 # Comments: 56"
   },
   {
    "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
@@ -104,7 +144,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T17:30:10+00:00",
-   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 273 # Comments: 82"
+   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 346 # Comments: 93"
   },
   {
    "title": "XYBench: Helping with the problem behind the question",
@@ -144,7 +184,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:29:10+00:00",
-   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 155 # Comments: 158"
+   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 167 # Comments: 166"
   },
   {
    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
@@ -152,7 +192,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:08:44+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 144 # Comments: 130"
+   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 149 # Comments: 135"
   },
   {
    "title": "Introducing ChatGPT Wallet",
@@ -232,7 +272,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T11:13:46+00:00",
-   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 297 # Comments: 188"
+   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 316 # Comments: 196"
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -240,7 +280,15 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T10:18:13+00:00",
-   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 478 # Comments: 377"
+   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 484 # Comments: 383"
+  },
+  {
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "link": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-13T08:00:00+00:00",
+   "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
   },
   {
    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
@@ -2353,54 +2401,6 @@
    "category": "Research",
    "published": "2026-11-13T05:00:00+00:00",
    "description": "arXiv:2611.16351v1 Announce Type: cross Abstract: Hypergraphs capture groupwise relationships among multiple nodes and often exhibit tree-like structures. Although hyperbolic space is well suited for modeling such structures, simply extending existing hypergraph representation learning (HRL) methods to hyperbolic space does not consistently improve performance. In this paper, we investigate the relationship between node structural properties and hyperbolic embedding radii and find that bridge nodes tend to lie closer to the center in graphs, whereas this relationship is not consistently observed in hypergraphs. We further find that conventional bridge score estimation may fail to capture the groupwise connectivity of hypergraphs. Motivated by these findings, we propose HyBridge, a self-sup"
-  },
-  {
-   "title": "ReliaGuard: Reconstruction-Aware Watermarking for Source Attribution and Blind Edit Localization",
-   "link": "https://arxiv.org/abs/2611.16368",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16368v1 Announce Type: cross Abstract: Generative image editing facilitates content creation but complicates source attribution and edit verification. Existing watermarking methods combine copyright protection with tamper localization, yet background reconstruction can weaken spatial evidence even when source identifiers remain recoverable. We propose ReliaGuard, a reconstruction-aware watermarking framework for source attribution and blind edit localization. The writer optimizes keyed feature responses in both the protected image and its variational autoencoder reconstruction under image-distortion and source-preservation constraints. Using only the received image and a secret key, the reader combines watermark responses with local image context through residual evidence refine"
-  },
-  {
-   "title": "Recursive State-Augmented Language Models: Persistent Latent-State Adaptation of Pretrained Language Models",
-   "link": "https://arxiv.org/abs/2611.16375",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16375v1 Announce Type: cross Abstract: Language models rely on finite token contexts, limiting access to earlier interactions. We introduce Recursive State-Augmented Language Models (Recursive SALM), a framework in which a persistent latent state evolves with each observation and generates adaptations of a pretrained language model. A modular read-transition-write architecture separates observation encoding, latent dynamics, and predictor adaptation. We develop deterministic and stochastic formulations. The experiments evaluate only deterministic SALM with frozen GPT-2 small and exclude earlier evidence from its decoder context. On a four-turn hypothesis-inference task, latent-gated LoRA reaches 89.1% accuracy, comparable to 88.0% for a trained full-context LoRA baseline, with e"
-  },
-  {
-   "title": "Beyond Compressing Everything: Contrastive Memory Learning for Selective Context Compression",
-   "link": "https://arxiv.org/abs/2611.16384",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16384v1 Announce Type: cross Abstract: As large language models (LLMs) advance toward increasingly long inputs, soft context compression offers a promising approach to efficient inference by converting long inputs into compact memory slots. Under limited memory budgets, effective context compression remains challenging because task-relevant evidence varies substantially across queries, ranging from localized evidence to multiple distant spans or information dispersed throughout the full document. Instead of compressing everything indiscriminately, we propose CoMem, a query-guided selective context compression framework that learns memory representations conditioned on both the document and the query. CoMem develops Contrastive Compressor Learning to achieve query-sensitive yet c"
-  },
-  {
-   "title": "TransXplainRRG: A Radiologist-Evaluated LVLM for Chest Radiograph Report Generation",
-   "link": "https://arxiv.org/abs/2611.16393",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16393v1 Announce Type: cross Abstract: Recent advancements in Large Vision-Language Models (LVLM) enhance X-ray report generation, but often neglect clinical context, overlook workflow integration, and lack explainability, which hinders clinical adoption due to interpretability and reliability concerns. This paper addresses the dual challenges of performance and expert explainability in automated X-ray report generation for clinical AI applications. Our proposed approach, TransXplainRRG, utilises an off-the-shelf Swin Transformer model along with a transformer-based text encoder that incorporates patient medical history to generate a radiology report. Further, we explore an expert-guided `inside-out' approach and extract only abnormal findings for radiology report refinement. Th"
-  },
-  {
-   "title": "PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning",
-   "link": "https://arxiv.org/abs/2611.16424",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16424v1 Announce Type: cross Abstract: Physical AI aims to learn transferable physical knowledge from real-world experience to understand, predict, and act in the physical world. Internet videos and embodied demonstrations provide complementary observations of motion, interaction, and state evolution. A foundational data challenge is to measure and preserve this physical information as training supervision. In video-language pretraining, captions express observed processes in language, yet a semantically correct description can omit the interactions and transitions that define those processes. Rich physical experience in video does not automatically translate into sufficient language supervision. This gap calls for a yardstick to assess annotation quality, compare captioning str"
-  },
-  {
-   "title": "RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication",
-   "link": "https://arxiv.org/abs/2611.16425",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-13T05:00:00+00:00",
-   "description": "arXiv:2611.16425v1 Announce Type: cross Abstract: We describe the RMIT-ADM+S team's participation in the TREC 2026 Retrieval-Augmented Generation (RAG) track using the ClimbMix corpus. We submitted seven research-agent runs using proprietary OpenAI and open-weight models, exploring different retrieval strategies, writer models, and agent workflows. Pre-submission ablations identified writer selection and adjacent-chunk expansion as the main factors affecting answer quality. In the official NIST evaluation, six of seven runs exceeded the track median across all three rubric/nugget collections. Our best-performing run, brief-hybrid, achieved the highest all-item coverage among our submissions and tied the track maximum (0.892) for Batch-1 vital coverage. Human side-by-side preferences differ"
   }
  ]
 }

@@ -1,223 +1,5 @@
 {
  "stories": {
-  "s24d7fb83f2": {
-   "id": "s24d7fb83f2",
-   "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-   "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T13:26:25+00:00",
-   "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-   "related": [],
-   "summary": "Nine Korean startups are competing for a spot in Disrupt 2027's Startup Battlefield 200, spanning deep tech sectors including AI, healthcare, and semiconductors.",
-   "why": "",
-   "topics": [
-    "Funding"
-   ]
-  },
-  "s91eeb3c113": {
-   "id": "s91eeb3c113",
-   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-12T14:00:59+00:00",
-   "description": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
-   "related": [],
-   "summary": "Warhammer 40,000: Dawn of War IV arrives on GeForce NOW, with DLSS 5 coming to War Thunder and Where Winds Meet.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s39f4c129e4": {
-   "id": "s39f4c129e4",
-   "title": "I reviewed the Apple HomeView, ask me anything",
-   "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-12T14:10:00+00:00",
-   "description": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on […]",
-   "related": [],
-   "summary": "The Verge's smart home reviewer tested Apple's first smart display, the $299 HomeView, in tabletop and wall-mounted versions, and opened the review to reader questions.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s660711644c": {
-   "id": "s660711644c",
-   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-   "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T15:02:28+00:00",
-   "description": "This is Fireworks' second data breach in as many months.",
-   "related": [],
-   "summary": "A cyberattack on Fireworks AI let hackers access Notion customers' chat transcripts, marking Fireworks' second data breach in two months.",
-   "why": "Repeated breaches at an AI infrastructure vendor highlight the need to vet third-party AI providers and limit sensitive data exposure.",
-   "topics": [
-    "Safety",
-    "Enterprise"
-   ]
-  },
-  "sbfccb2d385": {
-   "id": "sbfccb2d385",
-   "title": "Norwest pushes deeper into AI with new $4B fund",
-   "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T15:18:14+00:00",
-   "description": "This is the investment firm's largest fund to date.",
-   "related": [],
-   "summary": "Norwest has raised a $4 billion fund, its largest to date, to deepen its AI investing.",
-   "why": "",
-   "topics": [
-    "Funding"
-   ]
-  },
-  "saff6802cc5": {
-   "id": "saff6802cc5",
-   "title": "From prototype to production: Engineering agents with Agent DLC",
-   "link": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-12T15:38:47+00:00",
-   "description": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured case where an aggregate metric hides a coverage gap, and Agent DLC: one lifecycle, two loops, and one explicit standard for judging every change.",
-   "related": [],
-   "summary": "AWS introduces Agent DLC, a lifecycle framework for measuring agent quality and checking whether each change helps, addressing gaps in traditional CI/CD.",
-   "why": "Aggregate metrics can hide coverage gaps, so teams moving agents to production need repeatable evaluation loops for every change.",
-   "topics": [
-    "Agents",
-    "Developer tools"
-   ]
-  },
-  "s9ed2099ae4": {
-   "id": "s9ed2099ae4",
-   "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
-   "link": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-12T15:40:24+00:00",
-   "description": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
-   "related": [],
-   "summary": "AWS explains exposing a Bedrock Managed Knowledge Base to agents as MCP tools via AgentCore Gateway while enforcing per-user access control.",
-   "why": "It offers a pattern for securing agent access to enterprise knowledge bases using verified identity injection, independent policy checks, and resource-based restrictions.",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ]
-  },
-  "sd3206ea89c": {
-   "id": "sd3206ea89c",
-   "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
-   "link": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-12T15:42:21+00:00",
-   "description": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated calls, with neither side depending on the other's framework or SDK.",
-   "related": [],
-   "summary": "AWS shows how to build a multi-agent system where a LangChain orchestrator on ECS talks to a Strands agent on Bedrock AgentCore via the A2A protocol.",
-   "why": "It demonstrates cross-framework, cross-organization agent interoperability with OAuth-authenticated, bidirectional calls, without shared SDK dependencies.",
-   "topics": [
-    "Agents",
-    "Infrastructure"
-   ]
-  },
-  "s6d29ea24a6": {
-   "id": "s6d29ea24a6",
-   "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
-   "link": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-12T16:16:45+00:00",
-   "description": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new knowledge base or an infrastructure-as-code template alongside the original, and validates retrieval before you cut over.",
-   "related": [],
-   "summary": "AWS describes how a coding agent using the amazon-bedrock skill can migrate a customer-managed Bedrock knowledge base to a Managed Knowledge Base with read-only discovery and validation.",
-   "why": "Gives teams a guided, validated path to move RAG knowledge bases to managed infrastructure without disrupting retrieval.",
-   "topics": [
-    "Developer tools",
-    "Infrastructure"
-   ]
-  },
-  "saff4b2c655": {
-   "id": "saff4b2c655",
-   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-   "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T16:32:33+00:00",
-   "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-   "related": [],
-   "summary": "An article argues that Nvidia's ousted CEO Jensen Huang used his influence to push the AI industry in specific ways, and that his departure could affect it.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "s0cefd18c08": {
-   "id": "s0cefd18c08",
-   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T17:00:00+00:00",
-   "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-   "related": [],
-   "summary": "Phota Labs is building AI that automates photo editing to turn everyday photos into professional-looking shots for consumers.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s3293393520": {
-   "id": "s3293393520",
-   "title": "AI chatbots are recommending fake retail websites, study finds",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-12T17:00:00+00:00",
-   "description": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]",
-   "related": [],
-   "summary": "A study by IP protection firm Podqi found AI chatbots including ChatGPT, Gemini, and Perplexity can recommend fake retail websites to shoppers.",
-   "why": "Shows that AI assistant shopping recommendations carry phishing and impersonation risk that product teams need to account for.",
-   "topics": [
-    "Safety",
-    "Products"
-   ]
-  },
-  "s4213b9afef": {
-   "id": "s4213b9afef",
-   "title": "More game developers are starting to use generative AI",
-   "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-12T17:00:00+00:00",
-   "description": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that […]",
-   "related": [],
-   "summary": "A GDC survey found 40% of game developers use generative AI as part of their job, up from 36% in 2025.",
-   "why": "Gives a benchmark for generative AI adoption among professional game developers year over year.",
-   "topics": [
-    "Research",
-    "Enterprise"
-   ]
-  },
-  "sca80552a27": {
-   "id": "sca80552a27",
-   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-   "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T17:00:52+00:00",
-   "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-   "related": [],
-   "summary": "SoftBank lost over $3 billion on preordered natural gas turbines intended to power AI data centers, and the article examines the impact on power markets.",
-   "why": "Shows financial risk in securing power infrastructure for AI data centers, which can constrain energy-intensive AI buildouts.",
-   "topics": [
-    "Infrastructure",
-    "Funding"
-   ]
-  },
   "s85bacafff4": {
    "id": "s85bacafff4",
    "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
@@ -370,37 +152,6 @@
    "why": "Engineering leaders can enforce per-identity Bedrock spend limits with AWS-native tooling, often without application code changes.",
    "topics": [
     "Infrastructure",
-    "Enterprise"
-   ]
-  },
-  "s90d7922370": {
-   "id": "s90d7922370",
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "link": "https://openai.com/business/customer-stories/gondola",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-12T12:00:00+00:00",
-   "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-   "related": [],
-   "summary": "Gondola says it doubled revenue and that Codex raised its lead engineer's output by 50%, alongside ChatGPT simplifying daily work.",
-   "why": "A company reports measurable engineering productivity gains from Codex, though the claims are self-reported and unverified.",
-   "topics": [
-    "Developer tools",
-    "Enterprise"
-   ]
-  },
-  "s15c28179b2": {
-   "id": "s15c28179b2",
-   "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-12T15:01:31+00:00",
-   "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
-   "related": [],
-   "summary": "Nvidia CEO Jensen Huang resigned after acknowledging an affair, and The New York Times reported evidence of another affair with a direct report.",
-   "why": "Leadership turmoil at Nvidia, the leading AI chip supplier, could affect company direction and partner confidence.",
-   "topics": [
     "Enterprise"
    ]
   },
@@ -6013,23 +5764,6 @@
     "Enterprise"
    ]
   },
-  "s322f998ba4": {
-   "id": "s322f998ba4",
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T17:17:58+00:00",
-   "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-   "related": [],
-   "summary": "United Airlines will not let customers use AI agents to book flights or manage reservations, citing cybersecurity risks.",
-   "why": "Airlines blocking AI agents signals that third-party agent booking integrations may face access restrictions tied to security concerns.",
-   "topics": [
-    "Agents",
-    "Safety",
-    "Enterprise"
-   ]
-  },
   "s9a736294c4": {
    "id": "s9a736294c4",
    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -6076,37 +5810,66 @@
     "Regulation",
     "Infrastructure"
    ]
+  },
+  "s3903c89c61": {
+   "id": "s3903c89c61",
+   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-12T18:39:23+00:00",
+   "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+   "related": [],
+   "summary": "Jensen Huang's resignation as Nvidia CEO raises questions about the company's commitment to open source AI, including its Hugging Face acquisition and open-weight models.",
+   "why": "Leadership change at a major AI chip and model provider could shift the open-weight ecosystem that many teams depend on.",
+   "topics": [
+    "Open source",
+    "Enterprise"
+   ]
+  },
+  "s4c525e5e54": {
+   "id": "s4c525e5e54",
+   "title": "An overview of Jensen Huang’s messy days",
+   "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-15T13:00:00+00:00",
+   "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+   "related": [],
+   "summary": "The Verge's weekly Stepback newsletter gives an overview of Jensen Huang's resignation and the leadership crisis at Nvidia.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "sde1b04aef2": {
+   "id": "sde1b04aef2",
+   "title": "All AI-generated code should be Open Source",
+   "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-15T14:46:58+00:00",
+   "description": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 472 # Comments: 286",
+   "related": [],
+   "summary": "A blog post argues that all AI-generated code should be released as open source, drawing 472 points and 286 comments on Hacker News.",
+   "why": "It raises licensing and ownership questions for teams shipping AI-generated code, though the description gives little detail on the argument itself.",
+   "topics": [
+    "Open source",
+    "Regulation"
+   ]
   }
  },
  "seen": {
-  "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition": "s24d7fb83f2",
-  "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming": "s91eeb3c113",
-  "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything": "s39f4c129e4",
-  "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts": "s660711644c",
-  "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund": "sbfccb2d385",
-  "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc": "saff6802cc5",
-  "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools": "s9ed2099ae4",
-  "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws": "sd3206ea89c",
-  "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent": "s6d29ea24a6",
-  "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry": "saff4b2c655",
-  "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots": "s0cefd18c08",
-  "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations": "s3293393520",
-  "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs": "s4213b9afef",
-  "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions": "sca80552a27",
-  "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit": "saff4b2c655",
   "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "s85bacafff4",
   "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade": "sad614f81e4",
   "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "sad614f81e4",
   "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video": "sd545fdc617",
-  "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question": "saff4b2c655",
   "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm": "s83054ecb02",
   "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock": "s4e46e49750",
   "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": "sa88bddb172",
   "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands": "sd3c21aad12",
   "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions": "s875637b2c3",
   "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets": "sc8c5dc2929",
-  "https://openai.com/business/customer-stories/gondola": "s90d7922370",
-  "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang": "s15c28179b2",
   "https://openai.com/business/customer-stories/amplitude": "s5b0f73df89",
   "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking": "sd1b4a11479",
   "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports": "s92467d3f16",
@@ -6465,9 +6228,11 @@
   "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": "sd46b516a4c",
   "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit": "s2a2bfff112",
   "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it": "sb08cefd999",
-  "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks": "s322f998ba4",
   "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang": "s9a736294c4",
   "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team": "scdf34d438f",
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls": "s8a429aeabf"
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls": "s8a429aeabf",
+  "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question": "s3903c89c61",
+  "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation": "s4c525e5e54",
+  "https://jakub.jankiewicz.org/blog/ai-code-open-source": "sde1b04aef2"
  }
 }

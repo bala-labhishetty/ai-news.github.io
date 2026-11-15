@@ -1,7 +1,36 @@
 {
- "updated": "2026-11-15T11:00:26.824045+00:00",
+ "updated": "2026-11-15T17:45:47.095234+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sde1b04aef2",
+   "title": "All AI-generated code should be Open Source",
+   "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "source": "Hacker News",
+   "published": "2026-11-15T14:46:58+00:00",
+   "topics": [
+    "Open source",
+    "Regulation"
+   ],
+   "summary": "A blog post argues that all AI-generated code should be released as open source, drawing 472 points and 286 comments on Hacker News.",
+   "why": "It raises licensing and ownership questions for teams shipping AI-generated code, though the description gives little detail on the argument itself.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s4c525e5e54",
+   "title": "An overview of Jensen Huang’s messy days",
+   "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "source": "The Verge",
+   "published": "2026-11-15T13:00:00+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "The Verge's weekly Stepback newsletter gives an overview of Jensen Huang's resignation and the leadership crisis at Nvidia.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
   {
    "id": "scdf34d438f",
    "title": "Where was Nvidia’s security team?",
@@ -44,7 +73,7 @@
    "summary": "TechCrunch published a running list of AI projects and startups that shut down or missed expectations, including Apple's delayed Siri AI and OpenAI's \"super app\" launch.",
    "why": "A catalog of failed or delayed AI launches offers useful lessons on overpromising and shipping timelines for teams building AI products.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s2a2bfff112",
@@ -59,7 +88,7 @@
    "summary": "Several Asian governments responded to Nvidia CEO Jensen Huang's exit, with some confirming chip supply commitments and others monitoring effects on local projects and investigations.",
    "why": "Leadership change at Nvidia may affect chip supply assurances and regional AI infrastructure projects that depend on them.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s8a429aeabf",
@@ -74,7 +103,7 @@
    "summary": "Tom's Hardware reports analysts claim mass smuggling of Nvidia AI GPUs, over 1.5 gigawatts tracked to China, may underlie Jensen Huang's departure.",
    "why": "Export-control enforcement and gray-market chip flows could affect GPU supply, compliance obligations, and access to Nvidia hardware.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sd46b516a4c",
@@ -5398,6 +5427,21 @@
    "top": false
   },
   {
+   "id": "s3903c89c61",
+   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+   "source": "TechCrunch",
+   "published": "2026-11-12T18:39:23+00:00",
+   "topics": [
+    "Open source",
+    "Enterprise"
+   ],
+   "summary": "Jensen Huang's resignation as Nvidia CEO raises questions about the company's commitment to open source AI, including its Hugging Face acquisition and open-weight models.",
+   "why": "Leadership change at a major AI chip and model provider could shift the open-weight ecosystem that many teams depend on.",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "sd545fdc617",
    "title": "Oh, Palantir is ‘progressive’ now, is it?",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
@@ -5443,255 +5487,6 @@
    ],
    "summary": "AWS announced the next-generation Bedrock AgentCore runtime, offering hardware-isolated sessions, faster starts, more compute, usage-based billing, and data isolation.",
    "why": "Long-running agents need isolated, scalable compute, and this runtime targets secure multi-hour agent workloads with usage-based pricing.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s322f998ba4",
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T17:17:58+00:00",
-   "topics": [
-    "Agents",
-    "Safety",
-    "Enterprise"
-   ],
-   "summary": "United Airlines will not let customers use AI agents to book flights or manage reservations, citing cybersecurity risks.",
-   "why": "Airlines blocking AI agents signals that third-party agent booking integrations may face access restrictions tied to security concerns.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sca80552a27",
-   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-   "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T17:00:52+00:00",
-   "topics": [
-    "Infrastructure",
-    "Funding"
-   ],
-   "summary": "SoftBank lost over $3 billion on preordered natural gas turbines intended to power AI data centers, and the article examines the impact on power markets.",
-   "why": "Shows financial risk in securing power infrastructure for AI data centers, which can constrain energy-intensive AI buildouts.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0cefd18c08",
-   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T17:00:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Phota Labs is building AI that automates photo editing to turn everyday photos into professional-looking shots for consumers.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s3293393520",
-   "title": "AI chatbots are recommending fake retail websites, study finds",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-   "source": "The Verge",
-   "published": "2026-11-12T17:00:00+00:00",
-   "topics": [
-    "Safety",
-    "Products"
-   ],
-   "summary": "A study by IP protection firm Podqi found AI chatbots including ChatGPT, Gemini, and Perplexity can recommend fake retail websites to shoppers.",
-   "why": "Shows that AI assistant shopping recommendations carry phishing and impersonation risk that product teams need to account for.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s4213b9afef",
-   "title": "More game developers are starting to use generative AI",
-   "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-   "source": "The Verge",
-   "published": "2026-11-12T17:00:00+00:00",
-   "topics": [
-    "Research",
-    "Enterprise"
-   ],
-   "summary": "A GDC survey found 40% of game developers use generative AI as part of their job, up from 36% in 2025.",
-   "why": "Gives a benchmark for generative AI adoption among professional game developers year over year.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "saff4b2c655",
-   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-   "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T16:32:33+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "An article argues that Nvidia's ousted CEO Jensen Huang used his influence to push the AI industry in specific ways, and that his departure could affect it.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s6d29ea24a6",
-   "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
-   "link": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-12T16:16:45+00:00",
-   "topics": [
-    "Developer tools",
-    "Infrastructure"
-   ],
-   "summary": "AWS describes how a coding agent using the amazon-bedrock skill can migrate a customer-managed Bedrock knowledge base to a Managed Knowledge Base with read-only discovery and validation.",
-   "why": "Gives teams a guided, validated path to move RAG knowledge bases to managed infrastructure without disrupting retrieval.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd3206ea89c",
-   "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
-   "link": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-12T15:42:21+00:00",
-   "topics": [
-    "Agents",
-    "Infrastructure"
-   ],
-   "summary": "AWS shows how to build a multi-agent system where a LangChain orchestrator on ECS talks to a Strands agent on Bedrock AgentCore via the A2A protocol.",
-   "why": "It demonstrates cross-framework, cross-organization agent interoperability with OAuth-authenticated, bidirectional calls, without shared SDK dependencies.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s9ed2099ae4",
-   "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
-   "link": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-12T15:40:24+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ],
-   "summary": "AWS explains exposing a Bedrock Managed Knowledge Base to agents as MCP tools via AgentCore Gateway while enforcing per-user access control.",
-   "why": "It offers a pattern for securing agent access to enterprise knowledge bases using verified identity injection, independent policy checks, and resource-based restrictions.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "saff6802cc5",
-   "title": "From prototype to production: Engineering agents with Agent DLC",
-   "link": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-12T15:38:47+00:00",
-   "topics": [
-    "Agents",
-    "Developer tools"
-   ],
-   "summary": "AWS introduces Agent DLC, a lifecycle framework for measuring agent quality and checking whether each change helps, addressing gaps in traditional CI/CD.",
-   "why": "Aggregate metrics can hide coverage gaps, so teams moving agents to production need repeatable evaluation loops for every change.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sbfccb2d385",
-   "title": "Norwest pushes deeper into AI with new $4B fund",
-   "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T15:18:14+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "Norwest has raised a $4 billion fund, its largest to date, to deepen its AI investing.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s660711644c",
-   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-   "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T15:02:28+00:00",
-   "topics": [
-    "Safety",
-    "Enterprise"
-   ],
-   "summary": "A cyberattack on Fireworks AI let hackers access Notion customers' chat transcripts, marking Fireworks' second data breach in two months.",
-   "why": "Repeated breaches at an AI infrastructure vendor highlight the need to vet third-party AI providers and limit sensitive data exposure.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s15c28179b2",
-   "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge",
-   "published": "2026-11-12T15:01:31+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Nvidia CEO Jensen Huang resigned after acknowledging an affair, and The New York Times reported evidence of another affair with a direct report.",
-   "why": "Leadership turmoil at Nvidia, the leading AI chip supplier, could affect company direction and partner confidence.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s39f4c129e4",
-   "title": "I reviewed the Apple HomeView, ask me anything",
-   "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-   "source": "The Verge",
-   "published": "2026-11-12T14:10:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "The Verge's smart home reviewer tested Apple's first smart display, the $299 HomeView, in tabletop and wall-mounted versions, and opened the review to reader questions.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s91eeb3c113",
-   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
-   "source": "NVIDIA",
-   "published": "2026-11-12T14:00:59+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Warhammer 40,000: Dawn of War IV arrives on GeForce NOW, with DLSS 5 coming to War Thunder and Where Winds Meet.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s24d7fb83f2",
-   "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-   "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T13:26:25+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "Nine Korean startups are competing for a spot in Disrupt 2027's Startup Battlefield 200, spanning deep tech sectors including AI, healthcare, and semiconductors.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s90d7922370",
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "link": "https://openai.com/business/customer-stories/gondola",
-   "source": "OpenAI",
-   "published": "2026-11-12T12:00:00+00:00",
-   "topics": [
-    "Developer tools",
-    "Enterprise"
-   ],
-   "summary": "Gondola says it doubled revenue and that Codex raised its lead engineer's output by 50%, alongside ChatGPT simplifying daily work.",
-   "why": "A company reports measurable engineering productivity gains from Codex, though the claims are self-reported and unverified.",
    "related": [],
    "top": false
   }

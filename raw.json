@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-15T11:00:22.059085+00:00",
+ "updated": "2026-11-15T17:45:42.529443+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "All AI-generated code should be Open Source",
+   "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-15T14:46:58+00:00",
+   "description": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 472 # Comments: 286"
+  },
+  {
+   "title": "An overview of Jensen Huang’s messy days",
+   "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-15T13:00:00+00:00",
+   "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]"
+  },
   {
    "title": "Where was Nvidia’s security team?",
    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -40,7 +56,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T15:58:57+00:00",
-   "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL: https://news.ycombinator.com/item?id=50498051 Points: 57 # Comments: 39"
+   "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL: https://news.ycombinator.com/item?id=50498051 Points: 60 # Comments: 42"
   },
   {
    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
@@ -64,7 +80,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T06:56:42+00:00",
-   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 83 # Comments: 51"
+   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 87 # Comments: 51"
   },
   {
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -72,7 +88,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T02:52:59+00:00",
-   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1074 # Comments: 638"
+   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1085 # Comments: 645"
   },
   {
    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
@@ -80,7 +96,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T00:28:11+00:00",
-   "description": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 98 # Comments: 92"
+   "description": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 99 # Comments: 95"
   },
   {
    "title": "Amazon has a plan to index the world’s online shopping data",
@@ -144,7 +160,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T19:51:56+00:00",
-   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 220 # Comments: 131"
+   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 221 # Comments: 133"
   },
   {
    "title": "AI agent startup LangChain hits $3B valuation",
@@ -184,7 +200,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T18:39:42+00:00",
-   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 67 # Comments: 113"
+   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 67 # Comments: 114"
   },
   {
    "title": "Are we just going to ignore that books are destroyed for AI?",
@@ -192,7 +208,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T18:14:38+00:00",
-   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 59 # Comments: 70"
+   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 60 # Comments: 71"
   },
   {
    "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
@@ -216,7 +232,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T17:30:10+00:00",
-   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 430 # Comments: 109"
+   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 431 # Comments: 110"
   },
   {
    "title": "XYBench: Helping with the problem behind the question",
@@ -256,7 +272,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:29:10+00:00",
-   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 193"
+   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 195"
   },
   {
    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
@@ -264,7 +280,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:08:44+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 471 # Comments: 703"
+   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 477 # Comments: 722"
   },
   {
    "title": "Introducing ChatGPT Wallet",
@@ -344,7 +360,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T11:13:46+00:00",
-   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 231"
+   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 368 # Comments: 234"
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -384,7 +400,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T23:06:17+00:00",
-   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 353 # Comments: 105"
+   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 354 # Comments: 105"
   },
   {
    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -416,7 +432,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T21:56:11+00:00",
-   "description": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 402 # Comments: 175"
+   "description": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 411 # Comments: 178"
   },
   {
    "title": "Google’s new Gemini model is better at understanding complicated questions",
@@ -448,7 +464,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T21:09:49+00:00",
-   "description": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 198 # Comments: 233"
+   "description": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 199 # Comments: 234"
   },
   {
    "title": "Four Amazon Bedrock inference choices that affect cost",
@@ -545,14 +561,6 @@
    "category": "Industry",
    "published": "2026-11-12T18:39:23+00:00",
    "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
-  },
-  {
-   "title": "Oh, Palantir is ‘progressive’ now, is it?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-12T18:06:54+00:00",
-   "description": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]"
   },
   {
    "title": "Introducing Gemini 4 Hydrogen",
@@ -688,7 +696,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-11T21:24:35+00:00",
-   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 707"
+   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 707"
   },
   {
    "title": "Retirement Savings Are Fueling the AI Bubble",
@@ -705,14 +713,6 @@
    "category": "AI Labs",
    "published": "2026-11-11T18:00:00+00:00",
    "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
-  },
-  {
-   "title": "AI, activity, and outcomes in software engineering",
-   "link": "https://cabird.com/talks/shipping-faster/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-11T16:33:28+00:00",
-   "description": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 130 # Comments: 112"
   },
   {
    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",

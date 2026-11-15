@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-14T22:29:15.736735+00:00",
+ "updated": "2026-11-15T02:43:14.945697+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "scdf34d438f",
+   "title": "Where was Nvidia’s security team?",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source": "TechCrunch",
+   "published": "2026-11-15T00:08:07+00:00",
+   "topics": [
+    "Enterprise",
+    "Safety"
+   ],
+   "summary": "Nvidia's security chief quietly left in August, and CEO Jensen Huang has reportedly stepped down over relationships, including one with an executive at a company suspected of funneling chips to China.",
+   "why": "It highlights insider and conversational leak risks that corporate security teams often miss, a lesson for any firm handling sensitive technology.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "s9a736294c4",
    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -29,7 +44,7 @@
    "summary": "TechCrunch published a running list of AI projects and startups that shut down or missed expectations, including Apple's delayed Siri AI and OpenAI's \"super app\" launch.",
    "why": "A catalog of failed or delayed AI launches offers useful lessons on overpromising and shipping timelines for teams building AI products.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "s2a2bfff112",
@@ -103,7 +118,7 @@
    "summary": "A TechPowerUp article reports allegations that Nvidia funded AI startups that then bought its GPUs, creating artificial scarcity.",
    "why": "If true, circular funding could distort GPU supply and pricing, affecting how teams plan compute procurement and budgets.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "sda51afadad",
@@ -118,7 +133,7 @@
    "summary": "Anthropic has upgraded Claude Code projects so multiple AI workers can run in parallel without manual intervention.",
    "why": "Parallel autonomous coding agents could change how teams split and automate development tasks, though the source gives few details.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s04367a7d0b",
@@ -133,7 +148,7 @@
    "summary": "Amazon reportedly plans a 'World Product Graph' indexing product data sold across the internet, including items it does not sell, per Reuters.",
    "why": "A broad cross-web product index could affect retailers, marketplaces, and anyone building product-data or shopping integrations.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sdb2e460523",
@@ -162,7 +177,7 @@
    "summary": "Founders and VCs say Jensen Huang's departure from Nvidia leaves a major gap in AI startup funding, expecting smaller checks and lower valuations.",
    "why": "Changes in Nvidia's startup investment could affect funding availability and valuations for AI companies that rely on its backing.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s94d8e8d365",
@@ -5692,167 +5707,6 @@
    "summary": "TechCrunch published a speculative shortlist of possible successors to Nvidia CEO Jensen Huang, noting the company has no succession plan.",
    "why": "",
    "related": [],
-   "top": false
-  },
-  {
-   "id": "sa0a8bd6843",
-   "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-   "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-12T01:18:23+00:00",
-   "topics": [
-    "Agents",
-    "Developer tools",
-    "Infrastructure"
-   ],
-   "summary": "AWS shows Java developers how to build autonomous AI agents with Amazon Bedrock and Spring AI, covering tool calling, memory, resilience, multi-agent orchestration, and deployment to AgentCore.",
-   "why": "Gives Java teams a concrete production pattern for agents on AWS, spanning tool calling, memory, resilience, and deployment.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf28f90d289",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "source": "OpenAI",
-   "published": "2026-11-12T00:00:00+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "OpenAI published a conversation with Sam Nickless, CEO of Gilbert + Tobin, about rethinking the law firm business with AI.",
-   "why": "Shows how a large professional services firm is restructuring its operations around AI, a useful case study for enterprise adoption leaders.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb06379671e",
-   "title": "Supporting research on AI and children’s safety",
-   "link": "https://openai.com/index/children-first-declaration",
-   "source": "OpenAI",
-   "published": "2026-11-12T00:00:00+00:00",
-   "topics": [
-    "Safety",
-    "Research"
-   ],
-   "summary": "OpenAI committed $2 million to research on AI and children's safety, supporting shared tools to measure risks and opportunities for young people.",
-   "why": "Signals growing investment in standardized measurement of AI risks for minors, which may shape future safety evaluation practices.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s56dac742ff",
-   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-   "link": "https://huggingface.co/blog/3d-lora-finetuning",
-   "source": "Hugging Face",
-   "published": "2026-11-12T00:00:00+00:00",
-   "topics": [
-    "Research",
-    "Developer tools"
-   ],
-   "summary": "Hugging Face published a definitive fine-tuning guide for 3D generation models.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sefdd0bfa61",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch",
-   "published": "2026-11-11T23:50:00+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "TechCrunch publishes a timeline of an affair scandal involving Nvidia CEO Jensen Huang, which it says could affect national security amid US-China AI infrastructure competition.",
-   "why": "",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s0566809c65",
-   "title": "OpenAI Codex on Amazon Bedrock",
-   "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-11T23:35:47+00:00",
-   "topics": [
-    "Developer tools",
-    "Enterprise",
-    "Infrastructure"
-   ],
-   "summary": "AWS publishes a guide for enterprises rolling out OpenAI Codex to developers, using Amazon Bedrock as the model backend and covering access, governance, and cost decisions.",
-   "why": "Outlines the access, governance, and cost decisions platform, security, and finance teams must align on before a Codex rollout.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "scf5ad5ad49",
-   "title": "Semantic diffing of formal policies with anti-unification",
-   "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-11T23:33:03+00:00",
-   "topics": [
-    "Safety",
-    "Developer tools",
-    "Research"
-   ],
-   "summary": "AWS describes computing a deterministic semantic diff of formal authorization policies using an open-source anti-unification engine, so reviewers see only behavior-changing differences.",
-   "why": "Helps teams review authorization policy changes by surfacing behavioral differences rather than cosmetic text edits.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s005484e05b",
-   "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
-   "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-11T23:30:03+00:00",
-   "topics": [
-    "Infrastructure",
-    "Safety"
-   ],
-   "summary": "AWS explains how to detect silent GPU data corruption in PyTorch DDP training, localize the faulty node on SageMaker HyperPod, and trigger automatic node replacement.",
-   "why": "Gives ML infrastructure teams a way to catch silent GPU errors that could quietly corrupt distributed training runs.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s263d7dc4e1",
-   "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-11T23:13:16+00:00",
-   "topics": [
-    "Products",
-    "Agents",
-    "Developer tools"
-   ],
-   "summary": "AWS launches a Web Search API on Amazon Bedrock AgentCore that lets code search the web via a single signed API call, with no gateway or resources to create.",
-   "why": "Lets developers add web search to agents and pipelines through the AWS SDK or CLI without provisioning extra resources.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s4a6d926314",
-   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-   "source": "The Verge",
-   "published": "2026-11-11T22:44:36+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "The Verge reports, citing WSJ and NYT, that Nvidia's board is reportedly preparing to dismiss CEO Jensen Huang after a second alleged extramarital affair was reported.",
-   "why": "",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
-    }
-   ],
    "top": false
   }
  ]

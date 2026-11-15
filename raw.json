@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-14T22:29:10.643449+00:00",
+ "updated": "2026-11-15T02:43:10.591110+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Where was Nvidia’s security team?",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-15T00:08:07+00:00",
+   "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
+  },
   {
    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -48,7 +56,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T06:56:42+00:00",
-   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 74 # Comments: 49"
+   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 80 # Comments: 49"
   },
   {
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -56,7 +64,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T02:52:59+00:00",
-   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1008 # Comments: 608"
+   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1040 # Comments: 621"
   },
   {
    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
@@ -128,7 +136,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T19:51:56+00:00",
-   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 216 # Comments: 129"
+   "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 218 # Comments: 129"
   },
   {
    "title": "AI agent startup LangChain hits $3B valuation",
@@ -168,7 +176,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T18:39:42+00:00",
-   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 65 # Comments: 109"
+   "description": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 66 # Comments: 111"
   },
   {
    "title": "Are we just going to ignore that books are destroyed for AI?",
@@ -176,7 +184,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T18:14:38+00:00",
-   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 57 # Comments: 69"
+   "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 58 # Comments: 69"
   },
   {
    "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
@@ -200,7 +208,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T17:30:10+00:00",
-   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 420 # Comments: 107"
+   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 426 # Comments: 107"
   },
   {
    "title": "XYBench: Helping with the problem behind the question",
@@ -240,7 +248,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:29:10+00:00",
-   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 191 # Comments: 190"
+   "description": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 192 # Comments: 192"
   },
   {
    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
@@ -248,7 +256,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:08:44+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 451 # Comments: 650"
+   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 461 # Comments: 671"
   },
   {
    "title": "Introducing ChatGPT Wallet",
@@ -328,7 +336,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T11:13:46+00:00",
-   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 363 # Comments: 229"
+   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 365 # Comments: 230"
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -368,7 +376,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T23:06:17+00:00",
-   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 351 # Comments: 105"
+   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 352 # Comments: 105"
   },
   {
    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -400,7 +408,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T21:56:11+00:00",
-   "description": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 371 # Comments: 160"
+   "description": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 381 # Comments: 165"
   },
   {
    "title": "Google’s new Gemini model is better at understanding complicated questions",
@@ -432,7 +440,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T21:09:49+00:00",
-   "description": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 232"
+   "description": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 233"
   },
   {
    "title": "Four Amazon Bedrock inference choices that affect cost",
@@ -569,14 +577,6 @@
    "category": "Industry",
    "published": "2026-11-12T17:36:40+00:00",
    "description": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
-  },
-  {
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T17:17:58+00:00",
-   "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
   },
   {
    "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",

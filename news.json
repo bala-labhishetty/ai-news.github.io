@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:43:14.945697+00:00",
+ "updated": "2026-11-15T11:00:26.824045+00:00",
  "model": "claude-haiku-5-5",
  "items": [
   {
@@ -62,6 +62,21 @@
    "top": true
   },
   {
+   "id": "s8a429aeabf",
+   "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+   "source": "Hacker News",
+   "published": "2026-11-14T15:58:57+00:00",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ],
+   "summary": "Tom's Hardware reports analysts claim mass smuggling of Nvidia AI GPUs, over 1.5 gigawatts tracked to China, may underlie Jensen Huang's departure.",
+   "why": "Export-control enforcement and gray-market chip flows could affect GPU supply, compliance obligations, and access to Nvidia hardware.",
+   "related": [],
+   "top": true
+  },
+  {
    "id": "sd46b516a4c",
    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
@@ -118,7 +133,7 @@
    "summary": "A TechPowerUp article reports allegations that Nvidia funded AI startups that then bought its GPUs, creating artificial scarcity.",
    "why": "If true, circular funding could distort GPU supply and pricing, affecting how teams plan compute procurement and budgets.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sda51afadad",
@@ -5677,35 +5692,6 @@
    ],
    "summary": "Gondola says it doubled revenue and that Codex raised its lead engineer's output by 50%, alongside ChatGPT simplifying daily work.",
    "why": "A company reports measurable engineering productivity gains from Codex, though the claims are self-reported and unverified.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0990939c7d",
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "source": "OpenAI",
-   "published": "2026-11-12T09:30:00+00:00",
-   "topics": [
-    "Enterprise",
-    "Developer tools"
-   ],
-   "summary": "Holiday Extras is using OpenAI's Codex to turn customer expertise into better apps, higher booking conversion, and new growth opportunities.",
-   "why": "Shows a concrete enterprise case of coding agents being used to build customer-facing product features that affect revenue.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sdf5c4c0af6",
-   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-   "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-   "source": "TechCrunch",
-   "published": "2026-11-12T03:13:10+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "TechCrunch published a speculative shortlist of possible successors to Nvidia CEO Jensen Huang, noting the company has no succession plan.",
-   "why": "",
    "related": [],
    "top": false
   }

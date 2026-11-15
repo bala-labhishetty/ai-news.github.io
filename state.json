@@ -1,36 +1,5 @@
 {
  "stories": {
-  "sdf5c4c0af6": {
-   "id": "sdf5c4c0af6",
-   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-   "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T03:13:10+00:00",
-   "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-   "related": [],
-   "summary": "TechCrunch published a speculative shortlist of possible successors to Nvidia CEO Jensen Huang, noting the company has no succession plan.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "s0990939c7d": {
-   "id": "s0990939c7d",
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-12T09:30:00+00:00",
-   "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-   "related": [],
-   "summary": "Holiday Extras is using OpenAI's Codex to turn customer expertise into better apps, higher booking conversion, and new growth opportunities.",
-   "why": "Shows a concrete enterprise case of coding agents being used to build customer-facing product features that affect revenue.",
-   "topics": [
-    "Enterprise",
-    "Developer tools"
-   ]
-  },
   "s24d7fb83f2": {
    "id": "s24d7fb83f2",
    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
@@ -6091,11 +6060,25 @@
     "Enterprise",
     "Safety"
    ]
+  },
+  "s8a429aeabf": {
+   "id": "s8a429aeabf",
+   "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-14T15:58:57+00:00",
+   "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL: https://news.ycombinator.com/item?id=50498051 Points: 57 # Comments: 39",
+   "related": [],
+   "summary": "Tom's Hardware reports analysts claim mass smuggling of Nvidia AI GPUs, over 1.5 gigawatts tracked to China, may underlie Jensen Huang's departure.",
+   "why": "Export-control enforcement and gray-market chip flows could affect GPU supply, compliance obligations, and access to Nvidia hardware.",
+   "topics": [
+    "Regulation",
+    "Infrastructure"
+   ]
   }
  },
  "seen": {
-  "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors": "sdf5c4c0af6",
-  "https://openai.com/business/customer-stories/holidays-extras-codex": "s0990939c7d",
   "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition": "s24d7fb83f2",
   "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming": "s91eeb3c113",
   "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything": "s39f4c129e4",
@@ -6484,6 +6467,7 @@
   "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it": "sb08cefd999",
   "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks": "s322f998ba4",
   "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang": "s9a736294c4",
-  "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team": "scdf34d438f"
+  "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team": "scdf34d438f",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls": "s8a429aeabf"
  }
 }

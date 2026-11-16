@@ -1,20 +1,5 @@
 {
  "stories": {
-  "s85fb0dda3e": {
-   "id": "s85fb0dda3e",
-   "title": "Why You Should Expect an AI Crash",
-   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-12T23:08:31+00:00",
-   "description": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 81 # Comments: 65",
-   "related": [],
-   "summary": "The Economist's leader argues that an AI crash should be expected, according to a Hacker News post linking to the article.",
-   "why": "",
-   "topics": [
-    "Models"
-   ]
-  },
   "s473743245d": {
    "id": "s473743245d",
    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
@@ -5309,22 +5294,6 @@
     "Developer tools"
    ]
   },
-  "sf980cc1f1e": {
-   "id": "sf980cc1f1e",
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-12T23:06:17+00:00",
-   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 344 # Comments: 105",
-   "related": [],
-   "summary": "Edge0 has introduced Edge0-145B, a model it says offers frontier AI capabilities that run on a user's own computer.",
-   "why": "",
-   "topics": [
-    "Models",
-    "Open source"
-   ]
-  },
   "sc6caa4d4f0": {
    "id": "sc6caa4d4f0",
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -5607,10 +5576,78 @@
     "Research",
     "Models"
    ]
+  },
+  "sfc91828979": {
+   "id": "sfc91828979",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-15T23:30:00+00:00",
+   "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "related": [],
+   "summary": "Indian chip startup Bharat Semi raised a $24M seed round and says it has design wins for its AI-enabled sensor technology, including with General Atomics.",
+   "why": "Design wins with a defense contractor suggest commercial traction for AI-enabled sensor hardware, a niche relevant to edge and embedded teams.",
+   "topics": [
+    "Funding",
+    "Infrastructure"
+   ]
+  },
+  "s46b48e728e": {
+   "id": "s46b48e728e",
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-16T00:00:28+00:00",
+   "description": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+   "related": [],
+   "summary": "AI Day Seoul at COEX drew over 2,000 attendees to discuss physical AI and AI agents, with NVIDIA's Deepu Talla saying Korea is punching above its weight.",
+   "why": "Signals growing regional momentum in physical AI and robotics ecosystems, though the text offers little concrete technical detail.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "sf7214e14d1": {
+   "id": "sf7214e14d1",
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-16T01:26:56+00:00",
+   "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+     "title": "Apple launches new app to study how people use AI for health"
+    }
+   ],
+   "summary": "Apple announced the Apple Health AI Usage Study with OpenEvidence to better understand how people use conversational AI health tools and how useful their answers are.",
+   "why": "Shows how major platforms are measuring real-world usefulness of medical AI assistants, a factor for teams building health-related AI products.",
+   "topics": [
+    "Research",
+    "Safety"
+   ]
+  },
+  "sa58bd1a86d": {
+   "id": "sa58bd1a86d",
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+   "link": "https://www.hntrends.com/2026/november.html",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-16T01:31:30+00:00",
+   "description": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 50 # Comments: 20",
+   "related": [],
+   "summary": "A Hacker News trends page reports 'Who is Hiring?' postings near 12-year lows, while AI reaches half of all jobs.",
+   "why": "The description gives only a headline-level claim and no methodology, so limited context is available for engineers to act on.",
+   "topics": [
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash": "s85fb0dda3e",
   "https://arxiv.org/abs/2611.14544": "s473743245d",
   "https://arxiv.org/abs/2611.14654": "s511f6df35f",
   "https://arxiv.org/abs/2611.14681": "s71e20d332c",
@@ -5946,7 +5983,6 @@
   "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1": "sdb2e460523",
   "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search": "s04367a7d0b",
   "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free": "sda51afadad",
-  "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer": "sf980cc1f1e",
   "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html": "s5f1afeeb96",
   "https://claude.com/resources/articles/projects-redesigned": "sda51afadad",
   "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus": "sc6caa4d4f0",
@@ -5966,6 +6002,11 @@
   "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed": "s2f1f5cbf7c",
   "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry": "s2cb612de91",
   "https://openai.com/index/our-new-blog-for-science": "s4b0fc5b701",
-  "https://openai.com/index/step-toward-defining-the-standard-model": "s87d7014c15"
+  "https://openai.com/index/step-toward-defining-the-standard-model": "s87d7014c15",
+  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market": "sfc91828979",
+  "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup": "s46b48e728e",
+  "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools": "sf7214e14d1",
+  "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health": "sf7214e14d1",
+  "https://www.hntrends.com/2026/november.html": "sa58bd1a86d"
  }
 }

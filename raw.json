@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-15T22:53:11.269485+00:00",
+ "updated": "2026-11-16T02:47:22.974689+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+   "link": "https://www.hntrends.com/2026/november.html",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-16T01:31:30+00:00",
+   "description": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 50 # Comments: 20"
+  },
+  {
+   "title": "Apple launches new app to study how people use AI for health",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-16T01:30:00+00:00",
+   "description": "Apple's new app for a study will answer everyday medical questions"
+  },
+  {
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-16T01:26:56+00:00",
+   "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]"
+  },
+  {
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-16T00:00:28+00:00",
+   "description": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]"
+  },
+  {
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-15T23:30:00+00:00",
+   "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+  },
   {
    "title": "A step toward defining the Standard Model on a lattice",
    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -48,7 +88,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-15T19:39:46+00:00",
-   "description": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 56 # Comments: 59"
+   "description": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 63 # Comments: 61"
   },
   {
    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
@@ -64,7 +104,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-15T14:46:58+00:00",
-   "description": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1015 # Comments: 562"
+   "description": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1101 # Comments: 597"
   },
   {
    "title": "An overview of Jensen Huang’s messy days",
@@ -112,7 +152,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T15:58:57+00:00",
-   "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL: https://news.ycombinator.com/item?id=50498051 Points: 61 # Comments: 42"
+   "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL: https://news.ycombinator.com/item?id=50498051 Points: 61 # Comments: 43"
   },
   {
    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
@@ -136,7 +176,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T06:56:42+00:00",
-   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 88 # Comments: 52"
+   "description": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you! Comments URL: https://news.ycombinator.com/item?id=50494696 Points: 88 # Comments: 53"
   },
   {
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -144,7 +184,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-14T02:52:59+00:00",
-   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1097 # Comments: 646"
+   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1100 # Comments: 648"
   },
   {
    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
@@ -288,7 +328,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T17:30:10+00:00",
-   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 437 # Comments: 110"
+   "description": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 438 # Comments: 110"
   },
   {
    "title": "XYBench: Helping with the problem behind the question",
@@ -336,7 +376,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T15:08:44+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 482 # Comments: 724"
+   "description": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 482 # Comments: 725"
   },
   {
    "title": "Introducing ChatGPT Wallet",
@@ -403,20 +443,12 @@
    "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
   },
   {
-   "title": "Let’s talk about Jensen Huang’s many affairs!",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-13T12:00:00+00:00",
-   "description": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]"
-  },
-  {
    "title": "AI is destroying the trust between writers and readers",
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T11:13:46+00:00",
-   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 369 # Comments: 234"
+   "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 370 # Comments: 234"
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -424,7 +456,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-13T10:18:13+00:00",
-   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 389"
+   "description": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390"
   },
   {
    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -456,7 +488,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T23:06:17+00:00",
-   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 355 # Comments: 105"
+   "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 356 # Comments: 105"
   },
   {
    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -488,7 +520,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-12T21:56:11+00:00",
-   "description": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 430 # Comments: 181"
+   "description": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 438 # Comments: 185"
   },
   {
    "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
@@ -553,22 +585,6 @@
    "category": "Cloud & Enterprise",
    "published": "2026-11-12T19:29:55+00:00",
    "description": "Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that apply a Deny policy when a threshold is crossed."
-  },
-  {
-   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T19:27:45+00:00",
-   "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
-  },
-  {
-   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-12T19:11:00+00:00",
-   "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
   },
   {
    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -713,14 +729,6 @@
    "category": "Cloud & Enterprise",
    "published": "2026-11-11T23:35:47+00:00",
    "description": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on."
-  },
-  {
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-11T21:24:35+00:00",
-   "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 708"
   },
   {
    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -1369,14 +1377,6 @@
    "category": "AI Labs",
    "published": "2026-11-03T08:00:00+00:00",
    "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-  },
-  {
-   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-   "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-03T07:00:12+00:00",
-   "description": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]"
   },
   {
    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",

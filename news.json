@@ -1,7 +1,71 @@
 {
- "updated": "2026-11-15T22:53:17.797001+00:00",
+ "updated": "2026-11-16T02:47:28.592231+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sa58bd1a86d",
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+   "link": "https://www.hntrends.com/2026/november.html",
+   "source": "Hacker News",
+   "published": "2026-11-16T01:31:30+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "A Hacker News trends page reports 'Who is Hiring?' postings near 12-year lows, while AI reaches half of all jobs.",
+   "why": "The description gives only a headline-level claim and no methodology, so limited context is available for engineers to act on.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sf7214e14d1",
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "source": "The Verge",
+   "published": "2026-11-16T01:26:56+00:00",
+   "topics": [
+    "Research",
+    "Safety"
+   ],
+   "summary": "Apple announced the Apple Health AI Usage Study with OpenEvidence to better understand how people use conversational AI health tools and how useful their answers are.",
+   "why": "Shows how major platforms are measuring real-world usefulness of medical AI assistants, a factor for teams building health-related AI products.",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "s46b48e728e",
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "source": "NVIDIA",
+   "published": "2026-11-16T00:00:28+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "AI Day Seoul at COEX drew over 2,000 attendees to discuss physical AI and AI agents, with NVIDIA's Deepu Talla saying Korea is punching above its weight.",
+   "why": "Signals growing regional momentum in physical AI and robotics ecosystems, though the text offers little concrete technical detail.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sfc91828979",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch",
+   "published": "2026-11-15T23:30:00+00:00",
+   "topics": [
+    "Funding",
+    "Infrastructure"
+   ],
+   "summary": "Indian chip startup Bharat Semi raised a $24M seed round and says it has design wins for its AI-enabled sensor technology, including with General Atomics.",
+   "why": "Design wins with a defense contractor suggest commercial traction for AI-enabled sensor hardware, a niche relevant to edge and embedded teams.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "s87d7014c15",
    "title": "A step toward defining the Standard Model on a lattice",
@@ -29,7 +93,7 @@
    "summary": "OpenAI launched a science blog to share research findings, practical methods, and firsthand accounts from researchers using AI for scientific discovery.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s2cb612de91",
@@ -44,7 +108,7 @@
    "summary": "TechCrunch asks whether bad news for Nvidia CEO Jensen Huang would also hurt the broader AI industry, given its reliance on Nvidia.",
    "why": "Nvidia's leadership turmoil and its central role in AI infrastructure could affect chip supply and planning, but the text gives few specifics.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s2f1f5cbf7c",
@@ -59,7 +123,7 @@
    "summary": "Reports say former Nvidia CEO Jensen Huang may be seeking a path back to the CEO role amid fast-moving leadership drama at the company.",
    "why": "Leadership instability at Nvidia, a key AI chip supplier, could affect product roadmaps and supply planning for companies that depend on it.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "s1a811a22b7",
@@ -88,7 +152,7 @@
    "summary": "Fortune reports that parents paid $75,000 for Alpha's AI school, and half of its students missed math learning targets.",
    "why": "It offers a concrete data point on whether AI-driven education delivers measurable learning outcomes relative to its cost.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s1207b5c1c7",
@@ -132,7 +196,7 @@
    "summary": "The Verge's weekly Stepback newsletter gives an overview of Jensen Huang's resignation and the leadership crisis at Nvidia.",
    "why": "",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "scdf34d438f",
@@ -5225,35 +5289,6 @@
    ],
    "summary": "Kezek splits mono recordings of two-person conversations into separate per-speaker tracks, preserving timing and overlaps, to create full-duplex dialogue training data.",
    "why": "It offers a way to turn abundant single-channel conversation audio into training data for full-duplex spoken dialogue models.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s85fb0dda3e",
-   "title": "Why You Should Expect an AI Crash",
-   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-   "source": "Hacker News",
-   "published": "2026-11-12T23:08:31+00:00",
-   "topics": [
-    "Models"
-   ],
-   "summary": "The Economist's leader argues that an AI crash should be expected, according to a Hacker News post linking to the article.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf980cc1f1e",
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-   "source": "Hacker News",
-   "published": "2026-11-12T23:06:17+00:00",
-   "topics": [
-    "Models",
-    "Open source"
-   ],
-   "summary": "Edge0 has introduced Edge0-145B, a model it says offers frontier AI capabilities that run on a user's own computer.",
-   "why": "",
    "related": [],
    "top": false
   }

@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-16T22:10:26.706788+00:00",
+ "updated": "2026-11-17T04:32:11.182309+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-16T23:32:32+00:00",
+   "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+  },
+  {
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-16T23:17:34+00:00",
+   "description": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]"
+  },
+  {
+   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-16T23:00:05+00:00",
+   "description": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]"
+  },
+  {
+   "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-16T22:43:30+00:00",
+   "description": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private."
+  },
   {
    "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
    "link": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
@@ -16,7 +48,7 @@
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-16T22:03:02+00:00",
-   "description": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
+   "description": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
   },
   {
    "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
@@ -32,7 +64,7 @@
    "source": "The Verge",
    "category": "Industry",
    "published": "2026-11-16T20:46:01+00:00",
-   "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]"
+   "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]"
   },
   {
    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
@@ -72,7 +104,7 @@
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-16T20:07:13+00:00",
-   "description": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident"
+   "description": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
   },
   {
    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
@@ -131,7 +163,7 @@
    "description": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data."
   },
   {
-   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
    "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
    "source": "TechCrunch",
    "category": "Industry",
@@ -337,14 +369,6 @@
    "category": "Industry",
    "published": "2026-11-16T14:00:00+00:00",
    "description": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […]"
-  },
-  {
-   "title": "The Nvidia scandal isn’t slowing down",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-16T13:00:00+00:00",
-   "description": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at […]"
   },
   {
    "title": "Building AI that can work across the enterprise",
@@ -2377,30 +2401,6 @@
    "category": "Research",
    "published": "2026-11-16T05:00:00+00:00",
    "description": "arXiv:2607.29617v2 Announce Type: replace-cross Abstract: Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior Cloning (BC) are known to suffer from compounding errors and performance plateaus, particularly when the learner cannot perfectly represent the expert's policy (as is typical, e.g., in distillation). Two interventions are widely understood empirically to improve performance: querying the expert interactively along the learner's own trajectories, and using value function estimation en route to generating a policy. We investigate the nature of these improvements and their potentially surprising interplay. Our main finding is that expert inte"
-  },
-  {
-   "title": "Cloud-Edge LLM Collaborative Learning via Accelerating Personalized Bilevel Optimization",
-   "link": "https://arxiv.org/abs/2609.15664",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-16T05:00:00+00:00",
-   "description": "arXiv:2609.15664v4 Announce Type: replace-cross Abstract: Amid the rapid advancement of physical-world intelligence, cloud-edge collaborative large language models (LLMs) have emerged as a promising roadmap for practical LLM deployment. However, existing cloud-edge paradigms struggle to balance global consensus with local personalization, which fails to satisfy the need for a unified knowledge foundation on the cloud and domain-specific adaptation at the edge. To address this, we propose a personalized bilevel optimization framework that formalizes cloud-edge LLM collaboration as a dual structure: the upper level optimizes edge-side personalization, while the lower level governs cloud-side knowledge transfer, reaching cloud-edge evolving in coordination. We then propose CIDERS: while the c"
-  },
-  {
-   "title": "Hidden not Deleted: How Networks Suppress Entangled Features",
-   "link": "https://arxiv.org/abs/2609.27593",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-16T05:00:00+00:00",
-   "description": "arXiv:2609.27593v2 Announce Type: replace-cross Abstract: When a neural network stops reporting a feature, has it forgotten the feature or merely hidden it? Shared representations complicate the answer: removing one feature's direction can also damage another feature. We study this problem in a small autoencoder that compresses and reconstructs inputs, allowing individual feature contributions to be traced directly. With the representation fixed, restoring a single bias partially recovers target detection by exposing a signal hidden behind the output's activation threshold. Tests on target-absent inputs distinguish this recovery from interventions that simply increase output. The same bias intervention becomes less effective when the representation is allowed to change. We find that traini"
-  },
-  {
-   "title": "From Data to Program: Fast & Direct Generative Program Inference from Empirical Data",
-   "link": "https://arxiv.org/abs/2609.35348",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-16T05:00:00+00:00",
-   "description": "arXiv:2609.35348v2 Announce Type: replace-cross Abstract: Estimating probability densities from a finite set of samples typically requires dataset-specific model fitting. We introduce PRODiGI, a pretrained data-to-program model that infers an explicit, executable generative program in a single forward pass. Pretrained on synthetic datasets paired with their ground-truth programs, PRODiGI accommodates diverse generative families and data dimensionalities through template prediction and non-autoregressive program parameter decoding. Its inferred programs support direct sampling, density and score evaluation, and inspection independently of the pretrained model. We further introduce program-space fine-tuning, which refines differentiable program parameters by maximizing the likelihood of empi"
   }
  ]
 }

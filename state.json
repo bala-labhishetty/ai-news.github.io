@@ -1,101 +1,5 @@
 {
  "stories": {
-  "s94d8e8d365": {
-   "id": "s94d8e8d365",
-   "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-   "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-13T22:30:12+00:00",
-   "description": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
-   "related": [],
-   "summary": "AWS shows how to deploy LiteLLM with NVIDIA NeMo Switchyard routing on Amazon Bedrock and measure cost per solved coding-agent task against single-model baselines.",
-   "why": "Cost per solved task, not price per token, is the metric to track when routing coding-agent requests across models.",
-   "topics": [
-    "Developer tools",
-    "Infrastructure",
-    "Agents"
-   ]
-  },
-  "sad639fbc65": {
-   "id": "sad639fbc65",
-   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-13T22:43:00+00:00",
-   "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-   "related": [],
-   "summary": "Founders and VCs say Jensen Huang's departure from Nvidia leaves a major gap in AI startup funding, expecting smaller checks and lower valuations.",
-   "why": "Changes in Nvidia's startup investment could affect funding availability and valuations for AI companies that rely on its backing.",
-   "topics": [
-    "Funding"
-   ]
-  },
-  "sdb2e460523": {
-   "id": "sdb2e460523",
-   "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-   "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-13T23:22:09+00:00",
-   "description": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
-   "related": [],
-   "summary": "GS Caltex uses Amazon SageMaker Canvas connected to SageMaker Pipelines so process engineers' no-code models run in production.",
-   "why": "It shows a path for moving no-code models into production MLOps, cutting deployment from about a week to a few hours.",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ]
-  },
-  "s04367a7d0b": {
-   "id": "s04367a7d0b",
-   "title": "Amazon has a plan to index the world’s online shopping data",
-   "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-13T23:49:11+00:00",
-   "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
-   "related": [],
-   "summary": "Amazon reportedly plans a 'World Product Graph' indexing product data sold across the internet, including items it does not sell, per Reuters.",
-   "why": "A broad cross-web product index could affect retailers, marketplaces, and anyone building product-data or shopping integrations.",
-   "topics": [
-    "Enterprise",
-    "Products"
-   ]
-  },
-  "sda51afadad": {
-   "id": "sda51afadad",
-   "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-   "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-14T00:28:11+00:00",
-   "description": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 52 # Comments: 34",
-   "related": [],
-   "summary": "Anthropic has upgraded Claude Code projects so multiple AI workers can run in parallel without manual intervention.",
-   "why": "Parallel autonomous coding agents could change how teams split and automate development tasks, though the source gives few details.",
-   "topics": [
-    "Agents",
-    "Developer tools"
-   ]
-  },
-  "sc6caa4d4f0": {
-   "id": "sc6caa4d4f0",
-   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-   "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-14T02:52:59+00:00",
-   "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 624 # Comments: 361",
-   "related": [],
-   "summary": "A TechPowerUp article reports allegations that Nvidia funded AI startups that then bought its GPUs, creating artificial scarcity.",
-   "why": "If true, circular funding could distort GPU supply and pricing, affecting how teams plan compute procurement and budgets.",
-   "topics": [
-    "Funding",
-    "Infrastructure"
-   ]
-  },
   "s49db83e253": {
    "id": "s49db83e253",
    "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
@@ -5826,16 +5730,72 @@
     "Enterprise",
     "Infrastructure"
    ]
+  },
+  "sd218f9a95b": {
+   "id": "sd218f9a95b",
+   "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-16T22:43:30+00:00",
+   "description": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.",
+   "related": [],
+   "summary": "AWS published a guide to building multi-user AI agents on Amazon Bedrock that use Agentic Retrieve, managed knowledge base and AgentCore memory for private, permission-aware recall.",
+   "why": "Shows how to enforce per-user document access and private long-term memory in agent applications using managed AWS services.",
+   "topics": [
+    "Agents",
+    "Developer tools"
+   ]
+  },
+  "s8617ffe05c": {
+   "id": "s8617ffe05c",
+   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-16T23:00:05+00:00",
+   "description": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
+   "related": [],
+   "summary": "NVIDIA introduced the DGX Spark HPC Developer Kit at SC26, a four-node ring cluster of DGX Spark systems for researchers, academics and developers.",
+   "why": "Gives developers a compact, desk-sized cluster for HPC work, with an HPC SDK installation playbook planned.",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ]
+  },
+  "sa594247297": {
+   "id": "sa594247297",
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-16T23:17:34+00:00",
+   "description": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
+   "related": [],
+   "summary": "Tech leaders are calling for Jensen Huang's reinstatement at Nvidia after his resignation following 33 years, with some backing a theory that it was a plot.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "sbec78e9702": {
+   "id": "sbec78e9702",
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-16T23:32:32+00:00",
+   "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "related": [],
+   "summary": "AI cybersecurity startup Corma raised a $125 million Series A at a $1 billion valuation led by NEA, about three months after launching its product.",
+   "why": "Signals strong investor appetite for AI-driven security tools, and rapid valuation growth for early-stage security startups.",
+   "topics": [
+    "Funding",
+    "Safety"
+   ]
   }
  },
  "seen": {
-  "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard": "s94d8e8d365",
-  "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say": "sad639fbc65",
-  "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1": "sdb2e460523",
-  "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search": "s04367a7d0b",
-  "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free": "sda51afadad",
-  "https://claude.com/resources/articles/projects-redesigned": "sda51afadad",
-  "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus": "sc6caa4d4f0",
   "https://news.ycombinator.com/item": "s49db83e253",
   "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo": "s567fa29889",
   "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": "sd46b516a4c",
@@ -6206,6 +6166,10 @@
   "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": "s773cc78ee1",
   "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing": "s0761da68e5",
   "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont": "s51273f0e0c",
-  "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore": "s94ec9ff9d4"
+  "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore": "s94ec9ff9d4",
+  "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base": "sd218f9a95b",
+  "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": "s8617ffe05c",
+  "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories": "sa594247297",
+  "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months": "sbec78e9702"
  }
 }

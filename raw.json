@@ -1,14 +1,318 @@
 {
- "updated": "2026-11-17T14:29:44.806862+00:00",
+ "updated": "2026-11-17T22:55:32.020304+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+   "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T22:44:51+00:00",
+   "description": "As production agents on Amazon Bedrock AgentCore process multi-megabyte JSON payloads, token costs and latency climb. This post shares three composable strategies: offloading heavy artifacts to Amazon S3, on-demand result paging, and dictionary compaction. Together they cut per-turn token use by up to 71% and latency by up to 80%."
+  },
+  {
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T22:42:27+00:00",
+   "description": "The former CEO offered to return to his top role at the company after his resignation last week."
+  },
+  {
+   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+   "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-17T22:32:16+00:00",
+   "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things."
+  },
+  {
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T22:29:05+00:00",
+   "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+  },
+  {
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T21:48:07+00:00",
+   "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+  },
+  {
+   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-17T21:40:59+00:00",
+   "description": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]"
+  },
+  {
+   "title": "Google joins the tech outage trend by announcing it’s not having one",
+   "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T21:34:50+00:00",
+   "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
+  },
+  {
+   "title": "Cut generative AI costs: Code for rules, models for judgment",
+   "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T21:14:55+00:00",
+   "description": "The biggest cost lever in a generative AI system is whether you call a model at all. Learn how to decide whether each workflow step needs a model, and map each option to AWS: deterministic code, a constrained decision call, or a right-sized model on Amazon Bedrock."
+  },
+  {
+   "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T21:11:51+00:00",
+   "description": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke, and verify it on single model and inference component endpoints."
+  },
+  {
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-17T21:00:55+00:00",
+   "description": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]"
+  },
+  {
+   "title": "Govern and discover records with common metadata in AWS Agent Registry",
+   "link": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T20:31:04+00:00",
+   "description": "Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern and find resources with one shared set of facts."
+  },
+  {
+   "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T20:25:23+00:00",
+   "description": "When an AI agent on Amazon Bedrock AgentCore calls Snowflake Cortex AI over MCP, how does it authenticate? This post walks through three OAuth patterns we tested on AgentCore Identity: Snowflake OAuth, three-legged OAuth with a corporate IdP, and two-legged OAuth, so you can match your organization's identity, audit, and compliance needs."
+  },
+  {
+   "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+   "link": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T19:40:01+00:00",
+   "description": "Amazon SageMaker AI now offers AI data preparation capabilities for building high-quality training and evaluation data. Generate synthetic examples, assess and improve datasets, auto-label at scale, and bring in expert review through Python SDK APIs and an agent skill, all from your own notebook or IDE."
+  },
+  {
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T19:32:11+00:00",
+   "description": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis."
+  },
+  {
+   "title": "Getting AI out of the demo and into businesses globally",
+   "link": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T19:05:22+00:00",
+   "description": "Most enterprises have AI that works in a demo but stalls before production. AWS Forward Deployed Engineering closes that gap. AWS engineers embed with customer teams to take high-value workflows to production in 45-day sprints, leaving a foundation, workflows, and governance the customer owns."
+  },
+  {
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T19:02:20+00:00",
+   "description": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+  },
+  {
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-17T18:58:01+00:00",
+   "description": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]"
+  },
+  {
+   "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T18:48:50+00:00",
+   "description": "SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook ingestion, media, conversation memory, scheduling, and Meta message templates."
+  },
+  {
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T18:48:23+00:00",
+   "description": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+  },
+  {
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T18:10:00+00:00",
+   "description": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities."
+  },
+  {
+   "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T18:06:44+00:00",
+   "description": "OpenTSLM, an open source family of time-series language models, is now available in Amazon SageMaker JumpStart. See how Nexthink and Aionic Labs apply it to proactive IT support, then deploy OpenTSLM to a real-time endpoint and fine-tune it on your own data with TimeNet and a SageMaker training job."
+  },
+  {
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T18:04:16+00:00",
+   "description": "The company uses agentic AI to make supply chains faster and more reliable."
+  },
+  {
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-17T17:45:00+00:00",
+   "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+  },
+  {
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T17:32:25+00:00",
+   "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+  },
+  {
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T17:20:41+00:00",
+   "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+  },
+  {
+   "title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+   "link": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T17:08:21+00:00",
+   "description": "AWS Quick gives your whole organization AI that knows your business, respects your security rules, and acts on your behalf. At AWS re:Invent 2026, customers including Allianz, Cox Automotive, and Southwest Airlines share how they govern, extend, and scale Quick. Use this guide to find the sessions that fit your goals."
+  },
+  {
+   "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T17:01:08+00:00",
+   "description": "LoanPro worked with AWS Partner AllCloud and the AWS Generative AI Innovation Center to build a multi-agent AI assistant on Amazon Bedrock and Amazon Bedrock AgentCore. It gives loan servicing agents instant borrower context and next-best-action recommendations, reducing customer call times by up to 15 percent."
+  },
+  {
+   "title": "Put Gemini to work for you",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-17T17:00:00+00:00",
+   "description": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\"."
+  },
+  {
+   "title": "Responsible AI for agentic AI: A phased roadmap for platform and application teams",
+   "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T16:56:31+00:00",
+   "description": "Enterprises adopting agentic AI at scale need platforms that embed responsible AI from the start. This post gives platform and application teams a three-phase roadmap (governance foundation, pilot deployment, and evaluation and hardening) that maps the AWS Responsible AI Lens pillars to each phase, with guidance on when to revisit each one."
+  },
+  {
+   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T16:44:15+00:00",
+   "description": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO."
+  },
+  {
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T16:32:55+00:00",
+   "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+  },
+  {
+   "title": "The DOJ says it’s investigating Megaspeed",
+   "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-17T16:19:03+00:00",
+   "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address […]"
+  },
+  {
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-17T16:09:57+00:00",
+   "description": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me […]"
+  },
+  {
+   "title": "How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T15:57:09+00:00",
+   "description": "ArisGlobal runs NavaX, its life-sciences AI engine, on Amazon Bedrock. By caching the shared prompt prefix instead of each per-case document, ArisGlobal cut effective input cost by about 50% and overall monthly inference spend by about 40%, while onboarding more tenants without proportional cost growth."
+  },
+  {
+   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T15:00:00+00:00",
+   "description": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
+  },
+  {
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T14:50:58+00:00",
+   "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round."
+  },
+  {
+   "title": "Research Reports",
+   "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-17T14:39:46+00:00",
+   "description": "To access a report, click on the corresponding image below."
+  },
   {
    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-17T14:26:46+00:00",
-   "description": "Science Corp raised a $400 million Series D to scale up its anti-blindness business."
+   "description": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
+  },
+  {
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-17T14:19:59+00:00",
+   "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 182 # Comments: 238"
   },
   {
    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
@@ -27,12 +331,28 @@
    "description": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
   },
   {
+   "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+   "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-17T14:00:10+00:00",
+   "description": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]"
+  },
+  {
    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-17T14:00:00+00:00",
    "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
+  },
+  {
+   "title": "Introducing ChatGPT for Sales",
+   "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-17T08:00:00+00:00",
+   "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
   },
   {
    "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
@@ -2081,326 +2401,6 @@
    "category": "Research",
    "published": "2026-11-17T05:00:00+00:00",
    "description": "arXiv:2611.19630v1 Announce Type: cross Abstract: Whether a ductal breast lesion is called atypical hyperplasia or low-grade carcinoma in situ increasingly determines surgery. However, slide-level classifiers built on pathology foundation models (PFMs) perform worst on these lesions. Using four PFMs, cross-validation on BRACS and preregistered hypotheses, we studied where the classification of atypia fails. Because slides are labelled with their most severe lesion, only 39% of the slides with annotated atypical ductal hyperplasia (ADH) were labelled ADH. Attention ranked the lesion high but rarely first, and showing the model only the lesion helped little, whereas classifiers trained per decision with lesion-level labels improved all four atypical boundaries. ADH regions inserted into beni"
-  },
-  {
-   "title": "ROUNDS: Source-Framed Diagnostic Revision after Multi-Turn Clinical Evidence",
-   "link": "https://arxiv.org/abs/2611.19636",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19636v1 Announce Type: cross Abstract: Large language models (LLMs) achieve high scores on medical benchmarks, but does this performance translate into reliable diagnosis as a conversation unfolds? In diagnostic conversations, users can provide clinical findings across multiple turns, ask for a diagnosis without supplying answer options, and introduce opinions from others. Models must therefore form diagnoses from the available evidence and decide how to respond to subsequent advice. We introduce ROUNDS, a framework that evaluates these abilities after a fixed sequence of clinical evidence delivered over multiple turns. ROUNDS compares diagnosis with and without answer options, presents the same incorrect diagnosis under clinician and lay framing, and varies support for competin"
-  },
-  {
-   "title": "SG-LegalClarify: A Large-Scale Benchmark for Legal Reasoning and Ambiguity Recognition in Singapore Law",
-   "link": "https://arxiv.org/abs/2611.19643",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19643v1 Announce Type: cross Abstract: Singapore offers a distinctive testbed for legal reasoning by large language models (LLMs). Its legal system combines inherited English common law with jurisdiction-specific statutes, requiring models to distinguish local doctrine from generic common-law intuition. This setting also highlights the challenge of recognizing underspecification in lay legal queries, because the facts material to a legal outcome depend on the governing doctrine. Yet legal benchmarks rarely cover Singapore law or test this form of ambiguity recognition. To address these gaps, we introduce SG-LegalClarify, a large-scale benchmark for open-ended legal reasoning and ambiguity recognition in Singapore law. SG-LegalClarify contains 1,100 lawyer-authored source questio"
-  },
-  {
-   "title": "LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers",
-   "link": "https://arxiv.org/abs/2611.19649",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19649v1 Announce Type: cross Abstract: Looped Transformers improve parameter efficiency by repeatedly applying the same Transformer layers. During autoregressive decoding, however, generating each token requires several sequential passes through these layers, leading to high decoding latency. Pipelined self-speculative methods use shallow-loop predictions to process tokens at different loops in the same batch, but each token must reach the drafting depth before the next can enter the pipeline. We introduce LoopFill, a training-free speculative decoding algorithm for looped LLM that combines multi-token suffix drafts with shallow-loop predictions in a single draft tree. Both drafters contribute to one tree, so a suffix lookup can immediately extend a shallow prediction and severa"
-  },
-  {
-   "title": "BadGCL: Towards Persistent Backdoor Attack on Graph Continual Learning Systems",
-   "link": "https://arxiv.org/abs/2611.19656",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19656v1 Announce Type: cross Abstract: Backdoor attacks pose a persistent security threat to machine learning systems, yet their behavior under graph continual learning (GCL) remains underexplored. Conventional graph backdoor attacks often lose effectiveness as models are updated across successive tasks, creating the impression that continual updates naturally weaken malicious associations. This work reveals a contrasting vulnerability: knowledge-preservation mechanisms in GCL can also preserve early injected backdoors when the poisoned update is compatible with the clean-task signal being retained. For graph data, this risk is amplified by structural triggers, which are embedded into the message-passing paths of graph neural networks (GNNs) and can induce stable representation "
-  },
-  {
-   "title": "Architecting the Corporate AI Infrastructure: The Evolving Roles of AI Governance Committees and Chief Ethics Officers",
-   "link": "https://arxiv.org/abs/2611.19670",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19670v1 Announce Type: cross Abstract: The accelerating integration of artificial intelligence (AI) into core business operations has created an urgent need for robust corporate governance infrastructures capable of managing complex ethical, legal, and operational risks. While organizations have increasingly adopted high-level AI ethics principles, a critical implementation gap persists: fewer than half of organizations that cite AI governance as a boardroom priority have a formalized governance framework in place. This paper addresses that gap by proposing a structured corporate AI governance architecture (CAIGA) centred on two mutually reinforcing pillars. First, it examines the evolving mandate of specialized C-suite roles, specifically Chief Privacy Officers (CPOs) and Chief"
-  },
-  {
-   "title": "MathaMAGICal: Validating Trajectory Data Attribution During Capability Acquisition",
-   "link": "https://arxiv.org/abs/2611.19692",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19692v1 Announce Type: cross Abstract: Influence-function-based methods like MAGIC provide exact first-order scores for trajectory data attribution, yet only retraining indicates whether those scores accurately predict data removal. We evaluate MAGIC on $86$M- and $152$M-parameter GPT-2-style models learning multistep arithmetic from scratch on filtered web text and four synthetic math families. Full-run attribution at $86$M suffers from numerical overflow, and even with metagradient clipping, scores correlate near chance with retraining (linear datamodeling score, LDS, $0.17$--$0.22$). In contrast, short checkpoint windows yield stable, accurate predictions at both scales (LDS $0.86$--$0.99$ across four $100$-step windows at $152$M), whereas a single-checkpoint gradient-dot bas"
-  },
-  {
-   "title": "Data Attribution Should Steer Pretraining",
-   "link": "https://arxiv.org/abs/2611.19698",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19698v1 Announce Type: cross Abstract: Pretraining data curation decides what a model learns from, yet what makes a document worth learning from depends on what the model already knows. Influence-driven selectors already rank documents to improve one run; we argue that training-data attribution should steer pretraining by identifying testable data properties that become reusable curation criteria, evaluated on new data against cheaper selectors at matched total cost, discovery included. A document ranking is consumed by the run it was computed for, whereas an explained data property can be tested across corpora and checkpoints, especially where familiar quality signals diverge from measured usefulness. Because historical contribution, an understandable explanation, and future da"
-  },
-  {
-   "title": "Where Should LLM Agents Adapt at Test Time? In Context, in Weights, or Both",
-   "link": "https://arxiv.org/abs/2611.19700",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19700v1 Announce Type: cross Abstract: LLM agents operating repeatedly in the same environment, such as a code repository, a database, or an application suite, encounter tasks that share latent structure. Experience can reveal this structure, allowing agents to reuse environment knowledge and learn from environmental feedback. Agents can adapt at test-time using this experience through two channels: retaining it in context and updating their weights. These channels are usually studied separately, leaving unclear what each contributes and when they complement each other. We compare in-context learning (ICL), reinforcement learning with verifiable rewards using GRPO, and self-distillation using SDPO, alone and in combination, using a shared online protocol and modular framework. A"
-  },
-  {
-   "title": "Cache or Denoise Less? Residual Reuse in a Flow-Matching World Action Model",
-   "link": "https://arxiv.org/abs/2611.19709",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19709v1 Announce Type: cross Abstract: Flow-matching robot policies generate each action chunk through repeated network evaluations, one per denoising step. Cross-cycle caches such as C$^3$ache reuse computation from earlier replanning calls, but whether they beat simply taking fewer steps is unclear. We compare the two in Fast-WAM, a 6B-parameter world action model, on LIBERO-Goal. Two uncached steps keep the success of ten: on all 500 initial states they are non-inferior within two percentage points, for one checkpoint and noise seed. Under PyTorch's default compile mode, they also cut a replanning call on an RTX A6000 from 202 to 92 ms. This leaves little room for caching. A cache that keeps two fresh steps cannot be faster than two uncached steps: every call still encodes th"
-  },
-  {
-   "title": "Joint Learning of Factual and Counterfactual Worlds for Causal Prior-data Fitted Networks",
-   "link": "https://arxiv.org/abs/2611.19710",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19710v1 Announce Type: cross Abstract: Estimating treatment effects is central to science across many disciplines and requires counterfactual reasoning about alternative worlds. In the real world, however, each unit reveals its outcome only under the factual world. Thus, the factual and counterfactual outcomes can never be jointly learned by any model trained on real data. The problem is therefore tractable only in synthetic settings, where both worlds can be generated. Recent progress on prior-data fitted networks (PFNs) has shown that models pre-trained purely on synthetic data can transfer to real-world prediction. This paradigm has since carried over to causal effect estimation. Despite this fully synthetic setup, existing causal PFNs carry the real-world constraint into the"
-  },
-  {
-   "title": "An Interpretable Acoustic Coordinate System for Japanese Consonant Morae in Dysarthric Speech",
-   "link": "https://arxiv.org/abs/2611.19714",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19714v1 Announce Type: cross Abstract: Dysarthria reduces speech intelligibility, requiring self-directed rehabilitation based on fine-grained feedback to capture gradual articulatory changes. For Japanese speakers, such feedback is naturally provided in mora units due to its distinct moraic timing and consonant-vowel structure. While recent visualization methods have explored distance-based feedback, most are limited to vowels. Extending them to consonants is challenging, as generative embeddings often smooth transient spectral structures. We propose a visualization system for Japanese consonant morae that maps articulatory deviations onto a two-dimensional space defined by temporal and spectral distances from healthy reference speech. Experiments show consistent geometric sepa"
-  },
-  {
-   "title": "Exploration of Reinforcement Learning in Generative Recommendation Models",
-   "link": "https://arxiv.org/abs/2611.19742",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19742v1 Announce Type: cross Abstract: Traditional cascaded recommender systems balance accuracy and efficiency over large item spaces, but misaligned stage-wise objectives hinder end-to-end optimization. Generative recommendation unifies these stages in an autoregressive framework, providing a natural interface for reinforcement learning (RL) to optimize the entire generation process. However, directly applying RL often leads to unstable optimization and degraded recommendation quality. We revisit Group Relative Policy Optimization (GRPO) and other ratio-based objectives through a unified logit-gradient view. We identify three issues: (i) clipped surrogates create dead-gradient regions, under-utilizing samples; (ii) negative-advantage updates can become effectively unbounded as"
-  },
-  {
-   "title": "How Far Is Too Far? Object Recognition Declines Monotonically with Semantic Distance",
-   "link": "https://arxiv.org/abs/2611.19747",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19747v1 Announce Type: cross Abstract: Vision models are sensitive to object-background context, yet it remains unclear how recognition changes as the semantic distance between objects and backgrounds increases. We introduce ImageNet-OOC1k, a benchmark enabling graded control of object-background relationships along a continuous consensus visual-semantic dissimilarity axis. This formulation reveals a highly consistent monotonic decline in recognition accuracy across 35 models spanning convolutional neural networks, Vision Transformers, and vision-language models. Internal analyses of Vision Transformers reveal patterns consistent with aggregation failure, where object evidence is present at the patch level but not consolidated into the final prediction. Using this characterizati"
-  },
-  {
-   "title": "StaleBench: Isolating Stale Retrieval in Agent Memory, and Pricing the Fix",
-   "link": "https://arxiv.org/abs/2611.19752",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19752v1 Announce Type: cross Abstract: An agent that stores facts over time eventually stores several versions of the same fact. Asked a value-agnostic question - \"which team does X play for now?\" - a similarity retriever cannot prefer the current version, because every version matches the entity the query names. StaleBench isolates this stale-retrieval failure on 892 real updating facts, with currency labels from the source (Wikidata validity years via TempLAMA), never from a retrieval score. Our central result is that retrieval metrics can rank memory policies backwards: a retention policy and its retain-everything control return the identical statement at rank 1 for every test query, yet differ by 29.5 and 65.6 points in reader accuracy on two readers when no date is shown. C"
-  },
-  {
-   "title": "Learning Autoregressive Neural Operators on Solver-Defined Physical Constraint Manifolds",
-   "link": "https://arxiv.org/abs/2611.19753",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19753v1 Announce Type: cross Abstract: Autoregressive neural operators approximate time-dependent PDE solvers by repeatedly composing a learned transition, although the resulting states need not remain feasible under the discrete constraints of the numerical problem. We study this issue for incompressible flow, where each velocity state must satisfy solver-level incompressibility together with prescribed boundary values. We formulate autoregressive operator learning as a map between solver-defined affine feasible sets and introduce PCM-NO, a projected-residual realization of this feasible-transition principle. The neural backbone predicts a candidate state increment, a fixed tangent projection extracts its admissible component, and a metric retraction maps the advanced state to "
-  },
-  {
-   "title": "Eliciting Research Taste in LLMs through Future Research Direction Choice",
-   "link": "https://arxiv.org/abs/2611.19794",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19794v1 Announce Type: cross Abstract: Research taste is increasingly discussed in the context of AI scientists, yet remains little studied or measured in LLMs. This judgment matters especially in open-ended research, where a direction must be chosen before a verifiable objective is available. We operationalize research taste through one task of the scientific workflow: choosing which future research direction to pursue given a research goal and current results. Rather than predicting downstream scientometric metrics or treating author choices as objectively correct, we evaluate models against human-authored future-work directions and report author alignment, stable divergence, and unstable choice as behavioral measures of research-direction preference. We construct an order-con"
-  },
-  {
-   "title": "Reasoning in the loop: antibody lead optimization by probing mechanism and measurement",
-   "link": "https://arxiv.org/abs/2611.19812",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19812v1 Announce Type: cross Abstract: Lab-in-the-loop systems, in which a model proposes molecules, automated assays measure their properties and the results retrain the model, are a popular approach to antibody lead optimization. These systems optimize for a specification defined with metrics computed from instrument signals, so their success depends on how well those metrics serve as proxies for the properties a drug candidate needs. When a metric is a poor proxy, neither a better model nor more data will fix it, and identifying the problem usually requires expert review. We report two campaigns run on BigHat Biosciences' Milliner platform, one on an anti-albumin nanobody (VHH) and one on an anti-mesothelin single-chain variable fragment (scFv), in which a research team and a"
-  },
-  {
-   "title": "GraphPass: A Study of Graph Neural Networks for Compiler Pass Selection",
-   "link": "https://arxiv.org/abs/2611.19821",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19821v1 Announce Type: cross Abstract: Compiler pass selection is usually governed by fixed pipelines (-O2, -O3) or hand-written heuristics. We study whether a graph neural network (GNN) over a program's control-flow graph (CFG) can select among a fixed menu of five pass sequences in a single forward pass. GraphPass encodes each CFG with a graph attention (GAT) or graph convolutional (GCN) encoder and classifies it into one of the five sequences. On a synthetic benchmark of 5,000 generated CFGs in five program families, both encoders agree with the benchmark's reference label on about 92% of held-out programs, versus 68.4% for a hand-written rule-based heuristic and 85% for a flat MLP. An edge ablation indicates that this gain comes from per-block processing rather than from CFG"
-  },
-  {
-   "title": "The Flip Test: Video World Models Fail to Learn the World State",
-   "link": "https://arxiv.org/abs/2611.19822",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19822v1 Announce Type: cross Abstract: Video world models promise to predict the future of a scene from its present. Do current models keep this promise? We probe this question counterfactually. When a small change to the present flips the future, such as a box resting a few millimeters before or past a table edge, a model that tracks the state of the world must flip its prediction too. We build FlipTest, a three-level hierarchy of increasingly strict tests over 1,680 initial frames from 10 simulated and 15 real-world tasks. At the base, visual minimal pairs, two nearly identical frames whose true futures differ, test whether predictions change across the boundary; matched controls go further and test whether they change only where the future does; and dense sweeps, the strictes"
-  },
-  {
-   "title": "EfficientSkill: Learning Skills for Token-Efficient Multi-Turn Agents",
-   "link": "https://arxiv.org/abs/2611.19823",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19823v1 Announce Type: cross Abstract: Reflective skill optimizers improve multi-turn LLM agents by revising instructions from failed and successful rollouts, yet accumulating edge-case rules bloats prompts, inflates token use, and pushes agents into long, error-prone loops. We introduce EfficientSkill, a two-step framework that first discovers a reliable skill without token penalties, and then warm-starts accuracy-guarded pruning from that skill to compress instructions, bound agent turns, and offload reusable code into workspace utilities with zero implementation prompt cost. Across four frontier, mid-tier, and open-weight models on MATH-500, ALFWorld, and SpreadsheetBench, EfficientSkill cuts output tokens over unconstrained EvoSkill on 11 of 12 configurations (by up to 80%) "
-  },
-  {
-   "title": "Bridging the Terminology Gap: A Data-Centric Alignment Framework for Multilingual Translation in Cross-Border Corporation",
-   "link": "https://arxiv.org/abs/2611.19858",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19858v1 Announce Type: cross Abstract: As globalization accelerates the demand for seamless cross-border enterprise collaboration, multilingual translation remains bottlenecked by insufficient domain-specific terminology, rigid terminology translation, weak instruction-following capabilities, and high inference latency in long-instruction scenarios. To overcome these barriers, we propose Bridging the Terminology Gap (BTG), a data-centric framework. First, BTG mines cross-lingual term alignments from domain documents and leverages LLMs to synthesize terminology-rich parallel corpora. Second, a hybrid filtering strategy combining heuristics and XCOMET scoring ensures high data fidelity. Third, a two-stage training paradigm employs supervised fine-tuning (SFT) for targeted terminol"
-  },
-  {
-   "title": "Local Order Matters: A Lightweight CPU-Trainable CNN for Website Fingerprinting on Defended Tor Traffic",
-   "link": "https://arxiv.org/abs/2611.19864",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19864v1 Announce Type: cross Abstract: Website fingerprinting (WF) attacks let a passive adversary infer which site a Tor user visits from the encrypted cell sequence. On undefended traffic, hand-crafted-feature attacks are already near-ceiling, so deep learning offers only a marginal advantage there. We show that the decisive regime is defended traffic: against the FRONT padding defense, which injects dummy cells that corrupt the volume and count features feature attacks rely on, a compact 95,103-parameter 1-D convolutional network trained on the raw cell-direction sequence, on CPU only, stays robust while three implemented direction-only feature baselines degrade. On the closed-world WFlib FRONT set (95 sites), our model reaches 54.2% top-1 accuracy versus 38.5% for the strong"
-  },
-  {
-   "title": "HalluProbe: Exploiting VLM Hallucinations for Backdoor Detection",
-   "link": "https://arxiv.org/abs/2611.19868",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19868v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) are vulnerable to backdoor attacks introduced through data poisoning, making effective backdoor detection a critical security challenge. In this paper, we uncover a novel connection between VLM hallucinations and backdoor behaviors and exploit this connection for backdoor detection. Our key insight is that poisoned training data induces strong language priors toward the backdoor target token, while such priors are also a major source of hallucinations. This suggests that enhancing hallucinations can expose hidden backdoor-related priors. Specifically, backdoored VLMs tend to hallucinate backdoor target tokens more frequently across diverse inputs, while the hallucinated tokens of clean VLMs are largely random a"
-  },
-  {
-   "title": "Let Execution Do the Teaching",
-   "link": "https://arxiv.org/abs/2611.19875",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19875v1 Announce Type: cross Abstract: Improving a coding model is a sequence of decisions: find the limiting behavior, create useful practice, and determine which attempts deserve reinforcement. We investigate a practical way to make those decisions increasingly repeatable by grounding feedback in execution. Starting from GLM-4.7-Flash, the work combines whole-file supervised fine-tuning, targeted C++ repair curricula, group-relative reinforcement learning, and verifiers that turn program behavior into structured rewards. Compiler errors and failing tests provide specific contexts for repair practice, while executable checks score the resulting programs. We evaluate the trained models on 26 C++ coding tasks, measuring both initial success and completion after test feedback. The"
-  },
-  {
-   "title": "Large Language Model-based Optimization for Wireless Communication: A Survey",
-   "link": "https://arxiv.org/abs/2611.19876",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19876v1 Announce Type: cross Abstract: The growing complexity and dynamism of modern wireless communication frameworks have made real-time optimization essential for efficient resource allocation. Traditional optimization and machine-learning techniques often struggle with generalization, adaptability, stability, and scalability in heterogeneous, time-varying environments. Large language models (LLMs) have recently emerged as powerful tools capable of reasoning over structured prompts and generating context-aware decisions in real time without domain-specific retraining. This survey provides a comprehensive review of LLM-driven optimization techniques applied to wireless communication problems such as power control, bandwidth allocation, task offloading, and intelligent surface "
-  },
-  {
-   "title": "Recovery Gone Too Far: Understanding and Repairing Risky Fallback in LLM Agents",
-   "link": "https://arxiv.org/abs/2611.19886",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19886v1 Announce Type: cross Abstract: Large Language Model (LLM) agents interact with their environments through tools, reading repositories, running builds, and pushing code. When a tool fails with an ordinary error, such as a rate limit or a timeout, the agent can fall back to a substitute tool and still complete the task. However, the same fallback that completes a task in one environment can cross an action boundary in another. For example, after a push is rejected, a forced push in one repository replaces only the agent's own commits, while in a different repository it also removes another author's commits. We call such a fallback a risky fallback. To understand this phenomenon, we conduct an empirical study on 304 scenarios that span eight domains and cover 55 real CVEs. "
-  },
-  {
-   "title": "Remember, Replay, Adapt: Learning from Past Experience in Online Vision-and-Language Navigation",
-   "link": "https://arxiv.org/abs/2611.19901",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19901v1 Announce Type: cross Abstract: Existing feedback-based methods for online vision-and-language navigation (VLN) primarily learn from current episode outcomes, leaving previously acquired feedback underutilized. Inspired by human episodic memory, we propose R2A, an online VLN adaptation framework that continually reuses successful and failed navigation experiences for policy learning. Specifically, Success-Failure Memory (SFM) retains successful and failed navigation episodes with acquired feedback and retrieves task-relevant experiences based on incoming instructions, enabling historical feedback to guide subsequent navigation. Prior-Anchored Adaptation (PAA) learns from these experiences by reinforcing successful trajectories and suppressing failed ones relative to a fro"
-  },
-  {
-   "title": "AgenticJevNav: Agentic Object Search and Navigation via Event-Driven Verification",
-   "link": "https://arxiv.org/abs/2611.19912",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19912v1 Announce Type: cross Abstract: Agentic navigation must maintain goals and adapt actions from incomplete evidence despite execution failures and delayed inference. We present AgenticJevNav, which links goal-directed planning, evidence memory, event-triggered verification, and bounded execution. The Agent plans from RGB, odometry, memory, and feedback, retaining goal ownership while authorizing a bounded action set. Jev reviews structured evidence after blocked/failed execution or two consecutive low-progress segments. Version, freshness, and once-only checks govern decision application. A single executor and independent RGB reflex constrain motion. Goal revisions revoke obsolete requests and actions before replanning. Across six simulated task families, AgenticJevNav achi"
-  },
-  {
-   "title": "The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use",
-   "link": "https://arxiv.org/abs/2611.19913",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19913v1 Announce Type: cross Abstract: Open large language models (LLMs) and speech models ship vocabularies of up to 262k tokens, and every user downloads the tables those tokens index (the input embedding, an untied output head and, in recent on-device models, per-layer embeddings), whatever languages they need. We call the bytes in rows a deployment never uses the vocabulary tax and measure it, without downloading weights, for 1,244 generative and speech-recognition models on the Hugging Face Hub. For a Thai and English deployment it is a median 4.4% of model bytes below 0.5B parameters and 2.1% above 8B, and 1.93 GB in Gemma 4 E2B: it falls hardest on the small models that edge devices run. Keeping only the rows of the deployment's writing systems is exact. Keeping the token"
-  },
-  {
-   "title": "Learning When to Continue and When to Stop: Termination-Aware OPSD",
-   "link": "https://arxiv.org/abs/2611.19925",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19925v1 Announce Type: cross Abstract: On-Policy Self-Distillation (OPSD) improves language model reasoning by distilling from a frozen teacher initialized identically to the student and conditioned on privileged information. However, we identify an underexplored termination mismatch in OPSD: the student fails to reliably learn when to continue and when to stop. This mismatch manifests in two opposing failure modes-premature termination, where reasoning stops before sufficient progress is made, and repetition-driven over-generation, where the model continues generating after reasoning has stalled. Our analysis shows that the teacher-student discrepancy on EOS grows during OPSD training, while length-capped trajectories are frequently dominated by unproductive repetition. To addr"
-  },
-  {
-   "title": "Equal Dose, Different Coverage:Tracing Rate and Duration in Image Editing",
-   "link": "https://arxiv.org/abs/2611.19955",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19955v1 Announce Type: cross Abstract: Benchmarks for scientific image editing test whether a model draws the outcome of a described process, leaving open which representations carry its errors and whether correcting them yields the right quantity. We study this question with an airbrush of fixed deposition profile, under which exchanging rate and duration preserves the dose and should preserve the endpoint, yet changes the edited coverage. Matched-norm activation patches across text positions and denoising stages show that, in distilled FLUX with Chinese prompts, representations at unchanged text positions (context) carry this discrepancy: early context transfers 3.51 of the 3.98 percentage-point (pp) signed route difference, against 0.09 pp for equal-norm updates at the two ch"
-  },
-  {
-   "title": "Value and Policy Calibration from Execution Feedback for Socially Compatible Driving",
-   "link": "https://arxiv.org/abs/2611.19969",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19969v1 Announce Type: cross Abstract: Autonomous vehicle (AV) decisions at intersections affect the delay, braking, and motion smoothness of surrounding human-driven vehicles (HDVs). Learning socially compatible behavior requires connecting imagined interaction outcomes with feedback from executed actions. We propose a world-model reinforcement learning framework combines imagined policy improvement with direct value and policy calibration from finalized interactions, balancing AV progress with HDV interaction burden. An interaction-aware latent model supports imagination, while off-policy correction and replay updates enable observed rewards and transitions to supervise both the critic and actor. Simulation experiments at an unsignalized intersection achieve a 100% success and"
-  },
-  {
-   "title": "Federated Dataset Simulation: Inducing Label-Free Heterogeneity Across Tasks",
-   "link": "https://arxiv.org/abs/2611.19975",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19975v1 Announce Type: cross Abstract: Federated Learning enables collaborative model training across decentralized clients without sharing raw data. While the field has seen rapid growth, the datasets underpinning FL evaluation have not kept pace: real federated datasets remain scarce, and most studies rely on small-scale centralized classification datasets partitioned via Dirichlet label skew, a one-dimensional proxy for the multi-dimensional heterogeneity present in real federations. Moreover, label-based partitioning is by construction inapplicable to non-classification tasks such as segmentation and detection, for which no principled simulation method exists. We cast the conversion of centralized datasets into federated benchmarks as the task of Federated Dataset Simulation"
-  },
-  {
-   "title": "CreaTrace: Video Creative Plagiarism Detection and Evidence Tracing",
-   "link": "https://arxiv.org/abs/2611.19976",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19976v1 Announce Type: cross Abstract: Video creative plagiarism refers to the unauthorized reproduction of creative ideas across videos despite substantial differences in visual appearance, posing a new challenge to video copyright protection. However, existing video copy detection methods primarily focus on visual content similarity, struggling to capture abstract creative that are entangled with specific visual realizations. To address this issue, we introduce a novel task, named Video Creative Plagiarism Detection (VCPD), and propose an iterative creative evidence tracing framework, termed CreaTrace, to verify creative similarity and accurately localize the corresponding evidence segments. Specifically, we design a Multimodal Semantic Event Segmentation strategy to divide si"
-  },
-  {
-   "title": "Morphology-Decoupled Segmentation for Multiple Tunnel Defects Under Complex Environments",
-   "link": "https://arxiv.org/abs/2611.19981",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19981v1 Announce Type: cross Abstract: Automated tunnel-lining inspection must segment different defect geometries: cracks are thin, elongated, and connectivity-sensitive, whereas leakage, lining falling off, and segment damage are spatially extensive and context-dependent. Existing approaches generally apply a common decoder across defect classes or introduce boundary, topology, and directional mechanisms as isolated enhancements. This paper introduces Morphology-Decoupled Segmentation (MDS), in which defect morphology becomes the organising principle for feature routing, decoding, and interaction. A supervised routing module partitions multiscale encoder features into complementary linear and areal streams. The linear stream employs Deformable Strip Attention with image-condit"
-  },
-  {
-   "title": "What Matters for Cross-Modal Alignment",
-   "link": "https://arxiv.org/abs/2611.20000",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.20000v1 Announce Type: cross Abstract: The Platonic Representation Hypothesis posits that models trained on different modalities converge toward a shared representation. Related work aligns frozen image and text encoders on natural images without paired data. We test zero-pair alignment on five datasets across four modalities: natural images, environmental audio, chest radiographs, and 3D computed tomography (CT). It succeeds only on COCO and fails on the other four. We analyze the failures and find that alignment must first locate the subspace where the modalities co-vary and then orient the mapping within it. Consistent with previous studies, medical imaging is the hardest case: its shared subspace carries the smallest fraction of the variance. When this fraction is small, ali"
-  },
-  {
-   "title": "The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)",
-   "link": "https://arxiv.org/abs/2611.20003",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.20003v1 Announce Type: cross Abstract: In 2025 alone, 48 new large language model (LLM) architectures were added to the Hugging Face transformers library, and many of them arrive with a technical report that presents the model as new. What is actually new in these models, and is it tested? We put this question to LLM technical reports. We look at three things: what the reference code shows about how new open-weight architectures differ from earlier ones; what 40 randomly sampled technical reports claim as new and whether they support it with ablation studies; and what they disclose for reproducibility and transparency. In the library, 39 of the 48 architectures added in 2025 take at least two of their three core blocks from another model, most often Llama, although part of this "
-  },
-  {
-   "title": "ReactBench-AD: Do Driving VLAs and World-Action Models React to Imminent Hazards in Their Path?",
-   "link": "https://arxiv.org/abs/2611.20011",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.20011v1 Announce Type: cross Abstract: Vision-Language-Action models (VLAs) and World-Action Models (WAMs) have emerged in autonomous driving with the promise of strong generalization to long-tail scenarios. Although these models achieve state-of-the-art results on autonomous driving benchmarks, most existing benchmarks are dominated by nominal scenarios and therefore cannot test this promise. To test one such long-tail capability that is critical for safety, we introduce ReactBench-AD, a benchmark that measures how driving models react to objects that appear in the ego vehicle's path. Built on real NAVSIM and PhysicalAI-Autonomous-Vehicles scenes, ReactBench-AD composites a crossing pedestrian, a standing pedestrian, or a stationary car consistently across all camera views and "
-  },
-  {
-   "title": "D'BEAST: Logged Bad Experiences as Explanation for Autonomous Driving Agents",
-   "link": "https://arxiv.org/abs/2611.20019",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.20019v1 Announce Type: cross Abstract: Reinforcement learning agents learn from mistakes, yet their decisions can be difficult to trace back to those experiences. We investigate whether a tabular agent's decisions can be explained by its bad experiences, defined as the training transitions associated with safety or task events. A fixed training log is replayed from the same initial Q-table under three conditions. FULL retains all updates, SKIP omits bad-experience updates, and NEUTRALIZE retains those updates without their event penalties. We illustrate the method on six classic Markov decision processes and evaluate it in closed-loop driving in CARLA. On the full driving task, FULL reached the goal from 33 of 40 test starts, whereas SKIP and NEUTRALIZE reached it from none, ind"
-  },
-  {
-   "title": "Improving fine-grained expressivity of graph neural networks",
-   "link": "https://arxiv.org/abs/2611.20020",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.20020v1 Announce Type: cross Abstract: This thesis investigates the expressive power of neural networks for structured data, focusing on graph neural networks and symmetry-aware architectures. We present four main contributions. First, we characterize the generic expressive power of geometric message-passing neural networks on sparse graphs and introduce EGenNet, an architecture achieving the corresponding guarantees. Second, we use representation theory to characterize linear layers equivariant to multiple permutations, including wreath-product symmetries. Third, we study permutation-invariant set representations that preserve containment, establish dimensional bounds and impossibility results, and introduce MASNet. Finally, we propose FSW-GNN, a message-passing architecture co"
   }
  ]
 }

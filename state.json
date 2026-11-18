@@ -1,21 +1,5 @@
 {
  "stories": {
-  "scdf34d438f": {
-   "id": "scdf34d438f",
-   "title": "Where was Nvidia’s security team?",
-   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-15T00:08:07+00:00",
-   "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-   "related": [],
-   "summary": "Nvidia's security chief quietly left in August, and CEO Jensen Huang has reportedly stepped down over relationships, including one with an executive at a company suspected of funneling chips to China.",
-   "why": "It highlights insider and conversational leak risks that corporate security teams often miss, a lesson for any firm handling sensitive technology.",
-   "topics": [
-    "Enterprise",
-    "Safety"
-   ]
-  },
   "s4c525e5e54": {
    "id": "s4c525e5e54",
    "title": "An overview of Jensen Huang’s messy days",
@@ -10975,10 +10959,147 @@
     "Agents",
     "Infrastructure"
    ]
+  },
+  "sb8930a9a56": {
+   "id": "sb8930a9a56",
+   "title": "Not Everything Needs an LLM",
+   "link": "https://newsletter.posthog.com/p/decision-models",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-17T18:16:18+00:00",
+   "description": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 117 # Comments: 46",
+   "related": [],
+   "summary": "A PostHog newsletter argues that not every problem needs an LLM, advocating decision models for some tasks.",
+   "why": "Reminds engineers to weigh simpler decision models against LLMs for cost, latency, and reliability.",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s6e090bb95c": {
+   "id": "s6e090bb95c",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-17T21:16:12+00:00",
+   "description": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 92 # Comments: 152",
+   "related": [],
+   "summary": "Harvard researchers report that AI coding agents have shifted the development bottleneck to code review.",
+   "why": "Suggests teams adopting coding agents may need to invest in review capacity and processes rather than just code generation.",
+   "topics": [
+    "Research",
+    "Agents"
+   ]
+  },
+  "s8f07365d37": {
+   "id": "s8f07365d37",
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T23:04:35+00:00",
+   "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+   "related": [],
+   "summary": "Nvidia's interim CEO reaffirmed the company's open source AI strategy and said it plans to acquire Hugging Face after Jensen Huang's exit.",
+   "why": "A planned Hugging Face acquisition would put a major open model hub under Nvidia, which matters for teams relying on open model distribution.",
+   "topics": [
+    "Open source",
+    "Funding"
+   ]
+  },
+  "s206b86c970": {
+   "id": "s206b86c970",
+   "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+   "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T23:33:26+00:00",
+   "description": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for distributed inference, with multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery. Serve large models across many nodes without building the orchestration layer yourself.",
+   "related": [],
+   "summary": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo, adding multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery.",
+   "why": "Lets teams serve large models across many nodes on managed infrastructure without building their own orchestration layer.",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ]
+  },
+  "s8239fbdc62": {
+   "id": "s8239fbdc62",
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T23:37:48+00:00",
+   "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+   "related": [],
+   "summary": "Nvidia's interim CEO said the company will stop selling chips to China following Jensen Huang's ouster.",
+   "why": "Removing a major market could tighten GPU supply dynamics and change pricing and availability for teams relying on Nvidia hardware.",
+   "topics": [
+    "Infrastructure"
+   ]
+  },
+  "s19bce111d0": {
+   "id": "s19bce111d0",
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-17T23:41:18+00:00",
+   "description": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
+   "related": [],
+   "summary": "Microsoft CEO Satya Nadella says he is 'AGI-pilled', focusing on how AI could reshape economic structure and politics.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s9f7286d0bf": {
+   "id": "s9f7286d0bf",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T00:16:50+00:00",
+   "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "related": [],
+   "summary": "Nvidia projected that its streak of record-breaking revenue will continue despite turmoil after founder and CEO Jensen Huang's departure.",
+   "why": "Indicates Nvidia's near-term revenue outlook remains strong despite leadership upheaval, relevant for suppliers and customers planning around its hardware.",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s695d1f9a1c": {
+   "id": "s695d1f9a1c",
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "link": "https://revscope.co/blog/search-seo-geo-2026/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-18T00:17:58+00:00",
+   "description": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 182 # Comments: 127",
+   "related": [],
+   "summary": "A Hacker News post links to a blog claiming Google's AI answers have cut search traffic by 40%.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "sbc1083d540": {
+   "id": "sbc1083d540",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T01:44:21+00:00",
+   "description": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "related": [],
+   "summary": "Nvidia's private investment stakes have nearly tripled in nine months to about $65B, driven by Jensen Huang's dealmaking and rising portfolio valuations, but future deals are uncertain after his exit.",
+   "why": "Signals that Nvidia's investment pipeline, a major force in AI funding, may slow under new leadership, affecting startups that depend on its capital.",
+   "topics": [
+    "Funding"
+   ]
   }
  },
  "seen": {
-  "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team": "scdf34d438f",
   "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation": "s4c525e5e54",
   "https://jakub.jankiewicz.org/blog/ai-code-open-source": "sde1b04aef2",
   "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": "s1207b5c1c7",
@@ -11685,6 +11806,15 @@
   "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo": "sb397f013e7",
   "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites": "se76baf1a12",
   "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo": "se0185595ee",
-  "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads": "s2c0a64e08e"
+  "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads": "s2c0a64e08e",
+  "https://newsletter.posthog.com/p/decision-models": "sb8930a9a56",
+  "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review": "s6e090bb95c",
+  "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit": "s8f07365d37",
+  "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference": "s206b86c970",
+  "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster": "s8239fbdc62",
+  "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now": "s19bce111d0",
+  "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now": "s9f7286d0bf",
+  "https://revscope.co/blog/search-seo-geo-2026": "s695d1f9a1c",
+  "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt": "sbc1083d540"
  }
 }

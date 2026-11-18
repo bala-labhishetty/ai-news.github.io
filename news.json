@@ -1,7 +1,107 @@
 {
- "updated": "2026-11-17T22:55:56.837251+00:00",
+ "updated": "2026-11-18T04:27:36.899255+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sbc1083d540",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch",
+   "published": "2026-11-18T01:44:21+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "Nvidia's private investment stakes have nearly tripled in nine months to about $65B, driven by Jensen Huang's dealmaking and rising portfolio valuations, but future deals are uncertain after his exit.",
+   "why": "Signals that Nvidia's investment pipeline, a major force in AI funding, may slow under new leadership, affecting startups that depend on its capital.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s695d1f9a1c",
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "link": "https://revscope.co/blog/search-seo-geo-2026/",
+   "source": "Hacker News",
+   "published": "2026-11-18T00:17:58+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A Hacker News post links to a blog claiming Google's AI answers have cut search traffic by 40%.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s9f7286d0bf",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "source": "TechCrunch",
+   "published": "2026-11-18T00:16:50+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Nvidia projected that its streak of record-breaking revenue will continue despite turmoil after founder and CEO Jensen Huang's departure.",
+   "why": "Indicates Nvidia's near-term revenue outlook remains strong despite leadership upheaval, relevant for suppliers and customers planning around its hardware.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s19bce111d0",
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "source": "The Verge",
+   "published": "2026-11-17T23:41:18+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "Microsoft CEO Satya Nadella says he is 'AGI-pilled', focusing on how AI could reshape economic structure and politics.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s8239fbdc62",
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "source": "TechCrunch",
+   "published": "2026-11-17T23:37:48+00:00",
+   "topics": [
+    "Infrastructure"
+   ],
+   "summary": "Nvidia's interim CEO said the company will stop selling chips to China following Jensen Huang's ouster.",
+   "why": "Removing a major market could tighten GPU supply dynamics and change pricing and availability for teams relying on Nvidia hardware.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s206b86c970",
+   "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+   "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-17T23:33:26+00:00",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ],
+   "summary": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo, adding multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery.",
+   "why": "Lets teams serve large models across many nodes on managed infrastructure without building their own orchestration layer.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s8f07365d37",
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "published": "2026-11-17T23:04:35+00:00",
+   "topics": [
+    "Open source",
+    "Funding"
+   ],
+   "summary": "Nvidia's interim CEO reaffirmed the company's open source AI strategy and said it plans to acquire Hugging Face after Jensen Huang's exit.",
+   "why": "A planned Hugging Face acquisition would put a major open model hub under Nvidia, which matters for teams relying on open model distribution.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "s2c0a64e08e",
    "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
@@ -59,7 +159,7 @@
    "summary": "The SEC is reportedly opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy.",
    "why": "Leadership turmoil and regulatory scrutiny at Nvidia, the dominant AI chip supplier, could affect supply, partnerships, and planning for AI infrastructure buyers.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s7465bbc4c9",
@@ -87,6 +187,21 @@
    ],
    "summary": "Google publicly stated that Gmail is working normally amid a broader wave of tech outages.",
    "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s6e090bb95c",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "source": "Hacker News",
+   "published": "2026-11-17T21:16:12+00:00",
+   "topics": [
+    "Research",
+    "Agents"
+   ],
+   "summary": "Harvard researchers report that AI coding agents have shifted the development bottleneck to code review.",
+   "why": "Suggests teams adopting coding agents may need to invest in review capacity and processes rather than just code generation.",
    "related": [],
    "top": false
   },
@@ -226,7 +341,7 @@
      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
     }
    ],
-   "top": false
+   "top": true
   },
   {
    "id": "sdfdee5b6b2",
@@ -256,6 +371,20 @@
    ],
    "summary": "Google is extending Gemini chat retention from 72 hours to 2 months, even when chat history is off, with a global rollout over coming weeks.",
    "why": "Longer retention of chats with history off changes data handling and privacy assumptions for teams using Gemini.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sb8930a9a56",
+   "title": "Not Everything Needs an LLM",
+   "link": "https://newsletter.posthog.com/p/decision-models",
+   "source": "Hacker News",
+   "published": "2026-11-17T18:16:18+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A PostHog newsletter argues that not every problem needs an LLM, advocating decision models for some tasks.",
+   "why": "Reminds engineers to weigh simpler decision models against LLMs for cost, latency, and reliability.",
    "related": [],
    "top": false
   },
@@ -499,7 +628,7 @@
    "summary": "Isomorphic Labs, spun out of Google DeepMind in 2021, raised $5 billion in a Series C to move drug candidates into clinical trials.",
    "why": "Signals large capital flowing into AI-driven drug discovery as candidates approach clinical testing.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "sa127bdd6be",
@@ -556,7 +685,7 @@
    "summary": "Nvidia formed a new board-level standing committee to oversee national security policies, export control compliance, and global trade risks, following Jensen Huang's exit.",
    "why": "Export control and trade compliance oversight at Nvidia may affect chip availability and regulatory exposure for companies relying on its hardware.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s82a0f3f376",
@@ -10263,21 +10392,6 @@
    ],
    "summary": "The Verge's weekly Stepback newsletter gives an overview of Jensen Huang's resignation and the leadership crisis at Nvidia.",
    "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "scdf34d438f",
-   "title": "Where was Nvidia’s security team?",
-   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "source": "TechCrunch",
-   "published": "2026-11-15T00:08:07+00:00",
-   "topics": [
-    "Enterprise",
-    "Safety"
-   ],
-   "summary": "Nvidia's security chief quietly left in August, and CEO Jensen Huang has reportedly stepped down over relationships, including one with an executive at a company suspected of funneling chips to China.",
-   "why": "It highlights insider and conversational leak risks that corporate security teams often miss, a lesson for any firm handling sensitive technology.",
    "related": [],
    "top": false
   }

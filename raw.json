@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-17T22:55:32.020304+00:00",
+ "updated": "2026-11-18T04:27:29.159421+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T01:44:21+00:00",
+   "description": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+  },
+  {
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "link": "https://revscope.co/blog/search-seo-geo-2026/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-18T00:17:58+00:00",
+   "description": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 182 # Comments: 127"
+  },
+  {
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T00:16:50+00:00",
+   "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+  },
+  {
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-17T23:41:18+00:00",
+   "description": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]"
+  },
+  {
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T23:37:48+00:00",
+   "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+  },
+  {
+   "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+   "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-17T23:33:26+00:00",
+   "description": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for distributed inference, with multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery. Serve large models across many nodes without building the orchestration layer yourself."
+  },
+  {
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-17T23:04:35+00:00",
+   "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+  },
   {
    "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
    "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
@@ -57,6 +113,14 @@
    "category": "Industry",
    "published": "2026-11-17T21:34:50+00:00",
    "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
+  },
+  {
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-17T21:16:12+00:00",
+   "description": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 92 # Comments: 152"
   },
   {
    "title": "Cut generative AI costs: Code for rules, models for judgment",
@@ -153,6 +217,14 @@
    "category": "Industry",
    "published": "2026-11-17T18:48:23+00:00",
    "description": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+  },
+  {
+   "title": "Not Everything Needs an LLM",
+   "link": "https://newsletter.posthog.com/p/decision-models",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-17T18:16:18+00:00",
+   "description": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 117 # Comments: 46"
   },
   {
    "title": "As decision model use skyrockets, is customization the next frontier?",
@@ -312,15 +384,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-17T14:19:59+00:00",
-   "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 182 # Comments: 238"
-  },
-  {
-   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-   "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-17T14:05:30+00:00",
-   "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
+   "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 186 # Comments: 244"
   },
   {
    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -337,14 +401,6 @@
    "category": "AI Labs",
    "published": "2026-11-17T14:00:10+00:00",
    "description": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]"
-  },
-  {
-   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-17T14:00:00+00:00",
-   "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
   },
   {
    "title": "Introducing ChatGPT for Sales",
@@ -2345,62 +2401,6 @@
    "category": "Research",
    "published": "2026-11-17T05:00:00+00:00",
    "description": "arXiv:2611.19569v1 Announce Type: cross Abstract: Large language models (LLMs) have proven promising for synthesising loop invariants, a long-standing obstacle to automated program verification. Yet, frontier LLMs are typically accessible only through third-party APIs, hampering reproducibility and local deployment. Small language models (SLMs) sidestep these obstacles but require task-specific fine-tuning, for which high-quality training data is needed. We present a failure-driven data curation method for fine-tuning language models to synthesise loop invariants. Inspired by mutation testing, our approach applies semantic mutation operators to ground-truth invariants, producing semantic mutants that induce verification failure. Each mutant is paired with verifier feedback and its ground-t"
-  },
-  {
-   "title": "Spectral Steering: Local Inverse Geometry for Frozen Diffusion Generators",
-   "link": "https://arxiv.org/abs/2611.19572",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19572v1 Announce Type: cross Abstract: A frozen diffusion generator may need to change several output properties while preserving others. We study when guidance faithfully realizes such a structured request and whether local inverse correction improves its direction. Our account links this benefit to the interaction between the request and the objective-specific remaining-sampler Jacobian: conditioning alone is insufficient. Spectral steering combines a request-specific cosine-gain predictor with damped inverse correction and fixed-time relinearization for finite edits. Scalar nulls and matched-movement controls test the predicted mechanism. Across 8,923 instances in a retrospectively identified local regime, predicted and realized gains correlate at Spearman 0.79, versus -0.11 "
-  },
-  {
-   "title": "Risk-Averse Decision-Focused Learning: Minimizing CVaR of Regret",
-   "link": "https://arxiv.org/abs/2611.19575",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19575v1 Announce Type: cross Abstract: Many combinatorial optimization (CO) problems involve parameters that are uncertain when the problem must be solved. In such settings, the parameters have to be predicted from correlated contextual information before a solution can be computed. \\emph{Decision-focused learning} (DFL) addresses this by training the predictive model to produce predictions that optimize downstream decision quality. Most existing DFL methods are risk-neutral and minimize the expected regret. In high-stakes applications this can lead to undesirable outcomes, because decision-makers must also account for the tail risk of decision quality. Prior risk-sensitive approaches typically model uncertainty explicitly and solve a stochastic or robust optimization problem at"
-  },
-  {
-   "title": "PBit1: One Programmable P-Bit per Parameter - A Finite-Control Representation of Pretrained Networks",
-   "link": "https://arxiv.org/abs/2611.19588",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19588v1 Announce Type: cross Abstract: We introduce PBit1, a finite-control representation of pretrained neural networks that assigns one programmable p-bit to each learned parameter. A 12-bit command sets its probability, a shared affine range maps that probability to the weight domain, and temporal observations reconstruct the weight for inference. Operator-aware range grouping and sensitivity-based sampling allocation adapt the representation to the network. Across five independent weight draws at 32,768 observations per scalar, selected configurations preserve task quality in GPT-2, DistilBERT, and LFM3-1.7B with every learned scalar converted and no fine-tuning. GPT-2 and LFM3 perplexity increase by approximately 0.66% and 0.26%, respectively, while DistilBERT accuracy chan"
-  },
-  {
-   "title": "Synthetic Neurosymbolic Task Generation with Controlled Constraint Complexity",
-   "link": "https://arxiv.org/abs/2611.19597",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19597v1 Announce Type: cross Abstract: We introduce NeSySy, a synthetic generator for neurosymbolic learning tasks that jointly produces logical constraints and consistent datasets. Unlike existing benchmarks, NeSySy provides fine-grained control over key properties such as constraint structure, tightness, input dependence, and data generation and alignment strategies. In particular, it allows the use of rich constraints over infinite domains, and uses solvers to ensure that the constraints are meaningful and that generated samples satisfy the constraints. We design NeSySy to support both learning with declarative constraints and learning from distant supervision. Across a range of constraint families, we provide evidence that its parameters induce systematic and largely indepen"
-  },
-  {
-   "title": "Well-Log Reconstruction with Pre-trained Geological Knowledge: A Knowledge-Conditioned Large-Language-Model Generative Agent",
-   "link": "https://arxiv.org/abs/2611.19624",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19624v1 Announce Type: cross Abstract: Missing well-log intervals make subsurface reconstruction ill-posed. Existing numerical regression models lack geological prior knowledge to constrain ambiguous inverse mappings. We propose GeoLog-Agent, a knowledge-conditioned generative agent using pre-trained large language models (LLMs) as a source of geological priors. A universal Geo-Harness translates LLM stratigraphic reasoning into formation-anchored petrophysical trajectories, feature-wise linear modulation, and conditional adversarial constraints. On the Norwegian North Sea benchmark, GeoLog-Agent achieves a mean $R^2$ of 0.9307 and a peak $R^2$ of 0.9713. It exceeds the nine-baseline average $R^2$ of 0.8387 by 0.0920, with a 30.97% average RMSE reduction, and exceeds the stronge"
-  },
-  {
-   "title": "Robust Well-Log Reconstruction Across Point Gaps and Whole Wells via Boundary-Gated Soft-Thresholding Kalman Fusion",
-   "link": "https://arxiv.org/abs/2611.19625",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19625v1 Announce Type: cross Abstract: Missing wireline logs hinder subsurface characterization. Deep reconstruction networks suffer from gap-boundary steps and cross-basin shifts, while interpolation and Gaussian smoothers struggle with long intervals and outliers. We propose boundary-gated soft-thresholding Kalman fusion (ST-KF), unifying multiresolution wavelet shrinkage, distance-gated residual prior learning, and closed-form robust Kalman smoothing with learning--inference decoupling. Across two public benchmarks totaling 263 wells in the Norwegian North Sea and New Zealand's Taranaki Basin, ST-KF ranks first over 0.15--100-m anchored gaps with 0.09% parameter overhead. Against the strongest of nine baselines, pooled RMSE falls by 5.0%--8.3% for bulk density and 6.4%--15.6%"
-  },
-  {
-   "title": "Where slide-level foundation-model classifiers fail on atypical breast lesions",
-   "link": "https://arxiv.org/abs/2611.19630",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-17T05:00:00+00:00",
-   "description": "arXiv:2611.19630v1 Announce Type: cross Abstract: Whether a ductal breast lesion is called atypical hyperplasia or low-grade carcinoma in situ increasingly determines surgery. However, slide-level classifiers built on pathology foundation models (PFMs) perform worst on these lesions. Using four PFMs, cross-validation on BRACS and preregistered hypotheses, we studied where the classification of atypia fails. Because slides are labelled with their most severe lesion, only 39% of the slides with annotated atypical ductal hyperplasia (ADH) were labelled ADH. Attention ranked the lesion high but rarely first, and showing the model only the lesion helped little, whereas classifiers trained per decision with lesion-level labels improved all four atypical boundaries. ADH regions inserted into beni"
   }
  ]
 }

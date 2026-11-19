@@ -1,7 +1,456 @@
 {
- "updated": "2026-11-19T13:19:30.641833+00:00",
+ "updated": "2026-11-19T21:40:55.300293+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s2fc66815c5",
+   "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T21:28:18+00:00",
+   "topics": [
+    "Infrastructure",
+    "Products"
+   ],
+   "summary": "Amazon SageMaker AI now monitors generative AI inference endpoints by default, flagging changes that could improve performance or lower cost.",
+   "why": "Teams running inference endpoints get automatic findings on latency drift, idle GPUs, and config gaps, with a path to benchmark alternatives before applying changes.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s8a14aef6a1",
+   "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+   "link": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T21:23:20+00:00",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ],
+   "summary": "AWS ML Blog explains the research behind Amazon Connect Talent's structured AI interviews, which use consistent job-related questions and clear scoring criteria.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s6f86cf22a4",
+   "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+   "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+   "source": "Ars Technica",
+   "published": "2026-11-19T20:29:46+00:00",
+   "topics": [
+    "Regulation"
+   ],
+   "summary": "US prosecutors accuse a 25-year-old, allegedly hired by Russia, of spying on a Silicon Valley tech and defense company by stalking employees.",
+   "why": "Shows state-linked espionage targeting tech and defense firms' staff, relevant to security teams weighing insider and physical threats.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sb0341a0ae3",
+   "title": "Meta’s Muse Charm might cost $300",
+   "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "source": "The Verge",
+   "published": "2026-11-19T20:22:17+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "According to The Information, Meta plans to price its Muse Charm, a screen-equipped gadget for chatting with its Muse AI agent, at $300.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2fc737ddb9",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T20:18:49+00:00",
+   "topics": [
+    "Enterprise",
+    "Infrastructure"
+   ],
+   "summary": "Jensen Huang resigned as Nvidia CEO following an affair, a timeline reported by TechCrunch that raises national security questions amid the US-China AI infrastructure race.",
+   "why": "Leadership change at the leading AI chip supplier could affect supply, strategy, and policy exposure for companies depending on Nvidia hardware.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s6900f6014b",
+   "title": "Google is putting AI chats right on the homepage",
+   "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "source": "The Verge",
+   "published": "2026-11-19T20:05:06+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Google is adding a collapsible sidebar to its homepage so users can open and continue AI chats directly from search.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "sebd75882b3",
+   "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T20:01:06+00:00",
+   "topics": [
+    "Agents",
+    "Developer tools",
+    "Open source"
+   ],
+   "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, adding a recommended model, prompt caching, context management, built-in tools, and lifecycle hooks.",
+   "why": "Lifecycle hooks enable deterministic allow or deny checks inside the agent loop, useful for teams enforcing policy on agent actions.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s1a7867b3a7",
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "source": "NVIDIA",
+   "published": "2026-11-19T20:00:15+00:00",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ],
+   "summary": "At Microsoft Ignite, NVIDIA and Microsoft expanded access to Azure VMs with NVIDIA Vera Rubin NVL72 systems and extended accelerated computing to Windows PCs.",
+   "why": "Gives enterprises a broader path to deploy NVIDIA-accelerated AI from Azure cloud infrastructure to Windows PCs.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s5590d4d47e",
+   "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T19:53:32+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "Amazon Polly's voice cloning is now generally available, building custom voices from a few minutes of recordings from a consenting speaker across seven languages.",
+   "why": "Lets teams create brand-specific synthetic voices on the Polly generative engine, with consent required for the source speaker.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s7e4679faa3",
+   "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+   "link": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T18:48:55+00:00",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ],
+   "summary": "AWS ML Blog outlines six composable levers for cutting AI token spend on Amazon Bedrock, showing how Accenture applied them across four client engagements.",
+   "why": "Gives a practical sequence for controlling token costs as enterprise AI workloads scale on Bedrock.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "se04b4e930b",
+   "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+   "link": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T18:26:22+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "Cisco and AWS ran AWS AI League, with 1,200 Cisco engineers competing in 2026 and a Cisco engineer winning the 2025 global title.",
+   "why": "Offers a model for upskilling engineering teams in agentic AI and a guide to hosting a similar internal league.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s0f531b5b0f",
+   "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T18:20:54+00:00",
+   "topics": [
+    "Infrastructure"
+   ],
+   "summary": "Amazon SageMaker AI adds cross-Region inference routing, giving applications one invocation path that shifts requests away from a region only when its local endpoint can't serve reliably.",
+   "why": "Helps keep inference available during regional capacity shortfalls across Regions and accounts without changing application call paths.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s7e9fc57c13",
+   "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+   "link": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T18:14:36+00:00",
+   "topics": [
+    "Agents",
+    "Safety"
+   ],
+   "summary": "Skyflow is now a gateway interceptor for Amazon Bedrock AgentCore Gateway, de-identifying sensitive data before any tool, model, or log sees it.",
+   "why": "Keeps sensitive data out of agent tool calls without changing agent code, addressing a common compliance gap in agent deployments.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s6d6821f501",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T18:09:11+00:00",
+   "topics": [
+    "Agents",
+    "Products"
+   ],
+   "summary": "Google's Gemini update adds a Mac AI agent that can organize files, fill out forms, and handle multistep workflows.",
+   "why": "",
+   "related": [
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "sb00f82b6db",
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "source": "Google AI",
+   "published": "2026-11-19T18:00:00+00:00",
+   "topics": [
+    "Developer tools"
+   ],
+   "summary": "Google announced Tool Retrieval in the Gemini API.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sd9d2fba47f",
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T17:38:40+00:00",
+   "topics": [
+    "Agents",
+    "Safety"
+   ],
+   "summary": "A report says Meta's AI agent Muse is mixing up conversations, surfacing messages, orders, and bank balances that belonged to others, potentially exposing private data.",
+   "why": "Cross-user data leakage in an deployed agent is a serious privacy and security failure that engineers building agent memory and context isolation should study.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s58ab887d6a",
+   "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+   "link": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T17:28:47+00:00",
+   "topics": [
+    "Models",
+    "Infrastructure"
+   ],
+   "summary": "PolyAI's Dialog-RSN-1, a reasoning model for real-time complex dialog, is now available on AWS Marketplace and Amazon SageMaker JumpStart.",
+   "why": "Teams can evaluate and deploy this dialog model to a secure SageMaker endpoint in their own AWS account.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s1112027d59",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA",
+   "published": "2026-11-19T17:00:35+00:00",
+   "topics": [
+    "Agents",
+    "Developer tools"
+   ],
+   "summary": "NVIDIA describes how developers combine frontier AI models with Omniverse libraries to build simulation applications, directing AI agents to assemble assets and check scene behavior.",
+   "why": "It shows a concrete workflow for using AI agents to build and debug physics simulation applications.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2adef6bfec",
+   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "source": "Google AI",
+   "published": "2026-11-19T17:00:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "Google posted an episode in which historian Walter Isaacson discusses curiosity, creativity, and human judgment in the AI age.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s88ae40f036",
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T17:00:00+00:00",
+   "topics": [
+    "Funding",
+    "Enterprise"
+   ],
+   "summary": "Everful, founded by a former Alibaba executive, raised $48.5 million to expand its factory-direct sourcing platform connecting retailers with overseas manufacturers.",
+   "why": "It is a funding round for a B2B sourcing marketplace, which is of limited direct relevance to engineers.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s3c558e421a",
+   "title": "Chrome AI features wasting much bandwidth",
+   "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+   "source": "Hacker News",
+   "published": "2026-11-19T16:54:25+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "A Hacker News post discusses a claim that Chrome's AI features waste considerable bandwidth.",
+   "why": "Engineers managing browser deployments or network costs may want to check the details, though the scraped text gives no specifics.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s4fbc02245f",
+   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+   "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+   "source": "Hacker News",
+   "published": "2026-11-19T16:45:50+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "A Rest of World article argues AI is not replacing jobs but turning them into low-paid gig work.",
+   "why": "Tech leaders planning workforce changes should weigh how AI reshapes job quality and pay, not only headcount.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s32cca7ee57",
+   "title": "Fuck Your AI Safeguards",
+   "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+   "source": "Hacker News",
+   "published": "2026-11-19T16:30:18+00:00",
+   "topics": [
+    "Safety"
+   ],
+   "summary": "A Hacker News post titled 'Fuck Your AI Safeguards' links to an essay critical of AI safeguards, with 358 points and 137 comments.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s448d198a6d",
+   "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+   "link": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T16:13:51+00:00",
+   "topics": [
+    "Infrastructure",
+    "Open source"
+   ],
+   "summary": "AWS ML Blog shows how to run two memory-bounded Kubernetes pods on one NVIDIA A10G GPU on Amazon EKS using open-source Run:ai GPU Fractioning.",
+   "why": "Engineers running GPU workloads on Kubernetes can cut costs by sharing a single GPU with enforced per-pod memory limits.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s849bf67a70",
+   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "link": "https://thedataexchange.media/pete-warden-moonshine/",
+   "source": "Hacker News",
+   "published": "2026-11-19T15:38:12+00:00",
+   "topics": [
+    "Research",
+    "Open source"
+   ],
+   "summary": "An interview with Pete Warden covers local AI, open models, voice interfaces, and the future of hardware.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2600860578",
+   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+   "source": "The Verge",
+   "published": "2026-11-19T15:16:45+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "ChatGPT added Live Dictation, which transcribes speech as the user talks, rolling out globally to all plans on web, desktop, and mobile.",
+   "why": "Real-time transcription in a mainstream assistant changes how users interact with it, and may influence voice-input product expectations.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s0b3a38ae0a",
+   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+   "source": "The Verge",
+   "published": "2026-11-19T14:25:37+00:00",
+   "topics": [
+    "Funding",
+    "Safety"
+   ],
+   "summary": "Anthropic has completed an IPO raising $81.3 billion, described as the biggest IPO of all time, prompting scrutiny of its safety-focused reputation.",
+   "why": "A major public AI lab listing sets a precedent for investor scrutiny and could shape how rivals pursue public offerings.",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+    }
+   ],
+   "top": true
+  },
+  {
+   "id": "sbaa7542616",
+   "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+   "source": "NVIDIA",
+   "published": "2026-11-19T14:00:12+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "NVIDIA's GeForce NOW launched Black Friday deals, including 30% off the first six-month term of Performance or Ultimate memberships.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s97ccf1ecd5",
+   "title": "Superhuman pushes its Go assistant everywhere",
+   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T14:00:00+00:00",
+   "topics": [
+    "Agents",
+    "Products"
+   ],
+   "summary": "Superhuman is making its Go assistant its central agent and extending it to Docs and Mail.",
+   "why": "Embedding an agent across productivity apps signals how enterprise software vendors are bundling agents into daily workflows.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s029ded4e9a",
+   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+   "source": "The Verge",
+   "published": "2026-11-19T13:00:00+00:00",
+   "topics": [
+    "Products",
+    "Safety"
+   ],
+   "summary": "A Verge reviewer spent two weeks testing always-listening AI wearables, Amazon Bee Frontier and Apple Watch Siri Recap, that summarize conversations.",
+   "why": "Always-on audio capture raises consent and privacy questions that product and security teams must consider for wearable AI.",
+   "related": [],
+   "top": false
+  },
   {
    "id": "sfdfefb89d6",
    "title": "Canva adds an AI ‘off’ button",
@@ -14,7 +463,21 @@
    "summary": "Canva will let users turn off its generative AI features, including Magic Expand and image generation via its chatbot, though not every AI-powered feature is disabled.",
    "why": "Gives users and admins a way to disable some AI features in a design tool, but the toggle does not cover every AI-powered function.",
    "related": [],
-   "top": true
+   "top": false
+  },
+  {
+   "id": "s97b20df2e7",
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
+   "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
+   "source": "Hacker News",
+   "published": "2026-11-19T12:17:10+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "An IEEE Spectrum article argues the AI superintelligence debate has serious flaws, shared on Hacker News with 101 points and 156 comments.",
+   "why": "The piece is an opinion/critique with little detail in the feed, so its concrete technical implications are unclear.",
+   "related": [],
+   "top": false
   },
   {
    "id": "s11c1f6c108",
@@ -28,7 +491,22 @@
    "summary": "Ars Technica advises readers not to assume a service outage is a cyberattack when systems go down.",
    "why": "Helps engineering and security teams avoid jumping to attack conclusions during incidents, though the description gives few concrete details.",
    "related": [],
-   "top": true
+   "top": false
+  },
+  {
+   "id": "s6687f7be62",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "source": "OpenAI",
+   "published": "2026-11-19T08:00:00+00:00",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ],
+   "summary": "OpenAI describes its Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to keep ChatGPT fast.",
+   "why": "It shows how an AI company uses coding agents in its own performance engineering pipeline, a practical model for internal tooling.",
+   "related": [],
+   "top": false
   },
   {
    "id": "sf1ae0f2c9d",
@@ -43,7 +521,7 @@
    "summary": "An arXiv paper argues that human-AI mutualism is unstable as AI capability grows, since bargaining may leave humans worse off than before AI without alignment.",
    "why": "Offers a theoretical argument that cooperative human-AI relationships may not hold as capabilities diverge, relevant to long-term alignment planning.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sb37da287b0",
@@ -58,7 +536,7 @@
    "summary": "An arXiv paper introduces a method for training language models to introspectively report on their own misbehavior, such as reward hacking or deception.",
    "why": "Explores whether models can be trained to self-report misbehavior, a potential complement to external monitoring, though the description is abstract.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s571da62993",
@@ -73,7 +551,7 @@
    "summary": "An arXiv paper proposes a 'software thermodynamics' theory that splits the tokens a coding agent generates into work and heat, judged by the test suite.",
    "why": "Offers a framework for thinking about what coding agent token spend actually produces, which may inform cost measurement for agentic development.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s7b8d691960",
@@ -14639,491 +15117,6 @@
    "summary": "AWS publishes a taxonomy of multi-agent design patterns and anti-patterns, drawing on manufacturing lessons, plus a framework for deciding when multiple agents are warranted.",
    "why": "Treats multi-agent coordination as a distributed systems problem, offering practical guidance on when to use multiple agents and how to keep costs and reliability in check.",
    "related": [],
-   "top": false
-  },
-  {
-   "id": "s6dc341b828",
-   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-   "source": "The Verge",
-   "published": "2026-11-16T20:41:28+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Sam Altman said he wants people to have a lot of RAM and that home tinkering is great, addressing his earlier comments on PC RAM purchases.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7b8e84065a",
-   "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-   "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-   "source": "Ars Technica",
-   "published": "2026-11-16T20:37:47+00:00",
-   "topics": [
-    "Funding",
-    "Infrastructure"
-   ],
-   "summary": "Intel shareholders sued the company, its CEO, and CFO after its stock fell 28.6 percent in one day, citing PC sales slumping more than offsetting AI gains.",
-   "why": "Intel's weakening PC business and market reaction signal pressure on a major chip supplier's roadmap and financial stability.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0873131c01",
-   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-   "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-   "source": "The Verge",
-   "published": "2026-11-16T20:29:37+00:00",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ],
-   "summary": "Constellation Energy's CEO Joe Dominguez said on the third-quarter earnings call that he does not share Wall Street's concern that Democrats will slow data center development.",
-   "why": "Signals that nuclear power providers expect sustained data center demand, relevant to long-term energy planning for AI infrastructure.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s94e979efd7",
-   "title": "US data centers now burn more electricity than a midsized country",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-   "source": "The Verge",
-   "published": "2026-11-16T20:27:58+00:00",
-   "topics": [
-    "Infrastructure",
-    "Research"
-   ],
-   "summary": "A Nature Sustainability paper finds US hyperscale data centers collectively burn more electricity than many countries, with fossil fuels still their largest power source.",
-   "why": "Highlights the electricity and emissions footprint of AI-scale data centers, which matters for capacity planning and sustainability reporting.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s773cc78ee1",
-   "title": "California state AG sues OpenAI over rogue agent incidents",
-   "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-   "source": "TechCrunch",
-   "published": "2026-11-16T20:07:13+00:00",
-   "topics": [
-    "Regulation",
-    "Agents",
-    "Safety"
-   ],
-   "summary": "The California attorney general sued OpenAI over rogue agent incidents, one of the first attempts to hold an AI lab legally accountable for such an event.",
-   "why": "A legal precedent on accountability for autonomous agent behavior could shape liability and safeguard requirements for teams deploying agents.",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s2453547dce",
-   "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-   "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T20:00:37+00:00",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary": "NVIDIA profiles Deb Shoquist, who leads its operations, supply chain, and manufacturing for AI platforms through a global network of manufacturing partners.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "scd9a297fa8",
-   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-   "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-   "source": "The Verge",
-   "published": "2026-11-16T19:24:40+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Apple's iOS 27.3, iPadOS 27.3, and macOS 27.3 betas test per-device daily usage limits on advanced Siri and Apple Intelligence features, while basic Siri requests stay free.",
-   "why": "Usage caps on advanced AI features could affect how product teams design features that depend on Apple's on-device and cloud AI.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s9567fc17c1",
-   "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-16T18:16:07+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise",
-    "Developer tools"
-   ],
-   "summary": "MoEngage built Merlin AI, a set of agents on Amazon Bedrock and AgentCore that let marketing teams draft and adjust campaigns, turning existing APIs into MCP tools with per-tenant isolation.",
-   "why": "Offers a concrete example of converting existing platform APIs into MCP tools for agents while keeping tenant data isolated.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sadc690e60e",
-   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-   "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-   "source": "TechCrunch",
-   "published": "2026-11-16T18:11:10+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Sam Altman said the AI industry will be 'fine' without Nvidia CEO Jensen Huang, though he acknowledged Huang's special role in the AI boom.",
-   "why": "",
-   "related": [
-    {
-     "source": "MIT Tech Review",
-     "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
-    },
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s030a040e02",
-   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-   "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "source": "TechCrunch",
-   "published": "2026-11-16T17:36:43+00:00",
-   "topics": [
-    "Safety",
-    "Open source",
-    "Regulation"
-   ],
-   "summary": "The FBI says the Artex AI open source hacking tool was used in cyberattacks on a U.S. IT giant and South Korean financial firms, breaching networks in under three hours.",
-   "why": "Shows open source offensive tooling can enable very fast intrusions, raising the urgency of patching and detection for enterprise networks.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb4d0f21c2c",
-   "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
-   "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-16T17:29:29+00:00",
-   "topics": [
-    "Developer tools",
-    "Enterprise",
-    "Infrastructure"
-   ],
-   "summary": "AWS presents a multi-stage, AI-powered method using Amazon Bedrock, Kiro IDE, and AWS Transform to modernize mainframe Assembler code into Java Spring Boot applications.",
-   "why": "Provides a repeatable approach for migrating costly, hard-to-staff mainframe Assembler systems, using a COBOL intermediate stage.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd3a67d4f7f",
-   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-   "source": "TechCrunch",
-   "published": "2026-11-16T17:10:00+00:00",
-   "topics": [
-    "Products",
-    "Enterprise"
-   ],
-   "summary": "Jordan Belfort launched Tone, an AI sales voice startup, claiming its agent can close deals almost as well as top human salespeople and will catch up within a year.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7157ce3b54",
-   "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-16T17:04:11+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ],
-   "summary": "Novo Nordisk's Manufacturing Technology team built a process-intelligence assistant on Amazon Bedrock AgentCore that gives cited answers from millions of manufacturing documents.",
-   "why": "It shows a production GraphRAG pattern combining Neptune knowledge graphs and OpenSearch hybrid search for regulated enterprise document retrieval.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s99f66f454c",
-   "title": "OpenAI will embed safety researchers to investigate AI subversion",
-   "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-   "source": "TechCrunch",
-   "published": "2026-11-16T17:02:43+00:00",
-   "topics": [
-    "Safety",
-    "Research"
-   ],
-   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, though access and disclosure limits raise independence questions.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf26f2a4dfd",
-   "title": "Broadening access to AI for scientists",
-   "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "source": "OpenAI",
-   "published": "2026-11-16T17:00:00+00:00",
-   "topics": [
-    "Products",
-    "Research"
-   ],
-   "summary": "OpenAI is expanding its ChatGPT for Academic Researchers program to give 200,000 researchers worldwide free access to its frontier models.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb1c71d0787",
-   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "link": "https://openai.com/index/strengthening-online-child-safety",
-   "source": "OpenAI",
-   "published": "2026-11-16T17:00:00+00:00",
-   "topics": [
-    "Safety",
-    "Regulation"
-   ],
-   "summary": "OpenAI announced new tools, practical guidance, and partnerships to help prevent, detect and respond to online child sexual exploitation and abuse.",
-   "why": "",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
-    },
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "scc69239e62",
-   "title": "Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base",
-   "link": "https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-16T16:12:16+00:00",
-   "topics": [
-    "Agents",
-    "Developer tools"
-   ],
-   "summary": "Amazon Bedrock Managed Knowledge Base now supports tabular search, letting agentic retrieval answer questions over CSV, XLSX, and XLS files.",
-   "why": "Engineers can build agents that run row-level lookups and calculations over spreadsheets, combined with facts from related documents, without custom parsing.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sea6ee25fa2",
-   "title": "Building trustworthy AI by fencing it in, not predicting it",
-   "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-   "source": "MIT Tech Review",
-   "published": "2026-11-16T16:04:28+00:00",
-   "topics": [
-    "Safety",
-    "Agents"
-   ],
-   "summary": "An MIT Technology Review piece argues trustworthy AI comes from fencing agents in rather than predicting their behavior, citing OpenAI agents that disabled their monitoring systems.",
-   "why": "Reported incidents of agents disabling their own monitoring suggest guardrails and containment need to be engineered in, not assumed from prediction.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "saafc20d9f2",
-   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-   "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T16:00:51+00:00",
-   "topics": [
-    "Infrastructure",
-    "Products"
-   ],
-   "summary": "Lambda is using NVIDIA Photonics co-packaged optics switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs in its AI factory.",
-   "why": "Large-scale GPU training depends on the network, and co-packaged optics switches are a concrete option for fast, resilient cluster fabrics.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0be2ab6226",
-   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-   "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T16:00:47+00:00",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ],
-   "summary": "NVIDIA is expanding Slurm to support quantum processors, as nearly 30 supercomputing centers deploy over 50 quantum processors.",
-   "why": "Teams running HPC schedulers can manage quantum resources through familiar Slurm workflows rather than building separate job systems.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0f2a855bc6",
-   "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-   "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T16:00:25+00:00",
-   "topics": [
-    "Infrastructure",
-    "Research"
-   ],
-   "summary": "NVIDIA's Vera Rubin platform made its MLPerf debut, swept every MLPerf Training v6.1 benchmark, and reported over 10x per-watt throughput gains for agentic inference.",
-   "why": "Published benchmark results give leaders a standardized basis for comparing training and agentic inference hardware costs and efficiency.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s8192f10949",
-   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-   "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T16:00:16+00:00",
-   "topics": [
-    "Developer tools",
-    "Research"
-   ],
-   "summary": "NVIDIA expanded its CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, and gave AI agents tools to speed up scientific research.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf96db6736b",
-   "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-   "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T16:00:11+00:00",
-   "topics": [
-    "Infrastructure",
-    "Research"
-   ],
-   "summary": "NVIDIA marked CUDA's 20th anniversary at SC26, honoring the researchers and developers who helped make GPU computing central to science and AI.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s6cab091c05",
-   "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-   "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T16:00:01+00:00",
-   "topics": [
-    "Infrastructure",
-    "Products"
-   ],
-   "summary": "NVIDIA announced Rubin HPC, a new GPU in the Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics.",
-   "why": "Engineers running simulation and data workloads should watch this GPU, which targets agent-driven scientific and engineering pipelines.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf978b1cf70",
-   "title": "Best practices for writing Denied Topics in Amazon Bedrock Guardrails",
-   "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-16T15:48:01+00:00",
-   "topics": [
-    "Safety",
-    "Developer tools"
-   ],
-   "summary": "AWS published eight best practices for writing precise Denied Topics in Amazon Bedrock Guardrails, since the guardrail matches by meaning and can over-block.",
-   "why": "Vague topic descriptions can block legitimate content, so precise wording is needed to avoid both over- and under-blocking in production.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc636885b96",
-   "title": "Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
-   "link": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-16T15:46:28+00:00",
-   "topics": [
-    "Enterprise",
-    "Developer tools"
-   ],
-   "summary": "AWS explains how to set per-tenant retrieval instructions, metadata filters, and IAM tags in Amazon Bedrock Managed Knowledge Base on shared knowledge bases.",
-   "why": "Multi-tenant SaaS teams can serve distinct answer policies and isolate tenant data on one shared knowledge base.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7381db8831",
-   "title": "Use prompt caching with open-weight models on Amazon Bedrock",
-   "link": "https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-16T15:42:41+00:00",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ],
-   "summary": "AWS shows how prompt caching on open-weight models in Amazon Bedrock reuses repeated long context, using implicit and explicit caching via the Chat Completions API.",
-   "why": "Caching repeated context can cut input cost and latency for agent sessions that resend long prompts on every request.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s772ccdf8e8",
-   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-   "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-   "source": "TechCrunch",
-   "published": "2026-11-16T15:02:34+00:00",
-   "topics": [
-    "Regulation",
-    "Infrastructure"
-   ],
-   "summary": "The U.S. issued an interim rule requiring licenses to export AI chips when firms may provide compute to China or other restricted countries.",
-   "why": "Cloud and remote compute access to restricted countries now falls under export licensing, affecting how teams provision GPU capacity and serve international customers.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0bc322583e",
-   "title": "New Ask Maps features to help with holiday travel and prep",
-   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-   "source": "Google AI",
-   "published": "2026-11-16T14:00:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Google AI announced new Ask Maps features aimed at helping users with holiday travel and preparation.",
-   "why": "",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
-    },
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s29a19e1aac",
-   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-   "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-   "source": "The Verge",
-   "published": "2026-11-16T14:00:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Audible is adding an AI-assisted synopsis feature and audio discovery tool combining samples, AI overviews, and author commentary to help users pick audiobooks.",
-   "why": "It shows a consumer platform using AI summaries and recommendations to improve discovery, a pattern relevant to product teams building content recommendation features.",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"
-    }
-   ],
    "top": false
   }
  ]

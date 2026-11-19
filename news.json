@@ -1,7 +1,198 @@
 {
- "updated": "2026-11-18T22:00:12.309866+00:00",
+ "updated": "2026-11-19T03:34:00.088027+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s07bd5650af",
+   "title": "AI will not make you rich (2025)",
+   "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "source": "Hacker News",
+   "published": "2026-11-19T01:51:28+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "A Colossus article argues that AI will not make people rich, shared on Hacker News with 63 points and 38 comments.",
+   "why": "The text gives only a title and link metadata, so the article's actual argument is unclear.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc8a4b2ac13",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T00:42:56+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Satya Nadella explained that Microsoft offered buyouts to 60,000 employees in October, urging voluntary departures instead of another large layoff.",
+   "why": "Signals how a major tech employer is using AI-era workforce restructuring instead of mass layoffs, which matters to tech leaders planning headcount.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s1980ba7046",
+   "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+   "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-19T00:15:58+00:00",
+   "topics": [
+    "Developer tools",
+    "Infrastructure"
+   ],
+   "summary": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning, with analysis of when it outperforms LoRA on benchmarks.",
+   "why": "Gives engineers benchmark-based guidance on choosing full fine-tuning versus LoRA, plus hyperparameter tuning practices for serverless customization.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s6f8f17530b",
+   "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+   "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-18T23:58:22+00:00",
+   "topics": [
+    "Infrastructure",
+    "Research"
+   ],
+   "summary": "Exa raised embedding throughput by 47% on AWS Inferentia2 and Trainium2 chips using custom NKI kernels to cut document indexing costs.",
+   "why": "Shows concrete cost and performance gains from custom kernels on AWS AI accelerators for large-scale embedding inference.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s2cf389d7c3",
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "source": "TechCrunch",
+   "published": "2026-11-18T23:45:00+00:00",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ],
+   "summary": "Satya Nadella said much critical infrastructure is unpatchable amid fears of AI-driven cyberattacks, downplaying a recent Outlook outage.",
+   "why": "Highlights that legacy infrastructure may be hard to secure against AI-enabled attacks, a risk security and platform leaders must plan for.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s74ced33754",
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "source": "TechCrunch",
+   "published": "2026-11-18T23:25:17+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "Elon Musk said ousting Jensen Huang would be like kicking Michael Jordan off a team, and defended Huang's loyalty to the United States.",
+   "why": "The text offers only a brief quote with little context on the underlying situation, so its broader significance is limited.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sb429cb510b",
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "source": "The Verge",
+   "published": "2026-11-18T23:18:35+00:00",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ],
+   "summary": "New York, Los Angeles, and Chicago school districts are considering Google alternatives after Google said schools opting out of AI features will lose Search.",
+   "why": "Shows that bundling AI features with core products can push enterprise and public customers toward competitors.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s0e23395eb7",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "source": "TechCrunch",
+   "published": "2026-11-18T23:17:28+00:00",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ],
+   "summary": "Satya Nadella said he is confident in Nvidia after Jensen Huang's exit, backing interim CEO Colette Kress as his successor.",
+   "why": "Leadership changes at Nvidia, a key AI chip supplier, may affect supply and partner confidence for teams building on its hardware.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "seacbd26a91",
+   "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-18T23:03:29+00:00",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ],
+   "summary": "Amazon SageMaker HyperPod added workload recovery and expanded infrastructure checks to catch stalled or incorrect training runs sooner.",
+   "why": "Directly addresses silent training failures on healthy-looking nodes, helping teams raise goodput on large training jobs.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sacb7f96633",
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "source": "TechCrunch",
+   "published": "2026-11-18T22:58:11+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "Satya Nadella predicted AI agents could disrupt advertising-driven web business models and force companies like Amazon to rethink competition for customers.",
+   "why": "Suggests agent-driven traffic could reshape how product and marketing teams reach customers on the web.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s663fa60cff",
+   "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+   "source": "AWS ML Blog",
+   "published": "2026-11-18T22:31:04+00:00",
+   "topics": [
+    "Models",
+    "Developer tools"
+   ],
+   "summary": "Amazon SageMaker JumpStart launched a Model Leaderboard comparing 70+ foundation models on quality, speed, and cost inside SageMaker Studio.",
+   "why": "Gives teams a side-by-side view of model quality, speed, and cost to shortlist and deploy models faster.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sf00d83341f",
+   "title": "LLM assisted reverse engineering",
+   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+   "source": "Hacker News",
+   "published": "2026-11-18T22:29:13+00:00",
+   "topics": [
+    "Research",
+    "Developer tools"
+   ],
+   "summary": "A Slow Chronicle post describes LLM-assisted reverse engineering, shared on Hacker News with 93 points and 26 comments.",
+   "why": "The text gives only a title and link metadata, so the specific methods and findings are unclear.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sb7121aa761",
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source": "TechCrunch",
+   "published": "2026-11-18T22:11:15+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "Anthropic reportedly priced its IPO at $83 a share, above the projected range, valuing the company at $1.5 trillion fully diluted.",
+   "why": "A $1.5 trillion valuation at IPO signals the scale of capital flowing into frontier AI labs, shaping vendor stability and market expectations.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "s54bca3b9a4",
    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
@@ -310,7 +501,7 @@
    "summary": "Google DeepMind announced that its Genie 4 model is now available.",
    "why": "",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "s61a25aea71",
@@ -355,7 +546,7 @@
    "summary": "Citi has become the latest major bank to restrict personal finance AI agents, saying customers using them are on their own even if hacked.",
    "why": "Banks are placing liability for agent-driven account compromise on customers, which shapes security and product requirements for financial agent features.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s8e6075d168",
@@ -413,7 +604,7 @@
    "summary": "Sam Altman said it is hard to imagine the AI industry without Jensen Huang, who stepped down as Nvidia CEO last week amid several scandals.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sdbf7233003",
@@ -546,7 +737,7 @@
    "summary": "Nvidia's interim CEO Colette Kress said Nvidia will not be liable for backstopped data center loans unless the neocloud has independent financing and the facility is built with Nvidia gear installed.",
    "why": "Clarifies Nvidia's financial exposure in neocloud data center deals, which affects how buyers and lenders assess counterparty risk.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s82df8b1098",
@@ -635,6 +826,36 @@
    ],
    "summary": "OpenAI explains how Codex runs commands on user machines while enforcing user-controlled filesystem and network limits on macOS, Linux, and Windows.",
    "why": "Engineers evaluating coding agents can see how sandbox boundaries constrain command execution and file and network access.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s9fa731b0ef",
+   "title": "Research acceleration: The jagged frontier",
+   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "source": "OpenAI",
+   "published": "2026-11-18T08:00:00+00:00",
+   "topics": [
+    "Research",
+    "Agents"
+   ],
+   "summary": "OpenAI measures how coding agents accelerate AI research, where their performance is uneven, and what this implies for recursive self-improvement.",
+   "why": "Provides evidence on where coding agents help research and where they fall short, relevant to judging agent reliability.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sb527b6f0dd",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "link": "https://openai.com/business/customer-stories/sumitomo-life",
+   "source": "OpenAI",
+   "published": "2026-11-18T08:00:00+00:00",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ],
+   "summary": "Sumitomo Life uses ChatGPT Enterprise for insurer research, proposal preparation, and investment analysis code, with executive use driving adoption.",
+   "why": "Offers an example of enterprise rollout where executive usage helped drive wider adoption across teams.",
    "related": [],
    "top": false
   },
@@ -15161,99 +15382,6 @@
    ],
    "summary": "The paper proposes labeling word-level operations, such as copy or substitution, in Latin text reuse pairs using only a limited amount of annotation.",
    "why": "It is a niche digital humanities method, with limited direct relevance to most engineering teams.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sa58bd1a86d",
-   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-   "link": "https://www.hntrends.com/2026/november.html",
-   "source": "Hacker News",
-   "published": "2026-11-16T01:31:30+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "A Hacker News trends page reports 'Who is Hiring?' postings near 12-year lows, while AI reaches half of all jobs.",
-   "why": "The description gives only a headline-level claim and no methodology, so limited context is available for engineers to act on.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf7214e14d1",
-   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-   "source": "The Verge",
-   "published": "2026-11-16T01:26:56+00:00",
-   "topics": [
-    "Research",
-    "Safety"
-   ],
-   "summary": "Apple announced the Apple Health AI Usage Study with OpenEvidence to better understand how people use conversational AI health tools and how useful their answers are.",
-   "why": "Shows how major platforms are measuring real-world usefulness of medical AI assistants, a factor for teams building health-related AI products.",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s46b48e728e",
-   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-   "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-   "source": "NVIDIA",
-   "published": "2026-11-16T00:00:28+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ],
-   "summary": "AI Day Seoul at COEX drew over 2,000 attendees to discuss physical AI and AI agents, with NVIDIA's Deepu Talla saying Korea is punching above its weight.",
-   "why": "Signals growing regional momentum in physical AI and robotics ecosystems, though the text offers little concrete technical detail.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sfc91828979",
-   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-   "source": "TechCrunch",
-   "published": "2026-11-15T23:30:00+00:00",
-   "topics": [
-    "Funding",
-    "Infrastructure"
-   ],
-   "summary": "Indian chip startup Bharat Semi raised a $24M seed round and says it has design wins for its AI-enabled sensor technology, including with General Atomics.",
-   "why": "Design wins with a defense contractor suggest commercial traction for AI-enabled sensor hardware, a niche relevant to edge and embedded teams.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s87d7014c15",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "source": "OpenAI",
-   "published": "2026-11-15T22:00:01+00:00",
-   "topics": [
-    "Research",
-    "Models"
-   ],
-   "summary": "OpenAI describes a candidate nonperturbative lattice definition of the Standard Model, with GPT-6 Astra helping develop the idea into a detailed proof.",
-   "why": "It shows AI being used for advanced mathematical physics proofs, though the source gives little detail on the result's validity or broader impact.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s4b0fc5b701",
-   "title": "Our new blog for science",
-   "link": "https://openai.com/index/our-new-blog-for-science",
-   "source": "OpenAI",
-   "published": "2026-11-15T22:00:00+00:00",
-   "topics": [
-    "Research"
-   ],
-   "summary": "OpenAI launched a science blog to share research findings, practical methods, and firsthand accounts from researchers using AI for scientific discovery.",
-   "why": "",
    "related": [],
    "top": false
   }

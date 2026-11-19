@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-18T21:59:51.134865+00:00",
+ "updated": "2026-11-19T03:33:48.318930+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "AI will not make you rich (2025)",
+   "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-19T01:51:28+00:00",
+   "description": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 63 # Comments: 38"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T00:42:56+00:00",
+   "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+  },
+  {
+   "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+   "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T00:15:58+00:00",
+   "description": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows how to get started."
+  },
+  {
+   "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+   "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-18T23:58:22+00:00",
+   "description": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents."
+  },
+  {
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T23:45:00+00:00",
+   "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+  },
+  {
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T23:25:17+00:00",
+   "description": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+  },
+  {
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-18T23:18:35+00:00",
+   "description": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T23:17:28+00:00",
+   "description": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+  },
+  {
+   "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-18T23:03:29+00:00",
+   "description": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads."
+  },
+  {
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T22:58:11+00:00",
+   "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+  },
+  {
+   "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-18T22:31:04+00:00",
+   "description": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model."
+  },
+  {
+   "title": "LLM assisted reverse engineering",
+   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-18T22:29:13+00:00",
+   "description": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 93 # Comments: 26"
+  },
+  {
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T22:11:15+00:00",
+   "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+  },
   {
    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
@@ -99,7 +203,7 @@
    "description": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional […]"
   },
   {
-   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+   "title": "Nvidia’s rise, visualized",
    "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
    "source": "The Verge",
    "category": "Industry",
@@ -216,7 +320,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-18T16:41:22+00:00",
-   "description": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 120 # Comments: 76"
+   "description": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 129 # Comments: 77"
   },
   {
    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
@@ -232,7 +336,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-18T15:49:34+00:00",
-   "description": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 242 # Comments: 118"
+   "description": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 384 # Comments: 169"
   },
   {
    "title": "Remember the frontier AI pause? Chip companies don’t either",
@@ -280,7 +384,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-18T13:51:03+00:00",
-   "description": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 63 # Comments: 77"
+   "description": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 67 # Comments: 78"
   },
   {
    "title": "Nvidia isn’t selling any more AI chips to China",
@@ -339,6 +443,22 @@
    "description": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
   },
   {
+   "title": "Research acceleration: The jagged frontier",
+   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-18T08:00:00+00:00",
+   "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+  },
+  {
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "link": "https://openai.com/business/customer-stories/sumitomo-life",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-18T08:00:00+00:00",
+   "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+  },
+  {
    "title": "Inside the Codex sandbox",
    "link": "https://openai.com/index/inside-the-codex-sandbox",
    "source": "OpenAI",
@@ -352,7 +472,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-18T06:47:26+00:00",
-   "description": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 741 # Comments: 669"
+   "description": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 764 # Comments: 686"
   },
   {
    "title": "Managing frontier AI risk: From training to deployment",
@@ -2281,126 +2401,6 @@
    "category": "Research",
    "published": "2026-11-18T05:00:00+00:00",
    "description": "arXiv:2611.23030v1 Announce Type: cross Abstract: Not every perception error changes the planner's action. Yet adaptive-resolution perception chooses where to spend high-resolution computation from image cues, which can neither reliably point to an object that low resolution missed nor tell which objects matter to the planner. We observe that the planner can say where an object would matter before anything is seen: inserting a hypothetical object at a location tests whether its action would change. Decision-Guided Speculative Perception (DGSP) treats the low-resolution scene and its action as a draft and probes the planner in this way to obtain a decision-sensitivity field, the locations where an unseen object would change the action. Only this field and the support, the detections on whic"
-  },
-  {
-   "title": "ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting",
-   "link": "https://arxiv.org/abs/2611.23054",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23054v1 Announce Type: cross Abstract: 3D Gaussian Splatting (3DGS) enables photorealistic scene reconstruction. Existing 3DGS color transfer and interactive editing methods are guided by reference images and user-specified color adjustments. However, in many applications, users simply want aesthetically guided color enhancement that automatically makes the scene more visually appealing while maintaining consistent colors and tones across viewpoints. We present ReTouchGS, to our knowledge the first framework for reference-free aesthetic color enhancement of pretrained 3DGS models. It predicts a scene-level color lookup table (LUT) from the model and its associated camera parameters. ReTouchGS also supports reference-guided color transfer by fitting a scene-level LUT using one ed"
-  },
-  {
-   "title": "Runtime Verification of Multiple Natural Language Criteria for Agent Governance",
-   "link": "https://arxiv.org/abs/2611.23074",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23074v1 Announce Type: cross Abstract: AI agents are governed by hundreds of natural language criteria, yet existing verifiers cannot efficiently evaluate an agent's output against a large set of such criteria and report which are satisfied, violated, or inapplicable. We introduce the VFM, a tree-attention verifier that encodes the shared context and target text, and scores N natural language criteria in parallel, returning independent per-criterion ternary verdicts. The VFM is pretrained on CriteriaBank, a corpus of 394K (context, target, criterion, verdict) tuples spanning over 321K distinct criterion strings. A finetuned VFM-4B outperforms GPT-5.4 on a synthetic governance benchmark. On the DynaBench multi-criterion benchmark, it outperforms DynaGuard-4B on trace-level failur"
-  },
-  {
-   "title": "Learning to Undo: Transfer Reinforcement Learning under State Space Transformations",
-   "link": "https://arxiv.org/abs/2611.23081",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23081v1 Announce Type: cross Abstract: Transfer learning in reinforcement learning (RL) has shown strong empirical success. In this work, we take a more principled perspective by studying when and how transferring knowledge between MDPs (a source and a target) can be provably beneficial. Specifically, we consider the case where there exists an undo map such that applying this map to the target's state space recovers the source exactly. We propose an algorithm that learns this map by matching state feature statistics gathered from both MDPs, and then uses it to transfer the source policy to the target. We theoretically justify the algorithm by analyzing the setting when the undo map is linear and the source is linearly-$Q^\\star$ realizable, where our approach has strictly better "
-  },
-  {
-   "title": "BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis",
-   "link": "https://arxiv.org/abs/2611.23091",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23091v1 Announce Type: cross Abstract: AI-assisted RTL localization and debugging need ground-truth bug datasets with known locations and observable failures, while testbench grading uses injected bugs to measure detection capability. Creating such datasets at scale remains a major EDA challenge. BugGen 1.0 shows that Large Language Models (LLMs) can generate context-aware RTL mutations. Still, it relies on the model for both choosing where to mutate and generating the edit, which increases inference costs and can lead to invalid choices. BugGen 2.0 changes this division of labor. Deterministic algorithms handle structural analysis, target selection, and validation, while the LLM focuses on localized semantic rewriting. Across four OpenTitan IP blocks and FabScalar with three LL"
-  },
-  {
-   "title": "What's in a Tree ? Hierarchical $n$-gram models as controlled approximators of language",
-   "link": "https://arxiv.org/abs/2611.23093",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23093v1 Announce Type: cross Abstract: Hierarchical models have been proposed as synthetic settings for studying language. However, their relevance to realistic language corpora remains underexplored. In this work, we introduce tree-grams, autoregressive generative $n$-gram models that build the conditional probability tensor $p(x_n \\mid x_{1:n-1})$ through a hierarchical composition of order-2 and order-3 tensors. $n$ controls the maximal context window, whereas a rank hyperparameter $d$ controls model capacity, yielding an interpretable and systematically scalable family of approximators of language. We show how tree-grams outperform existing $n$-gram baselines, while remaining competitive with deep transformer-based language models. We demonstrate the utility of such controll"
-  },
-  {
-   "title": "Natural Language Programming: Rethinking Language, Memory, and Cognition in the Era of Generative AI",
-   "link": "https://arxiv.org/abs/2611.23106",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23106v1 Announce Type: cross Abstract: Generative Artificial Intelligence is transforming the role of natural language in computational systems. In classical Natural Language Processing (NLP), language was treated as an object of computation: something to analyse, classify, translate, or generate. Large Language Models (LLMs) challenge this perspective, enabling natural language to function increasingly as an executable cognitive medium through which humans structure reasoning, orchestrate problem solving, and regulate hybrid human/AI workflows. This paper introduces Natural Language Programming (NLPg) as a theoretical and epistemological extension of traditional NLP. Rather than focusing on language understanding alone, NLPg conceptualises prompts as dynamic cognitive artefacts"
-  },
-  {
-   "title": "Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance",
-   "link": "https://arxiv.org/abs/2611.23142",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23142v1 Announce Type: cross Abstract: The \"AI revolution\" has enabled teams across the technology industry to deliver software features at unprecedented velocity. While code evolves faster than ever, customer-facing documentation often struggles to stay up to speed. As users increasingly rely on LLM-based agents that consume documentation as their primary interface, the impact of this documentation gap worsens: stale information propagates and is treated as authoritative. Signals for identifying where documentation has fallen behind already exist in abundance, both explicit (e.g., resolved support tickets revealing what documentation lacks) and implicit (e.g., code-documentation discrepancies detectable from automated loops). We deploy a multi-agent system, built around a triag"
-  },
-  {
-   "title": "Learning Stratified Policies for Inference-Time Objectives",
-   "link": "https://arxiv.org/abs/2611.23154",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23154v1 Announce Type: cross Abstract: Inference-time scaling improves the performance of large language models by sampling multiple responses and evaluating their collective utility. However, many existing approaches obtain these samples by repeatedly sampling from a single policy. In this work, we study if the sample budget at inference time can instead be allocated across a population of policies. We introduce stratified policies, where each of $k$ learned policies contributes one response to a $k$-sample inference-time objective. We realize this policy population using separate LoRA adapters on a shared language model backbone and optimize it for pass@$k$. We theoretically motivate the approach by analyzing the linear setting; a population of LoRAs can achieve zero best-of-$"
-  },
-  {
-   "title": "Attribution Through the Decoder: Prediction-Space Explanations for Structured Outputs",
-   "link": "https://arxiv.org/abs/2611.23161",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23161v1 Announce Type: cross Abstract: Networks that predict angles, gaze directions, and rotations do not output these quantities directly: they emit raw coordinates that a fixed decoder, such as normalization, maps to the final prediction. Attribution methods are usually applied to the raw coordinates, so they can credit inputs for changes the decoder discards, such as rescaling a vector when only its direction matters. The resulting explanation can highlight inputs that have no effect on the prediction. We instead attribute through the decoder differential, which for normalization decoders reduces to a scaled tangent projection. We characterize invariance to output rescaling, show that every fixed smooth scalar target on a sphere has points of zero tangential sensitivity, and"
-  },
-  {
-   "title": "Inference after coding agents",
-   "link": "https://arxiv.org/abs/2611.23174",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23174v1 Announce Type: cross Abstract: Empirical research is changing rapidly as AI coding agents are becoming increasingly proficient in every step of it, from writing code to manipulating data. We argue that while the potential of coding agents for science is vast, their use in hypothesis testing poses a substantial threat to classical inference, as these agents enable a supercharged form of selective inference. In particular, we argue that coding agents carrying out empirical research introduce a new type of post-selection inference that combines human-like, open-ended search over an implicit space of estimators with programmatic replayability of both the selection and the estimation process. Indeed, we find that on simulated data with zero effects, four frontier agents repor"
-  },
-  {
-   "title": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
-   "link": "https://arxiv.org/abs/2611.23179",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23179v1 Announce Type: cross Abstract: Preference optimization (PO) is the standard way to reduce object hallucination in large vision-language models. We find that four public PO checkpoints of LLaVA-1.5-7B also lower object coverage. They name fewer object categories, and their lower hallucination rates bring no significant gain in set-level object F1 on CHAIR. We therefore ask how much of the PO gain the base model can reproduce by stopping earlier. A positive end-of-sequence (EOS) logit bias lets the base model reach the recall of each PO model, and this early stopping alone reproduces 58 to 86 percent of the CHAIRi gain of three checkpoints on two disjoint COCO sets. Writing longer does not bring the lost categories back. Under greedy decoding, a negative EOS bias recovers "
-  },
-  {
-   "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
-   "link": "https://arxiv.org/abs/2611.23189",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23189v1 Announce Type: cross Abstract: Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual structural errors is currently addressed one anatomy at a time, so the number of trained correctors scales with the number of segmentation targets. We present GRACE, a retrieval-augmented refiner that edits an input mask under context drawn from a shared knowledge base of verified prior cases. The refiner is trained once on a multi-organ corpus spanning compact organs, cavities, branching vessels, and tumour lesions. In the held-out dataset-transfer evaluation, three held-out datasets query a fixed knowledge base built"
-  },
-  {
-   "title": "Structure--Residual Inductive Biases for Language Model Pretraining",
-   "link": "https://arxiv.org/abs/2611.23197",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23197v1 Announce Type: cross Abstract: Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by the two-part coding view of Kolmogorov complexity, we study a structure--residual principle in which a representation separates structure from realization detail. We instantiate this principle in two complementary ways. Boundary Bottleneck Concept (BBC) routes information from token segments through boundary carriers while preserving local autoregressive computation. Continuous Concept (CC) regularizes representation geometry and induces a spectral decomposition into low-frequency structure and high-frequency residual. We derive coding bounds fo"
-  },
-  {
-   "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
-   "link": "https://arxiv.org/abs/2611.23205",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23205v1 Announce Type: cross Abstract: Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT) to the Gemma 4 edge models E2B and E4B with 66 checked examples covering 11 signal-processing MATLAB subtasks, using low-rank adaptation (LoRA) and quantized LoRA (QLoRA) on the integrated GPU (iGPU) of a laptop, and deploy the 8-bit integer (int8) models with the adapters through OpenVINO. On held-out variants scored by deterministic checkers, the pass rate rises from 18/66 to 37/66 (LoRA) and 37/66 (QLoRA) for E2B and from 32/66 to 47/66 for E4B (QLoRA). Reading all 159 failing programs shows that the adapters remove most "
-  },
-  {
-   "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-   "link": "https://arxiv.org/abs/2611.23206",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-18T05:00:00+00:00",
-   "description": "arXiv:2611.23206v1 Announce Type: cross Abstract: Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety vulnerability} and introduce \\textbf{SceneSafetyBench}, comprising 375 image--question pairs spanning Initial, Medium, and Ultimate scene states and five visual presentations. Across eight VLMs, scene-state inputs elicit harmful assistance with attack success rates (ASRs) of 45.6--72.3\\%. Comparative analysis across three VLMs shows that scene-state inputs most closely resemble QR-related images in their layer-wise safety-related signal profiles, while exhibiting lower average late-layer readouts and distinct signal dynamics during gener"
   }
  ]
 }

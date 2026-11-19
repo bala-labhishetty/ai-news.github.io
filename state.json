@@ -1,105 +1,5 @@
 {
  "stories": {
-  "s4b0fc5b701": {
-   "id": "s4b0fc5b701",
-   "title": "Our new blog for science",
-   "link": "https://openai.com/index/our-new-blog-for-science",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-15T22:00:00+00:00",
-   "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "related": [],
-   "summary": "OpenAI launched a science blog to share research findings, practical methods, and firsthand accounts from researchers using AI for scientific discovery.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  "s87d7014c15": {
-   "id": "s87d7014c15",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-15T22:00:01+00:00",
-   "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "related": [],
-   "summary": "OpenAI describes a candidate nonperturbative lattice definition of the Standard Model, with GPT-6 Astra helping develop the idea into a detailed proof.",
-   "why": "It shows AI being used for advanced mathematical physics proofs, though the source gives little detail on the result's validity or broader impact.",
-   "topics": [
-    "Research",
-    "Models"
-   ]
-  },
-  "sfc91828979": {
-   "id": "sfc91828979",
-   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-15T23:30:00+00:00",
-   "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-   "related": [],
-   "summary": "Indian chip startup Bharat Semi raised a $24M seed round and says it has design wins for its AI-enabled sensor technology, including with General Atomics.",
-   "why": "Design wins with a defense contractor suggest commercial traction for AI-enabled sensor hardware, a niche relevant to edge and embedded teams.",
-   "topics": [
-    "Funding",
-    "Infrastructure"
-   ]
-  },
-  "s46b48e728e": {
-   "id": "s46b48e728e",
-   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-   "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-16T00:00:28+00:00",
-   "description": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
-   "related": [],
-   "summary": "AI Day Seoul at COEX drew over 2,000 attendees to discuss physical AI and AI agents, with NVIDIA's Deepu Talla saying Korea is punching above its weight.",
-   "why": "Signals growing regional momentum in physical AI and robotics ecosystems, though the text offers little concrete technical detail.",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ]
-  },
-  "sf7214e14d1": {
-   "id": "sf7214e14d1",
-   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-16T01:26:56+00:00",
-   "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-     "title": "Apple launches new app to study how people use AI for health"
-    }
-   ],
-   "summary": "Apple announced the Apple Health AI Usage Study with OpenEvidence to better understand how people use conversational AI health tools and how useful their answers are.",
-   "why": "Shows how major platforms are measuring real-world usefulness of medical AI assistants, a factor for teams building health-related AI products.",
-   "topics": [
-    "Research",
-    "Safety"
-   ]
-  },
-  "sa58bd1a86d": {
-   "id": "sa58bd1a86d",
-   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-   "link": "https://www.hntrends.com/2026/november.html",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-16T01:31:30+00:00",
-   "description": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 50 # Comments: 20",
-   "related": [],
-   "summary": "A Hacker News trends page reports 'Who is Hiring?' postings near 12-year lows, while AI reaches half of all jobs.",
-   "why": "The description gives only a headline-level claim and no methodology, so limited context is available for engineers to act on.",
-   "topics": [
-    "Enterprise"
-   ]
-  },
   "s1b6087c38c": {
    "id": "s1b6087c38c",
    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
@@ -16285,16 +16185,245 @@
    "topics": [
     "Enterprise"
    ]
+  },
+  "s9fa731b0ef": {
+   "id": "s9fa731b0ef",
+   "title": "Research acceleration: The jagged frontier",
+   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-18T08:00:00+00:00",
+   "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "related": [],
+   "summary": "OpenAI measures how coding agents accelerate AI research, where their performance is uneven, and what this implies for recursive self-improvement.",
+   "why": "Provides evidence on where coding agents help research and where they fall short, relevant to judging agent reliability.",
+   "topics": [
+    "Research",
+    "Agents"
+   ]
+  },
+  "sb527b6f0dd": {
+   "id": "sb527b6f0dd",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "link": "https://openai.com/business/customer-stories/sumitomo-life",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-18T08:00:00+00:00",
+   "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+   "related": [],
+   "summary": "Sumitomo Life uses ChatGPT Enterprise for insurer research, proposal preparation, and investment analysis code, with executive use driving adoption.",
+   "why": "Offers an example of enterprise rollout where executive usage helped drive wider adoption across teams.",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ]
+  },
+  "sb7121aa761": {
+   "id": "sb7121aa761",
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T22:11:15+00:00",
+   "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+   "related": [],
+   "summary": "Anthropic reportedly priced its IPO at $83 a share, above the projected range, valuing the company at $1.5 trillion fully diluted.",
+   "why": "A $1.5 trillion valuation at IPO signals the scale of capital flowing into frontier AI labs, shaping vendor stability and market expectations.",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "sf00d83341f": {
+   "id": "sf00d83341f",
+   "title": "LLM assisted reverse engineering",
+   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-18T22:29:13+00:00",
+   "description": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 93 # Comments: 26",
+   "related": [],
+   "summary": "A Slow Chronicle post describes LLM-assisted reverse engineering, shared on Hacker News with 93 points and 26 comments.",
+   "why": "The text gives only a title and link metadata, so the specific methods and findings are unclear.",
+   "topics": [
+    "Research",
+    "Developer tools"
+   ]
+  },
+  "s663fa60cff": {
+   "id": "s663fa60cff",
+   "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-18T22:31:04+00:00",
+   "description": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model.",
+   "related": [],
+   "summary": "Amazon SageMaker JumpStart launched a Model Leaderboard comparing 70+ foundation models on quality, speed, and cost inside SageMaker Studio.",
+   "why": "Gives teams a side-by-side view of model quality, speed, and cost to shortlist and deploy models faster.",
+   "topics": [
+    "Models",
+    "Developer tools"
+   ]
+  },
+  "sacb7f96633": {
+   "id": "sacb7f96633",
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T22:58:11+00:00",
+   "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+   "related": [],
+   "summary": "Satya Nadella predicted AI agents could disrupt advertising-driven web business models and force companies like Amazon to rethink competition for customers.",
+   "why": "Suggests agent-driven traffic could reshape how product and marketing teams reach customers on the web.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "seacbd26a91": {
+   "id": "seacbd26a91",
+   "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-18T23:03:29+00:00",
+   "description": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.",
+   "related": [],
+   "summary": "Amazon SageMaker HyperPod added workload recovery and expanded infrastructure checks to catch stalled or incorrect training runs sooner.",
+   "why": "Directly addresses silent training failures on healthy-looking nodes, helping teams raise goodput on large training jobs.",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ]
+  },
+  "s0e23395eb7": {
+   "id": "s0e23395eb7",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T23:17:28+00:00",
+   "description": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "related": [],
+   "summary": "Satya Nadella said he is confident in Nvidia after Jensen Huang's exit, backing interim CEO Colette Kress as his successor.",
+   "why": "Leadership changes at Nvidia, a key AI chip supplier, may affect supply and partner confidence for teams building on its hardware.",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ]
+  },
+  "sb429cb510b": {
+   "id": "sb429cb510b",
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-18T23:18:35+00:00",
+   "description": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
+   "related": [],
+   "summary": "New York, Los Angeles, and Chicago school districts are considering Google alternatives after Google said schools opting out of AI features will lose Search.",
+   "why": "Shows that bundling AI features with core products can push enterprise and public customers toward competitors.",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ]
+  },
+  "s74ced33754": {
+   "id": "s74ced33754",
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T23:25:17+00:00",
+   "description": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+   "related": [],
+   "summary": "Elon Musk said ousting Jensen Huang would be like kicking Michael Jordan off a team, and defended Huang's loyalty to the United States.",
+   "why": "The text offers only a brief quote with little context on the underlying situation, so its broader significance is limited.",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s2cf389d7c3": {
+   "id": "s2cf389d7c3",
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-18T23:45:00+00:00",
+   "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "related": [],
+   "summary": "Satya Nadella said much critical infrastructure is unpatchable amid fears of AI-driven cyberattacks, downplaying a recent Outlook outage.",
+   "why": "Highlights that legacy infrastructure may be hard to secure against AI-enabled attacks, a risk security and platform leaders must plan for.",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ]
+  },
+  "s6f8f17530b": {
+   "id": "s6f8f17530b",
+   "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+   "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-18T23:58:22+00:00",
+   "description": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents.",
+   "related": [],
+   "summary": "Exa raised embedding throughput by 47% on AWS Inferentia2 and Trainium2 chips using custom NKI kernels to cut document indexing costs.",
+   "why": "Shows concrete cost and performance gains from custom kernels on AWS AI accelerators for large-scale embedding inference.",
+   "topics": [
+    "Infrastructure",
+    "Research"
+   ]
+  },
+  "s1980ba7046": {
+   "id": "s1980ba7046",
+   "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+   "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T00:15:58+00:00",
+   "description": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows how to get started.",
+   "related": [],
+   "summary": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning, with analysis of when it outperforms LoRA on benchmarks.",
+   "why": "Gives engineers benchmark-based guidance on choosing full fine-tuning versus LoRA, plus hyperparameter tuning practices for serverless customization.",
+   "topics": [
+    "Developer tools",
+    "Infrastructure"
+   ]
+  },
+  "sc8a4b2ac13": {
+   "id": "sc8a4b2ac13",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T00:42:56+00:00",
+   "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "related": [],
+   "summary": "Satya Nadella explained that Microsoft offered buyouts to 60,000 employees in October, urging voluntary departures instead of another large layoff.",
+   "why": "Signals how a major tech employer is using AI-era workforce restructuring instead of mass layoffs, which matters to tech leaders planning headcount.",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s07bd5650af": {
+   "id": "s07bd5650af",
+   "title": "AI will not make you rich (2025)",
+   "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-19T01:51:28+00:00",
+   "description": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 63 # Comments: 38",
+   "related": [],
+   "summary": "A Colossus article argues that AI will not make people rich, shared on Hacker News with 63 points and 38 comments.",
+   "why": "The text gives only a title and link metadata, so the article's actual argument is unclear.",
+   "topics": [
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://openai.com/index/our-new-blog-for-science": "s4b0fc5b701",
-  "https://openai.com/index/step-toward-defining-the-standard-model": "s87d7014c15",
-  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market": "sfc91828979",
-  "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup": "s46b48e728e",
-  "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools": "sf7214e14d1",
-  "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health": "sf7214e14d1",
-  "https://www.hntrends.com/2026/november.html": "sa58bd1a86d",
   "https://arxiv.org/abs/2611.17338": "s1b6087c38c",
   "https://arxiv.org/abs/2611.17339": "s4d56c5fc61",
   "https://arxiv.org/abs/2611.17340": "s51ce44c5d0",
@@ -17333,6 +17462,21 @@
   "https://deepmind.google/blog/introducing-gemini-4-neon": "sb898a1b212",
   "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql": "sa8eb0ed9ef",
   "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock": "s44013fe753",
-  "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report": "s54bca3b9a4"
+  "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report": "s54bca3b9a4",
+  "https://openai.com/index/research-acceleration-jagged-frontier": "s9fa731b0ef",
+  "https://openai.com/business/customer-stories/sumitomo-life": "sb527b6f0dd",
+  "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range": "sb7121aa761",
+  "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering": "sf00d83341f",
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard": "s663fa60cff",
+  "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web": "sacb7f96633",
+  "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod": "seacbd26a91",
+  "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit": "s0e23395eb7",
+  "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google": "sb429cb510b",
+  "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team": "s74ced33754",
+  "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable": "s2cf389d7c3",
+  "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips": "s6f8f17530b",
+  "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization": "s1980ba7046",
+  "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit": "sc8a4b2ac13",
+  "https://colossus.com/article/ai-will-not-make-you-rich": "s07bd5650af"
  }
 }

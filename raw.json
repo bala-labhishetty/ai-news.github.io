@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-19T21:40:35.932166+00:00",
+ "updated": "2026-11-20T03:22:47.496767+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T00:56:01+00:00",
+   "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+  },
+  {
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T00:43:50+00:00",
+   "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+   "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T00:34:07+00:00",
+   "description": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26."
+  },
+  {
+   "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T00:33:30+00:00",
+   "description": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request."
+  },
+  {
+   "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+   "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T23:02:16+00:00",
+   "description": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with sources."
+  },
+  {
+   "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+   "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-19T22:56:59+00:00",
+   "description": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 53 # Comments: 15"
+  },
+  {
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-19T22:31:41+00:00",
+   "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]"
+  },
+  {
+   "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T22:20:23+00:00",
+   "description": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance."
+  },
+  {
+   "title": "Run your whole selling business in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T22:16:22+00:00",
+   "description": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it."
+  },
+  {
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-19T21:59:35+00:00",
+   "description": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]"
+  },
+  {
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T21:58:06+00:00",
+   "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+  },
+  {
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T21:42:31+00:00",
+   "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+  },
   {
    "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
    "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
@@ -75,7 +171,7 @@
    "description": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices run on the Amazon Polly generative engine and support seven languages."
   },
   {
-   "title": "Anthropic’s IPO could deliver $156 billion to charity",
+   "title": "Anthropic’s IPO could deliver $156B to charity",
    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
    "source": "TechCrunch",
    "category": "Industry",
@@ -89,6 +185,14 @@
    "category": "Cloud & Enterprise",
    "published": "2026-11-19T18:48:55+00:00",
    "description": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads."
+  },
+  {
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-19T18:47:16+00:00",
+   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 86 # Comments: 151"
   },
   {
    "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
@@ -192,7 +296,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:54:25+00:00",
-   "description": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 102 # Comments: 39"
+   "description": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 127 # Comments: 48"
   },
   {
    "title": "Anthropic starts trading on Wall Street",
@@ -208,7 +312,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:45:50+00:00",
-   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 78 # Comments: 39"
+   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 122 # Comments: 60"
   },
   {
    "title": "Fuck Your AI Safeguards",
@@ -216,7 +320,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:30:18+00:00",
-   "description": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 358 # Comments: 137"
+   "description": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 493 # Comments: 202"
   },
   {
    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
@@ -240,7 +344,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T15:38:12+00:00",
-   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 182 # Comments: 167"
+   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 217 # Comments: 195"
   },
   {
    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
@@ -304,7 +408,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T12:17:10+00:00",
-   "description": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 101 # Comments: 156"
+   "description": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 102 # Comments: 158"
   },
   {
    "title": "How to tell a cyberattack from a plain old outage",
@@ -2297,110 +2401,6 @@
    "category": "Research",
    "published": "2026-11-19T05:00:00+00:00",
    "description": "arXiv:2608.04590v2 Announce Type: replace Abstract: The growing deployment of delay-tolerant networks (DTNs) has made store-carry-forward (SCF) communication indispensable for operating under sparse intermittent connectivity. However, intermittent contact opportunities, finite node buffers, and limited message time-to-live (TTL) degrade message delivery performance and induce network congestion. Yet unmanned aerial vehicles (UAVs), with extended radio coverage and controllable trajectories, can bridge ground-node pairs that would otherwise suffer poor connectivity. Nevertheless, conventional routing schemes decouple UAV motion control from message replication, and consequently fail to leverage UAV mobility to proactively create future contact opportunities. This paper presents JUDOR (Joint"
-  },
-  {
-   "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
-   "link": "https://arxiv.org/abs/2608.06400",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2608.06400v2 Announce Type: replace Abstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing prompts to specialized experts and characterizing experts through examples with high routing weights. However, routing weights only reveal which prompts an expert $\\textit{receives}$, not how it $\\textit{judges}$ responses, providing only a partial account of expert behavior. We therefore propose $\\textbf{Co}$ntribution-$\\textbf{Co}$ntrast ($\\textbf{CoCo}$) response-level interpretation, which faithfully characterizes experts' roles using chosen-rejected response pairs with the largest contribution contrasts, jointly"
-  },
-  {
-   "title": "Linearized 2-Simplicial Attention",
-   "link": "https://arxiv.org/abs/2608.09307",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2608.09307v2 Announce Type: replace Abstract: We present a linearized form of 2-simplicial attention by rewriting the trilinear score as an inner product between a composite query and a key, so that the sum over keys takes the same form as ordinary softmax attention. We then approximate this sum with positive random features and store all previous keys in a fixed-size state, while the sum over second keys stays exact over all previous tokens. This reduces the cost from cubic to quadratic in sequence length, and both keys range over all previous tokens, which windowed 2-simplicial attention does not allow. We implement it with custom Triton kernels and combine it with Kimi Delta Attention to build a model with no softmax attention at all. With 15B equal training tokens on FineWeb-Edu,"
-  },
-  {
-   "title": "Meta$^n$: Recursive Self-Improvement through Emergent Depth",
-   "link": "https://arxiv.org/abs/2608.24735",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2608.24735v2 Announce Type: replace Abstract: Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own editing machinery untouched to stay stable, capping the meta-depth they realize at roughly two. We present Meta$^n$, which keeps the meta-operation fixed and recurses on its input instead. That operation, $\\Omega$, is applied repeatedly to its own products, reading the traces of the solver stack below together with the code that produced them, then writing the next layer as a strategic pre-process and a library of callable helpers. Because $\\Omega$ never changes, it cannot destabilize the system, and because its input strictly grows, each lay"
-  },
-  {
-   "title": "MAP: A Benchmark on Multimodal Accessibility Planning for Real World Places",
-   "link": "https://arxiv.org/abs/2608.28384",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2608.28384v2 Announce Type: replace Abstract: We introduce MAP, the first benchmark to evaluate multimodal AI systems as assistants for users with accessibility requirements when planning visits to places in the real world. In our evaluation, systems are presented with requests to verify or recommend a point of interest meeting an accessibility requirement. MAP contains two novel assessments: Claim verification for accessibility planning assesses if information on places and stated accessibility features is supported and identifies places that satisfy requested accessibility features. Visual evidence retrieval for accessibility planning checks if a multimodal AI system can select visual evidence for the requested place and accessibility feature. Our methodology supports comparison of"
-  },
-  {
-   "title": "Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts",
-   "link": "https://arxiv.org/abs/2609.18366",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2609.18366v4 Announce Type: replace Abstract: An optimized agent harness can improve on held-out tasks by relying on formatting conventions that those tasks share with the rest of the benchmark. We introduce Counterfactual Harness Search and Evolution (CHASE) to test whether harness improvements survive changes to the evaluation protocol. A Proposer edits the harness around a fixed foundation model. A Challenger then searches for a protocol change that preserves the tasks but reduces the updated harness's gain over the initial harness. Executable checks test whether the transformation preserves task semantics. If the gain loss is confirmed on held-out tasks, CHASE adds the transformation to an archive that constrains subsequent harness updates. We give conditions under which this fin"
-  },
-  {
-   "title": "RiskWorld: Risk-Aware World Modeling with Flow-Guided Occupancy Evolution for Selective Trajectory Planning in Automated Driving",
-   "link": "https://arxiv.org/abs/2609.18442",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2609.18442v2 Announce Type: replace Abstract: Safe motion planning in automated driving requires anticipating evolving traffic risks and deciding when to revise the current planned trajectory. We introduce RiskWorld, a risk-aware world modeling framework for shared occupancy forecasting and selective trajectory replacement. Spatial risk fields and temporal actor context are fused with visual bird's-eye-view features. Flow-guided evolution transports occupancy and scene features, while signed residuals correct occupancy after transport. One forecast is generated per planning step and reused across candidates. Each candidate is compared with a current-state persistence reference, yielding a nonnegative collision-score correction. The trajectory selected by current-world evaluation serv"
-  },
-  {
-   "title": "WorkWorlds: Evaluating Agents in a Company Built Before the Task",
-   "link": "https://arxiv.org/abs/2609.23806",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2609.23806v3 Announce Type: replace Abstract: Many knowledge work benchmarks are built around single tasks, where the context and files for each task are selected concurrently or after task definition. Research has argued that this construction method does not reflect real workplace work, yet the impact has never been measured under controlled conditions. To compare the two constructions under controlled conditions, we introduce WorkWorlds, an infrastructure that modularizes company components into revision, date, and employee seat to be separately adjusted. Using historical data donated by a real company, we reconstructed a pharmaceutical company, PharmaCo. Two experts with over ten years of industry experience each wrote eight tasks based on real events that occurred at the company"
-  },
-  {
-   "title": "Neoadjuvant chemotherapy response prediction using pretreatment diffusion and contrast-enhanced magnetic resonance imaging with clinical variables",
-   "link": "https://arxiv.org/abs/2609.26105",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2609.26105v2 Announce Type: replace Abstract: Prediction of pathological complete response before neoadjuvant chemotherapy may facilitate more tailored therapeutic planning for breast cancer patients. This work proposes a deep-learning model for pretreatment data only, combining apparent diffusion coefficient maps, dynamic contrast-enhanced magnetic resonance imaging, and clinical variables. The study uses the public ACRIN 6698/I-SPY2 multicenter dataset. The architecture employs EfficientNet-B0 pretrained encoders for image feature extraction and late fusion with clinical information. Multiple clinical variables were evaluated, including age, race, histological type, HR/HER2 subtype, SBR grade, and maximum diameter. Only HR/HER2 subtype improved the average area under the receiver o"
-  },
-  {
-   "title": "Cost-Efficient LLM Evaluation: A Framework for Narrow Confidence Intervals Under Fixed Budgets",
-   "link": "https://arxiv.org/abs/2609.29140",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2609.29140v2 Announce Type: replace Abstract: Large language models (LLMs) play an increasingly important role in both academic research and industry. Reliable evaluation helps researchers understand model capabilities and assess progress during model development. However, evaluation can be costly, and researchers often need to assess performance within a fixed budget. Because model outputs can vary across runs, this budget must be allocated between testing different tasks and repeating selected tasks. A confidence interval quantifies the uncertainty in the resulting performance estimate. Obtaining narrower intervals at the same confidence level and evaluation cost provides a more precise assessment of model performance, helping researchers draw clearer conclusions from limited obser"
-  },
-  {
-   "title": "What Does a Harness Buy? Tokens, Mostly",
-   "link": "https://arxiv.org/abs/2610.04433",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2610.04433v2 Announce Type: replace Abstract: A coding agent is a language model inside a harness: the system prompt, the tools, and the context management that let a chat model work in a repository. Most of the engineering on these agents goes into the harness, and vendors and leaderboards credit it with score gains. Earlier studies have fixed the model and swapped the harness, but have not measured whether the swap changes the pass rate more than running the same harness again. We run seven models through three production harnesses, Claude Code, mini-SWE-agent, and OpenCode, on SWE-bench Verified and two benchmarks of other kinds, and rerun them unchanged. No harness leads consistently across models. Where the data can bound the difference between two harnesses, the bound is 2 to 5"
-  },
-  {
-   "title": "CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use",
-   "link": "https://arxiv.org/abs/2610.09127",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2610.09127v2 Announce Type: replace Abstract: Reconstructing an editable CAD model from a 3D shape remains a challenging engineering task. Existing methods can propose CAD operations, but no single source of proposals works equally well across different part geometries and stages of reconstruction. We introduce CADFather, an autonomous agentic system that coordinates complementary tools to recover parametric CAD programs from 3D meshes. A vision-language assistant inspects renders of the target and intermediate reconstructions, then decides which candidate CAD programs to extend, which tools to invoke, how many proposals to generate, and when to finish. Learned and algorithmic tools propose CAD operations, while numerical optimization refines the parameters of existing programs. Prop"
-  },
-  {
-   "title": "MemeLogos: Knowledge-Driven Retrieval-Augmented Reasoning for Harmful Meme Detection",
-   "link": "https://arxiv.org/abs/2610.15463",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2610.15463v3 Announce Type: replace Abstract: With the rapid proliferation of social media, harmful memes have become a growing threat to online ecosystems. Their harmfulness is often implicitly conveyed through complex interactions among visual, textual, and contextual cues, making accurate detection challenging. Recent studies have introduced Retrieval-Augmented Generation (RAG) and external knowledge into harmful meme detection. However, existing methods mainly retrieve similar instances or auxiliary information, limiting their ability to capture reusable harmfulness knowledge and underlying reasoning mechanisms, and thus constraining both detection performance and interpretability. To address these challenges, we propose MemeLogos, a knowledge-driven retrieval-augmented reasoning"
-  },
-  {
-   "title": "Toward Agentic Retrieval-Augmented Generation for Enterprise Retail Workflows over Heterogeneous Data Sources",
-   "link": "https://arxiv.org/abs/2610.25096",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-19T05:00:00+00:00",
-   "description": "arXiv:2610.25096v3 Announce Type: replace Abstract: Enterprise retail workflows require agents to chain evidence across heterogeneous sources, from structured product and order records to unstructured inquiries and reviews, yet existing agentic RAG benchmarks rarely capture this challenge. To enable controlled evaluation of such workflows, we introduce RetailBridge, a compositional retail benchmark built from persona-driven simulations. Its questions are constructed by linking entities and intermediate answers across heterogeneous sources, requiring agents to identify the relevant sources, carry evidence between them, and produce a grounded answer. To systematically evaluate LLMs on these retail workflows, we develop RetailRAG, a retail-aware framework equipped with auto-schema briefing, s"
   }
  ]
 }

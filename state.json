@@ -1,118 +1,5 @@
 {
  "stories": {
-  "s0761da68e5": {
-   "id": "s0761da68e5",
-   "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-   "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-16T21:53:46+00:00",
-   "description": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.",
-   "related": [],
-   "summary": "AWS publishes a taxonomy of multi-agent design patterns and anti-patterns, drawing on manufacturing lessons, plus a framework for deciding when multiple agents are warranted.",
-   "why": "Treats multi-agent coordination as a distributed systems problem, offering practical guidance on when to use multiple agents and how to keep costs and reliability in check.",
-   "topics": [
-    "Agents",
-    "Research",
-    "Infrastructure"
-   ]
-  },
-  "s51273f0e0c": {
-   "id": "s51273f0e0c",
-   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-   "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-16T22:03:02+00:00",
-   "description": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-   "related": [],
-   "summary": "Nvidia interim CEO Colette Kress faces questions ahead of the company's third-quarter results report on Tuesday, amid turmoil at the company.",
-   "why": "Nvidia's results and leadership situation bear on GPU supply, pricing, and AI infrastructure spending plans.",
-   "topics": [
-    "Funding",
-    "Infrastructure"
-   ]
-  },
-  "s94ec9ff9d4": {
-   "id": "s94ec9ff9d4",
-   "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-16T22:06:08+00:00",
-   "description": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
-   "related": [],
-   "summary": "Duco, a financial data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and AgentCore, reporting 10x faster reconciliation deployment and 70% lower onboarding costs.",
-   "why": "Shows a production multi-tenant agent architecture with per-tenant isolation, multi-model use, and MCP skills that cut context overhead by 90%.",
-   "topics": [
-    "Agents",
-    "Enterprise",
-    "Infrastructure"
-   ]
-  },
-  "sd218f9a95b": {
-   "id": "sd218f9a95b",
-   "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
-   "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-16T22:43:30+00:00",
-   "description": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.",
-   "related": [],
-   "summary": "AWS published a guide to building multi-user AI agents on Amazon Bedrock that use Agentic Retrieve, managed knowledge base and AgentCore memory for private, permission-aware recall.",
-   "why": "Shows how to enforce per-user document access and private long-term memory in agent applications using managed AWS services.",
-   "topics": [
-    "Agents",
-    "Developer tools"
-   ]
-  },
-  "s8617ffe05c": {
-   "id": "s8617ffe05c",
-   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-   "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-16T23:00:05+00:00",
-   "description": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
-   "related": [],
-   "summary": "NVIDIA introduced the DGX Spark HPC Developer Kit at SC26, a four-node ring cluster of DGX Spark systems for researchers, academics and developers.",
-   "why": "Gives developers a compact, desk-sized cluster for HPC work, with an HPC SDK installation playbook planned.",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ]
-  },
-  "sa594247297": {
-   "id": "sa594247297",
-   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-16T23:17:34+00:00",
-   "description": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
-   "related": [],
-   "summary": "Tech leaders are calling for Jensen Huang's reinstatement at Nvidia after his resignation following 33 years, with some backing a theory that it was a plot.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "sbec78e9702": {
-   "id": "sbec78e9702",
-   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-   "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-16T23:32:32+00:00",
-   "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-   "related": [],
-   "summary": "AI cybersecurity startup Corma raised a $125 million Series A at a $1 billion valuation led by NEA, about three months after launching its product.",
-   "why": "Signals strong investor appetite for AI-driven security tools, and rapid valuation growth for early-stage security startups.",
-   "topics": [
-    "Funding",
-    "Safety"
-   ]
-  },
   "s18304d25cb": {
    "id": "s18304d25cb",
    "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
@@ -16132,16 +16019,205 @@
     "Infrastructure",
     "Products"
    ]
+  },
+  "s774f7412d1": {
+   "id": "s774f7412d1",
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-19T18:47:16+00:00",
+   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 86 # Comments: 151",
+   "related": [],
+   "summary": "Jacob Coxon and Robin Hanson debate in a video whether governments should slow frontier AI development.",
+   "why": "",
+   "topics": [
+    "Regulation",
+    "Safety"
+   ]
+  },
+  "s52653ae3ad": {
+   "id": "s52653ae3ad",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T21:42:31+00:00",
+   "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "related": [],
+   "summary": "Recent outages across airline booking, banking, and productivity platforms are being compared to Y2K, with cybersecurity experts suggesting a possible deeper cause tied to AI agents.",
+   "why": "Cybersecurity experts point to a possible link between these outages and AI agents, which matters for teams assessing agent-related operational risk.",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ]
+  },
+  "se60f4e5e7c": {
+   "id": "se60f4e5e7c",
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T21:58:06+00:00",
+   "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+   "related": [],
+   "summary": "Meta has not denied a report from The Information that its upcoming Muse Charm AI wearable may cost $300, saying only it will share more soon.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s74e2df7789": {
+   "id": "s74e2df7789",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-19T21:59:35+00:00",
+   "description": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+   "related": [],
+   "summary": "Nvidia's stock fell to around $150 per share, nearly 40 percent below its October 6 all-time high, after interim CEO Colette Kress's third-quarter earnings call.",
+   "why": "A sharp drop in the leading AI chip maker's valuation after earnings is a signal for investors and infrastructure buyers tracking AI hardware demand.",
+   "topics": [
+    "Funding",
+    "Infrastructure"
+   ]
+  },
+  "sb555cb95b6": {
+   "id": "sb555cb95b6",
+   "title": "Run your whole selling business in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T22:16:22+00:00",
+   "description": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it.",
+   "related": [],
+   "summary": "AWS describes bringing a seller's existing tools and information together in AWS Quick so sellers can see and act on their business.",
+   "why": "",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
+  },
+  "s50979d7393": {
+   "id": "s50979d7393",
+   "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T22:20:23+00:00",
+   "description": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
+   "related": [],
+   "summary": "BMW Group shares the practices its R&D teams use to build, govern, and operate hundreds of AI agents serving thousands of developers at enterprise scale.",
+   "why": "It offers concrete governance patterns for teams running many agents while keeping speed, quality, and compliance.",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ]
+  },
+  "sa22c687c43": {
+   "id": "sa22c687c43",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-19T22:31:41+00:00",
+   "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+     "title": "Apple may be developing its own AI agent that runs your Mac"
+    }
+   ],
+   "summary": "According to a job listing reported by Bloomberg, Apple is hiring engineers to build its own agentic AI assistant that can browse, work across apps, write code, and call services.",
+   "why": "Apple entering the agent race could expand the platform of consumer agents that developers may need to integrate with.",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
+  },
+  "sb39c0e9228": {
+   "id": "sb39c0e9228",
+   "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+   "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-19T22:56:59+00:00",
+   "description": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 53 # Comments: 15",
+   "related": [],
+   "summary": "A court reportedly ruled that the Fourth Amendment does not permit use of AI-generated probable cause.",
+   "why": "",
+   "topics": [
+    "Regulation"
+   ]
+  },
+  "se2069ba493": {
+   "id": "se2069ba493",
+   "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+   "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-19T23:02:16+00:00",
+   "description": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with sources.",
+   "related": [],
+   "summary": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, letting agents discover and pay per request for x402-enabled products billed to the AWS account.",
+   "why": "Agents can buy paid APIs and data through AWS Billing without stablecoin wallets or API keys, reducing payment integration work for agent builders.",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
+  },
+  "sc7569a295c": {
+   "id": "sc7569a295c",
+   "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T00:33:30+00:00",
+   "description": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.",
+   "related": [],
+   "summary": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, letting users run the open source coding agent with models such as Kimi K3.1 Pro via AWS credentials.",
+   "why": "Developers can use existing AWS credential chains instead of a separate API key, simplifying access to open models from a coding agent.",
+   "topics": [
+    "Developer tools",
+    "Open source"
+   ]
+  },
+  "sd47187ac7d": {
+   "id": "sd47187ac7d",
+   "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T00:34:07+00:00",
+   "description": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
+   "related": [],
+   "summary": "AWS published part two of its review of 2026 Amazon SageMaker AI inference launches, covering 13 more features and bringing the year's total to 26.",
+   "why": "It catalogs new options for GPU packing, multi-instance model serving, and cross-Region routing that engineers deploying inference on SageMaker can evaluate.",
+   "topics": [
+    "Infrastructure",
+    "Products"
+   ]
+  },
+  "s4aacf31011": {
+   "id": "s4aacf31011",
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T00:43:50+00:00",
+   "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "related": [],
+   "summary": "Anthropic's IPO priced at an upgraded $83 per share, with each of its seven founders reportedly pocketing $280 million and the company raising nearly $105 billion.",
+   "why": "A record IPO at this scale signals how capital markets are valuing frontier AI labs, which shapes funding and competition across the sector.",
+   "topics": [
+    "Funding",
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing": "s0761da68e5",
-  "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont": "s51273f0e0c",
-  "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore": "s94ec9ff9d4",
-  "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base": "sd218f9a95b",
-  "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": "s8617ffe05c",
-  "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories": "sa594247297",
-  "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months": "sbec78e9702",
   "https://arxiv.org/abs/2611.18642": "s18304d25cb",
   "https://arxiv.org/abs/2611.18714": "sb4f35c6f49",
   "https://arxiv.org/abs/2611.18747": "s403e6ef6d2",
@@ -17161,6 +17237,19 @@
   "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price": "sb0341a0ae3",
   "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia": "s6f86cf22a4",
   "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews": "s8a14aef6a1",
-  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints": "s2fc66815c5"
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints": "s2fc66815c5",
+  "https://www.youtube.com/watch": "s774f7412d1",
+  "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style": "s52653ae3ad",
+  "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300": "se60f4e5e7c",
+  "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings": "s74e2df7789",
+  "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick": "sb555cb95b6",
+  "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers": "s50979d7393",
+  "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing": "sa22c687c43",
+  "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause": "sb39c0e9228",
+  "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments": "se2069ba493",
+  "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock": "sc7569a295c",
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2": "sd47187ac7d",
+  "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo": "s4aacf31011",
+  "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac": "sa22c687c43"
  }
 }

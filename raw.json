@@ -1,7 +1,127 @@
 {
- "updated": "2026-11-20T12:58:29.606957+00:00",
+ "updated": "2026-11-20T21:10:25.559083+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-20T20:59:08+00:00",
+   "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+  },
+  {
+   "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T20:37:31+00:00",
+   "description": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence."
+  },
+  {
+   "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+   "link": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T20:22:00+00:00",
+   "description": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required."
+  },
+  {
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T19:53:41+00:00",
+   "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+  },
+  {
+   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T19:32:08+00:00",
+   "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+  },
+  {
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-20T18:50:19+00:00",
+   "description": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]"
+  },
+  {
+   "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T18:24:06+00:00",
+   "description": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers."
+  },
+  {
+   "title": "The most misunderstood graph in AI just got a major update",
+   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-20T18:15:15+00:00",
+   "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…"
+  },
+  {
+   "title": "Chips can survive the space environment — can their financing?",
+   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T17:40:01+00:00",
+   "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+  },
+  {
+   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T16:59:27+00:00",
+   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 169 # Comments: 117"
+  },
+  {
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-20T16:34:13+00:00",
+   "description": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]"
+  },
+  {
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T14:55:44+00:00",
+   "description": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]"
+  },
+  {
+   "title": "The week everything fell apart",
+   "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-20T14:06:59+00:00",
+   "description": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]"
+  },
+  {
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-20T14:00:00+00:00",
+   "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+  },
+  {
+   "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+   "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T13:29:59+00:00",
+   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 183 # Comments: 214"
+  },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
@@ -9,6 +129,30 @@
    "category": "Industry",
    "published": "2026-11-20T12:30:47+00:00",
    "description": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]"
+  },
+  {
+   "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+   "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T12:16:36+00:00",
+   "description": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 54 # Comments: 58"
+  },
+  {
+   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "link": "https://architectlabs.com/blog/frostbite",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T10:01:41+00:00",
+   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 565 # Comments: 300"
+  },
+  {
+   "title": "Combatting adversarial distillation",
+   "link": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-20T10:00:00+00:00",
+   "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
   },
   {
    "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
@@ -2257,150 +2401,6 @@
    "category": "Research",
    "published": "2026-11-20T05:00:00+00:00",
    "description": "arXiv:2609.39394v2 Announce Type: replace Abstract: Large language models often solve independent problems in the same conversation. Can computation from earlier problems help them solve new ones? Preliminary experiments show that retained history can raise or lower later-turn accuracy, even within the same domain. To trace this effect, we hold each problem fixed and vary its preceding history. The resulting changes in the model's internal states contain a recurring, problem-dependent component. To improve reasoning with retained history, we introduce STAIR (Stale-Token Attention for Inter-query Reuse). It captures attention keys and values from earlier response generation in a read-only bank. STAIR learns to reflect current query vectors to redirect attention over this bank during prompt "
-  },
-  {
-   "title": "MultiWorldBench: Do Independently Controlled Views Describe One Shared World?",
-   "link": "https://arxiv.org/abs/2610.11723",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2610.11723v5 Announce Type: replace Abstract: Multiplayer world models must ensure that independently controlled views remain consistent with a single shared and persistent world. We introduce MultiWorldBench, a diagnostic Minecraft benchmark comprising 495 case configurations across seven task suites and ten capabilities, including independent control, cross-view motion, shared-state synchronization, persistence, structural reasoning, concurrent interaction, and delayed revisit. Using Engine GT as a reference, we evaluate two multiplayer world models, Solaris (MP) and Gamma-World, together with a single-player generation variant, Solaris (SP). Among the generated systems, Gamma-World achieves the highest ten-capability average at 21.39, followed by Solaris (MP) at 20.88 and Solaris "
-  },
-  {
-   "title": "Releasing the Inner Jev: A Simple Recipe for Open Decision Models",
-   "link": "https://arxiv.org/abs/2610.17205",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2610.17205v2 Announce Type: replace Abstract: LLM-based decision-making systems, also called System One models, have recently gained popularity, most notably through Jev (Almeida, 2026). Given a typed input state, a question, and a set of options, they return a calibrated probability for each option in a single forward pass, without text generation. We show that open instruction-tuned LLMs can achieve performance comparable to Jev without any additional training, by reading out answers from letters (A, B, C, etc.) in the model's output logits at the last token position. Next, we propose a simple supervised LoRA fine-tuning recipe that can improve their performance further. We evaluate four instruction-tuned LLMs: Gemma 4 31B, Gemma 4 12B, Qwen3.6-27B, and Qwen3.5-4B. Furthermore, we "
-  },
-  {
-   "title": "ResearchFlow-Eval: Tracing the Execution Gap in End-to-End Multi-Claim Autoresearch",
-   "link": "https://arxiv.org/abs/2610.18088",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2610.18088v3 Announce Type: replace Abstract: Autoresearch systems increasingly undertake entire research projects. In practice, scientific research requires systems to pursue multiple interdependent claims through a continuous, multi-stage workflow and revise experiments as evidence accumulates. Existing evaluations of autoresearch systems, however, typically score isolated tasks or final artifacts, leaving these process-level capabilities largely unmeasured. We therefore introduce ResearchFlow-Eval, a fine-grained framework for assessing continuous scientific execution and iteration at both the stage and claim levels. Each evaluation is grounded in a published anchor paper, from which we derive stage-specific rubrics that decompose each research stage into dimensions and separately"
-  },
-  {
-   "title": "What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation",
-   "link": "https://arxiv.org/abs/2610.30491",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2610.30491v2 Announce Type: replace Abstract: LLM agents are often evaluated by reducing execution traces to labels such as final-answer correctness, tool verification, and fault propagation. These labels are measurements produced by parsers, behavioral detectors, and harness rules, yet evaluations rarely report whether a measurement actually fits the trace it describes. We study what happens when those measurements do not fully capture the trace's behavior. Agents solve GSM8K problems with a calculator whose outputs are occasionally corrupted, which gives ground truth for what the tool returned, what the model later used, and what the detectors reported; a chemistry task with search and retrieval tests the case where the model cannot recompute the tool's output. Across eight models "
-  },
-  {
-   "title": "Noise Steering: Exploiting Wake Steering and Acoustic Directivity for Noise-Constrained Wind Farm Control via Reinforcement Learning",
-   "link": "https://arxiv.org/abs/2610.36888",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2610.36888v3 Announce Type: replace Abstract: Existing noise mitigation strategies for wind farms usually consist in reducing turbines power output, without accounting for the wake interactions between them and the noise emission directivity. This leads to over-conservative policies and unexploited wind power. Yet, turbine yaw can simultaneously affect wake interactions and the direction of noise emission, offering an additional degree of freedom for farm-level noise control. We therefore propose Noise Steering, a model-free reinforcement learning (RL) strategy that jointly controls turbine yaw angles and power setpoints to maximise farm power while satisfying a local noise constraint in a defined region. To enable training at a reduced computational cost, a low-fidelity acoustic mod"
-  },
-  {
-   "title": "Kairos: A Unified PDDL Planner for Robots: Plans in Milliseconds, with a Guarantee for Every Answer",
-   "link": "https://arxiv.org/abs/2610.39454",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2610.39454v2 Announce Type: replace Abstract: Robots that plan while they act need a task planner that reads the models their designers write, answers within milliseconds, and says what each answer means. Models are written in the Planning Domain Definition Language (PDDL), which has grown from classical planning to durative actions, numeric resources, time windows and continuous change, while planners cover one fragment each and differ in what their failures mean. The contribution in artificial intelligence is Kairos, a single planner, not a portfolio of existing planners, that covers the whole language and derives what each answer guarantees from the search that produced it. We prove when the exhaustion of a search shows that no plan exists, and give a relaxation of temporal tasks "
-  },
-  {
-   "title": "The Real Cost of Context: Predicting Compute Time and Energy Consumption in LLM Prefill and Decode Phases",
-   "link": "https://arxiv.org/abs/2610.39621",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2610.39621v2 Announce Type: replace Abstract: The integration of Large Language Models (LLMs) into agentic architectures has substantially increased token consumption, raising concerns about their energy footprint. Yet, estimating the energy consumption of proprietary API-based models remains challenging, and existing approaches focus primarily on generated output tokens while overlooking the impact of the large input contexts characteristic of agentic workflows. To address this gap, we systematically profile compute time and energy consumption across a wide range of prefill (input) and decode (output) token lengths. Using generalized linear models, we show that decode compute time and energy scale linearly with output length, whereas prefill compute time and energy exhibit both line"
-  },
-  {
-   "title": "An Augmented Lagrangian Approach to Lifted Bellman Linear Programming",
-   "link": "https://arxiv.org/abs/2611.14183",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.14183v2 Announce Type: replace Abstract: Temporal-difference critics regress onto a bootstrapped target and usually need a target network. Lifted Bellman Linear Programming (LBLP) instead expresses the in-sample optimal values of offline RL as the solution to a linear program over the dataset. Its neural solver ALBUM relaxes the constraints into hinge penalties with fixed coefficients, and its guarantees are conditions on coefficients chosen in advance. We solve the same program with the method of multipliers: the coefficients become multipliers learned by dual ascent, with one penalty parameter $\\rho$. In the convex case the fixed points are the KKT pairs of LBLP, and at every stationary point the applied constraint weights balance the objective exactly. The critic can serve a "
-  },
-  {
-   "title": "Small Heads, Strong Decisions: A Controlled Study of Typed-Decision Models",
-   "link": "https://arxiv.org/abs/2611.15592",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.15592v4 Announce Type: replace Abstract: In September 2026, TypeSafe announced Jev as the first model in its System One category: unstructured state goes in, and typed, calibrated decisions that software can use directly come out. Jev's architecture and training data are unpublished, but many open typed-decision models have followed. They answer structured questions about a piece of text, such as a yes/no check, a choice among labelled options or a graded score, by reading the text with a language model and scoring the options with a small readout. Each pairs a different readout with a different backbone, training mix and recipe, so it is unclear which design choices matter. We re-implement five readouts and train all of them under one protocol: the same backbone, the same 15 pu"
-  },
-  {
-   "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
-   "link": "https://arxiv.org/abs/2611.17309",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.17309v2 Announce Type: replace Abstract: Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem difficulty, fast training without differentiating through a solver, and interpretable weights that learn the constraints of the puzzle. Here we demonstrate this with a learned version of Hopfield & Tank's energy from the 80s, which we term CRAM, solves 99.996% of Sudoku-Extreme and 100% of Maze-Unique test puzzles after 42 ms and 132 ms of trainin"
-  },
-  {
-   "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
-   "link": "https://arxiv.org/abs/2611.18543",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.18543v2 Announce Type: replace Abstract: Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behavior Cloning (R2BC) addresses this by letting a single demonstrator control one agent at a time while the others execute their current policies. However, the resulting imitation policies are limited by the quality of the demonstrations. We propose Imitation Bootstrapped Multi-Agent Reinforcement Learning (IBMARL), a framework that extends Imitation Bootstrapped Reinforcement Learning (IBRL) to cooperative teams and uses R2BC to train the imitati"
-  },
-  {
-   "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
-   "link": "https://arxiv.org/abs/2611.18714",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.18714v2 Announce Type: replace Abstract: Can AI systems be moral agents? That is, can they undertake actions that can be correctly assessed as morally right or wrong? There is no settled normative criterion of moral agency that applies neatly outside paradigm human cases. Because of the difficulties with a normative account, we instead propose a research program to explore descriptive moral agency. Most basically, we ask, what are the capabilities we humans possess that underlie our moral agency? To do so, we draw on historical scholarship in philosophy and moral psychology to isolate candidate capabilities. Then we suggest refining candidate capabilities so that they are testable in the context of AI systems. Finally, we offer specific empirical recommendations to test AI syste"
-  },
-  {
-   "title": "Controllable Chains of Thought Can Reveal Less, Even Without Evasion Training",
-   "link": "https://arxiv.org/abs/2611.21799",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.21799v2 Announce Type: replace Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though training contains no monitor-evasion examples. In covert side-task evaluations, traces in which a gpt-oss-20b model organism completes the hidden side task contain less monitorable evidence than the base model's. Averaged across evaluations and CoT lengths, weighted by side-task-success counts, the"
-  },
-  {
-   "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-   "link": "https://arxiv.org/abs/2611.21832",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.21832v2 Announce Type: replace Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full research transcript and the ability to run experiments, human auditors mostly fail to distinguish sabotaged from benign research: they achieve an AUROC of 0.59, not significantly better than chance, and fully identify the specific sabotage in only 17% of cases. Despite not being allowed to run experiments,"
-  },
-  {
-   "title": "Think Once, Act Fast: Cost-Effective Recursive Self-Improvement for Decision Model Harness",
-   "link": "https://arxiv.org/abs/2611.22432",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.22432v3 Announce Type: replace Abstract: Fast System-1 models enable responsive actions but struggle with complex or unfamiliar tasks. Large language model (LLM)-based System-2 provides strong reasoning capabilities, yet repeated invocation incurs substantial latency and computational costs. To bridge this gap, we propose JevRSI, a System-1/System-2 collaboration framework that transforms LLM reasoning into transferable decision support through recursive harness improvement. A Jev-style System-1 model enables low-latency action selection, while an asynchronous System-2 LLM develops a modular harness. The harness integrates procedures, state memory, and world models to provide decision contexts spanning the past, present, and future. Utility-driven retrieval selects modules based"
-  },
-  {
-   "title": "Born for the Task: Rethinking Quantum Chemistry with Foresighted Agentic Computing",
-   "link": "https://arxiv.org/abs/2611.22897",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.22897v3 Announce Type: replace Abstract: Quantum chemistry relies on general-purpose software, whose generality leaves many large-scale calculations beyond practical resource budgets. Coding agents make task-specific programs cheap to write, but not efficient ones easy to find: whether a computational strategy is accurate and fast enough becomes clear only after it actually runs at the target scale. We introduce MakoBORN, a foresighted agentic computing framework that synthesizes high performance quantum chemistry programs on demand. MakoBORN anticipates the behavior of each strategy before execution, extrapolating its error from representative small systems and predicting its runtime from the target-scale workload and measured hardware throughputs. Building on these predictions"
-  },
-  {
-   "title": "PhysScope: Agentic Multimodal Physics Reasoning with Grounded Visual Memory",
-   "link": "https://arxiv.org/abs/2611.23010",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.23010v2 Announce Type: replace Abstract: Vision-language models (VLMs) can correctly interpret physics diagrams yet apply constraints outside the states or conditions in which they hold, causing premise errors to propagate through subsequent calculations. We introduce PhysScope, an inference-time visual harness that supports self-correction of these scope mismatches without updating model weights. PhysScope enables the model to link physical scopes directly to its visual observations and explicitly constructs derived views to support reasoning. The harness imposes explicit constraints on state distinctions, conditions, and physical scopes during model reasoning, and checks agent-proposed revisions against sources and scopes. Accepted revisions invalidate registered dependents, t"
-  },
-  {
-   "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-   "link": "https://arxiv.org/abs/2611.23445",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2611.23445v2 Announce Type: replace Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue accuracy by selectively retaining high-precision parameters, the fundamental mechanics of where and why these models collapse remain poorly understood. In this study, we systematically analyze the anatomy of quantization collapse across standard Vision CNNs (including ResNet and EfficientNet backbones) evaluated on the full 50,000-image ImageNet-1k validation set. First, we map the exact progression of degradation, demonstrating that collapse is highly non-linear and concentrated in late-stage"
   }
  ]
 }

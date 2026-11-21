@@ -1,9 +1,41 @@
 {
- "updated": "2026-11-20T21:10:25.559083+00:00",
+ "updated": "2026-11-21T02:21:32.556793+00:00",
  "count": 300,
  "items": [
   {
-   "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+   "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+   "link": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-21T01:06:42+00:00",
+   "description": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude."
+  },
+  {
+   "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+   "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-21T00:14:26+00:00",
+   "description": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent."
+  },
+  {
+   "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T23:07:03+00:00",
+   "description": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them."
+  },
+  {
+   "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T22:35:24+00:00",
+   "description": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink."
+  },
+  {
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
    "source": "Ars Technica",
    "category": "Industry",
@@ -35,7 +67,7 @@
    "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
   },
   {
-   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
    "source": "TechCrunch",
    "category": "Industry",
@@ -75,12 +107,20 @@
    "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
   },
   {
-   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "title": "Google workers tell their employer not to punish schools that don't want AI",
    "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:59:27+00:00",
-   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 169 # Comments: 117"
+   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 267 # Comments: 196"
+  },
+  {
+   "title": "AI is giving everyone the same advice",
+   "link": "https://a90.com/experiments/same-advice/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T16:58:05+00:00",
+   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 59 # Comments: 25"
   },
   {
    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -120,7 +160,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T13:29:59+00:00",
-   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 183 # Comments: 214"
+   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 192 # Comments: 231"
   },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -136,7 +176,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T12:16:36+00:00",
-   "description": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 54 # Comments: 58"
+   "description": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 58 # Comments: 60"
   },
   {
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
@@ -144,7 +184,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T10:01:41+00:00",
-   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 565 # Comments: 300"
+   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 629 # Comments: 328"
   },
   {
    "title": "Combatting adversarial distillation",
@@ -153,6 +193,14 @@
    "category": "AI Labs",
    "published": "2026-11-20T10:00:00+00:00",
    "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+  },
+  {
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "link": "https://signal.org/blog/protecting-your-privacy/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T09:42:16+00:00",
+   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 512 # Comments: 306"
   },
   {
    "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
@@ -2353,54 +2401,6 @@
    "category": "Research",
    "published": "2026-11-20T05:00:00+00:00",
    "description": "arXiv:2609.24974v2 Announce Type: replace Abstract: Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies across domains, instances, and models, a general-purpose agent must either settle for a suboptimal shared harness or route among an ever-growing set of specialized ones. We therefore study agent harness distillation: using a domain- or instance-optimized harness as training-time guidance and transferring the behaviors it induces into model weights, so that its gains survive under a single fixed target harness. The challenge is that the two harnesses differ in action space and available information, so guidance from the optimi"
-  },
-  {
-   "title": "Evaluating Real-Time Voice Agents: A Survey from Component Quality to Grounded Outcomes",
-   "link": "https://arxiv.org/abs/2609.30798",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2609.30798v2 Announce Type: replace Abstract: Real-time voice agents must decide when to speak, recover from disruption, and act only when the conversation requires it. But currently their evaluation is fragmented and is split across speech quality, turn-taking, tool calling, and task completion. We review 136 primary works published up to October 2, 2026, and code each on two axes: the capability an evaluation exercises, namely timing, recovery, grounded outcome, and, where relevant, multiparty conduct; and the strength of its evidence, namely evaluation conditions and grading instrument. The coding locates the gaps. Only 13 of 91 evaluation works check external state or action traces, only 5 of 21 grounded-outcome benchmarks use real human speech, and only 2 of 26 multiparty benchm"
-  },
-  {
-   "title": "DeepEdu-F: A Framework for Efficient and Scalable Agentic LLMs in Vietnamese Education",
-   "link": "https://arxiv.org/abs/2609.31568",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2609.31568v2 Announce Type: replace Abstract: Cloud AI assistants send student data to foreign servers, conflicting with data-sovereignty laws such as Vietnam's Decree 53, and are not grounded in the national curriculum, so they often hallucinate on local content. Self-hosting an open model keeps data on-premise but faces two costs that weight quantization does not remove. An AI tutoring session revisits the same long material every turn, so once prefix caching removes the prefill cost, decoding over a growing KV Cache dominates response time; and grounding the tutor in local knowledge by fine-tuning is too costly to repeat as that knowledge changes. We present DeepEdu-F, a framework for the Vietnamese AI tutor DeepEdu with two components. LastSet selects the critical KV Cache entrie"
-  },
-  {
-   "title": "One Latent, Many Tokens: Jointly Learning Compressed Embeddings for Efficient Language Diffusion",
-   "link": "https://arxiv.org/abs/2609.33698",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2609.33698v2 Announce Type: replace Abstract: Most continuous diffusion language models process one latent position per token at each sampling step, making generation expensive. Two-stage methods lower the cost by reducing the latent length, but they fix the compressed embedding space before training the diffusion model. Embeddings from the fixed space can be difficult to model with diffusion and decode reliably into tokens, which limits generation quality after compression. To address this problem, we introduce JPEG-DLM (Joint-embedding Prediction for Efficient Generation with Diffusion Language Model), which jointly trains a compressor, a flow matching model and a decoding module. With joint-embedding prediction, JPEG-DLM learns compressed embeddings that are more structured, easie"
-  },
-  {
-   "title": "A General Harness for Protein Foundation Model Fitness Prediction",
-   "link": "https://arxiv.org/abs/2609.34654",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2609.34654v2 Announce Type: replace Abstract: Accurate fitness prediction is central to protein engineering and understanding sequence-function relationships. With advances in deep learning, protein foundation models (PFMs) have become widely used for this task. Recent analyses, however, show that these models share preferences reflecting their training corpora, while unreliable inputs can further distort fitness predictions. Family-specific evolutionary evidence and structural context can help address these limitations by providing complementary constraints on model scores, motivating VenusREM-Harness (VRH), a general, model-agnostic, training-free Retrieval-Enhanced Mutation harness. It fuses frozen model scores with multiple sequence alignment (MSA) evidence according to model unc"
-  },
-  {
-   "title": "UpliftMem: Learning Set-Level Uplift for Agent Memory Retrieval",
-   "link": "https://arxiv.org/abs/2609.36805",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2609.36805v2 Announce Type: replace Abstract: Large language model (LLM) agents draw on external memory to guide new tasks, raising the question of which memories to retrieve together to improve execution. Learning set values requires outcome feedback, but evaluating each untested alternative costs an additional rollout. We introduce \\textsc{UpliftMem}, which learns set-level execution uplift relative to the same executor without memory. Our analysis of how retrieval preferences limit feedback coverage motivates targeted probes. Under a correlated Gaussian surrogate, we derive a closed-form expected value of sample information (EVSI) criterion that prioritizes probes by their expected benefit to local retrieval decisions. The feedback trains a shared scorer with the executor frozen, "
-  },
-  {
-   "title": "Can Computation from Earlier Problems Help LLMs Solve New Ones?",
-   "link": "https://arxiv.org/abs/2609.39394",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-20T05:00:00+00:00",
-   "description": "arXiv:2609.39394v2 Announce Type: replace Abstract: Large language models often solve independent problems in the same conversation. Can computation from earlier problems help them solve new ones? Preliminary experiments show that retained history can raise or lower later-turn accuracy, even within the same domain. To trace this effect, we hold each problem fixed and vary its preceding history. The resulting changes in the model's internal states contain a recurring, problem-dependent component. To improve reasoning with retained history, we introduce STAIR (Stale-Token Attention for Inter-query Reuse). It captures attention keys and values from earlier response generation in a read-only bank. STAIR learns to reflect current query vectors to redirect attention over this bank during prompt "
   }
  ]
 }

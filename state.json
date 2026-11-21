@@ -1,254 +1,5 @@
 {
  "stories": {
-  "s8e21326b77": {
-   "id": "s8e21326b77",
-   "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
-   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-17T21:11:51+00:00",
-   "description": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke, and verify it on single model and inference component endpoints.",
-   "related": [],
-   "summary": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, which sends each request to the instance holding the longest cached prompt match.",
-   "why": "Routing to cached prefixes can reduce redundant computation for LLM inference, and teams can compare it with prefix-aware routing before enabling it.",
-   "topics": [
-    "Infrastructure",
-    "Products"
-   ]
-  },
-  "s6dbfd2c16f": {
-   "id": "s6dbfd2c16f",
-   "title": "Cut generative AI costs: Code for rules, models for judgment",
-   "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-17T21:14:55+00:00",
-   "description": "The biggest cost lever in a generative AI system is whether you call a model at all. Learn how to decide whether each workflow step needs a model, and map each option to AWS: deterministic code, a constrained decision call, or a right-sized model on Amazon Bedrock.",
-   "related": [],
-   "summary": "AWS guidance advises deciding whether each generative AI workflow step needs a model, mapping steps to deterministic code, constrained decision calls, or right-sized Bedrock models.",
-   "why": "Avoiding unnecessary model calls is often the biggest cost lever, so architects should classify each step before defaulting to an LLM.",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ]
-  },
-  "sf378d4ace0": {
-   "id": "sf378d4ace0",
-   "title": "Google joins the tech outage trend by announcing it’s not having one",
-   "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-17T21:34:50+00:00",
-   "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-   "related": [],
-   "summary": "Google publicly stated that Gmail is working normally amid a broader wave of tech outages.",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ]
-  },
-  "s7465bbc4c9": {
-   "id": "s7465bbc4c9",
-   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-   "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-17T21:40:59+00:00",
-   "description": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]",
-   "related": [],
-   "summary": "Nvidia announced its Q3 earnings through interim CEO Colette Kress without initially addressing Jensen Huang's departure, and the board said it does not intend to reinstate him.",
-   "why": "Leadership changes at a key AI hardware supplier are relevant to buyers assessing vendor stability, though the article gives limited operational detail.",
-   "topics": [
-    "Enterprise",
-    "Infrastructure"
-   ]
-  },
-  "s28fff23dec": {
-   "id": "s28fff23dec",
-   "title": "SEC reportedly investigating Nvidia amid Huang exit",
-   "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-17T21:48:07+00:00",
-   "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-   "related": [],
-   "summary": "The SEC is reportedly opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy.",
-   "why": "Leadership turmoil and regulatory scrutiny at Nvidia, the dominant AI chip supplier, could affect supply, partnerships, and planning for AI infrastructure buyers.",
-   "topics": [
-    "Regulation",
-    "Enterprise"
-   ]
-  },
-  "sb397f013e7": {
-   "id": "sb397f013e7",
-   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-   "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-17T22:29:05+00:00",
-   "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-   "related": [],
-   "summary": "Amazon and Google will together hold nearly 30% of Anthropic after its IPO, with Amazon just under 15% and Google nearly 14%.",
-   "why": "Large cloud provider stakes in Anthropic signal deepening ties between major cloud platforms and a leading model developer.",
-   "topics": [
-    "Funding",
-    "Models"
-   ]
-  },
-  "se76baf1a12": {
-   "id": "se76baf1a12",
-   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-   "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-17T22:32:16+00:00",
-   "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-   "related": [],
-   "summary": "Hundreds of websites are reportedly delivering a malware bundle that includes cryptocurrency theft payloads and iOS exploits to visitors.",
-   "why": "Compromised websites serving multi-purpose malware can reach developers and employees, so web and endpoint defenses should account for drive-by delivery.",
-   "topics": [
-    "Safety"
-   ]
-  },
-  "s2c0a64e08e": {
-   "id": "s2c0a64e08e",
-   "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
-   "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-17T22:44:51+00:00",
-   "description": "As production agents on Amazon Bedrock AgentCore process multi-megabyte JSON payloads, token costs and latency climb. This post shares three composable strategies: offloading heavy artifacts to Amazon S3, on-demand result paging, and dictionary compaction. Together they cut per-turn token use by up to 71% and latency by up to 80%.",
-   "related": [],
-   "summary": "AWS describes three composable strategies for Bedrock AgentCore agents: S3 offloading, on-demand result paging, and dictionary compaction, cutting per-turn tokens up to 71%.",
-   "why": "Multi-megabyte JSON payloads inflate token costs and latency in production agents, and these techniques offer concrete levers to reduce both.",
-   "topics": [
-    "Agents",
-    "Infrastructure"
-   ]
-  },
-  "s6e090bb95c": {
-   "id": "s6e090bb95c",
-   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-17T21:16:12+00:00",
-   "description": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 92 # Comments: 152",
-   "related": [],
-   "summary": "Harvard researchers report that AI coding agents have shifted the development bottleneck to code review.",
-   "why": "Suggests teams adopting coding agents may need to invest in review capacity and processes rather than just code generation.",
-   "topics": [
-    "Research",
-    "Agents"
-   ]
-  },
-  "s8f07365d37": {
-   "id": "s8f07365d37",
-   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-17T23:04:35+00:00",
-   "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-   "related": [],
-   "summary": "Nvidia's interim CEO reaffirmed the company's open source AI strategy and said it plans to acquire Hugging Face after Jensen Huang's exit.",
-   "why": "A planned Hugging Face acquisition would put a major open model hub under Nvidia, which matters for teams relying on open model distribution.",
-   "topics": [
-    "Open source",
-    "Funding"
-   ]
-  },
-  "s206b86c970": {
-   "id": "s206b86c970",
-   "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
-   "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-17T23:33:26+00:00",
-   "description": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for distributed inference, with multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery. Serve large models across many nodes without building the orchestration layer yourself.",
-   "related": [],
-   "summary": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo, adding multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery.",
-   "why": "Lets teams serve large models across many nodes on managed infrastructure without building their own orchestration layer.",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ]
-  },
-  "s8239fbdc62": {
-   "id": "s8239fbdc62",
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-17T23:37:48+00:00",
-   "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-   "related": [],
-   "summary": "Nvidia's interim CEO said the company will stop selling chips to China following Jensen Huang's ouster.",
-   "why": "Removing a major market could tighten GPU supply dynamics and change pricing and availability for teams relying on Nvidia hardware.",
-   "topics": [
-    "Infrastructure"
-   ]
-  },
-  "s19bce111d0": {
-   "id": "s19bce111d0",
-   "title": "Satya Nadella says he’s AGI-pilled now",
-   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-17T23:41:18+00:00",
-   "description": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
-   "related": [],
-   "summary": "Microsoft CEO Satya Nadella says he is 'AGI-pilled', focusing on how AI could reshape economic structure and politics.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  "s9f7286d0bf": {
-   "id": "s9f7286d0bf",
-   "title": "Nvidia promises that revenue will keep soaring — for now",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T00:16:50+00:00",
-   "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-   "related": [],
-   "summary": "Nvidia projected that its streak of record-breaking revenue will continue despite turmoil after founder and CEO Jensen Huang's departure.",
-   "why": "Indicates Nvidia's near-term revenue outlook remains strong despite leadership upheaval, relevant for suppliers and customers planning around its hardware.",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "s695d1f9a1c": {
-   "id": "s695d1f9a1c",
-   "title": "Google's AI answers reducing search traffic by 40%",
-   "link": "https://revscope.co/blog/search-seo-geo-2026/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-18T00:17:58+00:00",
-   "description": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 182 # Comments: 127",
-   "related": [],
-   "summary": "A Hacker News post links to a blog claiming Google's AI answers have cut search traffic by 40%.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  "sbc1083d540": {
-   "id": "sbc1083d540",
-   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T01:44:21+00:00",
-   "description": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-   "related": [],
-   "summary": "Nvidia's private investment stakes have nearly tripled in nine months to about $65B, driven by Jensen Huang's dealmaking and rising portfolio valuations, but future deals are uncertain after his exit.",
-   "why": "Signals that Nvidia's investment pipeline, a major force in AI funding, may slow under new leadership, affecting startups that depend on its capital.",
-   "topics": [
-    "Funding"
-   ]
-  },
   "sbcd79b1222": {
    "id": "sbcd79b1222",
    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -15945,25 +15696,105 @@
     "Safety",
     "Infrastructure"
    ]
+  },
+  "sc4ca83ba57": {
+   "id": "sc4ca83ba57",
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "link": "https://signal.org/blog/protecting-your-privacy/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T09:42:16+00:00",
+   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 512 # Comments: 306",
+   "related": [],
+   "summary": "Signal published a blog post calling for restrictions on AI agents in mobile operating systems that capture user data.",
+   "why": "Mobile developers and tech leaders should watch how OS platforms limit agent access to app and user data, which affects product design and privacy compliance.",
+   "topics": [
+    "Safety",
+    "Regulation"
+   ]
+  },
+  "s9d9e2c9f2c": {
+   "id": "s9d9e2c9f2c",
+   "title": "AI is giving everyone the same advice",
+   "link": "https://a90.com/experiments/same-advice/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T16:58:05+00:00",
+   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 59 # Comments: 25",
+   "related": [],
+   "summary": "A Hacker News post links to an article arguing that AI tools give everyone the same advice.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s5259c7996b": {
+   "id": "s5259c7996b",
+   "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T22:35:24+00:00",
+   "description": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
+   "related": [],
+   "summary": "Amazon SageMaker HyperPod launches Global Inference Gateway, a single managed endpoint that routes inference requests across clusters within or across Regions with automatic failover.",
+   "why": "Teams serving models across multiple HyperPod clusters can use one endpoint with automatic failover and SigV4/IAM authentication over PrivateLink.",
+   "topics": [
+    "Infrastructure",
+    "Products"
+   ]
+  },
+  "s668baa7101": {
+   "id": "s668baa7101",
+   "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-20T23:07:03+00:00",
+   "description": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them.",
+   "related": [],
+   "summary": "Amazon SageMaker HyperPod introduces managed cluster extensions for observability and user management on Slurm cluster nodes, configurable declaratively via API or console.",
+   "why": "Platform teams running shared Slurm clusters can manage monitoring and user access through managed extensions instead of custom node software.",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ]
+  },
+  "se1b0c4ede4": {
+   "id": "se1b0c4ede4",
+   "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+   "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-21T00:14:26+00:00",
+   "description": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
+   "related": [],
+   "summary": "AWS published a guide to the distributed KV caching skill in the Agent Toolkit for AWS, which uses Amazon ElastiCache to cache LLM context for self-hosted models.",
+   "why": "The post claims up to 40% lower inference cost and up to 80% faster time to first token for self-hosted LLMs, relevant to teams running GPU inference.",
+   "topics": [
+    "Infrastructure",
+    "Developer tools"
+   ]
+  },
+  "s3628ce26a7": {
+   "id": "s3628ce26a7",
+   "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+   "link": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-21T01:06:42+00:00",
+   "description": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude.",
+   "related": [],
+   "summary": "AWS Quick adds capabilities including chat-based business-process flows, an updated web app, multi-agent answers, and new data connectors such as Meta ads and Amplitude.",
+   "why": "Engineers building on AWS Quick get new flow, agent, and data-source options that could reduce custom integration work for business teams.",
+   "topics": [
+    "Products",
+    "Agents",
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing": "s8e21326b77",
-  "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment": "s6dbfd2c16f",
-  "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one": "sf378d4ace0",
-  "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang": "s7465bbc4c9",
-  "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit": "s28fff23dec",
-  "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo": "sb397f013e7",
-  "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites": "se76baf1a12",
-  "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads": "s2c0a64e08e",
-  "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review": "s6e090bb95c",
-  "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit": "s8f07365d37",
-  "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference": "s206b86c970",
-  "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster": "s8239fbdc62",
-  "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now": "s19bce111d0",
-  "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now": "s9f7286d0bf",
-  "https://revscope.co/blog/search-seo-geo-2026": "s695d1f9a1c",
-  "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt": "sbc1083d540",
   "https://arxiv.org/abs/2611.21682": "sbcd79b1222",
   "https://arxiv.org/abs/2611.21799": "s7a9e51a5ea",
   "https://arxiv.org/abs/2611.21827": "s9c46afe5a3",
@@ -16963,6 +16794,12 @@
   "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building": "s59fa562eab",
   "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents": "se9ec780811",
   "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai": "sdc26abff63",
-  "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate": "s6e086317ff"
+  "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate": "s6e086317ff",
+  "https://signal.org/blog/protecting-your-privacy": "sc4ca83ba57",
+  "https://a90.com/experiments/same-advice": "s9d9e2c9f2c",
+  "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters": "s5259c7996b",
+  "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm": "s668baa7101",
+  "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill": "se1b0c4ede4",
+  "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together": "s3628ce26a7"
  }
 }

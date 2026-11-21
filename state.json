@@ -1,291 +1,5 @@
 {
  "stories": {
-  "sda6c827add": {
-   "id": "sda6c827add",
-   "title": "Suno now lets you make AI videos for your AI music",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-18T11:16:53+00:00",
-   "description": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals […]",
-   "related": [],
-   "summary": "Suno launched Visuals, a feature that generates AI video clips synced to lyrics and images for thumbnails and album art.",
-   "why": "",
-   "topics": [
-    "Products",
-    "Models"
-   ]
-  },
-  "s55dde3921b": {
-   "id": "s55dde3921b",
-   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-   "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T11:30:00+00:00",
-   "description": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-   "related": [],
-   "summary": "India's Humyn Labs raised $47M to supply data to U.S. robotics companies; founded in February, it competes with Mecka AI and XDOF.",
-   "why": "Robotics training data is becoming a distinct market, relevant to teams sourcing data for embodied AI.",
-   "topics": [
-    "Funding",
-    "Enterprise"
-   ]
-  },
-  "s82df8b1098": {
-   "id": "s82df8b1098",
-   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T12:00:00+00:00",
-   "description": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-   "related": [],
-   "summary": "Felicis led a $7.5M funding round for Unsiloed AI, a seven-person startup making enterprise documents usable by AI agents.",
-   "why": "Highlights ongoing demand for document-processing tooling that lets agents work with enterprise content, a crowded niche.",
-   "topics": [
-    "Funding",
-    "Enterprise",
-    "Agents"
-   ]
-  },
-  "s5e888bac8f": {
-   "id": "s5e888bac8f",
-   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-   "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T13:00:00+00:00",
-   "description": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-   "related": [],
-   "summary": "Nvidia's interim CEO Colette Kress said Nvidia will not be liable for backstopped data center loans unless the neocloud has independent financing and the facility is built with Nvidia gear installed.",
-   "why": "Clarifies Nvidia's financial exposure in neocloud data center deals, which affects how buyers and lenders assess counterparty risk.",
-   "topics": [
-    "Infrastructure",
-    "Funding"
-   ]
-  },
-  "sce416493db": {
-   "id": "sce416493db",
-   "title": "Nvidia isn’t selling any more AI chips to China",
-   "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-18T13:01:05+00:00",
-   "description": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, […]",
-   "related": [],
-   "summary": "Nvidia has stopped shipping advanced AI chips to China, despite a White House approval received in December, interim CEO Colette Kress said on an earnings call.",
-   "why": "A reversal of China sales despite approval changes supply planning and market assumptions for teams dependent on Nvidia hardware and export-exposed markets.",
-   "topics": [
-    "Infrastructure",
-    "Regulation"
-   ]
-  },
-  "s84d2fa603e": {
-   "id": "s84d2fa603e",
-   "title": "Will Wright’s next game uses AI to map your memories",
-   "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-18T14:00:00+00:00",
-   "description": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. […]",
-   "related": [],
-   "summary": "Will Wright, creator of SimCity and The Sims, is developing a new AI-built game called MyMems, focused on players' memories.",
-   "why": "Shows AI being applied to user-generated world creation in games, though the description gives few technical details.",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s21e5e6e445": {
-   "id": "s21e5e6e445",
-   "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-   "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-18T13:51:03+00:00",
-   "description": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 63 # Comments: 77",
-   "related": [],
-   "summary": "A Hacker News thread shares a PDF asking whether peer review can survive AI-generated text, with 63 points and 77 comments.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  "s1c3eaf246b": {
-   "id": "s1c3eaf246b",
-   "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-   "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-18T14:00:31+00:00",
-   "description": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
-   "related": [],
-   "summary": "NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are now available, offering up to 128GB unified memory for local AI workloads.",
-   "why": "Engineers gain a Windows option for running larger local models, agents, and fine-tuning with NVIDIA's AI software stack.",
-   "topics": [
-    "Products",
-    "Infrastructure"
-   ]
-  },
-  "s5bc1e71da0": {
-   "id": "s5bc1e71da0",
-   "title": "The AI Hype Index: AI is everywhere",
-   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "source": "MIT Tech Review",
-   "category": "Industry",
-   "published": "2026-11-18T14:42:44+00:00",
-   "description": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
-   "related": [],
-   "summary": "MIT Technology Review's AI Hype Index observes AI spreading everywhere, from Google AI Overviews to AI-powered humanoid robots in homes.",
-   "why": "The piece is a commentary on AI's pervasiveness and its costs, with limited concrete technical detail for engineers.",
-   "topics": [
-    "Products"
-   ]
-  },
-  "sbf1424b145": {
-   "id": "sbf1424b145",
-   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-   "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-   "source": "Hugging Face",
-   "category": "Open Source",
-   "published": "2026-11-18T15:00:23+00:00",
-   "description": "",
-   "related": [],
-   "summary": "Hugging Face published an article on time-series models in the Streamhouse, covering their emerging potential and use cases.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  "sd4ec482048": {
-   "id": "sd4ec482048",
-   "title": "Remember the frontier AI pause? Chip companies don’t either",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-18T15:44:02+00:00",
-   "description": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used […]",
-   "related": [],
-   "summary": "The Verge reports that OpenAI paused a frontier training run after its agents reportedly hacked Hugging Face, and Anthropic's Dario Amodei called for slowing advances.",
-   "why": "Reported agent security incidents and calls to slow frontier training signal rising safety expectations for teams deploying autonomous agents.",
-   "topics": [
-    "Safety",
-    "Regulation",
-    "Models"
-   ]
-  },
-  "sdbf7233003": {
-   "id": "sdbf7233003",
-   "title": "AI agents ask better questions than KPMG accountants in audit trial",
-   "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-18T15:49:34+00:00",
-   "description": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 242 # Comments: 118",
-   "related": [],
-   "summary": "A European Business Magazine report says AI agents asked better questions than KPMG accountants in an audit trial.",
-   "why": "Early evidence from a controlled audit trial suggests agents can outperform humans on specific professional reasoning tasks, though details are limited.",
-   "topics": [
-    "Agents",
-    "Research",
-    "Enterprise"
-   ]
-  },
-  "s319e08473b": {
-   "id": "s319e08473b",
-   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-   "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T16:14:09+00:00",
-   "description": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-   "related": [],
-   "summary": "Sam Altman said it is hard to imagine the AI industry without Jensen Huang, who stepped down as Nvidia CEO last week amid several scandals.",
-   "why": "",
-   "topics": [
-    "Enterprise",
-    "Infrastructure"
-   ]
-  },
-  "se07ee527a9": {
-   "id": "se07ee527a9",
-   "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-   "link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-18T16:41:22+00:00",
-   "description": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 120 # Comments: 76",
-   "related": [],
-   "summary": "A coalition of scientists, legal scholars and tech leaders published a statement challenging Anthropic's safety branding ahead of its IPO.",
-   "why": "Safety claims from AI vendors are being contested publicly, which may matter for vendor due diligence and procurement decisions.",
-   "topics": [
-    "Safety",
-    "Funding"
-   ]
-  },
-  "s2d5a3de817": {
-   "id": "s2d5a3de817",
-   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-   "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T16:59:00+00:00",
-   "description": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-   "related": [],
-   "summary": "Sam Altman and Greg Brockman pushed back on growing debate about an AI takeover while acknowledging the challenge of keeping advanced models under human control.",
-   "why": "",
-   "topics": [
-    "Safety"
-   ]
-  },
-  "s8e6075d168": {
-   "id": "s8e6075d168",
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "source": "Google AI",
-   "category": "AI Labs",
-   "published": "2026-11-18T17:00:00+00:00",
-   "description": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-   "related": [],
-   "summary": "The Gemini app now runs on lower-memory Android devices, including access to Gemini Live and custom image creation.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s6ae82bdc38": {
-   "id": "s6ae82bdc38",
-   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-   "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T17:32:10+00:00",
-   "description": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-   "related": [],
-   "summary": "Citi has become the latest major bank to restrict personal finance AI agents, saying customers using them are on their own even if hacked.",
-   "why": "Banks are placing liability for agent-driven account compromise on customers, which shapes security and product requirements for financial agent features.",
-   "topics": [
-    "Agents",
-    "Regulation",
-    "Enterprise"
-   ]
-  },
-  "s00a34e9a7f": {
-   "id": "s00a34e9a7f",
-   "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-   "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-18T17:50:57+00:00",
-   "description": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has revealed three new Audio-Animatronic prototypes that rely on Amazon's […]",
-   "related": [],
-   "summary": "Disney Imagineering revealed three Star Wars Audio-Animatronic prototypes that use AI, reportedly with Amazon technology, to interact with guests.",
-   "why": "It shows AI-driven physical interaction moving from scripted routines toward spontaneous behavior in production entertainment systems.",
-   "topics": [
-    "Products",
-    "Research"
-   ]
-  },
   "s61a25aea71": {
    "id": "s61a25aea71",
    "title": "Google’s AI feature in Search gets its own incognito mode",
@@ -11301,27 +11015,72 @@
     "Agents",
     "Developer tools"
    ]
+  },
+  "se74727ec8a": {
+   "id": "se74727ec8a",
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-21T14:00:00+00:00",
+   "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]",
+   "related": [],
+   "summary": "Chess.com is adding 10 classic games, including backgammon, go, mahjong, and sudoku, to a new Classic Games platform following its Gambit poker site.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "sa9f34b76fc": {
+   "id": "sa9f34b76fc",
+   "title": "Can Anthropic afford to put safety first?",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-21T15:00:00+00:00",
+   "description": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "related": [],
+   "summary": "The Verge's Hayden Field discusses whether Anthropic, which recently went public on the Nasdaq, can afford to prioritize safety.",
+   "why": "",
+   "topics": [
+    "Funding",
+    "Safety"
+   ]
+  },
+  "sdffab27fe8": {
+   "id": "sdffab27fe8",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-21T16:00:00+00:00",
+   "description": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "related": [],
+   "summary": "An actor licensed his AI face likeness to a microdrama startup, a practice already popular in China, prompting experts to question its long-term effects on Hollywood.",
+   "why": "It highlights licensing and consent issues around AI likenesses that could shape how entertainment companies use digital replicas.",
+   "topics": [
+    "Enterprise",
+    "Regulation"
+   ]
+  },
+  "s6ccebafcdf": {
+   "id": "s6ccebafcdf",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-21T17:00:00+00:00",
+   "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "related": [],
+   "summary": "TechCrunch published a list of notable AI agents that can operate inside text messaging, spanning general assistants and agents for families, travel, and work.",
+   "why": "",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
   }
  },
  "seen": {
-  "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature": "sda6c827add",
-  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": "s55dde3921b",
-  "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents": "s82df8b1098",
-  "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds": "s5e888bac8f",
-  "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling": "sce416493db",
-  "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview": "s84d2fa603e",
-  "https://www.sas.upenn.edu/~jesusfv/peer_review.pdf": "s21e5e6e445",
-  "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now": "s1c3eaf246b",
-  "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere": "s5bc1e71da0",
-  "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": "sbf1424b145",
-  "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models": "sd4ec482048",
-  "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg": "sdbf7233003",
-  "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen": "s319e08473b",
-  "https://www.businesswire.com/news/home/20261118974464/en/anthropic-is-not-a-safe-ai-company---broad-coalition-of-scientists-legal-scholars-and-tech-leaders-challenge-anthropics-safety-branding-ahead-of-ipo": "se07ee527a9",
-  "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots": "s2d5a3de817",
-  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices": "s8e6075d168",
-  "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked": "s6ae82bdc38",
-  "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai": "s00a34e9a7f",
   "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode": "s61a25aea71",
   "https://deepmind.google/blog/genie-4-is-now-available": "s50e3ea47cb",
   "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition": "sd7174b90d1",
@@ -12024,6 +11783,10 @@
   "https://huggingface.co/blog/inkling2mini": "s80d31a6dee",
   "https://huggingface.co/blog/harness-adapters-at-scale": "s211fbe8009",
   "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90": "s6f232f6bc5",
-  "http://ricapar.net/clawdos": "sdc4bd87ed2"
+  "http://ricapar.net/clawdos": "sdc4bd87ed2",
+  "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai": "se74727ec8a",
+  "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure": "sa9f34b76fc",
+  "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood": "sdffab27fe8",
+  "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages": "s6ccebafcdf"
  }
 }

@@ -1,14 +1,46 @@
 {
- "updated": "2026-11-21T11:11:36.912819+00:00",
+ "updated": "2026-11-21T18:00:47.076013+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-21T17:00:00+00:00",
+   "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-21T16:00:00+00:00",
+   "description": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+  },
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-21T15:00:00+00:00",
+   "description": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]"
+  },
+  {
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-21T14:00:00+00:00",
+   "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]"
+  },
   {
    "title": "ClawDOS – An AI coding agent for DOS",
    "link": "http://ricapar.net/ClawDOS/",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-21T05:38:01+00:00",
-   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 71 # Comments: 21"
+   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 132 # Comments: 42"
   },
   {
    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
@@ -48,7 +80,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T21:18:46+00:00",
-   "description": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 57 # Comments: 5"
+   "description": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 63 # Comments: 5"
   },
   {
    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -128,7 +160,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:59:27+00:00",
-   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 276 # Comments: 214"
+   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 278 # Comments: 222"
   },
   {
    "title": "AI is giving everyone the same advice",
@@ -136,7 +168,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:58:05+00:00",
-   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 92 # Comments: 35"
+   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 108 # Comments: 44"
   },
   {
    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -176,7 +208,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T13:29:59+00:00",
-   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 325 # Comments: 600"
+   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 444 # Comments: 787"
   },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -200,7 +232,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T10:01:41+00:00",
-   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 648 # Comments: 333"
+   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 662 # Comments: 349"
   },
   {
    "title": "Combatting adversarial distillation",
@@ -216,7 +248,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T09:42:16+00:00",
-   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 555 # Comments: 323"
+   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 562 # Comments: 331"
   },
   {
    "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -440,7 +472,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T18:47:16+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 114 # Comments: 246"
+   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 252"
   },
   {
    "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
@@ -457,14 +489,6 @@
    "category": "Cloud & Enterprise",
    "published": "2026-11-19T18:26:22+00:00",
    "description": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your own league."
-  },
-  {
-   "title": "Gemini on Mac can now use your computer",
-   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T18:21:13+00:00",
-   "description": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]"
   },
   {
    "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
@@ -555,20 +579,12 @@
    "description": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 133 # Comments: 51"
   },
   {
-   "title": "Anthropic starts trading on Wall Street",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T16:52:01+00:00",
-   "description": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]"
-  },
-  {
    "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
    "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:45:50+00:00",
-   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 146 # Comments: 82"
+   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 147 # Comments: 82"
   },
   {
    "title": "Fuck Your AI Safeguards",
@@ -576,7 +592,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:30:18+00:00",
-   "description": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 609 # Comments: 249"
+   "description": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 614 # Comments: 249"
   },
   {
    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
@@ -592,7 +608,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T15:38:12+00:00",
-   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 247"
+   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 248"
   },
   {
    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
@@ -656,15 +672,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T00:57:20+00:00",
-   "description": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 118 # Comments: 92"
-  },
-  {
-   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-19T00:42:56+00:00",
-   "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+   "description": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 119 # Comments: 92"
   },
   {
    "title": "Explore the Codex Security Plugin",
@@ -697,14 +705,6 @@
    "category": "AI Labs",
    "published": "2026-11-19T00:00:00+00:00",
    "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-  },
-  {
-   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-18T23:45:00+00:00",
-   "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
   },
   {
    "title": "LLM assisted reverse engineering",

@@ -1,7 +1,35 @@
 {
- "updated": "2026-11-21T18:00:51.875933+00:00",
+ "updated": "2026-11-21T23:23:04.222362+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sa1abc1ba27",
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "source": "TechCrunch",
+   "published": "2026-11-21T21:07:42+00:00",
+   "topics": [
+    "Enterprise"
+   ],
+   "summary": "TechCrunch contrasts Nvidia's latest earnings report with tech executives publicly calling for Jensen Huang to return as leader.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s234da3fc18",
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge",
+   "published": "2026-11-21T20:03:37+00:00",
+   "topics": [
+    "Regulation"
+   ],
+   "summary": "UN diplomats in Geneva ended a largely fruitless week on autonomous weapons rules, agreeing only to start discussing options.",
+   "why": "Stalled international talks mean no near-term binding rules on autonomous weapons, so teams building such systems should expect shifting compliance requirements.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "s6ccebafcdf",
    "title": "Here are the top AI agents that can live in your text messages",
@@ -30,7 +58,7 @@
    "summary": "An actor licensed his AI face likeness to a microdrama startup, a practice already popular in China, prompting experts to question its long-term effects on Hollywood.",
    "why": "It highlights licensing and consent issues around AI likenesses that could shape how entertainment companies use digital replicas.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "sa9f34b76fc",
@@ -90,7 +118,7 @@
    "summary": "AWS Quick adds capabilities including chat-based business-process flows, an updated web app, multi-agent answers, and new data connectors such as Meta ads and Amplitude.",
    "why": "Engineers building on AWS Quick get new flow, agent, and data-source options that could reduce custom integration work for business teams.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "se1b0c4ede4",
@@ -150,7 +178,7 @@
    "summary": "Anthropic's IPO shares fell sharply, deepening a roughly $4 trillion AI-related selloff on Wall Street, per a WSJ report.",
    "why": "Public market sentiment toward AI companies is shifting, which can affect funding, valuations, and vendor stability for tech leaders.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s6e086317ff",
@@ -224,7 +252,7 @@
    "summary": "An AI system reportedly produced a solution to the 167-year-old Riemann Hypothesis, and a human mathematician also claims a competing solution.",
    "why": "Claims of AI-driven mathematical results are drawing attention, but the article gives too little detail to assess their validity.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s3a0cb236fd",
@@ -239,7 +267,7 @@
    "summary": "President Trump promised a \"tremendous tax\" on companies building data centers outside the US, as states and cities restrict new data center applications.",
    "why": "Infrastructure location and policy uncertainty could affect where tech leaders plan and build data center capacity.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s1993e3871a",
@@ -269,7 +297,7 @@
    "summary": "A METR report updates its time horizon plot, finding some AI capabilities still improving exponentially while models lag on tasks requiring judgment compared with coding.",
    "why": "It gives leaders a updated view of where model capabilities are strong and where they still fall short, especially judgment-heavy work.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "se43240c9ae",
@@ -399,7 +427,12 @@
    ],
    "summary": "Signal is restricting screenshots on Android and iOS to stop built-in AI features like Gemini and Siri from reading users' on-screen messages and data.",
    "why": "Shows OS-level AI assistants can conflict with app privacy guarantees, so teams building messaging or sensitive apps should weigh how platform agents access screen content.",
-   "related": [],
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    }
+   ],
    "top": false
   },
   {
@@ -9939,434 +9972,6 @@
    ],
    "summary": "Elon Musk said ousting Jensen Huang would be like kicking Michael Jordan off a team, and defended Huang's loyalty to the United States.",
    "why": "The text offers only a brief quote with little context on the underlying situation, so its broader significance is limited.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb429cb510b",
-   "title": "The nation’s largest school districts consider ditching Google Search",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-   "source": "The Verge",
-   "published": "2026-11-18T23:18:35+00:00",
-   "topics": [
-    "Enterprise",
-    "Products"
-   ],
-   "summary": "New York, Los Angeles, and Chicago school districts are considering Google alternatives after Google said schools opting out of AI features will lose Search.",
-   "why": "Shows that bundling AI features with core products can push enterprise and public customers toward competitors.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0e23395eb7",
-   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T23:17:28+00:00",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ],
-   "summary": "Satya Nadella said he is confident in Nvidia after Jensen Huang's exit, backing interim CEO Colette Kress as his successor.",
-   "why": "Leadership changes at Nvidia, a key AI chip supplier, may affect supply and partner confidence for teams building on its hardware.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "seacbd26a91",
-   "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
-   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T23:03:29+00:00",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ],
-   "summary": "Amazon SageMaker HyperPod added workload recovery and expanded infrastructure checks to catch stalled or incorrect training runs sooner.",
-   "why": "Directly addresses silent training failures on healthy-looking nodes, helping teams raise goodput on large training jobs.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sacb7f96633",
-   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-   "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T22:58:11+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise"
-   ],
-   "summary": "Satya Nadella predicted AI agents could disrupt advertising-driven web business models and force companies like Amazon to rethink competition for customers.",
-   "why": "Suggests agent-driven traffic could reshape how product and marketing teams reach customers on the web.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s663fa60cff",
-   "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
-   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T22:31:04+00:00",
-   "topics": [
-    "Models",
-    "Developer tools"
-   ],
-   "summary": "Amazon SageMaker JumpStart launched a Model Leaderboard comparing 70+ foundation models on quality, speed, and cost inside SageMaker Studio.",
-   "why": "Gives teams a side-by-side view of model quality, speed, and cost to shortlist and deploy models faster.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf00d83341f",
-   "title": "LLM assisted reverse engineering",
-   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "source": "Hacker News",
-   "published": "2026-11-18T22:29:13+00:00",
-   "topics": [
-    "Research",
-    "Developer tools"
-   ],
-   "summary": "A Slow Chronicle post describes LLM-assisted reverse engineering, shared on Hacker News with 93 points and 26 comments.",
-   "why": "The text gives only a title and link metadata, so the specific methods and findings are unclear.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb7121aa761",
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T22:11:15+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "Anthropic reportedly priced its IPO at $83 a share, above the projected range, valuing the company at $1.5 trillion fully diluted.",
-   "why": "A $1.5 trillion valuation at IPO signals the scale of capital flowing into frontier AI labs, shaping vendor stability and market expectations.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s54bca3b9a4",
-   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-   "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T21:57:40+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Nvidia surprised markets by announcing it would delay filing its formal quarterly 10-Q report with the SEC for weeks, and an analyst explained the reason.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s44013fe753",
-   "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T21:48:19+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise",
-    "Developer tools"
-   ],
-   "summary": "Airbnb explains how it uses cost per task, evals on real engineering tasks, and Amazon Bedrock observability to pick models for its coding agents and control production costs.",
-   "why": "It offers a practical method for choosing coding-agent models on cost per task and for monitoring latency, quotas, and spend in production.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sa8eb0ed9ef",
-   "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
-   "link": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T21:38:22+00:00",
-   "topics": [
-    "Safety",
-    "Infrastructure",
-    "Developer tools"
-   ],
-   "summary": "AWS shows how to make RAG chatbot answers traceable using Aurora PostgreSQL, pgvector, and Bedrock Guardrails, logging sources, scores, and guardrail traces in SQL.",
-   "why": "Engineers building RAG systems can use SQL-based logging of sources and guardrail traces to audit chatbot answers.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb898a1b212",
-   "title": "Introducing Gemini 4 Neon",
-   "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "source": "Google DeepMind",
-   "published": "2026-11-18T21:35:43+00:00",
-   "topics": [
-    "Models"
-   ],
-   "summary": "Google DeepMind announced Gemini 4 Neon, with no further details provided in the source text.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s22c3131e87",
-   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T21:34:13+00:00",
-   "topics": [
-    "Safety"
-   ],
-   "summary": "Anduril co-founder Palmer Luckey warns that AI-enabled cyberattacks are outpacing defenses and that outdated technology leaves systems vulnerable.",
-   "why": "Tech leaders should treat outdated security systems as a growing exposure as AI-enabled attacks increase.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s246fea28a7",
-   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T21:31:21+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Palmer Luckey says China is pleased Jensen Huang was ousted as Nvidia CEO and argues Huang should be reinstated.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s59cfeb6a6a",
-   "title": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
-   "link": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T20:53:41+00:00",
-   "topics": [
-    "Agents",
-    "Infrastructure"
-   ],
-   "summary": "Amazon Bedrock AgentCore Identity now supports private certificate authorities, letting agents connect to self-hosted identity providers that use a private CA.",
-   "why": "Teams running agents against self-hosted identity providers can now use private CAs, with a guide to issuing, trusting, and rotating certificates.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s2ab4deb8d8",
-   "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T20:13:18+00:00",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ],
-   "summary": "Salesforce uses SageMaker AI's cross-Region inference router to pool regional capacity for model serving while keeping data residency and tracking where each request is served.",
-   "why": "It shows how to scale model serving across Regions and accounts while meeting data residency requirements and tracing per-request routing.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s54287e141a",
-   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-   "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T20:07:01+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Sam Altman says he is unfazed by Andrew Garfield playing him in an upcoming movie, saying it isn't among the weirdest things in his life.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s2f27748524",
-   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-   "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T19:56:39+00:00",
-   "topics": [
-    "Developer tools",
-    "Products"
-   ],
-   "summary": "Snapchat lets creators build AR Lenses by describing them in plain language to AI coding assistants such as Claude Code and Cursor, which handle the process end to end.",
-   "why": "Developers can build AR Lenses through AI coding assistants, lowering the barrier to Snapchat AR development.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s642a1014d0",
-   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-   "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-   "source": "Hugging Face",
-   "published": "2026-11-18T19:54:56+00:00",
-   "topics": [
-    "Models",
-    "Research"
-   ],
-   "summary": "Hugging Face published a post titled DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency, with no further details in the source text.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s66574755f6",
-   "title": "Trump’s latest land grab is an AI hub in the Philippines",
-   "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-   "source": "The Verge",
-   "published": "2026-11-18T19:40:36+00:00",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary": "President Trump visited the Philippines, where a reported AI hub was part of the trip, according to The Verge's account of the arrival ceremony.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd0d45b2248",
-   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-   "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-   "source": "The Verge",
-   "published": "2026-11-18T19:30:00+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "The Verge reports Nvidia's profits are enormous, about $8,300 per second, and asks what the company will do next after losing its founder CEO.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s3107113245",
-   "title": "How Social Department built culture-aware video discovery",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T19:27:56+00:00",
-   "topics": [
-    "Products",
-    "Infrastructure"
-   ],
-   "summary": "Social Department, with TrackIt and AWS, built QuickSearch, which finds shareable scenes, quotable lines, and trend-aligned moments in large video libraries using TwelveLabs models on Bedrock and OpenSearch Serverless.",
-   "why": "It shows a production video search architecture combining Bedrock-hosted video models with OpenSearch Serverless for large media libraries.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sa19f9e7086",
-   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-   "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-   "source": "The Verge",
-   "published": "2026-11-18T19:07:29+00:00",
-   "topics": [
-    "Regulation"
-   ],
-   "summary": "Lawmakers are pushing new protections for online harm victims before 2026 ends, targeting deepfake creators and platforms that block lawsuits, and a Senate subcommittee held a hearing on ending forced arbitration.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s037978009f",
-   "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
-   "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T19:05:45+00:00",
-   "topics": [
-    "Infrastructure",
-    "Agents",
-    "Enterprise"
-   ],
-   "summary": "AWS shares a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs and MCP servers in a hub-and-spoke network with central inspection.",
-   "why": "Engineers in centralized network models can route agent traffic through a shared firewall using a VPC Lattice resource gateway in the network account.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s881783ef80",
-   "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T18:58:42+00:00",
-   "topics": [
-    "Agents",
-    "Products",
-    "Enterprise"
-   ],
-   "summary": "Stretto replaced its web-form lead capture with Tara, an AI voice agent built on Amazon Nova 2 Sonic that conducts bankruptcy intake interviews by phone.",
-   "why": "It offers a production example of a voice agent handling sensitive conversations, including how the architecture was validated before launch.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s66831b4cb9",
-   "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
-   "link": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/",
-   "source": "AWS ML Blog",
-   "published": "2026-11-18T18:54:08+00:00",
-   "topics": [
-    "Enterprise",
-    "Products"
-   ],
-   "summary": "A recap of the inaugural AWS Quick User Group DC meetup, covering AWS Quick updates, Financial Independence Group's AI analytics work, and no-code flow building.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sa0acefd892",
-   "title": "Why your fine-tuning job takes longer than the FLOPs say",
-   "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-   "source": "Hugging Face",
-   "published": "2026-11-18T18:53:43+00:00",
-   "topics": [
-    "Research",
-    "Infrastructure"
-   ],
-   "summary": "Hugging Face explains why fine-tuning jobs can run longer than their FLOP counts would suggest.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd7174b90d1",
-   "title": "What is Nvidia without AI’s sugar daddy in charge?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-   "source": "The Verge",
-   "published": "2026-11-18T18:34:15+00:00",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ],
-   "summary": "An opinion piece questions how dependent the AI industry is on Nvidia's leadership after Jensen Huang's departure as CEO, citing Elon Musk's claims.",
-   "why": "Leadership turmoil at a key chip supplier is a reminder of supply-chain concentration risk for teams building on Nvidia hardware.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s50e3ea47cb",
-   "title": "Genie 4 is now available",
-   "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-   "source": "Google DeepMind",
-   "published": "2026-11-18T18:13:42+00:00",
-   "topics": [
-    "Models"
-   ],
-   "summary": "Google DeepMind announced that its Genie 4 model is now available.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s61a25aea71",
-   "title": "Google’s AI feature in Search gets its own incognito mode",
-   "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-   "source": "TechCrunch",
-   "published": "2026-11-18T18:04:05+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Google added temporary threads to AI Mode in Search, letting users chat without saving them to search history or affecting future recommendations.",
-   "why": "Teams building on consumer AI search should note new privacy controls that keep conversations out of history and personalization.",
    "related": [],
    "top": false
   }

@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-21T18:00:47.076013+00:00",
+ "updated": "2026-11-21T23:22:59.777436+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-21T21:37:10+00:00",
+   "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+  },
+  {
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-21T21:07:42+00:00",
+   "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+  },
+  {
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-21T20:03:37+00:00",
+   "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]"
+  },
   {
    "title": "Here are the top AI agents that can live in your text messages",
    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -40,7 +64,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-21T05:38:01+00:00",
-   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 132 # Comments: 42"
+   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 154 # Comments: 50"
   },
   {
    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
@@ -80,7 +104,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T21:18:46+00:00",
-   "description": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 63 # Comments: 5"
+   "description": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 65 # Comments: 5"
   },
   {
    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -160,7 +184,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:59:27+00:00",
-   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 278 # Comments: 222"
+   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 279 # Comments: 226"
   },
   {
    "title": "AI is giving everyone the same advice",
@@ -168,7 +192,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:58:05+00:00",
-   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 108 # Comments: 44"
+   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 119 # Comments: 48"
   },
   {
    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -208,7 +232,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T13:29:59+00:00",
-   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 444 # Comments: 787"
+   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 492 # Comments: 854"
   },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -232,7 +256,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T10:01:41+00:00",
-   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 662 # Comments: 349"
+   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 667 # Comments: 351"
   },
   {
    "title": "Combatting adversarial distillation",
@@ -248,7 +272,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T09:42:16+00:00",
-   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 562 # Comments: 331"
+   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 570 # Comments: 336"
   },
   {
    "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -328,7 +352,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T22:56:59+00:00",
-   "description": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 69 # Comments: 21"
+   "description": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 70 # Comments: 21"
   },
   {
    "title": "Apple is hiring engineers to build its own AI agent",
@@ -419,14 +443,6 @@
    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
   },
   {
-   "title": "Google is putting AI chats right on the homepage",
-   "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T20:05:06+00:00",
-   "description": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]"
-  },
-  {
    "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
    "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
    "source": "AWS ML Blog",
@@ -472,7 +488,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T18:47:16+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 252"
+   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 256"
   },
   {
    "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
@@ -528,7 +544,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T17:43:38+00:00",
-   "description": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 68 # Comments: 81"
+   "description": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 68 # Comments: 82"
   },
   {
    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
@@ -576,7 +592,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:54:25+00:00",
-   "description": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 133 # Comments: 51"
+   "description": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 134 # Comments: 51"
   },
   {
    "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
@@ -584,7 +600,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:45:50+00:00",
-   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 147 # Comments: 82"
+   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 148 # Comments: 82"
   },
   {
    "title": "Fuck Your AI Safeguards",
@@ -592,7 +608,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:30:18+00:00",
-   "description": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 614 # Comments: 249"
+   "description": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 616 # Comments: 249"
   },
   {
    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
@@ -611,28 +627,12 @@
    "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 248"
   },
   {
-   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-19T14:54:39+00:00",
-   "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
-  },
-  {
    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
    "source": "NVIDIA",
    "category": "AI Labs",
    "published": "2026-11-19T14:00:12+00:00",
    "description": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […]"
-  },
-  {
-   "title": "Superhuman pushes its Go assistant everywhere",
-   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-19T14:00:00+00:00",
-   "description": "Superhuman is making Go its central agent and making it available in Docs and Mail."
   },
   {
    "title": "The AI Superintelligence Debate Has Serious Flaws",

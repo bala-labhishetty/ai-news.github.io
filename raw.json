@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T23:22:59.777436+00:00",
+ "updated": "2026-11-22T06:56:14.340866+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Meta ads is now available in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "category": "Cloud & Enterprise",
+   "published": "2026-11-22T01:59:13+00:00",
+   "description": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows."
+  },
   {
    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -17,6 +25,14 @@
    "category": "Industry",
    "published": "2026-11-21T21:07:42+00:00",
    "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+  },
+  {
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "link": "https://www.pandex.io",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-21T20:47:41+00:00",
+   "description": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 64 # Comments: 11"
   },
   {
    "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -64,7 +80,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-21T05:38:01+00:00",
-   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 154 # Comments: 50"
+   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 162 # Comments: 51"
   },
   {
    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
@@ -99,20 +115,20 @@
    "description": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink."
   },
   {
+   "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-20T21:53:39+00:00",
+   "description": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 53 # Comments: 6"
+  },
+  {
    "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
    "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T21:18:46+00:00",
-   "description": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 65 # Comments: 5"
-  },
-  {
-   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-20T20:59:08+00:00",
-   "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+   "description": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 66 # Comments: 5"
   },
   {
    "title": "How Standard Bank Group automates AI risk assessment for generative AI",
@@ -184,7 +200,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:59:27+00:00",
-   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 279 # Comments: 226"
+   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 281 # Comments: 228"
   },
   {
    "title": "AI is giving everyone the same advice",
@@ -192,7 +208,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:58:05+00:00",
-   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 119 # Comments: 48"
+   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 122 # Comments: 50"
   },
   {
    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -232,7 +248,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T13:29:59+00:00",
-   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 492 # Comments: 854"
+   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 509 # Comments: 890"
   },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -256,7 +272,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T10:01:41+00:00",
-   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 667 # Comments: 351"
+   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 670 # Comments: 357"
   },
   {
    "title": "Combatting adversarial distillation",
@@ -272,7 +288,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T09:42:16+00:00",
-   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 570 # Comments: 336"
+   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 574 # Comments: 336"
   },
   {
    "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -488,7 +504,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T18:47:16+00:00",
-   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 256"
+   "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 258"
   },
   {
    "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
@@ -513,14 +529,6 @@
    "category": "Cloud & Enterprise",
    "published": "2026-11-19T18:20:54+00:00",
    "description": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably."
-  },
-  {
-   "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-   "link": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-19T18:14:36+00:00",
-   "description": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code."
   },
   {
    "title": "Google gives Gemini the ability to use your Mac for you",
@@ -624,7 +632,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T15:38:12+00:00",
-   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 248"
+   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 248"
   },
   {
    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
@@ -667,14 +675,6 @@
    "description": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 108 # Comments: 70"
   },
   {
-   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-   "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-19T00:57:20+00:00",
-   "description": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 119 # Comments: 92"
-  },
-  {
    "title": "Explore the Codex Security Plugin",
    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
    "source": "OpenAI",
@@ -705,14 +705,6 @@
    "category": "AI Labs",
    "published": "2026-11-19T00:00:00+00:00",
    "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-  },
-  {
-   "title": "LLM assisted reverse engineering",
-   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-18T22:29:13+00:00",
-   "description": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 315 # Comments: 82"
   },
   {
    "title": "Introducing Gemini 4 Neon",
@@ -2397,6 +2389,14 @@
   {
    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-10-20T00:00:00+00:00",
+   "description": ""
+  },
+  {
+   "title": "MPS in PyTorch 2.15",
+   "link": "https://huggingface.co/blog/mps-pytorch-2-15",
    "source": "Hugging Face",
    "category": "Open Source",
    "published": "2026-10-20T00:00:00+00:00",

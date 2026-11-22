@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-22T06:56:14.340866+00:00",
+ "updated": "2026-11-22T15:23:14.901561+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-22T13:00:00+00:00",
+   "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]"
+  },
+  {
+   "title": "AI Supply Chain Security: What Canary Tokens Found",
+   "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-22T05:11:43+00:00",
+   "description": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 89 # Comments: 21"
+  },
+  {
+   "title": "The Mythology of Conscious AI",
+   "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-22T02:10:02+00:00",
+   "description": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 107 # Comments: 275"
+  },
   {
    "title": "Meta ads is now available in AWS Quick",
    "link": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
@@ -32,7 +56,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-21T20:47:41+00:00",
-   "description": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 64 # Comments: 11"
+   "description": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 117 # Comments: 29"
   },
   {
    "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -80,7 +104,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-21T05:38:01+00:00",
-   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 162 # Comments: 51"
+   "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 167 # Comments: 52"
   },
   {
    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
@@ -120,7 +144,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T21:53:39+00:00",
-   "description": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 53 # Comments: 6"
+   "description": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 59 # Comments: 8"
   },
   {
    "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
@@ -200,7 +224,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:59:27+00:00",
-   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 281 # Comments: 228"
+   "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 282 # Comments: 229"
   },
   {
    "title": "AI is giving everyone the same advice",
@@ -208,7 +232,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T16:58:05+00:00",
-   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 122 # Comments: 50"
+   "description": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 124 # Comments: 53"
   },
   {
    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -248,7 +272,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T13:29:59+00:00",
-   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 509 # Comments: 890"
+   "description": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 517 # Comments: 906"
   },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -272,7 +296,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T10:01:41+00:00",
-   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 670 # Comments: 357"
+   "description": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 674 # Comments: 362"
   },
   {
    "title": "Combatting adversarial distillation",
@@ -288,7 +312,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-20T09:42:16+00:00",
-   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 574 # Comments: 336"
+   "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 577 # Comments: 343"
   },
   {
    "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -368,7 +392,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T22:56:59+00:00",
-   "description": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 70 # Comments: 21"
+   "description": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 71 # Comments: 21"
   },
   {
    "title": "Apple is hiring engineers to build its own AI agent",
@@ -441,14 +465,6 @@
    "category": "Industry",
    "published": "2026-11-19T20:29:46+00:00",
    "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit."
-  },
-  {
-   "title": "Meta’s Muse Charm might cost $300",
-   "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T20:22:17+00:00",
-   "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]"
   },
   {
    "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -608,7 +624,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T16:45:50+00:00",
-   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 148 # Comments: 82"
+   "description": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 148 # Comments: 83"
   },
   {
    "title": "Fuck Your AI Safeguards",
@@ -632,7 +648,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-19T15:38:12+00:00",
-   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 248"
+   "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 251"
   },
   {
    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
@@ -641,14 +657,6 @@
    "category": "AI Labs",
    "published": "2026-11-19T14:00:12+00:00",
    "description": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […]"
-  },
-  {
-   "title": "The AI Superintelligence Debate Has Serious Flaws",
-   "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-19T12:17:10+00:00",
-   "description": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 105 # Comments: 164"
   },
   {
    "title": "How to tell a cyberattack from a plain old outage",
@@ -665,14 +673,6 @@
    "category": "AI Labs",
    "published": "2026-11-19T08:00:00+00:00",
    "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-  },
-  {
-   "title": "AI will not make you rich (2025)",
-   "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-19T01:51:28+00:00",
-   "description": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 108 # Comments: 70"
   },
   {
    "title": "Explore the Codex Security Plugin",

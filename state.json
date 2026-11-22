@@ -1,150 +1,5 @@
 {
  "stories": {
-  "s11c1f6c108": {
-   "id": "s11c1f6c108",
-   "title": "How to tell a cyberattack from a plain old outage",
-   "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-   "source": "Ars Technica",
-   "category": "Industry",
-   "published": "2026-11-19T11:13:01+00:00",
-   "description": "When everything goes down, don’t assume it’s a cyberattack.",
-   "related": [],
-   "summary": "Ars Technica advises readers not to assume a service outage is a cyberattack when systems go down.",
-   "why": "Helps engineering and security teams avoid jumping to attack conclusions during incidents, though the description gives few concrete details.",
-   "topics": [
-    "Safety"
-   ]
-  },
-  "sfdfefb89d6": {
-   "id": "sfdfefb89d6",
-   "title": "Canva adds an AI ‘off’ button",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T12:30:00+00:00",
-   "description": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered […]",
-   "related": [],
-   "summary": "Canva will let users turn off its generative AI features, including Magic Expand and image generation via its chatbot, though not every AI-powered feature is disabled.",
-   "why": "Gives users and admins a way to disable some AI features in a design tool, but the toggle does not cover every AI-powered function.",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s6687f7be62": {
-   "id": "s6687f7be62",
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-19T08:00:00+00:00",
-   "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-   "related": [],
-   "summary": "OpenAI describes its Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to keep ChatGPT fast.",
-   "why": "It shows how an AI company uses coding agents in its own performance engineering pipeline, a practical model for internal tooling.",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ]
-  },
-  "s97b20df2e7": {
-   "id": "s97b20df2e7",
-   "title": "The AI Superintelligence Debate Has Serious Flaws",
-   "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-19T12:17:10+00:00",
-   "description": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 101 # Comments: 156",
-   "related": [],
-   "summary": "An IEEE Spectrum article argues the AI superintelligence debate has serious flaws, shared on Hacker News with 101 points and 156 comments.",
-   "why": "The piece is an opinion/critique with little detail in the feed, so its concrete technical implications are unclear.",
-   "topics": [
-    "Research"
-   ]
-  },
-  "s029ded4e9a": {
-   "id": "s029ded4e9a",
-   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T13:00:00+00:00",
-   "description": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
-   "related": [],
-   "summary": "A Verge reviewer spent two weeks testing always-listening AI wearables, Amazon Bee Frontier and Apple Watch Siri Recap, that summarize conversations.",
-   "why": "Always-on audio capture raises consent and privacy questions that product and security teams must consider for wearable AI.",
-   "topics": [
-    "Products",
-    "Safety"
-   ]
-  },
-  "s97ccf1ecd5": {
-   "id": "s97ccf1ecd5",
-   "title": "Superhuman pushes its Go assistant everywhere",
-   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-19T14:00:00+00:00",
-   "description": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-   "related": [],
-   "summary": "Superhuman is making its Go assistant its central agent and extending it to Docs and Mail.",
-   "why": "Embedding an agent across productivity apps signals how enterprise software vendors are bundling agents into daily workflows.",
-   "topics": [
-    "Agents",
-    "Products"
-   ]
-  },
-  "sbaa7542616": {
-   "id": "sbaa7542616",
-   "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-   "source": "NVIDIA",
-   "category": "AI Labs",
-   "published": "2026-11-19T14:00:12+00:00",
-   "description": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […]",
-   "related": [],
-   "summary": "NVIDIA's GeForce NOW launched Black Friday deals, including 30% off the first six-month term of Performance or Ultimate memberships.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
-  "s0b3a38ae0a": {
-   "id": "s0b3a38ae0a",
-   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T14:25:37+00:00",
-   "description": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-     "title": "Anthropic’s IPO puts AI’s circular financing boom to the test"
-    }
-   ],
-   "summary": "Anthropic has completed an IPO raising $81.3 billion, described as the biggest IPO of all time, prompting scrutiny of its safety-focused reputation.",
-   "why": "A major public AI lab listing sets a precedent for investor scrutiny and could shape how rivals pursue public offerings.",
-   "topics": [
-    "Funding",
-    "Safety"
-   ]
-  },
-  "s2600860578": {
-   "id": "s2600860578",
-   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-19T15:16:45+00:00",
-   "description": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]",
-   "related": [],
-   "summary": "ChatGPT added Live Dictation, which transcribes speech as the user talks, rolling out globally to all plans on web, desktop, and mobile.",
-   "why": "Real-time transcription in a mainstream assistant changes how users interact with it, and may influence voice-input product expectations.",
-   "topics": [
-    "Products"
-   ]
-  },
   "s849bf67a70": {
    "id": "s849bf67a70",
    "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
@@ -6003,27 +5858,92 @@
     "Products",
     "Enterprise"
    ]
+  },
+  "s3e5d1a7c85": {
+   "id": "s3e5d1a7c85",
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T16:19:41+00:00",
+   "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+   "related": [],
+   "summary": "In a Nasdaq opening bell speech, Anthropic CEO Dario Amodei reaffirmed the company's commitment to pacing AI development despite business or political pressure.",
+   "why": "A public pledge on development pace signals how a leading lab frames safety tradeoffs against commercial and political pressure.",
+   "topics": [
+    "Safety",
+    "Enterprise"
+   ]
+  },
+  "se22812a5cc": {
+   "id": "se22812a5cc",
+   "title": "Anthropic’s IPO could deliver $156B to charity",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-19T19:10:45+00:00",
+   "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+   "related": [],
+   "summary": "At a $95 stock price, Anthropic's IPO could send up to $156 billion to charity through its Public Benefit Foundation, employee donations, and company match.",
+   "why": "A listing of this scale would be a major funding and governance event for the frontier AI sector.",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "s67786b6377": {
+   "id": "s67786b6377",
+   "title": "The Mythology of Conscious AI",
+   "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-22T02:10:02+00:00",
+   "description": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 107 # Comments: 275",
+   "related": [],
+   "summary": "Noema Magazine published an essay arguing that claims about conscious AI are a mythology, which drew heavy discussion on Hacker News.",
+   "why": "",
+   "topics": [
+    "Research"
+   ]
+  },
+  "s5cc0b3bf0f": {
+   "id": "s5cc0b3bf0f",
+   "title": "AI Supply Chain Security: What Canary Tokens Found",
+   "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-22T05:11:43+00:00",
+   "description": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 89 # Comments: 21",
+   "related": [],
+   "summary": "Dragos published a blog post on AI supply chain security and what canary tokens uncovered, shared on Hacker News with 89 points.",
+   "why": "Canary tokens in AI supply chains hint at real risks engineers should understand, though the excerpt gives no findings.",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ]
+  },
+  "s0f50037c76": {
+   "id": "s0f50037c76",
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-22T13:00:00+00:00",
+   "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+   "related": [],
+   "summary": "The Verge's The Stepback newsletter examines how vibe-coding, AI-driven software creation, is spreading to consumer gadgets.",
+   "why": "Suggests AI-assisted coding may soon reach embedded and device software, changing how hardware products get built.",
+   "topics": [
+    "Developer tools",
+    "Products"
+   ]
   }
  },
  "seen": {
-  "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage": "s11c1f6c108",
-  "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button": "sfdfefb89d6",
-  "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": "s6687f7be62",
-  "https://spectrum.ieee.org/ai-superintelligence-debate": "s97b20df2e7",
-  "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on": "s029ded4e9a",
-  "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere": "s97ccf1ecd5",
-  "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026": "sbaa7542616",
-  "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": "s0b3a38ae0a",
-  "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test": "s0b3a38ae0a",
-  "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation": "s2600860578",
   "https://thedataexchange.media/pete-warden-moonshine": "s849bf67a70",
   "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks": "s448d198a6d",
-  "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development": "s0b3a38ae0a",
   "https://ounapuu.ee/posts/2026/11/19/unsafeguards": "s32cca7ee57",
   "https://restofworld.org/2026/ai-jobs-skills-gig-work": "s4fbc02245f",
-  "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq": "s0b3a38ae0a",
   "https://perishablepress.com/chrome-ai-wasting-much-bandwidth": "s3c558e421a",
-  "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price": "s0b3a38ae0a",
   "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson": "s2adef6bfec",
   "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories": "s88ae40f036",
   "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": "s1112027d59",
@@ -6036,7 +5956,6 @@
   "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use": "s6d6821f501",
   "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league": "se04b4e930b",
   "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach": "s7e4679faa3",
-  "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity": "s0b3a38ae0a",
   "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand": "s5590d4d47e",
   "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs": "s1a7867b3a7",
   "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks": "sebd75882b3",
@@ -6388,6 +6307,12 @@
   "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias": "sa1abc1ba27",
   "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance": "s779ccf5408",
   "https://www.pandex.io": "scfea722a56",
-  "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick": "s26e2979e9c"
+  "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick": "s26e2979e9c",
+  "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development": "s3e5d1a7c85",
+  "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price": "s3e5d1a7c85",
+  "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity": "se22812a5cc",
+  "https://www.noemamag.com/the-mythology-of-conscious-ai": "s67786b6377",
+  "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens": "s5cc0b3bf0f",
+  "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera": "s0f50037c76"
  }
 }

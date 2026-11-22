@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-22T06:56:18.594905+00:00",
+ "updated": "2026-11-22T15:23:21.077400+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s0f50037c76",
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source": "The Verge",
+   "published": "2026-11-22T13:00:00+00:00",
+   "topics": [
+    "Developer tools",
+    "Products"
+   ],
+   "summary": "The Verge's The Stepback newsletter examines how vibe-coding, AI-driven software creation, is spreading to consumer gadgets.",
+   "why": "Suggests AI-assisted coding may soon reach embedded and device software, changing how hardware products get built.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s5cc0b3bf0f",
+   "title": "AI Supply Chain Security: What Canary Tokens Found",
+   "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+   "source": "Hacker News",
+   "published": "2026-11-22T05:11:43+00:00",
+   "topics": [
+    "Safety",
+    "Infrastructure"
+   ],
+   "summary": "Dragos published a blog post on AI supply chain security and what canary tokens uncovered, shared on Hacker News with 89 points.",
+   "why": "Canary tokens in AI supply chains hint at real risks engineers should understand, though the excerpt gives no findings.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s67786b6377",
+   "title": "The Mythology of Conscious AI",
+   "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+   "source": "Hacker News",
+   "published": "2026-11-22T02:10:02+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "Noema Magazine published an essay arguing that claims about conscious AI are a mythology, which drew heavy discussion on Hacker News.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
   {
    "id": "s26e2979e9c",
    "title": "Meta ads is now available in AWS Quick",
@@ -73,7 +117,7 @@
    "summary": "TechCrunch published a list of notable AI agents that can operate inside text messaging, spanning general assistants and agents for families, travel, and work.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sdffab27fe8",
@@ -103,7 +147,7 @@
    "summary": "The Verge's Hayden Field discusses whether Anthropic, which recently went public on the Nasdaq, can afford to prioritize safety.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "se74727ec8a",
@@ -5195,6 +5239,20 @@
    "top": false
   },
   {
+   "id": "se22812a5cc",
+   "title": "Anthropic’s IPO could deliver $156B to charity",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T19:10:45+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "At a $95 stock price, Anthropic's IPO could send up to $156 billion to charity through its Public Benefit Foundation, employee donations, and company match.",
+   "why": "A listing of this scale would be a major funding and governance event for the frontier AI sector.",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "s7e4679faa3",
    "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
    "link": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
@@ -5449,6 +5507,21 @@
    "top": false
   },
   {
+   "id": "s3e5d1a7c85",
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "source": "TechCrunch",
+   "published": "2026-11-19T16:19:41+00:00",
+   "topics": [
+    "Safety",
+    "Enterprise"
+   ],
+   "summary": "In a Nasdaq opening bell speech, Anthropic CEO Dario Amodei reaffirmed the company's commitment to pacing AI development despite business or political pressure.",
+   "why": "A public pledge on development pace signals how a leading lab frames safety tradeoffs against commercial and political pressure.",
+   "related": [],
+   "top": false
+  },
+  {
    "id": "s448d198a6d",
    "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
    "link": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
@@ -5475,141 +5548,6 @@
    ],
    "summary": "An interview with Pete Warden covers local AI, open models, voice interfaces, and the future of hardware.",
    "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s2600860578",
-   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-   "source": "The Verge",
-   "published": "2026-11-19T15:16:45+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "ChatGPT added Live Dictation, which transcribes speech as the user talks, rolling out globally to all plans on web, desktop, and mobile.",
-   "why": "Real-time transcription in a mainstream assistant changes how users interact with it, and may influence voice-input product expectations.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0b3a38ae0a",
-   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-   "source": "The Verge",
-   "published": "2026-11-19T14:25:37+00:00",
-   "topics": [
-    "Funding",
-    "Safety"
-   ],
-   "summary": "Anthropic has completed an IPO raising $81.3 billion, described as the biggest IPO of all time, prompting scrutiny of its safety-focused reputation.",
-   "why": "A major public AI lab listing sets a precedent for investor scrutiny and could shape how rivals pursue public offerings.",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "sbaa7542616",
-   "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-   "source": "NVIDIA",
-   "published": "2026-11-19T14:00:12+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "NVIDIA's GeForce NOW launched Black Friday deals, including 30% off the first six-month term of Performance or Ultimate memberships.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s97ccf1ecd5",
-   "title": "Superhuman pushes its Go assistant everywhere",
-   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-   "source": "TechCrunch",
-   "published": "2026-11-19T14:00:00+00:00",
-   "topics": [
-    "Agents",
-    "Products"
-   ],
-   "summary": "Superhuman is making its Go assistant its central agent and extending it to Docs and Mail.",
-   "why": "Embedding an agent across productivity apps signals how enterprise software vendors are bundling agents into daily workflows.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s029ded4e9a",
-   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-   "source": "The Verge",
-   "published": "2026-11-19T13:00:00+00:00",
-   "topics": [
-    "Products",
-    "Safety"
-   ],
-   "summary": "A Verge reviewer spent two weeks testing always-listening AI wearables, Amazon Bee Frontier and Apple Watch Siri Recap, that summarize conversations.",
-   "why": "Always-on audio capture raises consent and privacy questions that product and security teams must consider for wearable AI.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sfdfefb89d6",
-   "title": "Canva adds an AI ‘off’ button",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-   "source": "The Verge",
-   "published": "2026-11-19T12:30:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Canva will let users turn off its generative AI features, including Magic Expand and image generation via its chatbot, though not every AI-powered feature is disabled.",
-   "why": "Gives users and admins a way to disable some AI features in a design tool, but the toggle does not cover every AI-powered function.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s97b20df2e7",
-   "title": "The AI Superintelligence Debate Has Serious Flaws",
-   "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
-   "source": "Hacker News",
-   "published": "2026-11-19T12:17:10+00:00",
-   "topics": [
-    "Research"
-   ],
-   "summary": "An IEEE Spectrum article argues the AI superintelligence debate has serious flaws, shared on Hacker News with 101 points and 156 comments.",
-   "why": "The piece is an opinion/critique with little detail in the feed, so its concrete technical implications are unclear.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s11c1f6c108",
-   "title": "How to tell a cyberattack from a plain old outage",
-   "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-   "source": "Ars Technica",
-   "published": "2026-11-19T11:13:01+00:00",
-   "topics": [
-    "Safety"
-   ],
-   "summary": "Ars Technica advises readers not to assume a service outage is a cyberattack when systems go down.",
-   "why": "Helps engineering and security teams avoid jumping to attack conclusions during incidents, though the description gives few concrete details.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s6687f7be62",
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "source": "OpenAI",
-   "published": "2026-11-19T08:00:00+00:00",
-   "topics": [
-    "Infrastructure",
-    "Developer tools"
-   ],
-   "summary": "OpenAI describes its Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to keep ChatGPT fast.",
-   "why": "It shows how an AI company uses coding agents in its own performance engineering pipeline, a practical model for internal tooling.",
    "related": [],
    "top": false
   }

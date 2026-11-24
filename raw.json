@@ -1,9 +1,169 @@
 {
- "updated": "2026-11-24T11:04:28.614881+00:00",
+ "updated": "2026-11-24T21:15:58.604966+00:00",
  "count": 300,
  "items": [
   {
-   "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+   "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+   "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T20:02:03+00:00",
+   "description": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]"
+  },
+  {
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T18:30:42+00:00",
+   "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+  },
+  {
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T18:15:00+00:00",
+   "description": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]"
+  },
+  {
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T18:02:59+00:00",
+   "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+  },
+  {
+   "title": "Tidal will start banning AI-generated music next month",
+   "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T17:17:09+00:00",
+   "description": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]"
+  },
+  {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T17:00:00+00:00",
+   "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+  },
+  {
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T16:46:00+00:00",
+   "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
+  },
+  {
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-24T16:34:13+00:00",
+   "description": ""
+  },
+  {
+   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T16:30:00+00:00",
+   "description": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]"
+  },
+  {
+   "title": "Tidal bans AI-generated music",
+   "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-24T16:12:38+00:00",
+   "description": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 306 # Comments: 277"
+  },
+  {
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T16:10:00+00:00",
+   "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+  },
+  {
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T16:09:23+00:00",
+   "description": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]"
+  },
+  {
+   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+   "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T16:02:37+00:00",
+   "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+  },
+  {
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-24T16:00:00+00:00",
+   "description": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+  },
+  {
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T15:51:07+00:00",
+   "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+  },
+  {
+   "title": "Raising the stakes for enterprise networks with AI modernization",
+   "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-24T15:15:16+00:00",
+   "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…"
+  },
+  {
+   "title": "LLM agents work for their parent companies, not for you",
+   "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-24T12:40:15+00:00",
+   "description": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 799 # Comments: 340"
+  },
+  {
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-24T12:30:05+00:00",
+   "description": "The Cairn AI framework is proving to be a boon for defenders and attackers."
+  },
+  {
+   "title": "Searching for distant planets with Astra",
+   "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-24T11:00:00+00:00",
+   "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+  },
+  {
+   "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+   "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-24T09:39:50+00:00",
+   "description": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 78 # Comments: 37"
+  },
+  {
+   "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
    "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
    "source": "AWS ML Blog",
    "category": "Cloud & Enterprise",
@@ -2241,166 +2401,6 @@
    "category": "Research",
    "published": "2026-11-24T05:00:00+00:00",
    "description": "arXiv:2611.28834v1 Announce Type: cross Abstract: In the contemporary artificial intelligence ecosystem, foundation models are increasingly deployed under AI-as-a-Service (AIaaS) schemes characterized by high technical opacity, technological concentration, and limited external auditing capability over governance, training, and internal operational processes. Under these conditions, traditional ethical oversight approaches that focus exclusively on corporate governance or on internal model inspection become insufficient to ensure effective control over AI systems deployed in real-world contexts. This work proposes a pragmatic operational assurance framework inspired by Zero-Trust principles from cybersecurity, which shifts effective auditing efforts toward the application layer, where risk "
-  },
-  {
-   "title": "KineState-SWAM: A Surgical World Action Model with Explicit Kinematics and Causal Interaction Dynamics",
-   "link": "https://arxiv.org/abs/2611.28871",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28871v1 Announce Type: cross Abstract: Existing surgical world models often leave implicit how instrument motion drives localized tissue responses and how interaction history informs subsequent actions. We introduce KineState-SWAM, a surgical world-action model coupling action prediction and video generation through a persistent interaction state, separating kinematically determined instrument motion from learned scene evolution. A flow-matching policy predicts joint trajectories conditioned on interaction state, robot configuration, and task instruction. Kinematic Geometry Conditioning converts these trajectories into surface-motion tokens and spatially aligned instrument renderings using calibrated URDF kinematics. Causal Interaction Dynamics recurrently updates the state thro"
-  },
-  {
-   "title": "NAT: Scaling Causal Neural Action Tokenizers Across Embodiments",
-   "link": "https://arxiv.org/abs/2611.28873",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28873v1 Announce Type: cross Abstract: Action tokenizers let robot policies treat control as autoregressive next-token prediction. As these policies are trained on larger and more diverse datasets, they will need a universal tokenizer that can encode actions from many embodiments and data sources, including ones it has not seen. We study action tokenization at scale, training on 49k hours of action data from real-world robots, handheld grippers, simulation, and humans. We introduce Neural Action Tokenizer (NAT), a causal tokenizer whose decoder lets actions be executed as their tokens are generated. Across four simulation benchmarks, NAT outperforms FAST and prior neural action tokenizers when tokenizing unseen robot embodiments, and in vision-language-action models it outperfor"
-  },
-  {
-   "title": "Topological Neural Collapse",
-   "link": "https://arxiv.org/abs/2611.28894",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28894v1 Announce Type: cross Abstract: Neural collapse (NC) predicts that, late in training, last-layer class features concentrate at their means and the means form a simplex equiangular tight frame (ETF). We ask whether NC also leaves a signature in the functional connectome of each layer: the graph of Pearson correlations between hidden-unit activations, built per class and summarized by persistent graph homology. Using deep MLPs, we observe two topological phenomena that co-occur with the well-studied geometric NC in the final layers during the terminal phase. Contrary to NC1, the split-half variability of a class connectome increases (TNC1). The mean pairwise $H_0$ distance $\\bar{D}$ between class connectomes also rises (TNC2), but unevenly across class pairs, unlike the equ"
-  },
-  {
-   "title": "Can Open LLMs Clear Sanctions-Screening Alerts? A Pre-registered Test on Public Sanctions Lists with Turkish Name Variants",
-   "link": "https://arxiv.org/abs/2611.28914",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28914v1 Announce Type: cross Abstract: Sanctions screening raises name-based alerts that are mostly false positives, and level-1 analysts clear them by checking the customer's date of birth and name against a written policy. We test whether open-weight language models that a bank can run on its own premises can perform this level-1 disposition. From the UK and EU sanctions lists (7,103 natural persons) we built 12,200 synthetic customers: listed persons under six name conditions, including Turkish spellings of Arabic-origin names and Turkish romanisations of Cyrillic names, and two date-of-birth conditions, plus namesakes, near-name customers and a general population. A deterministic fuzzy and embedding screen raised 7,383 alerts, which three open models served on domestic infra"
-  },
-  {
-   "title": "Definition-Guided In-Context Learning for Zero-Shot Spoken Language Understanding",
-   "link": "https://arxiv.org/abs/2611.28929",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28929v1 Announce Type: cross Abstract: Adapting spoken language understanding (SLU) systems to novel or revised label taxonomies conventionally requires additional labeled data and retraining, creating a bottleneck for real world deployment. While in-context learning with few-shot demonstrations offers an alternative, multi-modal generalization and scaling has been challenging. In this work, we investigate whether natural-language definitions alone can guide zero-shot SLU without demonstration exemplars, finding that symbolic definitions serve as the primary supervisory driver for adapting speech-text models. We operationalize this principle as Definition-Guided In-Context Learning (DG-ICL), a fine-tuning framework that decouples semantic categories from fixed lexical names. By "
-  },
-  {
-   "title": "When Rubrics Do Not Decide: Silent Value Completion in LLM Evaluation",
-   "link": "https://arxiv.org/abs/2611.28940",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28940v1 Announce Type: cross Abstract: Multi-criterion LLM judges often evaluate responses without specifying how conflicting criteria resolve, leaving the winner undetermined even under exact criterion scores. Issuing a strict verdict without declaring the required trade-off premise constitutes silent value completion. We introduce TradeoffBench to isolate this failure by separating rule execution from response scoring. On authoritative criterion vectors, six open-weight non-reasoning judges pass all dominance and equality controls yet pick unsupported winners on 9%-81% of 1,345 conflicts. All 577 order-stable choices follow an explicitly banned majority rule. Reasoning-enabled configurations drop anonymous-vector violations to 2 in 9,720 judgments under an explicit rule, yet c"
-  },
-  {
-   "title": "Micro Operational Robustness of LLMs on Code Generation",
-   "link": "https://arxiv.org/abs/2611.28957",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28957v1 Announce Type: cross Abstract: It is now common practice in software development for large language models (LLMs) to be used to generate program code. It is desirable to evaluate the robustness of LLMs for this usage. This paper is concerned in particular with how sensitive LLMs are to variations in descriptions of the coding tasks. However, existing techniques for evaluating this robustness are unsuitable for code generation because the input data space of natural language (NL) descriptions is discrete and sparse. To address this problem, we propose a robustness evaluation method called scenario domain analysis, which aims to find the expected minimal change in the NL descriptions of coding tasks that would cause the LLMs to produce incorrect outputs. We have formally p"
-  },
-  {
-   "title": "Learning Land-Surface Hydrology World Model from Satellite Observations",
-   "link": "https://arxiv.org/abs/2611.28963",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28963v1 Announce Type: cross Abstract: A world model should tell us not only what will happen, but what would happen under a different action. Learned Earth models now forecast remarkably well, yet forecast skill says little about what their state means or how it responds to a changed driver. We build LandWM, a world model of land-surface water in which rain is the action, learned from seven years of SMAP and CYGNSS observations: physical observation operators tie its latent state to soil water, and a mass-conserving balance governs how that state responds to rain. Over the U.S. Southern Great Plains, the model, never shown a soil-moisture value, tracks 28 in-situ probes as well as the operational SMAP Level-4 product, even from CYGNSS alone, and a storm added to the forcing of "
-  },
-  {
-   "title": "MolReJev: Decision Models Are In-Context Molecular Predictors",
-   "link": "https://arxiv.org/abs/2611.28965",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28965v1 Announce Type: cross Abstract: Molecular prediction helps prioritize compounds for screening. Specialized predictors are trained for a fixed set of tasks, limiting cross-task generalization. Language models can condition on task descriptions and have recently shown promise in molecular prediction. However, generating answers token by token adds inference cost, and general-purpose models often lack task-specific molecular knowledge. We thus propose MolReJev, which combines Jev-style candidate scoring with in-context learning (ICL) on a language model. MolReJev retrieves similar labeled examples from existing task data and scores candidate labels jointly in one forward pass. ICL improves predictions from the released general-purpose Kev checkpoint and the separately traine"
-  },
-  {
-   "title": "Who Gets Re-ranked When a Clinical Model Gains New Data?",
-   "link": "https://arxiv.org/abs/2611.28968",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28968v1 Announce Type: cross Abstract: Hospitals often update a deployed risk model by adding a data source, such as laboratory results, that only some patients have. Work on safe model updates assumes fixed inputs and so ignores patients who lack the new data. The update has no new measurements for them, yet their rank can change, and a sick patient not yet tested can drop off an alert list. We split rank-based compatibility by data availability and pair it with error correction and alert-list effects. We compared each update with ordinary retraining on the old inputs, predicting ICU admission or death and hospital admission, on 78,475 emergency department visits from MC-MED and, in a pre-registered replication, 100,000 stays from MIMIC-IV-ED at a second hospital. Radiograph re"
-  },
-  {
-   "title": "A Design Space for Data Agents: Insights from KDD Cup 2026",
-   "link": "https://arxiv.org/abs/2611.28970",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28970v1 Announce Type: cross Abstract: Data agents interpret analytical requests, gather evidence from heterogeneous sources, and compute results within finite resource budgets. We analyze the final code submissions of the ten highest-ranked teams in the KDD Cup 2026 Data Agents for Complex Data Analysis competition. We organize the observed design choices into three interacting layers, covering workflow orchestration, analytical functions, and working state. The comparison reveals recurring patterns for allocating computation in response to task progress, structuring evidence for computation and assessment, and preserving reusable artifacts with their provenance. Candidates that rely on the same evidence can inherit the same error, so interpreting their agreement requires traci"
-  },
-  {
-   "title": "World Models for Ocean Engineering: A Critical Review of Maritime Autonomy, Adaptive Latent Prediction, Digital Twins, and Biodiversity Monitoring",
-   "link": "https://arxiv.org/abs/2611.28978",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28978v1 Announce Type: cross Abstract: Marine robots face partial observability, non-stationary dynamics, and sparse communication, motivating WMs that learn compact predictive states for planning. This review develops a functional taxonomy of WMs for ocean engineering, focusing on Joint-Embedding Predictive Architectures (JEPAs) and AdaJEPA's test-time adaptation within model predictive control, mapping them to navigation, adaptive sampling, digital twins, and biodiversity monitoring, and separating demonstrated evidence from prospective applications. The synthesis identifies key Gaps: benchmarks, uncertainty calibration, safe adaptation and proposes a research agenda for physics-informed, deployment-adaptive marine WMs validated through simulation and field missions."
-  },
-  {
-   "title": "CLASP: Complementary Layer Selection and Profiling for Zero-Shot OOD Detection using Vision-Language Models",
-   "link": "https://arxiv.org/abs/2611.28986",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28986v1 Announce Type: cross Abstract: Vision-language models (VLMs) enable zero-shot out-of-distribution (OOD) detection in medical imaging, yet existing approaches often rely on final-layer confidence or entropy-based layer selection, potentially missing complementary information. We show that low in-distribution (ID) confidence entropy does not reliably predict OOD discrimination. We introduce CLASP (Complementary Layer Selection and Profiling), an ID-only framework that jointly models layer--prompt responses and visual features. CLASP ranks visual encoder layers using Gaussian conditional mutual information and selects a compact subset through anchored spectral selection, without fixing the number of layers. It then combines the selected layer--prompt profiles with PCA-compr"
-  },
-  {
-   "title": "Demystifying Classifier-Free Guidance for Auto-Regressive Image Generation",
-   "link": "https://arxiv.org/abs/2611.29002",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.29002v1 Announce Type: cross Abstract: Classifier-free guidance (CFG) has been widely adopted in autoregressive (AR) models for high-quality image generation. Despite its strong empirical performance, its mechanism in AR models remains unclear. This paper demystifies the mechanism of CFG through both empirical and theoretical studies. By examining the top-ranked semantics of different components in CFG, we show that texture information is primarily encoded in the difference between the conditional and unconditional logits, whereas both logits share previous-token repetition as their leading semantics. This strong repetition semantics obscures the desired texture information, causing greedy decoding from the conditional logits alone to produce nearly pure-color images. Through a "
-  },
-  {
-   "title": "DoC: Learning to Defer or Commit for Timely, Accurate, and Stable Conversational Diagnosis Prediction",
-   "link": "https://arxiv.org/abs/2611.29003",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.29003v1 Announce Type: cross Abstract: Conversational diagnosis prediction requires accurate, early, and stable predictions from ongoing clinical dialogue, yet dialogue-level labels do not specify when to commit. We propose a two-phase framework for learning deferral and diagnosis decisions. First, iterative commitment-boundary estimation constructs Defer/diagnosis supervision without annotated commitment times. Second, Defer-aware supervised fine-tuning initializes a policy, refined through reinforcement learning with trajectory-level rewards for timeliness, first-commit accuracy, and post-commit stability. On EMSDialog and MediTOD, DoC commits early, achieving the highest first-commit accuracy among post-trained methods (76.7%/51.2%) and the lowest post-commit error overall (1"
-  },
-  {
-   "title": "Consumer-Time Validity in Stateful AI Runtimes: Verifying Recovered State and Deferred Authority",
-   "link": "https://arxiv.org/abs/2611.29004",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.29004v1 Announce Type: cross Abstract: Stateful LLM serving engines and agent runtimes reuse execution state and deferred permissions across components and sessions. A cancellation, rollback, or approval is recorded by one component and relied on by another, and recording it does not make the later use valid: a downstream consumer may read state or dispatch an action whose identity, production status, allocation, or target revision has since changed. We call the missing check consumer-time validity and separate two forms. State validity governs what a consumer reads. On vLLM with LMCache, an interrupted KV load leaves unwritten blocks indexed, and a host-only counter rewind desynchronizes the GPU position, so a second tenant generates a schema-valid tool call naming the wrong te"
-  },
-  {
-   "title": "NoHairCache: Calibrate-Once KV Cache Eviction with One Power-Law Exponent",
-   "link": "https://arxiv.org/abs/2611.29006",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.29006v1 Announce Type: cross Abstract: The decay exponent $\\alpha$ in KV-cache eviction is an intrinsic property of the model: calibrated once on a single corpus, it transfers directly across domains. Attention-based accumulation (H2O) and recency-based sliding windows (StreamingLLM) are two dominant eviction frameworks, often treated as unrelated, but we show that they are the two endpoints of a single power-law family: by scoring each token as $s_i = A_i \\cdot (t-i)^{-\\alpha}$, where $A_i$ is cumulative attention and $\\alpha$ controls the age penalty, H2O and StreamingLLM correspond to $\\alpha=0$ and $\\alpha\\to\\infty$, respectively (with StreamingLLM additionally hard-coding an attention-sink patch). The no-hair mechanism of \\citet{xiang2026nohair} bounds the admissible range "
-  },
-  {
-   "title": "Mind the Trap As LLMs Guess the Data Model: Grain-Aware Guards Against Fan-out in Text-to-SQL and Its Benchmarks",
-   "link": "https://arxiv.org/abs/2611.29009",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.29009v1 Announce Type: cross Abstract: Text-to-SQL systems built on large language models (LLMs) often aggregate over one-to-many and many-to-many joins, a classic trap: when the joined rows repeat an entity, a SUM or COUNT counts it more than once, yet the query runs and returns a plausible number. We characterize these fan-out errors by one condition on the relation an aggregate reads, which depends on two facts a schema does not show: each measure's grain, and how many rows a join on each key repeats. An audit that tests the condition on the data finds distorted gold answers for 4.2% of the dev questions of BIRD, a widely used benchmark, and BIRD's later, independent revision changed 44% of the answers the audit flags as definite fan-out, against 16% of unflagged ones. We rel"
-  },
-  {
-   "title": "Population-Based Post-Training for Large Language Models",
-   "link": "https://arxiv.org/abs/2611.29014",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.29014v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) is one of the most popular post-training paradigms for large language models. RLVR typically trains a single model under hyperparameters chosen before training begins, while researchers tune hyperparameters across consecutive runs. We introduce Population-Based Post-Training (PBPT), which trains several models in parallel and lets the training process do the tuning through population-based training. PBPT periodically evaluates models on a validation set. High-performers are duplicated and their hyperparameters perturbed to explore new configurations. Low-performers stop training and are replaced by these copies. On reasoning benchmarks (Enigmata, Nemotron) and interactive tool-use enviro"
-  },
-  {
-   "title": "Watermark Claims Under Test: Lessons from Auditing a Production LLM",
-   "link": "https://arxiv.org/abs/2611.29018",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.29018v1 Announce Type: cross Abstract: Can we tell whether an LLM is watermarked without knowing its secret key? Published black-box tests suggest that carefully designed prompts can reveal the statistical footprint of a watermark. This paper examines what happens when those tests move from controlled reference implementations to a deployed model whose watermarking parameters are undisclosed. We present an audit of the Red-Green watermark presence test on Claude. Across ten initial configurations, the published test never rejects on a model the provider states is watermarked, despite detecting a local reference at comparable sample sizes. Controlled experiments expose a failure mode: including the prompt in the watermark's repeated-context history suppresses marking exactly wher"
   }
  ]
 }

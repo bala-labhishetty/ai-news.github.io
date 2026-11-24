@@ -1,114 +1,5 @@
 {
  "stories": {
-  "se74727ec8a": {
-   "id": "se74727ec8a",
-   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-21T14:00:00+00:00",
-   "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]",
-   "related": [],
-   "summary": "Chess.com is adding 10 classic games, including backgammon, go, mahjong, and sudoku, to a new Classic Games platform following its Gambit poker site.",
-   "why": "",
-   "topics": [
-    "Products"
-   ]
-  },
-  "sa9f34b76fc": {
-   "id": "sa9f34b76fc",
-   "title": "Can Anthropic afford to put safety first?",
-   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-21T15:00:00+00:00",
-   "description": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
-   "related": [],
-   "summary": "The Verge's Hayden Field discusses whether Anthropic, which recently went public on the Nasdaq, can afford to prioritize safety.",
-   "why": "",
-   "topics": [
-    "Funding",
-    "Safety"
-   ]
-  },
-  "sdffab27fe8": {
-   "id": "sdffab27fe8",
-   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-21T16:00:00+00:00",
-   "description": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-   "related": [],
-   "summary": "An actor licensed his AI face likeness to a microdrama startup, a practice already popular in China, prompting experts to question its long-term effects on Hollywood.",
-   "why": "It highlights licensing and consent issues around AI likenesses that could shape how entertainment companies use digital replicas.",
-   "topics": [
-    "Enterprise",
-    "Regulation"
-   ]
-  },
-  "s6ccebafcdf": {
-   "id": "s6ccebafcdf",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-21T17:00:00+00:00",
-   "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "related": [],
-   "summary": "TechCrunch published a list of notable AI agents that can operate inside text messaging, spanning general assistants and agents for families, travel, and work.",
-   "why": "",
-   "topics": [
-    "Agents",
-    "Products"
-   ]
-  },
-  "s234da3fc18": {
-   "id": "s234da3fc18",
-   "title": "The UN fails to agree on rules regulating ‘killer robots’",
-   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-21T20:03:37+00:00",
-   "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
-   "related": [],
-   "summary": "UN diplomats in Geneva ended a largely fruitless week on autonomous weapons rules, agreeing only to start discussing options.",
-   "why": "Stalled international talks mean no near-term binding rules on autonomous weapons, so teams building such systems should expect shifting compliance requirements.",
-   "topics": [
-    "Regulation"
-   ]
-  },
-  "sa1abc1ba27": {
-   "id": "sa1abc1ba27",
-   "title": "A tale of two Nvidias",
-   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-21T21:07:42+00:00",
-   "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-   "related": [],
-   "summary": "TechCrunch contrasts Nvidia's latest earnings report with tech executives publicly calling for Jensen Huang to return as leader.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "scfea722a56": {
-   "id": "scfea722a56",
-   "title": "Pandex – Official European Law for AI Agents, over MCP",
-   "link": "https://www.pandex.io",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-21T20:47:41+00:00",
-   "description": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 64 # Comments: 11",
-   "related": [],
-   "summary": "Pandex, a site called an official European law for AI agents over MCP, was shared on Hacker News with 64 points and 11 comments.",
-   "why": "",
-   "topics": [
-    "Regulation",
-    "Agents"
-   ]
-  },
   "s26e2979e9c": {
    "id": "s26e2979e9c",
    "title": "Meta ads is now available in AWS Quick",
@@ -10239,16 +10130,303 @@
     "Enterprise",
     "Safety"
    ]
+  },
+  "se0ad3efb80": {
+   "id": "se0ad3efb80",
+   "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+   "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-24T09:39:50+00:00",
+   "description": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 78 # Comments: 37",
+   "related": [],
+   "summary": "A Hacker News post argues that cheaper AI tokens will not generate enough revenue to pay back the capital expenditure behind AI infrastructure.",
+   "why": "Leaders planning AI budgets should question whether falling per-token prices can offset large infrastructure investments, as the cited argument suggests they may not.",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ]
+  },
+  "sf3aa9260f1": {
+   "id": "sf3aa9260f1",
+   "title": "Searching for distant planets with Astra",
+   "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-24T11:00:00+00:00",
+   "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "related": [],
+   "summary": "OpenAI describes two amateur astronomers using Codex and Astra to search public NASA Kepler and TESS data for potential exoplanets.",
+   "why": "",
+   "topics": [
+    "Research",
+    "Products"
+   ]
+  },
+  "sfb7a1ad023": {
+   "id": "sfb7a1ad023",
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-24T12:30:05+00:00",
+   "description": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+   "related": [],
+   "summary": "Amazon reports that hackers used AI agents, built on the Cairn framework, to find and exploit a zero-day vulnerability with little human involvement.",
+   "why": "Shows attackers can automate vulnerability discovery and exploitation, raising the urgency for defenders to adopt similar AI-driven security tooling.",
+   "topics": [
+    "Agents",
+    "Safety"
+   ]
+  },
+  "sef8096d74f": {
+   "id": "sef8096d74f",
+   "title": "LLM agents work for their parent companies, not for you",
+   "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-24T12:40:15+00:00",
+   "description": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 799 # Comments: 340",
+   "related": [],
+   "summary": "A Hacker News-linked essay argues that LLM agents work for their parent companies rather than for the users they interact with.",
+   "why": "Engineers deploying agents should consider whose interests agents are built to serve, especially for user-facing products.",
+   "topics": [
+    "Agents",
+    "Safety"
+   ]
+  },
+  "s7765d98825": {
+   "id": "s7765d98825",
+   "title": "Raising the stakes for enterprise networks with AI modernization",
+   "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-24T15:15:16+00:00",
+   "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+   "related": [],
+   "summary": "An MIT Technology Review sponsored piece says agentic AI is adding heavy load to enterprise networks, with agent tasks generating an estimated 450% more traffic than human work.",
+   "why": "Agentic AI workloads could substantially increase network traffic, so enterprise networks need modernization planning.",
+   "topics": [
+    "Infrastructure",
+    "Enterprise"
+   ]
+  },
+  "s5845ed4863": {
+   "id": "s5845ed4863",
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T15:51:07+00:00",
+   "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+   "related": [],
+   "summary": "Amazon is reportedly acquiring Decart for $7.5 billion as part of efforts to make its Trainium chips more efficient.",
+   "why": "Software-driven efficiency gains could help close the performance gap between custom AI chips and Nvidia's hardware.",
+   "topics": [
+    "Infrastructure",
+    "Funding"
+   ]
+  },
+  "se2544bc1ae": {
+   "id": "se2544bc1ae",
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-24T16:00:00+00:00",
+   "description": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "related": [],
+   "summary": "Google says Gemini is partnering with the Golden State Warriors, Valkyries, and Chase Center to power fan experiences and business operations.",
+   "why": "",
+   "topics": [
+    "Enterprise",
+    "Products"
+   ]
+  },
+  "sbbaf6332f2": {
+   "id": "sbbaf6332f2",
+   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+   "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T16:02:37+00:00",
+   "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+   "related": [],
+   "summary": "Pinterest will let parents limit the AI-generated content their teens see in their feeds.",
+   "why": "Platforms are adding user controls over AI-generated content, which may shape future content-labeling and filtering requirements.",
+   "topics": [
+    "Products",
+    "Safety"
+   ]
+  },
+  "sdc69597abe": {
+   "id": "sdc69597abe",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T16:09:23+00:00",
+   "description": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
+   "related": [],
+   "summary": "The New York Times has told freelance photographers not to update to the 2027 version of Adobe Photoshop, citing AI features that may not be apparent to users.",
+   "why": "Hidden AI features in creative software can create compliance and provenance problems for professional workflows.",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
+  },
+  "s70f3d3a634": {
+   "id": "s70f3d3a634",
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T16:10:00+00:00",
+   "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+   "related": [],
+   "summary": "An investor in Crusoe argues that solar and energy storage are the obvious power choice for future AI data centers needing tens of gigawatts.",
+   "why": "Power supply is becoming a central constraint for AI infrastructure planning, pushing toward renewables and storage.",
+   "topics": [
+    "Infrastructure"
+   ]
+  },
+  "se213ef04a8": {
+   "id": "se213ef04a8",
+   "title": "Tidal bans AI-generated music",
+   "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-24T16:12:38+00:00",
+   "description": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 306 # Comments: 277",
+   "related": [
+    {
+     "source": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+     "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming"
+    },
+    {
+     "source": "The Verge",
+     "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+     "title": "Tidal will start banning AI-generated music next month"
+    }
+   ],
+   "summary": "Streaming service Tidal has banned AI-generated music from its platform, according to a Variety report.",
+   "why": "Platform content policies on AI-generated media are tightening, which affects distributors and creators building on music services.",
+   "topics": [
+    "Regulation"
+   ]
+  },
+  "sc82ab5c574": {
+   "id": "sc82ab5c574",
+   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T16:30:00+00:00",
+   "description": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
+   "related": [],
+   "summary": "Viral AI-generated deepfake videos of Nvidia's Jensen Huang, including one with nearly 6 million Instagram views, are spreading online.",
+   "why": "Realistic deepfakes of executives raise impersonation and misinformation risks for companies and their leaders.",
+   "topics": [
+    "Safety"
+   ]
+  },
+  "s16565a3f5d": {
+   "id": "s16565a3f5d",
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-24T16:34:13+00:00",
+   "description": "",
+   "related": [],
+   "summary": "Hugging Face published a tutorial on a sim-to-real workflow for obstacle avoidance on a Microduck robot using Isaac Lab and Newton.",
+   "why": "",
+   "topics": [
+    "Research",
+    "Developer tools"
+   ]
+  },
+  "s03938f50d2": {
+   "id": "s03938f50d2",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T17:00:00+00:00",
+   "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+   "related": [],
+   "summary": "Meta has integrated its Muse AI assistant directly into Instagram DMs, so users no longer need to switch to the separate Muse app.",
+   "why": "Embedding AI agents in existing messaging flows shows how assistants are moving into the apps people already use.",
+   "topics": [
+    "Products",
+    "Agents"
+   ]
+  },
+  "sef2ea07a8f": {
+   "id": "sef2ea07a8f",
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T18:02:59+00:00",
+   "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+   "related": [],
+   "summary": "The UK's cyber agency warns that AI hacking tools are exploiting simple, long-standing security flaws, urging stronger foundations.",
+   "why": "Engineering teams should prioritize basic security hygiene, since AI-driven attacks are targeting known weaknesses.",
+   "topics": [
+    "Safety",
+    "Regulation"
+   ]
+  },
+  "s3e9a37054b": {
+   "id": "s3e9a37054b",
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T18:15:00+00:00",
+   "description": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
+   "related": [],
+   "summary": "Early screenings of David Fincher's Once Upon a Time in Hollywood sequel have prompted viewers to suspect generative AI was used in the film.",
+   "why": "Reports cite uncanny, inconsistent visuals, highlighting ongoing questions about undisclosed AI use in media production.",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s9824edc2f4": {
+   "id": "s9824edc2f4",
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T18:30:42+00:00",
+   "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+   "related": [],
+   "summary": "Anthropic's shares have fallen below its IPO price, raising concerns about valuations across AI startups.",
+   "why": "A weak post-IPO debut for a leading AI lab could tighten funding and valuation expectations for AI companies.",
+   "topics": [
+    "Funding"
+   ]
+  },
+  "s32af257829": {
+   "id": "s32af257829",
+   "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+   "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-24T20:02:03+00:00",
+   "description": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+   "related": [],
+   "summary": "Nvidia CEO Jensen Huang, in his first all-hands since returning, apologized to staff and denied that Trump or tech leaders helped him get his job back.",
+   "why": "Leadership turmoil at a key AI chip supplier can affect supply, roadmap, and partner confidence.",
+   "topics": [
+    "Enterprise",
+    "Infrastructure"
+   ]
   }
  },
  "seen": {
-  "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai": "se74727ec8a",
-  "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure": "sa9f34b76fc",
-  "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood": "sdffab27fe8",
-  "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages": "s6ccebafcdf",
-  "https://www.theverge.com/tech/1039554/un-regulations-killer-robots": "s234da3fc18",
-  "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias": "sa1abc1ba27",
-  "https://www.pandex.io": "scfea722a56",
   "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick": "s26e2979e9c",
   "https://www.noemamag.com/the-mythology-of-conscious-ai": "s67786b6377",
   "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens": "s5cc0b3bf0f",
@@ -10893,6 +11071,26 @@
   "https://arxiv.org/abs/2611.29009": "s0a90c99471",
   "https://arxiv.org/abs/2611.29014": "s50795a978d",
   "https://arxiv.org/abs/2611.29018": "s93e7a0d01b",
-  "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls": "sf3f6304a8c"
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls": "sf3f6304a8c",
+  "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex": "se0ad3efb80",
+  "https://openai.com/index/searching-for-distant-planets-with-astra": "sf3aa9260f1",
+  "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": "sfb7a1ad023",
+  "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you": "sef8096d74f",
+  "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization": "s7765d98825",
+  "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race": "s5845ed4863",
+  "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state": "se2544bc1ae",
+  "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see": "sbbaf6332f2",
+  "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features": "sdc69597abe",
+  "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers": "s70f3d3a634",
+  "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924": "se213ef04a8",
+  "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes": "sc82ab5c574",
+  "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": "s16565a3f5d",
+  "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming": "se213ef04a8",
+  "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms": "s03938f50d2",
+  "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban": "se213ef04a8",
+  "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security": "sef2ea07a8f",
+  "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive": "s3e9a37054b",
+  "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups": "s9824edc2f4",
+  "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology": "s32af257829"
  }
 }

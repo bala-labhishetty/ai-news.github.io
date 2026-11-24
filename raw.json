@@ -1,14 +1,254 @@
 {
- "updated": "2026-11-23T12:54:42.282683+00:00",
+ "updated": "2026-11-24T00:56:11.971732+00:00",
  "count": 300,
  "items": [
   {
-   "title": "Meta Muse can do your Black Friday shopping at Walmart",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "title": "Trump engineered a risky comeback for Jensen Huang",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
    "source": "The Verge",
    "category": "Industry",
-   "published": "2026-11-23T11:00:00+00:00",
-   "description": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]"
+   "published": "2026-11-23T22:25:12+00:00",
+   "description": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T22:10:32+00:00",
+   "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]"
+  },
+  {
+   "title": "Welcome to elite impunity, Jensen Huang",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T22:09:26+00:00",
+   "description": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]"
+  },
+  {
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T22:05:50+00:00",
+   "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+  },
+  {
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T22:02:05+00:00",
+   "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+  },
+  {
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T21:47:41+00:00",
+   "description": "\"The mistake has been corrected,\" Elon Musk chimed in."
+  },
+  {
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T21:25:42+00:00",
+   "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+  },
+  {
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "link": "https://openai.com/index/introducing-shirudo",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-23T21:20:00+00:00",
+   "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+  },
+  {
+   "title": "AI data centers throw another wrench into chaotic UN climate talks",
+   "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T21:09:37+00:00",
+   "description": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]"
+  },
+  {
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+   "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T20:38:53+00:00",
+   "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+  },
+  {
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T20:00:00+00:00",
+   "description": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]"
+  },
+  {
+   "title": "How Jensen Huang ended up as Nvidia CEO again",
+   "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T19:57:18+00:00",
+   "description": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]"
+  },
+  {
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T19:14:46+00:00",
+   "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+  },
+  {
+   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+   "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T19:04:52+00:00",
+   "description": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]"
+  },
+  {
+   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T18:26:47+00:00",
+   "description": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]"
+  },
+  {
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T18:12:22+00:00",
+   "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+  },
+  {
+   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+   "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+   "source": "MIT Tech Review",
+   "category": "Industry",
+   "published": "2026-11-23T17:36:08+00:00",
+   "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…"
+  },
+  {
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "link": "https://huggingface.co/blog/allenai/robotrack",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-23T17:20:37+00:00",
+   "description": ""
+  },
+  {
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T17:14:23+00:00",
+   "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+  },
+  {
+   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+   "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-23T17:00:08+00:00",
+   "description": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]"
+  },
+  {
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "source": "Google AI",
+   "category": "AI Labs",
+   "published": "2026-11-23T17:00:00+00:00",
+   "description": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons"
+  },
+  {
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "source": "Google DeepMind",
+   "category": "AI Labs",
+   "published": "2026-11-23T16:59:40+00:00",
+   "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+  },
+  {
+   "title": "Jensen Huang isn’t out of the woods yet",
+   "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T16:57:40+00:00",
+   "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
+  },
+  {
+   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+   "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T16:39:10+00:00",
+   "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC."
+  },
+  {
+   "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+   "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T16:30:11+00:00",
+   "description": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, […]"
+  },
+  {
+   "title": "Tech leaders are celebrating Jensen Huang’s return",
+   "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-23T16:14:04+00:00",
+   "description": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]"
+  },
+  {
+   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+   "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T15:04:01+00:00",
+   "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+  },
+  {
+   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T14:43:03+00:00",
+   "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+  },
+  {
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-23T14:21:59+00:00",
+   "description": "The stunning reversal was supported by senior officials in the U.S. government."
+  },
+  {
+   "title": "Connected intelligence for in-house legal",
+   "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-23T08:00:00+00:00",
+   "description": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+  },
+  {
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-23T08:00:00+00:00",
+   "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
   },
   {
    "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
@@ -2161,246 +2401,6 @@
    "category": "Research",
    "published": "2026-11-23T05:00:00+00:00",
    "description": "arXiv:2510.02848v3 Announce Type: replace-cross Abstract: Zero-shot text-to-speech (TTS) systems are commonly built on either discrete codec tokens or continuous acoustic representations. Discrete-token models benefit from stable sequence modeling and explicit speech factorization, but they ultimately synthesize speech through codebook lookup and codeword composition, which can accumulate errors and impose a quality ceiling on naturalness and speaker similarity. Continuous-representation models can generate fine-grained speech latents directly, but often require heavier in-context modeling and less explicit alignment. This paper presents Rhythm-TTS, a shortcut zero-shot TTS framework that combines the factorizability of discrete codec tokens with the fidelity of continuous latent generatio"
-  },
-  {
-   "title": "Improving Consistency in Retrieval-Augmented Systems with Group Similarity Rewards",
-   "link": "https://arxiv.org/abs/2510.04392",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2510.04392v2 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) systems are increasingly deployed in high-stakes domains where users expect outputs to be consistent across semantically equivalent queries. However, existing systems often exhibit significant inconsistencies due to variability in both the retriever and generator, undermining trust and reliability. In this work, we focus on information consistency, i.e., the requirement that generated outputs convey the same core content across semantically equivalent inputs. We introduce a principled evaluation framework that decomposes RAG consistency into retriever-level, generator-level, and end-to-end components, enabling systematic identification of inconsistency sources. To improve consistency, we propose "
-  },
-  {
-   "title": "RAG Makes Guardrails Brittle? Investigating Robustness of Guardrails under RAG-style Contexts",
-   "link": "https://arxiv.org/abs/2510.05310",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2510.05310v2 Announce Type: replace-cross Abstract: With the increasing adoption of large language models (LLMs), ensuring the safety of LLM systems has become a pressing concern. External LLM-based guardrail models have emerged as a popular solution to screen unsafe inputs and outputs, but they are themselves fine-tuned or prompt-engineered LLMs vulnerable to data distribution shifts. In this paper, taking Retrieval Augmentation Generation (RAG) as a case study, we investigate how robust LLM-based guardrails are against additional information embedded in the context. Through a systematic evaluation of 3 Llama Guards and 2 GPT-oss models, we find that inserting benign retrieved documents flips the judgments of input and output guardrails in around 11% and 8% of cases respectively, wi"
-  },
-  {
-   "title": "Learning to Assimilate: Amortized Control for Autoregressive Diffusion",
-   "link": "https://arxiv.org/abs/2510.06637",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2510.06637v4 Announce Type: replace-cross Abstract: Autoregressive diffusion models (ARDMs) offer expressive priors for forecasting chaotic dynamics. However, maintaining consistency with sparse observations over long rollouts can require substantial test-time computation. We introduce Control-Augmented Data Assimilation (CADA), which trains a lightweight controller on top of a frozen ARDM to steer predictions toward future observations. Using a KL-regularized stochastic optimal control objective, the controller learns from short autoregressive rollouts to anticipate observations while staying close to the pretrained dynamics. At inference, it injects corrections at each denoising step without per-forecast optimization. Across two chaotic PDE benchmarks, CADA improves long-horizon ac"
-  },
-  {
-   "title": "Provable Selective Auto-labeling with Reliability Guarantees",
-   "link": "https://arxiv.org/abs/2510.14581",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2510.14581v4 Announce Type: replace-cross Abstract: Auto-labeling has emerged as a popular, cost-effective alternative to manual annotation. However, its performance is often highly inconsistent across different tasks, underscoring the importance of selective strategies. Despite this, existing heuristic methods for selective auto-labeling still rely heavily on model confidence scores and offer no reliable guarantee on the trustworthiness of the selected examples. To address this, we propose \\textbf{Conformal Labeling}, a novel method that selects a subset of auto-generated labels with a provably controlled false labeling rate (FLR). Our key idea is to formulate selective auto-labeling as a multiple-hypothesis testing problem, where each hypothesis indicates whether to accept the auto"
-  },
-  {
-   "title": "Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph",
-   "link": "https://arxiv.org/abs/2511.00086",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2511.00086v2 Announce Type: replace-cross Abstract: Test-Time Scaling (TTS) improves large language models (LLMs) by allocating additional computation during inference, typically through parallel, sequential, or hybrid scaling. However, prior studies often assume fixed collaboration architectures (e.g., topologies) and single-model usage, overlooking that optimal architectures and model combinations can vary across tasks. Therefore, we study the novel problem of searching for compute-optimal model combinations and architectures in TTS under a fixed budget. We formalize it as a multi-LLM collaboration graph, where nodes encode roles and LLM model assignments, and edges capture information flow. This problem is challenging because (i) the combinatorial search space is prohibitively lar"
-  },
-  {
-   "title": "Object-Centric World Models for Causality-Aware Reinforcement Learning",
-   "link": "https://arxiv.org/abs/2511.14262",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2511.14262v4 Announce Type: replace-cross Abstract: World models have been developed to support sample-efficient deep reinforcement learning agents. However, it remains challenging for world models to accurately replicate environments that are high-dimensional, non-stationary, and composed of multiple objects with rich interactions since most world models learn holistic representations of all environmental components. By contrast, humans perceive the environment by decomposing it into discrete objects, facilitating efficient decision-making. Motivated by this insight, we propose \\emph{Slot Transformer Imagination with CAusality-aware reinforcement learning} (STICA), a unified framework in which object-centric Transformers serve as the world model and causality-aware policy and value "
-  },
-  {
-   "title": "Verify Before You Generate: Sketch-Guided Efficient Motion-Planning for Video Generation",
-   "link": "https://arxiv.org/abs/2511.17450",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2511.17450v2 Announce Type: replace-cross Abstract: Recent video generation approaches increasingly rely on planning intermediate control signals like object trajectories to improve temporal coherence and motion fidelity. However, these methods mostly employ single-shot plans that are typically limited to simple motion instructions, leading to suboptimal motion quality, or iterative refinement which requires multiple calls to the video generator and incurs high computational cost. To address this trade-off, we propose SketchVerify, a training-free framework whose key insight is to verify motion plans using lightweight video sketches before invoking the expensive video generator. This lightweight planning space enables efficient comparison of multiple candidate trajectories and bounde"
-  },
-  {
-   "title": "Learning and Comparing Local Traces for Weakly Supervised Image Manipulation Localization",
-   "link": "https://arxiv.org/abs/2601.06222",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2601.06222v2 Announce Type: replace-cross Abstract: Image manipulation localization identifies edited regions and provides spatial evidence for assessing image reliability, but fully supervised methods require costly pixel-level annotations. Weakly supervised methods reduce this cost using image-level labels, but classification can rely on a few salient cues without ensuring accurate or complete localization. This difficulty is pronounced when manipulation traces are weak and unevenly distributed and authentic and manipulated regions share similar appearance. We propose a CLIP-based framework that integrates Trace-Oriented Vision--Language Adaptation (TOVA) and Relation-Aware Trace Discrimination (RATD). TOVA adapts the visual encoder and uses global visual context to aggregate edge-"
-  },
-  {
-   "title": "SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning",
-   "link": "https://arxiv.org/abs/2602.01990",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2602.01990v4 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually expand their capabilities, making Multimodal Continual Instruction Tuning (MCIT) essential. Recent methods leverage sparse expert routing to promote task specialization, but we find that the expert routing process suffers from drift as the data distribution evolves. For example, a grounding query that previously activated localization experts may instead be routed to irrelevant experts after learning OCR tasks. Meanwhile, the grounding-related experts can be overwritten by new tasks and lose their original functionality. Such failure reflects two problems: router drift, where expert s"
-  },
-  {
-   "title": "TabularMath: Evaluating Computational Extrapolation in Tabular Learning via Program-Verified Synthesis",
-   "link": "https://arxiv.org/abs/2602.02523",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2602.02523v2 Announce Type: replace-cross Abstract: Standard tabular benchmarks reward interpolation: predicting values inside the data manifold, where local statistical smoothing works. However, much high-value tabular data, from pricing and financial rules to physical simulation, is produced by deterministic computations rather than noisy relationships. Can tabular models move from statistical interpolation to computational extrapolation, returning exact answers even beyond the range seen in training? We introduce TabularMath, a benchmark of 114 deterministic computations (233,472 rows) compiled from GSM8K and AIME problems into verified programs. We evaluate nine tabular methods, closed-form and symbolic regression baselines, and in-context learning with GPT-OSS-120B. On regressio"
-  },
-  {
-   "title": "EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
-   "link": "https://arxiv.org/abs/2602.04417",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2602.04417v3 Announce Type: replace-cross Abstract: Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy gradient algorithms for LLMs. First, we replace the fixed anchor policy during RL with an Exponential Moving Average (EMA), similar to a target network in deep Q-learning. Second, we introduce Top-$k$ KL estimator, which allows for flexible interpolation between exact KL and sampled KL. We derive the stability conditions for using EMA anchor; moreover, we show that our Top-$k$ KL estimator yields both unbiased KL values and unbiased gradients at any $k$, while bringing the benefits of exact KL. When combined with GRPO, the two techniques"
-  },
-  {
-   "title": "The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas",
-   "link": "https://arxiv.org/abs/2603.11842",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2603.11842v4 Announce Type: replace-cross Abstract: The post-ChatGPT surge has rapidly reframed IS research and practice. As organizations and society grapple with GenAI adoption, a body of secondary studies and research agendas has emerged to synthesize early evidence and chart directions for future inquiry. This study reviews secondary and roadmap papers to synthesize the state of knowledge on GenAI's benefits and challenges in IS, and to identify future research directions. We performed a systematic search across Scopus, WoS, and eAIS for publications from 2023 onwards. Following a rigorous, multi-stage screening process, we selected a final set of 28 papers for analysis using bibliometric mapping and thematic analysis. We also conducted a quality assessment of all sources to gaug"
-  },
-  {
-   "title": "Delightful Policy Gradient under Distributed Friction",
-   "link": "https://arxiv.org/abs/2603.20521",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2603.20521v3 Announce Type: replace-cross Abstract: Distributed reinforcement learning trains on data from stale, buggy, or mismatched actors, whose actions often have high surprisal (negative log-probability) under the learner's policy. Supervised fine-tuning learns stably from such logged data, while policy gradient often does not. We trace the difference to negative learning from surprising data: rare failures can dominate finite-batch updates, while rare successes carry information the current policy would otherwise miss. The Delightful Policy Gradient (DG) separates the two by gating each term with delight, the product of advantage and surprisal, and needs no behavior probabilities. In a contaminated bandit, DG suppresses the perpendicular noise of rare failures by a factor that"
-  },
-  {
-   "title": "Does This Gradient Spark Joy?",
-   "link": "https://arxiv.org/abs/2603.20526",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2603.20526v2 Announce Type: replace-cross Abstract: Policy gradient computes a backward pass for every sample, although the backward pass is expensive and most samples carry little learning value. The Delightful Policy Gradient (DG) scores learning value in the forward pass with \\emph{delight}, the product of advantage and surprisal (negative log-probability). We introduce the \\emph{Kondo gate}, which compares delight against a compute price and pays for a backward pass only when the sample is worth it; sweeping the price traces a quality--cost trade-off. On MNIST, keeping 3\\% of gradient terms learns faster than standard policy gradient even when backward passes are free, and nearly matches full DG. In bandits, zero-price gating preserves the expected gradient direction and removes "
-  },
-  {
-   "title": "TopoPilot: Reliable Conversational Workflow Automation for Topological Data Analysis and Visualization",
-   "link": "https://arxiv.org/abs/2603.25063",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2603.25063v3 Announce Type: replace-cross Abstract: Recent agentic systems demonstrate that large language models can generate complex codebases from natural language prompts. Despite this progress, they present reliability concerns for scientific visualization due to invalid operations, subtle errors, and failure to resolve underspecified inputs. In this work, we introduce TopoPilot, a reliable and extensible agentic framework for automating complex scientific visualization workflows. We focus on topological data analysis and visualization as a primary use case, while designing the framework to generalize to broader visualization domains. TopoPilot employs a two-agent architecture: an orchestrator translates user prompts into workflows composed of atomic backend actions, while a ver"
-  },
-  {
-   "title": "The Projector Forgets Too: Joint Merging for Multimodal Continual Instruction Tuning",
-   "link": "https://arxiv.org/abs/2604.14016",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2604.14016v2 Announce Type: replace-cross Abstract: Multimodal Continual Instruction Tuning (MCIT) is essential for sequential task adaptation of Multimodal Large Language Models (MLLMs) but is severely restricted by catastrophic forgetting. While existing literature focuses on the reasoning language backbone, in this work, we find that forgetting can arise from changes in both the cross-modal projector and the language model's LoRA adapters. In component restoration experiments, restoring an earlier task's LoRA adapter while retaining the final-task projector can leave an accuracy gap relative to restoring both components. To address these two sources of forgetting, we present \\textbf{JoMe} (\\textbf{Jo}int \\textbf{Me}rging), which combines \\textbf{C}ross-modal \\textbf{P}rojection \\t"
-  },
-  {
-   "title": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
-   "link": "https://arxiv.org/abs/2604.21903",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2604.21903v2 Announce Type: replace-cross Abstract: Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often designed for a single pair of super-resolution (SR) factors (upscaling spatial and temporal ratio between the low-resolution sequence and the high-resolution sequence), limiting transfer across spatial resolutions and temporal cadences (frame rates). We present a scale-adaptive framework that reuses the same architecture across factors by decomposing spatiotemporal SR into a deterministic prediction of the conditional mean, with attention, and a residual conditional diffusion model, with an optional mass-conservation (same precipitation amo"
-  },
-  {
-   "title": "When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\\ell_1$-norm Lower Bounds",
-   "link": "https://arxiv.org/abs/2605.06615",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.06615v2 Announce Type: replace-cross Abstract: Sign-based optimization algorithms, such as SignSGD and Muon, have garnered significant attention for their remarkable performance in training large foundation models. Despite this empirical success, we still lack a theoretical understanding of when and why these sign-based methods outperform vanilla SGD. The core obstacle is that under standard smoothness and finite variance conditions, SGD is known to be minimax optimal for finding stationary points measured by $\\ell_2$-norms, thereby fundamentally precluding any complexity gains for sign-based methods in standard settings. To overcome this barrier, we analyze sign-based optimizers leveraging $\\ell_1$-norm stationarity, $\\ell_\\infty$-smoothness, and a separable noise model, which "
-  },
-  {
-   "title": "Mosaic: Efficient CPU-GPU Coordinated Block-Sparse Attention",
-   "link": "https://arxiv.org/abs/2605.07719",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.07719v2 Announce Type: replace-cross Abstract: Long-context LLM serving increasingly relies on CPU-resident context KV cache, driven by KV offloading and disaggregated prefill--decode execution. Although block-sparse attention reduces KV access, existing designs remain inefficient: GPU-centralized execution fetches selected KV blocks from CPU memory at each decoding step, making it PCIe-bound, while CPU--GPU partitioned execution places CPU-side sparse attention on the critical path, leaving substantial GPU time idle. This paper presents Mosaic, a CPU--GPU coordinated block-sparse attention system for efficient long-context decoding with CPU-resident context KV. Mosaic builds on three key insights: output-contribution-aware KV budgeting, head-specific and granularity-aware spars"
-  },
-  {
-   "title": "NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
-   "link": "https://arxiv.org/abs/2605.08144",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.08144v3 Announce Type: replace-cross Abstract: Training a diffusion model involves two sources of randomness for each data sample: the timestep and the Gaussian noise realization. The timestep has been studied extensively through scheduling and weighting, whereas the impact of the noise realization at a given timestep is still underexplored. In this work, we examine whether different noise instances are equally informative. We introduce NoiseRater, a network that scores an individual noise instance conditioned on the data sample and timestep. The rater is learned through bilevel optimization, where its scores reweight the diffusion loss in the inner loop, and it is updated to reduce validation loss after the inner-loop updates. Using the trained rater to select training noise, w"
-  },
-  {
-   "title": "Comment and Control: Hijacking Agentic Workflows via Context-Grounded Evolution",
-   "link": "https://arxiv.org/abs/2605.11229",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.11229v2 Announce Type: replace-cross Abstract: Automation platforms such as GitHub Actions and n8n are increasingly adopting so-called agentic workflows, which integrate Large Language Model (LLM) agents for tasks such as code review and data synchronization. While bringing convenience for developers, this integration exposes a new risk: An adversary may control and craft certain inputs, such as GitHub issue comments, to manipulate the LLM agent for unwanted actions, such as credential exfiltration and arbitrary command execution. To our knowledge, no prior academic work has studied such a risk in agentic workflows. In this paper, we design the first detection and exploitation framework, called JAW, to hijack agentic workflows hosted on automation platforms via a novel approach "
-  },
-  {
-   "title": "PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation",
-   "link": "https://arxiv.org/abs/2605.14269",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.14269v2 Announce Type: replace-cross Abstract: Generating realistic human motion is a central yet unsolved challenge in video generation. While reinforcement learning (RL)-based post-training has driven recent gains in general video quality, extending it to human motion remains bottlenecked by a reward signal that cannot reliably score motion realism. Existing video rewards primarily rely on 2D perceptual signals, without explicitly modeling the 3D body state, contact, and dynamics underlying articulated human motion, and often assign high scores to videos with floating bodies or physically implausible movements. To address this, we propose PhyMotion, a structured, fine-grained motion reward that grounds recovered 3D human trajectories in a physics simulator and evaluates motion"
-  },
-  {
-   "title": "StreamPro: Reinforcement Learning with Multi-Grained Rewards for Proactive Streaming Video Understanding",
-   "link": "https://arxiv.org/abs/2605.16381",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.16381v2 Announce Type: replace-cross Abstract: Proactive streaming video understanding requires models to continuously monitor evolving video streams and decide whether, when, and what to respond. However, training models with such proactive capabilities remains challenging. Supervised fine-tuning (SFT) suffers from severe imbalance between silence and response signals, while reinforcement learning (RL) faces sparse response-level rewards and difficulties in optimizing interdependent response sequences. To address these challenges, we propose StreamPro, a two-stage training framework. We first introduce CB-Stream Loss to alleviate supervision imbalance during SFT. We then employ Group Relative Policy Optimization (GRPO) with two complementary rewards: a refined Response-Matching"
-  },
-  {
-   "title": "Towards Clinically Interpretable Ophthalmic VQA via Spatially-Grounded Lesion Evidence",
-   "link": "https://arxiv.org/abs/2605.22414",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.22414v3 Announce Type: replace-cross Abstract: Visual Question Answering (VQA) holds great promise for clinical support, particularly in ophthalmology, where retinal fundus photography is essential for diagnosis. However, ophthalmic VQA benchmarks primarily emphasize answer accuracy, neglecting the explicit visual evidence necessary for clinical interpretability. In this work, we introduce FundusGround, a new benchmark for clinically interpretable ophthalmic VQA with spatially-grounded lesion evidence. Specifically, we propose a three-stage pipeline that collects 10,719 fundus images with 15,595 image-level meticulously annotated lesions. To ensure anatomical consistency and clinical validity, all lesions are spatially localized using the Early Treatment Diabetic Retinopathy Stu"
-  },
-  {
-   "title": "AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations",
-   "link": "https://arxiv.org/abs/2605.26179",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.26179v3 Announce Type: replace-cross Abstract: Density functional theory (DFT) serves as the basis for computational discovery in materials science and chemistry, yet each calculation demands extensive human effort: adjusting algorithms when convergence stalls, revising plans when unexpected physics emerges, and inserting steps as intermediate results reshape the problem. Existing LLM-based agents automate only the initial planning stage, producing a full execution plan upfront and leaving all subsequent adaptation to hand-crafted rules. As a result, these workflows remain fragile, do not generalize well beyond pre-planned scenarios, and often require expert intervention when failures or unexpected intermediate results require changes to the calculation path. Here, we introduce "
-  },
-  {
-   "title": "Trust Region Q Adjoint Matching",
-   "link": "https://arxiv.org/abs/2605.27079",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.27079v3 Announce Type: replace-cross Abstract: Off-policy reinforcement learning of pretrained flow policies remains challenging due to the instability of optimization arising from the multi-step sampling process. Recently, Q-learning with Adjoint Matching (QAM) addressed this by recasting policy improvement as a stochastic optimal control (SOC) problem guided by a learned critic. However, QAM inherits a fundamental fragility of critic-guided improvement, since small critic errors can be exponentially amplified and often lead to performance collapse. This paper introduces Trust Region Q Adjoint Matching (TRQAM), a stable off-policy fine-tuning algorithm that adaptively controls the path-space KL between the fine-tuned and pretrained policies through projected dual descent. Speci"
-  },
-  {
-   "title": "BioELX: Context-Aware Cross-lingual Biomedical Entity Linking without Task-Specific Supervision",
-   "link": "https://arxiv.org/abs/2605.27380",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.27380v4 Announce Type: replace-cross Abstract: Cross-lingual biomedical entity linking (BEL) maps mentions in any language to unique identifiers in a biomedical knowledge base, supporting clinical and biomedical NLP applications. We identify two issues affecting current systems. First, the UMLS (Bodenreider,2004) aliases used to train cross-lingual BEL retrievers are heavily skewed toward English, so retrievers generalize poorly to non-English mentions. Second, although context is often necessary for disambiguation, naively injecting context into retrievers trained only to align aliases severely degrades retrieval. We propose BioELX, a retrieve-rerank framework that addresses both issues. For retrieval, we continue training SapBERT_multi (Liu et al., 2021b) using Wikidata-derive"
-  },
-  {
-   "title": "Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation",
-   "link": "https://arxiv.org/abs/2605.31094",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2605.31094v2 Announce Type: replace-cross Abstract: The Panoptic Quality metric is the standard for jointly evaluating instance and semantic segmentation. Its original definition matches predicted and ground truth segments only if their intersection over union exceeds 0.5, a threshold that guarantees a One-to-One matching that is both optimal and unique. Below this threshold, the uniqueness guarantee is lost and multiple matching strategies emerge in a poorly explored problem space. We systematically elucidate this space by recasting segment matching as a constrained bipartite assignment problem. Independently bounding the prediction- and ground-truth-side degrees yields four matching strategies: One-to-One, Many-to-One, One-to-Many, and Many-to-Many. We show that the first three yie"
-  },
-  {
-   "title": "Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events",
-   "link": "https://arxiv.org/abs/2606.02522",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2606.02522v3 Announce Type: replace-cross Abstract: Video multimodal large language models (MLLMs) have made rapid progress in general and long-form video understanding, yet their ability to capture and use brief, answer-critical visual evidence remains underexplored. Momentary actions or state transitions may determine an answer while occupying only a small fraction of the video. Performance on broad video understanding tasks alone does not establish whether models can reliably identify and use this temporally localized evidence. We introduce Moment-Video, a benchmark for evaluating temporal fidelity through momentary visual event understanding. Questions are constructed around visually observable events or event sequences, requiring models to notice, count, describe, or reason abou"
-  },
-  {
-   "title": "EssentialGIN: a new approach for gene essentiality prediction based on graph isomorphism neural networks",
-   "link": "https://arxiv.org/abs/2606.07700",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-23T05:00:00+00:00",
-   "description": "arXiv:2606.07700v3 Announce Type: replace-cross Abstract: Background: Prediction of essential genes (proteins), is a basic and challenging problem but at the same time very costly and time-consuming in wet-lab experiments. Predicting essential genes, only based on computational methods (to introduce wet-lab candidates) using centrality measures are not accurate and result in large number of false positives; therefore, more complex models such as deep learning and also integration of biological information are used in recent research to identify essential genes. Methods: In this work we focus on graph isomorphism networks, in order to embed proteins as a node in PPI network to conserve topological features of PPI network, and also integrate biological data such as gene expression data, gene"
   }
  ]
 }

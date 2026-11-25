@@ -1,36 +1,5 @@
 {
  "stories": {
-  "s26e2979e9c": {
-   "id": "s26e2979e9c",
-   "title": "Meta ads is now available in AWS Quick",
-   "link": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
-   "source": "AWS ML Blog",
-   "category": "Cloud & Enterprise",
-   "published": "2026-11-22T01:59:13+00:00",
-   "description": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
-   "related": [],
-   "summary": "AWS Quick added a Meta ads AI connector, letting advertisers manage Meta campaigns via natural language and combine Meta data with other sources.",
-   "why": "Shows AWS Quick extending into ad-platform connectors, useful for teams building marketing analytics workflows on Meta data.",
-   "topics": [
-    "Products",
-    "Enterprise"
-   ]
-  },
-  "s67786b6377": {
-   "id": "s67786b6377",
-   "title": "The Mythology of Conscious AI",
-   "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-22T02:10:02+00:00",
-   "description": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 107 # Comments: 275",
-   "related": [],
-   "summary": "Noema Magazine published an essay arguing that claims about conscious AI are a mythology, which drew heavy discussion on Hacker News.",
-   "why": "",
-   "topics": [
-    "Research"
-   ]
-  },
   "s5cc0b3bf0f": {
    "id": "s5cc0b3bf0f",
    "title": "AI Supply Chain Security: What Canary Tokens Found",
@@ -61,22 +30,6 @@
    "topics": [
     "Developer tools",
     "Products"
-   ]
-  },
-  "sde5cd1a6d5": {
-   "id": "sde5cd1a6d5",
-   "title": "Perplexity and Intelligence",
-   "link": "https://openai.com/index/perplexity-and-intelligence",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-22T00:00:00+00:00",
-   "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-   "related": [],
-   "summary": "OpenAI published a piece on how perplexity measures progress in AI models and how it could help developers agree on evaluating emerging capabilities.",
-   "why": "Shared evaluation metrics like perplexity help engineering teams compare models and track capability progress more consistently.",
-   "topics": [
-    "Research",
-    "Models"
    ]
   },
   "s4299cca171": {
@@ -10424,14 +10377,123 @@
     "Enterprise",
     "Infrastructure"
    ]
+  },
+  "s3c6728c1bf": {
+   "id": "s3c6728c1bf",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-24T13:00:00+00:00",
+   "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "related": [],
+   "summary": "OpenAI reports GPT-6 models design protein structures and sequences using reasoning and code, with lab tests showing binding across five targets.",
+   "why": "",
+   "topics": [
+    "Models",
+    "Research"
+   ]
+  },
+  "s4d83f53e63": {
+   "id": "s4d83f53e63",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:19:52+00:00",
+   "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "related": [],
+   "summary": "Maple raised $5.3M to build AI products with encrypted architecture designed to keep even the company from accessing user data.",
+   "why": "Its design aims to make private data inaccessible to the provider, a privacy-by-architecture approach relevant to teams handling sensitive data.",
+   "topics": [
+    "Funding",
+    "Safety",
+    "Products"
+   ]
+  },
+  "sb1e5839c1d": {
+   "id": "sb1e5839c1d",
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:32:38+00:00",
+   "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+   "related": [],
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta's AI agent.",
+   "why": "It shows a major retailer integrating with a third-party AI agent platform, a distribution channel for agentic commerce.",
+   "topics": [
+    "Agents",
+    "Products"
+   ]
+  },
+  "s71615ee1eb": {
+   "id": "s71615ee1eb",
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:33:29+00:00",
+   "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "related": [],
+   "summary": "A new benchmark finds that even the most advanced AI models struggle to complete everyday tasks reliably and safely, sometimes introducing new problems.",
+   "why": "Engineers building personal assistant agents should expect unreliable task completion and new safety failure modes in real-world use.",
+   "topics": [
+    "Agents",
+    "Research",
+    "Safety"
+   ]
+  },
+  "s72fd424c71": {
+   "id": "s72fd424c71",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:48:27+00:00",
+   "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "related": [],
+   "summary": "Nvidia founder Jensen Huang apologized to staff at an all-hands meeting, thanked the White House, and said he is in therapy.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "sbc426bbbeb": {
+   "id": "sbc426bbbeb",
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T22:27:52+00:00",
+   "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "related": [],
+   "summary": "Jensen Huang reportedly still opposes a succession plan at Nvidia, arguing it would create unnecessary hierarchy, after the company's recent leadership disruption.",
+   "why": "",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "sd6a3974a1a": {
+   "id": "sd6a3974a1a",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T00:12:02+00:00",
+   "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+   "related": [],
+   "summary": "Yale's Jeffrey Sonnenfeld argues that Jensen Huang's White House-backed return as Nvidia CEO and board member could be a mistake, exposing directors to lawsuits.",
+   "why": "It flags governance and legal risk for leadership and boards, and questions Nvidia's role in US chip policy and export concerns.",
+   "topics": [
+    "Enterprise",
+    "Regulation"
+   ]
   }
  },
  "seen": {
-  "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick": "s26e2979e9c",
-  "https://www.noemamag.com/the-mythology-of-conscious-ai": "s67786b6377",
   "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens": "s5cc0b3bf0f",
   "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera": "s0f50037c76",
-  "https://openai.com/index/perplexity-and-intelligence": "sde5cd1a6d5",
   "https://simonwillison.net/2026/nov/21/muru": "s4299cca171",
   "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the": "sba93566b3b",
   "https://github.com/gulivan/worker755": "s3c4f4993ad",
@@ -11091,6 +11153,13 @@
   "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security": "sef2ea07a8f",
   "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive": "s3e9a37054b",
   "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups": "s9824edc2f4",
-  "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology": "s32af257829"
+  "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology": "s32af257829",
+  "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": "s3c6728c1bf",
+  "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself": "s4d83f53e63",
+  "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse": "sb1e5839c1d",
+  "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life": "s71615ee1eb",
+  "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy": "s72fd424c71",
+  "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy": "sbc426bbbeb",
+  "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion": "sd6a3974a1a"
  }
 }

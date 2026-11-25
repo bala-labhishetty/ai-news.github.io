@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-24T21:15:58.604966+00:00",
+ "updated": "2026-11-25T04:19:34.024749+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T00:12:02+00:00",
+   "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands."
+  },
+  {
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T22:27:52+00:00",
+   "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+  },
+  {
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:48:27+00:00",
+   "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+  },
+  {
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:33:29+00:00",
+   "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:32:38+00:00",
+   "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+  },
+  {
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-24T21:19:52+00:00",
+   "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+  },
   {
    "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
    "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
@@ -75,14 +123,6 @@
    "description": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]"
   },
   {
-   "title": "Tidal bans AI-generated music",
-   "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-24T16:12:38+00:00",
-   "description": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 306 # Comments: 277"
-  },
-  {
    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
    "source": "TechCrunch",
@@ -131,12 +171,12 @@
    "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…"
   },
   {
-   "title": "LLM agents work for their parent companies, not for you",
-   "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-24T12:40:15+00:00",
-   "description": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 799 # Comments: 340"
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI",
+   "category": "AI Labs",
+   "published": "2026-11-24T13:00:00+00:00",
+   "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
   },
   {
    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -153,14 +193,6 @@
    "category": "AI Labs",
    "published": "2026-11-24T11:00:00+00:00",
    "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
-  },
-  {
-   "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-   "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-24T09:39:50+00:00",
-   "description": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 78 # Comments: 37"
   },
   {
    "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
@@ -2369,38 +2401,6 @@
    "category": "Research",
    "published": "2026-11-24T05:00:00+00:00",
    "description": "arXiv:2611.28802v1 Announce Type: cross Abstract: Many applications of novel view synthesis, such as augmented reality and robotics, can afford only a few input views, since dense capture is costly. With such sparse views, however, 3D Gaussian Splatting (3DGS) overfits the training views and degrades at unseen viewpoints. Among the approaches to this problem, flat-minima optimization treats the Gaussians as trainable parameters and steers training toward flat minima, which generalize better, by perturbing the Gaussians with random noise or along the training gradient. However, these perturbations ignore their direction relative to the other training views. Interestingly, we find that the direction of the perturbation determines whether it improves generalization. Specifically, we decompose"
-  },
-  {
-   "title": "PointNeXt Adapter Improved Model for BIM Component Defect Association under Construction Images and Design Model Attributes",
-   "link": "https://arxiv.org/abs/2611.28820",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28820v1 Announce Type: cross Abstract: Construction site defect analysis increasingly requires linking field evidence to the correct BIM object, because a crack, spalling area, missing sleeve or misaligned support is useful for quality control only when it is connected with component identity, location, responsibility and design intent. This paper proposes a PointNeXt Adapter improved model for BIM component defect association under construction images and design model attributes. The method aligns site image crops, local point cloud patches, BIM component identifiers, geometry attributes, material categories, installation stage, inspection distance, viewpoint quality and source reliability tags into component level inspection windows. PointNeXt learns local geometry and deviati"
-  },
-  {
-   "title": "When Being Wrong Is Right: Reverse-Capability Audio CAPTCHAs through Psychoacoustic Design",
-   "link": "https://arxiv.org/abs/2611.28823",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28823v1 Announce Type: cross Abstract: Large audio-language models (LALMs) have recently been shown to bypass audio CAPTCHAs designed around limitations of automatic speech recognition. To address this threat, we introduce reverse-capability verification, a general CAPTCHA framework that reverses the conventional human-easy, machine-hard relationship with respect to the physical ground truth. It selects challenges in which stable human perceptual limitations cause the human-reference answer to differ from the physical ground truth, while machine analysis tends toward that truth. Because the verifier accepts the human-reference answer, advanced solver capabilities and resulting improved recovery of the physical ground truth may instead strengthen the human-machine separation. We "
-  },
-  {
-   "title": "Hidden Sensitivity in LLM Pre-training: A Dynamic System View",
-   "link": "https://arxiv.org/abs/2611.28830",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28830v1 Announce Type: cross Abstract: In Large Language Model (LLM) pre-training, loss curves can conceal substantial instability, i.e., even small perturbations may lead to dramatically different predictions while leaving loss nearly unchanged. To investigate this phenomenon and reveal the underlying mechanisms, we first formulate LLM pre-training as a non-autonomous dynamical system that jointly evolves model weights and Adam optimizer states. Based on this formulation, we introduce a normalized sensitivity score in optimizer-relative coordinates to identify sensitive training checkpoints. At one such checkpoint, a weight perturbation of only 10^(-5) leads to 35.7% disagreement in top-1 predictions and 16.2% disagreement in benchmark answers after 200 training steps, with onl"
-  },
-  {
-   "title": "Operational Assurance for LLM-Based Systems under Governance Opacity",
-   "link": "https://arxiv.org/abs/2611.28834",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-24T05:00:00+00:00",
-   "description": "arXiv:2611.28834v1 Announce Type: cross Abstract: In the contemporary artificial intelligence ecosystem, foundation models are increasingly deployed under AI-as-a-Service (AIaaS) schemes characterized by high technical opacity, technological concentration, and limited external auditing capability over governance, training, and internal operational processes. Under these conditions, traditional ethical oversight approaches that focus exclusively on corporate governance or on internal model inspection become insufficient to ensure effective control over AI systems deployed in real-world contexts. This work proposes a pragmatic operational assurance framework inspired by Zero-Trust principles from cybersecurity, which shifts effective auditing efforts toward the application layer, where risk "
   }
  ]
 }

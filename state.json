@@ -1,84 +1,5 @@
 {
  "stories": {
-  "s265c68ec3a": {
-   "id": "s265c68ec3a",
-   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-   "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-22T17:25:20+00:00",
-   "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
-   "related": [],
-   "summary": "The Binding of Isaac developer removed AI-generated music from Repentance Plus after a Reddit user found Suno-linked audio files, prompting Steam review-bombing.",
-   "why": "Undisclosed AI-generated assets in shipped products can trigger community backlash and review damage, so provenance checks matter for game teams.",
-   "topics": [
-    "Products",
-    "Safety"
-   ]
-  },
-  "sbed82431ae": {
-   "id": "sbed82431ae",
-   "title": "Why data centers are at the center of the Big Tech backlash",
-   "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-22T18:08:43+00:00",
-   "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-   "related": [],
-   "summary": "Journalist Paris Marx discusses his new book \"Hyperscale\" and why data centers have become central to the Big Tech backlash.",
-   "why": "",
-   "topics": [
-    "Infrastructure"
-   ]
-  },
-  "s05744626c0": {
-   "id": "s05744626c0",
-   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-22T21:14:07+00:00",
-   "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-   "related": [],
-   "summary": "OpenAI's chief scientist shared views on how to limit AI development, arguing that a speed limit requires first agreeing on how to measure speed.",
-   "why": "Any proposed limit on AI progress depends on shared metrics, which affects how teams evaluate and report capability growth.",
-   "topics": [
-    "Research",
-    "Regulation"
-   ]
-  },
-  "s4f0ed76760": {
-   "id": "s4f0ed76760",
-   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "source": "Hacker News",
-   "category": "Community",
-   "published": "2026-11-22T21:01:16+00:00",
-   "description": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 266 # Comments: 116",
-   "related": [],
-   "summary": "A beginner's guide covers running AI models locally using Inkling, Qwen, and Unsloth, shared on Hacker News.",
-   "why": "",
-   "topics": [
-    "Developer tools",
-    "Open source"
-   ]
-  },
-  "se709020021": {
-   "id": "se709020021",
-   "title": "We haven’t seen the last of the major tech outages",
-   "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-22T22:48:02+00:00",
-   "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
-   "related": [],
-   "summary": "A recent run of major outages hit an FAA ground stop, a multi-day Outlook outage, and a JPMorgan Chase banking outage, with more expected.",
-   "why": "Recent outages across aviation, email, and banking highlight the operational risk of critical infrastructure dependencies for tech leaders.",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ]
-  },
   "s914bb147d0": {
    "id": "s914bb147d0",
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -15154,14 +15075,199 @@
     "Agents",
     "Enterprise"
    ]
+  },
+  "sf6730ac844": {
+   "id": "sf6730ac844",
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T15:41:43+00:00",
+   "description": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+   "related": [],
+   "summary": "Neocloud providers report construction delays and costlier debt as Nvidia says it won't backstop AI data centers until they are nearly ready to run.",
+   "why": "Delays and financing hurdles for AI data centers affect capacity planning, with land, power, and finished buildings now key to securing support.",
+   "topics": [
+    "Infrastructure",
+    "Funding"
+   ]
+  },
+  "s6b1c4ab3d0": {
+   "id": "s6b1c4ab3d0",
+   "title": "Nothing offers a full look at its AI earbuds and charging case",
+   "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-25T16:00:59+00:00",
+   "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+   "related": [],
+   "summary": "Nothing previewed its upcoming Ear Note AI earbuds, which can record calls and whose charging case can record, transcribe, and summarize conversations, ahead of a December 8 release.",
+   "why": "",
+   "topics": [
+    "Products"
+   ]
+  },
+  "s9241987731": {
+   "id": "s9241987731",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T17:35:58+00:00",
+   "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "related": [],
+   "summary": "State attorneys general challenged Character.AI's proposed bankruptcy sale of users' private chats, which includes data from over 21 million U.S. accounts, 2.1 million tied to minors.",
+   "why": "Sale of sensitive chat data highlights privacy and data-handling risks engineers must address when building consumer AI products.",
+   "topics": [
+    "Regulation",
+    "Safety"
+   ]
+  },
+  "s6359c2ce09": {
+   "id": "s6359c2ce09",
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-25T17:44:51+00:00",
+   "description": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+   "related": [],
+   "summary": "The FCC authorized SpaceX to deploy up to 1 million AI chip-equipped satellites under its 'Starmind' initiative, the agency's first approval of orbital AI data centers.",
+   "why": "Orbital AI data center approvals signal a new infrastructure direction, though the plan's technical and commercial feasibility remains untested.",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ]
+  },
+  "sc2211ba4f6": {
+   "id": "sc2211ba4f6",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T18:11:46+00:00",
+   "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "related": [],
+   "summary": "New York has banned AI chatbot toys for five years, citing Common Sense Media research that found safety failures including exposure to inappropriate content.",
+   "why": "",
+   "topics": [
+    "Regulation",
+    "Safety"
+   ]
+  },
+  "s45e1e19ee7": {
+   "id": "s45e1e19ee7",
+   "title": "Backblaze explains why it's sharing customer information with advertisers",
+   "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-25T18:38:29+00:00",
+   "description": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+   "related": [],
+   "summary": "Backblaze told Ars Technica it is sharing customer information with advertisers but says it will not share users' backup or storage files.",
+   "why": "Engineers storing data with cloud providers should understand what customer information is shared and what stays protected.",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ]
+  },
+  "s37b5c9ba93": {
+   "id": "s37b5c9ba93",
+   "title": "Where scientists draw the line on AI agents",
+   "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-25T18:52:55+00:00",
+   "description": "",
+   "related": [],
+   "summary": "Hugging Face published an article on where scientists draw the line on AI agents.",
+   "why": "",
+   "topics": [
+    "Agents",
+    "Research"
+   ]
+  },
+  "s372ac89133": {
+   "id": "s372ac89133",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T19:44:24+00:00",
+   "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "related": [],
+   "summary": "Anthropic CEO Dario Amodei called rivals' accusations that he favors surrendering human agency to AI 'absurd.'",
+   "why": "",
+   "topics": [
+    "Safety",
+    "Models"
+   ]
+  },
+  "se7d7a2ca3b": {
+   "id": "se7d7a2ca3b",
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T19:54:57+00:00",
+   "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "related": [],
+   "summary": "Reporting says Nvidia CEO Jensen Huang broke the company's code of conduct, and that employees may not forget it.",
+   "why": "Leadership conduct lapses at a dominant AI vendor may shape internal culture and talent retention across the industry.",
+   "topics": [
+    "Enterprise"
+   ]
+  },
+  "s4c44ce3014": {
+   "id": "s4c44ce3014",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T20:03:27+00:00",
+   "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "related": [],
+   "summary": "OpenAI is merging its ChatGPT Chat and Work experiences and introducing a single usage meter, so heavy users may hit limits sooner.",
+   "why": "Unified usage metering across merged products affects how teams budget and plan access to ChatGPT.",
+   "topics": [
+    "Products",
+    "Enterprise"
+   ]
+  },
+  "sceecf9e348": {
+   "id": "sceecf9e348",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-25T21:51:26+00:00",
+   "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+   "related": [],
+   "summary": "Google filed a patent for 'My Channel,' a system for personalized, AI-generated video feeds and ads; the patent was rejected, though Google may appeal or resubmit.",
+   "why": "",
+   "topics": [
+    "Products",
+    "Research"
+   ]
+  },
+  "sf27e0de9d0": {
+   "id": "sf27e0de9d0",
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T22:44:32+00:00",
+   "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "related": [],
+   "summary": "S&P is considering lowering Nvidia's credit rating to AA-, the fourth-highest rating, citing governance and 'key man' risks.",
+   "why": "Credit rating pressure on a major AI chip supplier could affect its borrowing costs and signal investor concern about leadership dependence.",
+   "topics": [
+    "Funding",
+    "Enterprise"
+   ]
   }
  },
  "seen": {
-  "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music": "s265c68ec3a",
-  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash": "sbed82431ae",
-  "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development": "s05744626c0",
-  "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth": "s4f0ed76760",
-  "https://www.theverge.com/tech/1039851/major-tech-outages": "se709020021",
   "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo": "s914bb147d0",
   "https://arxiv.org/abs/2611.26663": "s036e80097e",
   "https://arxiv.org/abs/2611.26717": "sd55ff3b0f9",
@@ -16120,6 +16226,18 @@
   "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed": "s9edbb62c9b",
   "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware": "s929f2b2360",
   "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse": "s28175a595e",
-  "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions": "se1845ee0b5"
+  "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions": "se1845ee0b5",
+  "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it": "sf6730ac844",
+  "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal": "s6b1c4ab3d0",
+  "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats": "s9241987731",
+  "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": "s6359c2ce09",
+  "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york": "sc2211ba4f6",
+  "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers": "s45e1e19ee7",
+  "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": "s37b5c9ba93",
+  "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd": "s372ac89133",
+  "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it": "se7d7a2ca3b",
+  "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work": "s4c44ce3014",
+  "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent": "sceecf9e348",
+  "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks": "sf27e0de9d0"
  }
 }

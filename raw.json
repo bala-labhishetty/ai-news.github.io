@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-25T15:39:50.473966+00:00",
+ "updated": "2026-11-26T00:25:31.567163+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T22:44:32+00:00",
+   "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+  },
+  {
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-25T21:51:26+00:00",
+   "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]"
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T20:03:27+00:00",
+   "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+  },
+  {
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T19:54:57+00:00",
+   "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T19:44:24+00:00",
+   "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+  },
+  {
+   "title": "Where scientists draw the line on AI agents",
+   "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-25T18:52:55+00:00",
+   "description": ""
+  },
+  {
+   "title": "Backblaze explains why it's sharing customer information with advertisers",
+   "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "source": "Ars Technica",
+   "category": "Industry",
+   "published": "2026-11-25T18:38:29+00:00",
+   "description": "Backblaze tells Ars it won't share users' backup, storage files with advertisers."
+  },
+  {
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T18:11:46+00:00",
+   "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+  },
+  {
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-25T17:44:51+00:00",
+   "description": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]"
+  },
+  {
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T17:35:58+00:00",
+   "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+  },
+  {
+   "title": "Nothing offers a full look at its AI earbuds and charging case",
+   "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-25T16:00:59+00:00",
+   "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]"
+  },
+  {
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-25T15:41:43+00:00",
+   "description": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]"
+  },
   {
    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
@@ -24,7 +120,7 @@
    "source": "TechCrunch",
    "category": "Industry",
    "published": "2026-11-25T13:00:00+00:00",
-   "description": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler."
+   "description": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances."
   },
   {
    "title": "Has vibe coding made open source the new normal for synths?",
@@ -2305,102 +2401,6 @@
    "category": "Research",
    "published": "2026-11-25T05:00:00+00:00",
    "description": "arXiv:2611.32889v1 Announce Type: cross Abstract: Online hate speech is an ever-growing issue with negative impacts on both groups and individuals, potentially causing users to withdraw from online conversations and debate. With some prominent social media platforms reducing their moderation efforts, constructive speech has emerged as an alternative strategy for countering hate. Automated detection of constructive and hateful speech can aid monitoring and improve understanding of their prevalence and online dynamics. In this work, we collect and annotate a large dataset of English and Danish social media comments for hateful tone, constructive tone, and agreement with parent comments. We fine-tune several multilingual LLMs to classify along these three dimensions and compare context-enrich"
-  },
-  {
-   "title": "Motion Conditioned World Modeling for Embodied Visual Tracking",
-   "link": "https://arxiv.org/abs/2611.32900",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32900v1 Announce Type: cross Abstract: World models support embodied decision-making by predicting future environment states. In embodied visual tracking, uncertain target motion and robot-induced viewpoint changes jointly affect visual observations, making future-state prediction challenging. We propose Motion-Conditioned World Modeling, which incorporates predicted target-motion distributions and robot ego-motion into latent state transitions. A Geometry--Progress module jointly models geometric paths and single-step travel distances through shared motion modes and path-conditioned progress distributions. This formulation captures uncertainty in route selection and motion progress while preserving their dependence. Action-induced coordinate transformations express predicted pa"
-  },
-  {
-   "title": "Efficient Video Retrieval Augmented Generation via Token Allocation",
-   "link": "https://arxiv.org/abs/2611.32938",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32938v1 Announce Type: cross Abstract: Efficient long-video understanding requires identifying relevant evidence while minimizing the tokens processed by vision-language models (VLMs). Existing video retrieval-augmented generation (RAG) methods rely on frame selection and token compression, but overlook how much each additional token is worth. We introduce Lembas, a plug-and-play framework that formulates video RAG as a token allocation problem over frames and subtitles under a shared budget. Our key insight is that the value of a token diminishes within each item and decreases further as similar evidence receives more tokens. Lembas captures both effects in a single objective and solves it with an efficient iterative water-filling algorithm that has a provable convergence guara"
-  },
-  {
-   "title": "Do Vision-Language Models Know Their Own Visual Weaknesses? Probing Capability-Level Metacognition",
-   "link": "https://arxiv.org/abs/2611.32940",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32940v1 Announce Type: cross Abstract: Metacognition includes knowing one's own strengths and weaknesses across kinds of tasks, not only judging whether a single answer is correct. We test whether vision-language models (VLMs) know in advance which kinds of visual tasks and image conditions are hard for them, across a wide range of open and proprietary models. Because some tasks are hard for every model, we separate what a model knows about this shared difficulty from what it knows about itself. We find that VLMs know little in advance about their visual weaknesses. They misjudge their overall accuracy and do not even know which kinds of tasks are hard for every model, and most misjudge how degraded images affect them. We further train VLMs to predict their own accuracy, which t"
-  },
-  {
-   "title": "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?",
-   "link": "https://arxiv.org/abs/2611.32957",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32957v1 Announce Type: cross Abstract: Online fraud is traditionally limited by the cost of the human labor needed to talk to potential victims. We ask whether hosted large language models will now supply that labor. We prompted ten off-the-shelf models to play the seller in the \"free item, just pay delivery\" advance-fee scam common on buy-and-sell sites, using a plain system prompt with no jailbreak. Each model played 30 conversations against each of four buyer personas, from credulous to guarded, with the same model playing the buyer (1,200 conversations). We label each conversation by what happened to the buyer's money, and validate the labels against two human coders. 737 conversations (61%) ended with the buyer paying in advance. Eight of the ten models played in almost eve"
-  },
-  {
-   "title": "Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents",
-   "link": "https://arxiv.org/abs/2611.32958",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32958v1 Announce Type: cross Abstract: AI agents are beginning to automate data analysis, orchestration, and simulation steering in HPC environments, but they introduce a security problem that existing cluster defenses do not address: the hijacked authorized agent. An adversary can subvert an agent through prompt injection, poisoned shared data, compromised tools, or multi-agent coordination, then exfiltrate sensitive data through legitimate encrypted LLM API traffic. We propose behavioral attestation as a runtime defense for this setting. Our system, AEGIS, compiles task-derived behavioral constraints, monitors agent actions with ebpf-based syscall interception, verifies evidence against constraint profiles, correlates behavior across agents, and triggers slurm-level containmen"
-  },
-  {
-   "title": "Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving",
-   "link": "https://arxiv.org/abs/2611.32964",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32964v1 Announce Type: cross Abstract: Reliable driving VLMs must do more than answer correctly or localize relevant scene actors: they must determine whether the available visual evidence is sufficient to support an answer. Existing evaluations largely treat grounding and answerability as separate measurements, making it difficult to distinguish well-supported predictions from those localized to relevant but insufficient evidence. We introduce DriveAnswer, a benchmark of 20,151 questions across seven reasoning families, that operationalizes this distinction using matched strong- and weak-evidence configurations. Each pair preserves the underlying scene fact and semantic answer while changing whether the observations support answering, making abstention the appropriate response "
-  },
-  {
-   "title": "CAPER: PartGround and PlanRefine for Reliable Manual-Guided Robotic Assembly Planning",
-   "link": "https://arxiv.org/abs/2611.32986",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32986v1 Announce Type: cross Abstract: Vision-Language-Models (VLMs) used in robot task planning to derive assembly procedures from existing manuals may correctly interpret individual assembly actions yet confuse exact part identities, predict unsupported Part IDs, or produce inconsistent parts across assembly steps. Thus, we propose CAPER (Capacity-Aware Part-grounding and Evidence Refinement), a manual-guided robotic assembly framework that enables VLMs to generate assembly procedures with two modules--PartGround and PlanRefine. PartGround aligns step-level manual evidence with product-specific inventory and part-reference information to identify exact Part IDs and quantities, transforming free-form hardware prediction into evidence-guided assignments represented in a shared A"
-  },
-  {
-   "title": "On Potentiality and Actuality Of Foundation Models",
-   "link": "https://arxiv.org/abs/2611.32991",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.32991v1 Announce Type: cross Abstract: Foundation models are built through large-scale pretraining, often followed by post-training, and are then adapted to specific tasks and behaviors. But, does the adaptation add truly new capabilities, or the base model already holds it? We decompose the update induced by different adaptations into a component shared across all inputs and a residual that varies with the input. We find that the shared component suffices for most of the adaptation gain and can be learned directly: a shift adapter that learns a constant vector per layer, identical for every input, reproduces the behavior of LoRA and full fine-tuning. We call this the potentiality principle of foundation models: the base model already contains the capacity needed for task-specif"
-  },
-  {
-   "title": "One, No One and One Hundred Thousand CTs: Testing Anatomical Control in Text-to-CT Generation",
-   "link": "https://arxiv.org/abs/2611.33003",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.33003v1 Announce Type: cross Abstract: Recent advances in deep learning and the public availability of computed tomography (CT) datasets with paired reports have enabled many Text-to-CT generators. However, their evaluations almost always differ in preprocessing and metrics, which hinders comparison. Moreover, their protocols almost never test how editing the report changes the CT, not even at the same seed, so the report is often assumed to control the anatomy without evidence of how much and how consistently it does. We therefore propose CtrlCT, a toolkit that tests two properties of a generator, Credibility and Control. Credibility tests compare generated CTs, as a population, with real CTs and reports; Control tests are metamorphic and need no reference CT: at a fixed seed, "
-  },
-  {
-   "title": "LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training",
-   "link": "https://arxiv.org/abs/2611.33004",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.33004v1 Announce Type: cross Abstract: Speculative decoding accelerates large language model (LLM) generation using a lightweight draft. Existing methods evaluate complete recipes under different training configurations, leaving component effects, interactions, and composition benefits unclear. Therefore, we present LEGOSpec, a composable framework for speculative draft design and training. LEGOSpec decomposes draft models into Context, Backbone, Proposal, and Objective components that share a unified training infrastructure. Using LEGOSpec, we systematically vary components and evaluate selected combinations under matched training conditions to isolate their effects and interactions. These experiments reveal three findings: (1) Different workloads favor different backbones, dep"
-  },
-  {
-   "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
-   "link": "https://arxiv.org/abs/2611.33010",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.33010v1 Announce Type: cross Abstract: Can a simple mirror expose the limitations of today's robotic manipulation policies? Inspired by the mirror self-recognition test in animal cognition, we investigate whether robot policies can reliably manipulate physical objects in scenes containing their reflections. We introduce RoboDojo-Mirror, a benchmark built on RoboDojo that preserves task objectives, success criteria, and policy checkpoints while comparing a mirror-free baseline with single-mirror, dual-mirror, and mirrored-tabletop conditions. Across five policies spanning Vision-Language-Action models, World Action Models, and agentic policies, every mirror condition reduces aggregate success rates: averaged over the three conditions, the drop ranges from 10.8 to 56.7 percentage "
-  },
-  {
-   "title": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
-   "link": "https://arxiv.org/abs/2611.33031",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-25T05:00:00+00:00",
-   "description": "arXiv:2611.33031v1 Announce Type: cross Abstract: We give four large language models (LLMs) of the Claude family the complete weights of a 20k-parameter CIFAR-10 CNN as text and ask them to produce a 4-bit network without tools, data or the ability to run inference. Standard round-to-nearest (RTN) quantization to 4 bit lowers the test accuracy from 81.4% to 60.4%. We design four evaluation protocols that differ in the input and task description given to the LLMs and analyze their responses. In the first two protocols the LLMs are given the float and the 4-bit RTN network and are told that the accuracy has dropped significantly. In the last two they receive only the float network and the task to quantize it, which tests whether they apply an optimization on their own or fall back to plain R"
   }
  ]
 }

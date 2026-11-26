@@ -1,7 +1,94 @@
 {
- "updated": "2026-11-26T09:37:56.706735+00:00",
+ "updated": "2026-11-26T19:39:31.484116+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sc83866a1db",
+   "title": "Tracking Diseases Cured by AI",
+   "link": "https://diseasescuredbyai.com/",
+   "source": "Hacker News",
+   "published": "2026-11-26T17:16:41+00:00",
+   "topics": [
+    "Research"
+   ],
+   "summary": "A Hacker News post links to a site called Diseases Cured by AI that tracks diseases said to be cured by AI; the description gives no details.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "sec74e9ba21",
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "source": "TechCrunch",
+   "published": "2026-11-26T16:00:00+00:00",
+   "topics": [
+    "Funding"
+   ],
+   "summary": "TechCrunch argues that Grand Theft Auto VI's huge launch shows human craftsmanship can succeed, on the same day Anthropic entered the public market.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "sff7c1d6266",
+   "title": "Come for the Games, Stay for the Community With GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+   "source": "NVIDIA",
+   "published": "2026-11-26T14:00:22+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "NVIDIA's GFN Thursday post highlights GeForce NOW community members, ambassadors, and creators who share why they enjoy cloud gaming.",
+   "why": "",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "s02a0884347",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "source": "Hugging Face",
+   "published": "2026-11-26T11:37:17+00:00",
+   "topics": [
+    "Developer tools",
+    "Infrastructure"
+   ],
+   "summary": "Hugging Face has introduced a llama.cpp benchmark dashboard covering AMD Ryzen and Radeon hardware.",
+   "why": "Engineers running local LLM inference on AMD hardware can use it to compare llama.cpp performance across devices.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc0f2de19f0",
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "source": "The Verge",
+   "published": "2026-11-26T09:54:40+00:00",
+   "topics": [
+    "Regulation",
+    "Safety"
+   ],
+   "summary": "A coalition of 42 state attorneys general is seeking to stop Character.AI from auctioning user chat histories during its Chapter 11 bankruptcy.",
+   "why": "Shows that user chat data can become a bankruptcy asset, raising data-handling and privacy risks for teams building consumer AI products.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s6f6a6b07f1",
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "source": "Hacker News",
+   "published": "2026-11-26T09:44:23+00:00",
+   "topics": [
+    "Agents",
+    "Enterprise"
+   ],
+   "summary": "A Hacker News post says Google will have AI agents use its MCP servers while Gmail cannot send email, based on a TechStackups article.",
+   "why": "",
+   "related": [],
+   "top": true
+  },
   {
    "id": "sd3aa48daa6",
    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -30,7 +117,7 @@
    "summary": "An arXiv paper proposes \"context scaling,\" framing deployed AI failures as mismatches between task-relevant state and the context available at decision time.",
    "why": "It suggests context infrastructure, not just training or inference compute, may limit deployed AI systems and deserves budgeting alongside them.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s3965806fbc",
@@ -315,7 +402,7 @@
    "summary": "Tests of Claude 5.5 models as AI code reviewers at varying effort levels on 90 agent-written Django patches measure how well they catch plausible-but-wrong fixes.",
    "why": "Engineering leaders deciding how much reviewer compute to spend on AI code review get evidence on effort settings versus catching subtly wrong patches.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sbcac498e79",
@@ -705,7 +792,7 @@
    "summary": "An audit of the SkillsBench benchmark at source-code level and reanalysis of 7,554 trials question whether reported agent skill gains are reliable.",
    "why": "Challenges benchmark-based claims that agent skills improve pass rates, so teams should check evaluation methods before relying on skill gains.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s8ff3be331d",
@@ -811,7 +898,7 @@
    "summary": "NVIDIA researchers compared model-driven context management, where models decide when and what to compact via a context API, against harness-triggered compaction in its open source agent harness.",
    "why": "Gives engineers evidence on whether letting models manage their own context beats automatic summarization across budgets from 8K to 512K tokens.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s37d15bd370",
@@ -13887,188 +13974,6 @@
      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
     }
    ],
-   "top": false
-  },
-  {
-   "id": "s588f7b0a1e",
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "source": "TechCrunch",
-   "published": "2026-11-23T19:14:46+00:00",
-   "topics": [
-    "Products",
-    "Models"
-   ],
-   "summary": "Google's AI Mode in Search can now draw on Drive and Wallet data, via Personal Intelligence, for more personalized answers.",
-   "why": "Shows Google expanding personal data use across its ecosystem, relevant to privacy and enterprise data-governance decisions.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s44fe677fd4",
-   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-   "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-   "source": "The Verge",
-   "published": "2026-11-23T19:04:52+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Nothing previewed the Ear Note, earbuds with a microphone-equipped charging case that records, transcribes, and summarizes conversations via an app.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s786a4f3202",
-   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-   "source": "The Verge",
-   "published": "2026-11-23T18:26:47+00:00",
-   "topics": [
-    "Regulation",
-    "Safety"
-   ],
-   "summary": "Oregon and Virginia attorneys general sued SpaceX, alleging its Grok AI and X platform ignored safeguards against deepfake porn and falsely promoted safety.",
-   "why": "Signals rising state consumer-protection liability for generative AI providers that lack adequate content safeguards.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s53b97270c1",
-   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-   "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-   "source": "MIT Tech Review",
-   "published": "2026-11-23T17:36:08+00:00",
-   "topics": [
-    "Research",
-    "Safety"
-   ],
-   "summary": "A legendary philosopher criticizes Anthropic's argument that AI could be conscious or sentient, flagged as an investment risk factor before its public listing.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sca38829e73",
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "link": "https://huggingface.co/blog/allenai/robotrack",
-   "source": "Hugging Face",
-   "published": "2026-11-23T17:20:37+00:00",
-   "topics": [
-    "Research"
-   ],
-   "summary": "RoboTrack, a point-tracking method for real-world robotic manipulation, was posted on Hugging Face.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sf955d48ede",
-   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-   "source": "TechCrunch",
-   "published": "2026-11-23T17:14:23+00:00",
-   "topics": [
-    "Funding",
-    "Infrastructure"
-   ],
-   "summary": "Amazon is reportedly acquiring Decart's AI optimization technology and research team in a $7.5 billion deal, ahead of selling Trainium chips.",
-   "why": "Signals Amazon consolidating AI optimization capability to strengthen its custom Trainium chip business.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sa88353929e",
-   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
-   "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
-   "source": "NVIDIA",
-   "published": "2026-11-23T17:00:08+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "NVIDIA published a holiday guide encouraging readers to play, build, and create with its technologies, including gaming.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s39c2da17ce",
-   "title": "A more tailored Google Search that’s uniquely yours",
-   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-   "source": "Google AI",
-   "published": "2026-11-23T17:00:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Google introduced a more personalized Search experience built around its Personal Intelligence features, connecting apps like Wallet, Drive, Gmail, and Photos.",
-   "why": "Shows Google linking personal app data into Search, raising data-integration and privacy considerations for product teams.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s61dcf11694",
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-   "source": "Google DeepMind",
-   "published": "2026-11-23T16:59:40+00:00",
-   "topics": [
-    "Research",
-    "Agents"
-   ],
-   "summary": "Google DeepMind used agent teams and formal verification to find faster quantum algorithms for fusion and chemistry problems.",
-   "why": "Shows agent teams paired with formal verification producing verified algorithmic improvements in scientific computing.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s169eafdcd0",
-   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-   "source": "TechCrunch",
-   "published": "2026-11-23T14:43:03+00:00",
-   "topics": [
-    "Funding",
-    "Enterprise"
-   ],
-   "summary": "Sierra, co-founded by Bret Taylor, raised $1.75 billion in a Series F round, doubling its valuation to $30 billion within six months.",
-   "why": "Shows strong enterprise investor demand for AI customer experience platforms, a signal for vendor landscape decisions.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "secab1061c9",
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "source": "TechCrunch",
-   "published": "2026-11-23T14:21:59+00:00",
-   "topics": [
-    "Enterprise",
-    "Infrastructure"
-   ],
-   "summary": "Nvidia reversed course and brought Jensen Huang back as CEO, with support from senior U.S. government officials.",
-   "why": "Leadership change at the largest AI chip supplier could affect its strategy and supply relationships for infrastructure buyers.",
-   "related": [
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s106e5d1cff",
-   "title": "Meta Muse can do your Black Friday shopping at Walmart",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-   "source": "The Verge",
-   "published": "2026-11-23T11:00:00+00:00",
-   "topics": [
-    "Agents",
-    "Enterprise",
-    "Products"
-   ],
-   "summary": "Walmart will let Meta's Muse shop on its website for users, finding and buying Black Friday deals, via a live Agent Gateway rollout starting November 24.",
-   "why": "Shows retailers opening storefronts to third-party AI shopping agents, which matters for teams building agent commerce integrations and access controls.",
-   "related": [],
    "top": false
   }
  ]

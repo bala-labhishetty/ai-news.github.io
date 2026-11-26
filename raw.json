@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-26T09:35:15.391546+00:00",
+ "updated": "2026-11-26T19:39:25.826889+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "Tracking Diseases Cured by AI",
+   "link": "https://diseasescuredbyai.com/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-26T17:16:41+00:00",
+   "description": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 277 # Comments: 155"
+  },
+  {
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-26T16:00:00+00:00",
+   "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+  },
+  {
+   "title": "Come for the Games, Stay for the Community With GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+   "source": "NVIDIA",
+   "category": "AI Labs",
+   "published": "2026-11-26T14:00:22+00:00",
+   "description": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […]"
+  },
+  {
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "source": "Hugging Face",
+   "category": "Open Source",
+   "published": "2026-11-26T11:37:17+00:00",
+   "description": ""
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-26T09:54:40+00:00",
+   "description": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]"
+  },
+  {
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-26T09:44:23+00:00",
+   "description": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 107 # Comments: 119"
+  },
   {
    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -2353,54 +2401,6 @@
    "category": "Research",
    "published": "2026-11-26T05:00:00+00:00",
    "description": "arXiv:2611.31301v2 Announce Type: replace Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmark with a 4-way label in which every source clip is released in all four combinations of real or fake video and real or fake audio so each modality contribution can be measured directly. Fakes cover inner-face swapping, whole-frame video diffusion and voice conversion. MOZAIC has 137,745 clips from 15,014 source pairs and four tasks: T1 AV authenticity, T2 manipulation type, T3 identity verification and T4 explanation. We evaluate 12 AV multimodal LLMs (MLLMs), train four detectors and fine-t"
-  },
-  {
-   "title": "GaokaoMathGen: Chinese Gaokao Mathematics Finale Problem Generation Controlled by Latent Reasoning Structures",
-   "link": "https://arxiv.org/abs/2611.31823",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2611.31823v2 Announce Type: replace Abstract: Generating Chinese Gaokao mathematics finale problems requires controlling not only the included skills, but also the underlying mathematical kernel and solution path. Existing LLM-based methods mainly rely on surface-level specifications, while the realized difficulty of generated problems cannot be determined directly from prompted targets. Therefore, we propose GaokaoMathGen, a framework for Chinese Gaokao mathematics finale problem generation controlled by latent reasoning structures. It extracts standardized latent reasoning structures from seed problems and performs constrained synthesis using skills, methods, a core identity, and a pivot step as structural controls. We further estimate realized difficulty through logical-quality fi"
-  },
-  {
-   "title": "EffectWAM: Learning Action-Grounded Effects for Robot Manipulation",
-   "link": "https://arxiv.org/abs/2611.32053",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2611.32053v2 Announce Type: replace Abstract: World-action models connect visual prediction with executable robot control. We present EffectWAM, which develops this connection through three complementary components: Effect, camera positional encoding (CaPE), and Action Grounding. Effect represents visual change as the difference between independently encoded future observations and a shared current-observation anchor. CaPE conditions endpoint pooling on relative camera pose when reliable extrinsics are available, while sharing the same learned parameters with pose-free pooling for uncalibrated trajectories. Action Grounding trains the visual representation to retain measured changes in end-effector pose and gripper state. An exponential moving average of the observation encoder suppl"
-  },
-  {
-   "title": "Learning World Models through Contrastive Identification of Actions",
-   "link": "https://arxiv.org/abs/2611.32776",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2611.32776v2 Announce Type: replace Abstract: Latent world models enable goal-directed planning from offline visual data, but prediction alone does not specify which action-related distinctions their representations should preserve. Inverse dynamics provides auxiliary supervision, yet squared-error action regression rewards additional information only through changes in the conditional action mean. We propose Contrastive Identification of Actions (CIA), which identifies the executed action among alternatives sampled from a history-conditioned behavior proposal. Comparing actions plausible in the same context targets information supplied by the next latent beyond history. Under exact behavior matching, we show that CIA can reward action information that leaves optimal inverse-regressi"
-  },
-  {
-   "title": "Reading Decisions Before Spans: Efficient Generative Verification",
-   "link": "https://arxiv.org/abs/2611.32931",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2611.32931v2 Announce Type: replace Abstract: A generative verifier can flag an unsupported claim before it finishes describing the error. For applications that only screen an assistant's report, the remaining generation may be unnecessary. We examine this possibility in a frozen 2B span verifier whose output chooses between an empty error list and its first object before producing any locations. Native8 stops at that choice. Prefill1 supplies the seven fixed syntax tokens that precede it and generates just the unrestricted branch token, keeping the native instruction. On 2,015 code-agent TEST responses, Prefill1 uses 84.84% less eager resident service than full generation, with released-reference F1 of 83.43 versus 83.41. It also saves 31.98% over Native8 despite identical logical t"
-  },
-  {
-   "title": "Neur2BiLO: Neural Bilevel Optimization",
-   "link": "https://arxiv.org/abs/2402.02552",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2402.02552v3 Announce Type: replace-cross Abstract: Bilevel optimization deals with nested problems in which a leader takes the first decision to minimize their objective function while accounting for a follower's best-response reaction. Constrained bilevel problems with integer variables are particularly notorious for their hardness. While exact solvers have been proposed for mixed-integer linear bilevel optimization, they tend to scale poorly with problem size and are hard to generalize to the non-linear case. On the other hand, problem-specific algorithms (exact and heuristic) are limited in scope. Under a data-driven setting in which similar instances of a bilevel problem are solved routinely, our proposed framework, Neur2BiLO, embeds a neural network approximation of the leader'"
-  },
-  {
-   "title": "Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation",
-   "link": "https://arxiv.org/abs/2409.00696",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2409.00696v5 Announce Type: replace-cross Abstract: Rating-based human evaluation has become an essential tool to accurately evaluate the impressive performance of large language models (LLMs). However, current rating systems suffer from several important limitations: first, they fail to account for biases that significantly influence evaluation results, second, they require large and expensive preference datasets to obtain accurate ratings, and third, they do not facilitate meaningful comparisons of model ratings across different tasks. To address these issues, we introduce Polyrating, an expressive and flexible rating system based on maximum a posteriori estimation that enables a more nuanced and thorough analysis of model performance at lower costs. Polyrating can detect and quant"
   }
  ]
 }

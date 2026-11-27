@@ -1,7 +1,36 @@
 {
- "updated": "2026-11-26T19:39:31.484116+00:00",
+ "updated": "2026-11-27T02:53:10.392590+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s19dd464158",
+   "title": "AI made self-hosting fun again",
+   "link": "https://janlukas.blog/posts/ai-self-hosting",
+   "source": "Hacker News",
+   "published": "2026-11-26T21:47:45+00:00",
+   "topics": [
+    "Developer tools"
+   ],
+   "summary": "A blog post argues that AI has made self-hosting software a more enjoyable hobby, drawing a large Hacker News discussion.",
+   "why": "The description gives only a link and discussion stats, with no details on the tools or methods, so the engineering relevance is unclear.",
+   "related": [],
+   "top": false
+  },
+  {
+   "id": "sc881f1e711",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch",
+   "published": "2026-11-26T20:03:54+00:00",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ],
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia amid US efforts to keep AI chips out of China.",
+   "why": "Shipment pauses in Southeast Asia could disrupt AI server supply chains and affect capacity planning for teams relying on Nvidia hardware.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "sc83866a1db",
    "title": "Tracking Diseases Cured by AI",
@@ -14,7 +43,7 @@
    "summary": "A Hacker News post links to a site called Diseases Cured by AI that tracks diseases said to be cured by AI; the description gives no details.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sec74e9ba21",
@@ -13906,74 +13935,6 @@
    "summary": "An audit of the Red-Green watermark presence test on Claude found the published test never rejected on a model the provider states is watermarked, across ten configurations.",
    "why": "Shows black-box watermark detection tests may fail on deployed models, relevant to anyone relying on provenance claims for LLM outputs.",
    "related": [],
-   "top": false
-  },
-  {
-   "id": "s388f4aa5f2",
-   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-   "source": "TechCrunch",
-   "published": "2026-11-23T22:02:05+00:00",
-   "topics": [
-    "Funding",
-    "Agents",
-    "Products"
-   ],
-   "summary": "Supertake raised $20M to let users back market views with money through AI agents that turn predictions into stock portfolios.",
-   "why": "Shows agent-driven investing products attracting funding, though the description gives few technical details for engineers.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s1d0c151fef",
-   "title": "OpenAI and Cisco introduce Shirudo",
-   "link": "https://openai.com/index/introducing-shirudo",
-   "source": "OpenAI",
-   "published": "2026-11-23T21:20:00+00:00",
-   "topics": [
-    "Open source",
-    "Infrastructure",
-    "Safety"
-   ],
-   "summary": "OpenAI and Cisco introduced Shirudo, an open-source runtime for Linux that helps teams protect running systems during patch rollouts.",
-   "why": "Gives ops teams an open-source tool to keep live Linux systems protected while patching them.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s0cd17937bd",
-   "title": "AI data centers throw another wrench into chaotic UN climate talks",
-   "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-   "source": "The Verge",
-   "published": "2026-11-23T21:09:37+00:00",
-   "topics": [
-    "Infrastructure",
-    "Regulation"
-   ],
-   "summary": "The UN COP31 climate conference in Antalya, Turkey ended chaotically, with delegates grappling with power-hungry AI data centers straining clean energy goals.",
-   "why": "Highlights growing energy demand from data centers as a policy constraint on infrastructure planning.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s49ef9cf508",
-   "title": "Claude AI can review pull requests and ship fixes on its own now",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-   "source": "The Verge",
-   "published": "2026-11-23T20:00:00+00:00",
-   "topics": [
-    "Developer tools",
-    "Agents",
-    "Products"
-   ],
-   "summary": "Anthropic announced Claude Ship, letting Claude review, fix, and approve pull requests, extending its earlier Code Review feature.",
-   "why": "Engineering teams may soon delegate pull request review and fixes to Claude, changing code review workflows and approval controls.",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
-    }
-   ],
    "top": false
   }
  ]

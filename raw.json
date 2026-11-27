@@ -1,14 +1,30 @@
 {
- "updated": "2026-11-26T19:39:25.826889+00:00",
+ "updated": "2026-11-27T02:53:05.918012+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "AI made self-hosting fun again",
+   "link": "https://janlukas.blog/posts/ai-self-hosting",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-26T21:47:45+00:00",
+   "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 343 # Comments: 189"
+  },
+  {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-26T20:03:54+00:00",
+   "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+  },
   {
    "title": "Tracking Diseases Cured by AI",
    "link": "https://diseasescuredbyai.com/",
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-26T17:16:41+00:00",
-   "description": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 277 # Comments: 155"
+   "description": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 304 # Comments: 181"
   },
   {
    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -48,7 +64,7 @@
    "source": "Hacker News",
    "category": "Community",
    "published": "2026-11-26T09:44:23+00:00",
-   "description": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 107 # Comments: 119"
+   "description": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 255 # Comments: 215"
   },
   {
    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -2385,22 +2401,6 @@
    "category": "Research",
    "published": "2026-11-26T05:00:00+00:00",
    "description": "arXiv:2611.30281v2 Announce Type: replace Abstract: Post-training large language models routinely pools reasoning trajectories from diverse teachers or algorithms, yet it remains unclear whether standard supervised fine-tuning (SFT) can learn such heterogeneous strategies without explicit mode conditioning. We study the learnability and local bottlenecks of heterogeneous reasoning through a formal mixture formulation and controlled experiments. We first formalize the representational compatibility of the optimal autoregressive model with latent reasoning mixtures: the target next-token distribution weights modes by their prefix posteriors and concentrates on a single mode once alternative modes assign negligible likelihood to the prefix. In a verifiable symbolic graph-search environment wi"
-  },
-  {
-   "title": "Reproducible by Seed? Not on GPUs: Batch-Dependent Non-Determinism in Text-to-Image Models",
-   "link": "https://arxiv.org/abs/2611.30545",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2611.30545v2 Announce Type: replace Abstract: In text to image AI models, fixing the prompt and the random seed is widely assumed to fix the image. We show that it does not on GPUs. We evaluate six text-to-image models (diffusion and autoregressive) under four numerical precisions and quantizations on three GPU types (RTX A6000, RTX 6000 Ada, and H100 NVL), across up to 100 prompts per set for all six models. For each configuration we compare, with the prompt and seed fixed, the image generated alone with the image generated inside a batch, and we also compare across GPUs. Every replay control reported here is bit-exact, so the variation is not random noise: the execution setting, mainly the batch composition and the GPU, decides the output. The effect is large and model dependent. S"
-  },
-  {
-   "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-   "link": "https://arxiv.org/abs/2611.31301",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-26T05:00:00+00:00",
-   "description": "arXiv:2611.31301v2 Announce Type: replace Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmark with a 4-way label in which every source clip is released in all four combinations of real or fake video and real or fake audio so each modality contribution can be measured directly. Fakes cover inner-face swapping, whole-frame video diffusion and voice conversion. MOZAIC has 137,745 clips from 15,014 source pairs and four tasks: T1 AV authenticity, T2 manipulation type, T3 identity verification and T4 explanation. We evaluate 12 AV multimodal LLMs (MLLMs), train four detectors and fine-t"
   }
  ]
 }

@@ -1,78 +1,5 @@
 {
  "stories": {
-  "s49ef9cf508": {
-   "id": "s49ef9cf508",
-   "title": "Claude AI can review pull requests and ship fixes on its own now",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-23T20:00:00+00:00",
-   "description": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
-    }
-   ],
-   "summary": "Anthropic announced Claude Ship, letting Claude review, fix, and approve pull requests, extending its earlier Code Review feature.",
-   "why": "Engineering teams may soon delegate pull request review and fixes to Claude, changing code review workflows and approval controls.",
-   "topics": [
-    "Developer tools",
-    "Agents",
-    "Products"
-   ]
-  },
-  "s0cd17937bd": {
-   "id": "s0cd17937bd",
-   "title": "AI data centers throw another wrench into chaotic UN climate talks",
-   "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-   "source": "The Verge",
-   "category": "Industry",
-   "published": "2026-11-23T21:09:37+00:00",
-   "description": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
-   "related": [],
-   "summary": "The UN COP31 climate conference in Antalya, Turkey ended chaotically, with delegates grappling with power-hungry AI data centers straining clean energy goals.",
-   "why": "Highlights growing energy demand from data centers as a policy constraint on infrastructure planning.",
-   "topics": [
-    "Infrastructure",
-    "Regulation"
-   ]
-  },
-  "s1d0c151fef": {
-   "id": "s1d0c151fef",
-   "title": "OpenAI and Cisco introduce Shirudo",
-   "link": "https://openai.com/index/introducing-shirudo",
-   "source": "OpenAI",
-   "category": "AI Labs",
-   "published": "2026-11-23T21:20:00+00:00",
-   "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-   "related": [],
-   "summary": "OpenAI and Cisco introduced Shirudo, an open-source runtime for Linux that helps teams protect running systems during patch rollouts.",
-   "why": "Gives ops teams an open-source tool to keep live Linux systems protected while patching them.",
-   "topics": [
-    "Open source",
-    "Infrastructure",
-    "Safety"
-   ]
-  },
-  "s388f4aa5f2": {
-   "id": "s388f4aa5f2",
-   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-23T22:02:05+00:00",
-   "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-   "related": [],
-   "summary": "Supertake raised $20M to let users back market views with money through AI agents that turn predictions into stock portfolios.",
-   "why": "Shows agent-driven investing products attracting funding, though the description gives few technical details for engineers.",
-   "topics": [
-    "Funding",
-    "Agents",
-    "Products"
-   ]
-  },
   "sf527f13aec": {
    "id": "sf527f13aec",
    "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
@@ -14937,14 +14864,40 @@
    "topics": [
     "Research"
    ]
+  },
+  "sc881f1e711": {
+   "id": "sc881f1e711",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch",
+   "category": "Industry",
+   "published": "2026-11-26T20:03:54+00:00",
+   "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "related": [],
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia amid US efforts to keep AI chips out of China.",
+   "why": "Shipment pauses in Southeast Asia could disrupt AI server supply chains and affect capacity planning for teams relying on Nvidia hardware.",
+   "topics": [
+    "Infrastructure",
+    "Regulation"
+   ]
+  },
+  "s19dd464158": {
+   "id": "s19dd464158",
+   "title": "AI made self-hosting fun again",
+   "link": "https://janlukas.blog/posts/ai-self-hosting",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-26T21:47:45+00:00",
+   "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 343 # Comments: 189",
+   "related": [],
+   "summary": "A blog post argues that AI has made self-hosting software a more enjoyable hobby, drawing a large Hacker News discussion.",
+   "why": "The description gives only a link and discussion stats, with no details on the tools or methods, so the engineering relevance is unclear.",
+   "topics": [
+    "Developer tools"
+   ]
   }
  },
  "seen": {
-  "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests": "s49ef9cf508",
-  "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit": "s0cd17937bd",
-  "https://openai.com/index/introducing-shirudo": "s1d0c151fef",
-  "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios": "s388f4aa5f2",
-  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": "s49ef9cf508",
   "https://arxiv.org/abs/2611.28185": "sf527f13aec",
   "https://arxiv.org/abs/2611.28195": "se01f40ad46",
   "https://arxiv.org/abs/2611.28197": "se7b239a8ed",
@@ -15879,6 +15832,8 @@
   "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": "s02a0884347",
   "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward": "sff7c1d6266",
   "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue": "sec74e9ba21",
-  "https://diseasescuredbyai.com": "sc83866a1db"
+  "https://diseasescuredbyai.com": "sc83866a1db",
+  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": "sc881f1e711",
+  "https://janlukas.blog/posts/ai-self-hosting": "s19dd464158"
  }
 }

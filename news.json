@@ -1,7 +1,65 @@
 {
- "updated": "2026-11-27T12:33:15.772191+00:00",
+ "updated": "2026-11-27T22:00:20.576809+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "sf21d906053",
+   "title": "I'm Scared of AI",
+   "link": "https://thesoapbox.email/archive/3",
+   "source": "Hacker News",
+   "published": "2026-11-27T17:45:31+00:00",
+   "topics": [
+    "Safety"
+   ],
+   "summary": "A Hacker News post linked an essay titled \"I'm Scared of AI\" from thesoapbox.email, drawing 194 points and 220 comments.",
+   "why": "The description contains only a link and engagement counts, so there is too little detail to say why it matters.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s2464471310",
+   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "source": "The Verge",
+   "published": "2026-11-27T14:00:00+00:00",
+   "topics": [
+    "Products",
+    "Developer tools"
+   ],
+   "summary": "The Verge reports that Android's DIY widgets let users build simple AI-made tools, such as a real-time bus arrival widget.",
+   "why": "It shows how users can create lightweight personal tools on Android through vibe-coding, a pattern product teams may want to support.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s4f426f5090",
+   "title": "AI on brink of making online security useless, mathematicians fear",
+   "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+   "source": "Hacker News",
+   "published": "2026-11-27T11:09:04+00:00",
+   "topics": [
+    "Safety",
+    "Research"
+   ],
+   "summary": "A linked article reports that mathematicians fear AI may soon make online security useless, per a Hacker News post with 115 points.",
+   "why": "If AI undermines current cryptographic assumptions, security architectures and migration plans would need rethinking, though the text gives little detail.",
+   "related": [],
+   "top": true
+  },
+  {
+   "id": "s74835a5836",
+   "title": "Group chat where your AI talks behind your back",
+   "link": "https://construct22.com/",
+   "source": "Hacker News",
+   "published": "2026-11-27T06:44:34+00:00",
+   "topics": [
+    "Products"
+   ],
+   "summary": "A Hacker News post links to construct22.com, a group chat product where an AI talks behind users' backs, drawing 647 points and 277 comments.",
+   "why": "The description gives only a link and engagement counts, so there is too little detail to explain its technical or business significance.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "s5f295f7079",
    "title": "Pitfalls of Dependency-Ready Decoding for Masked Diffusion Language Models",
@@ -15,7 +73,7 @@
    "summary": "Researchers examine whether resolving token dependencies before unmasking, called dependency-ready decoding, improves accuracy in masked diffusion language models on structured reasoning tasks.",
    "why": "It tests a decoding-order assumption that could affect how engineers schedule generation in masked diffusion models for reasoning tasks.",
    "related": [],
-   "top": false
+   "top": true
   },
   {
    "id": "sb476751966",
@@ -30,7 +88,7 @@
    "summary": "Researchers introduce Learn2Discern, a framework and benchmark measuring how LLMs weigh information by source reliability and by truth relative to their priors, backed by a 299-person user study.",
    "why": "Shows whether LLMs update appropriately on external sources, which matters for any product that feeds web or retrieved content into models.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "s50bbe0428a",
@@ -90,7 +148,7 @@
    "summary": "Researchers find that fixing prompt and seed does not reproduce text-to-image outputs on GPUs, because batch composition and GPU type change results across six models and several precisions.",
    "why": "Reproducibility tests and image pipelines must account for batching and hardware, or identical seeds will yield different outputs.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sb6fc1cc13f",
@@ -119,7 +177,7 @@
    "summary": "A blog post argues that AI has made self-hosting software a more enjoyable hobby, drawing a large Hacker News discussion.",
    "why": "The description gives only a link and discussion stats, with no details on the tools or methods, so the engineering relevance is unclear.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sc881f1e711",
@@ -134,7 +192,7 @@
    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia amid US efforts to keep AI chips out of China.",
    "why": "Shipment pauses in Southeast Asia could disrupt AI server supply chains and affect capacity planning for teams relying on Nvidia hardware.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sc83866a1db",
@@ -162,7 +220,7 @@
    "summary": "TechCrunch argues that Grand Theft Auto VI's huge launch shows human craftsmanship can succeed, on the same day Anthropic entered the public market.",
    "why": "",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sff7c1d6266",
@@ -9183,311 +9241,6 @@
    ],
    "summary": "Jensen Huang reportedly still opposes a succession plan at Nvidia, arguing it would create unnecessary hierarchy, after the company's recent leadership disruption.",
    "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s72fd424c71",
-   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T21:48:27+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Nvidia founder Jensen Huang apologized to staff at an all-hands meeting, thanked the White House, and said he is in therapy.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s71615ee1eb",
-   "title": "Even the best AI agents struggle with everyday life",
-   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T21:33:29+00:00",
-   "topics": [
-    "Agents",
-    "Research",
-    "Safety"
-   ],
-   "summary": "A new benchmark finds that even the most advanced AI models struggle to complete everyday tasks reliably and safely, sometimes introducing new problems.",
-   "why": "Engineers building personal assistant agents should expect unreliable task completion and new safety failure modes in real-world use.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sb1e5839c1d",
-   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T21:32:38+00:00",
-   "topics": [
-    "Agents",
-    "Products"
-   ],
-   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta's AI agent.",
-   "why": "It shows a major retailer integrating with a third-party AI agent platform, a distribution channel for agentic commerce.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s4d83f53e63",
-   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T21:19:52+00:00",
-   "topics": [
-    "Funding",
-    "Safety",
-    "Products"
-   ],
-   "summary": "Maple raised $5.3M to build AI products with encrypted architecture designed to keep even the company from accessing user data.",
-   "why": "Its design aims to make private data inaccessible to the provider, a privacy-by-architecture approach relevant to teams handling sensitive data.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s32af257829",
-   "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-   "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-   "source": "The Verge",
-   "published": "2026-11-24T20:02:03+00:00",
-   "topics": [
-    "Enterprise",
-    "Infrastructure"
-   ],
-   "summary": "Nvidia CEO Jensen Huang, in his first all-hands since returning, apologized to staff and denied that Trump or tech leaders helped him get his job back.",
-   "why": "Leadership turmoil at a key AI chip supplier can affect supply, roadmap, and partner confidence.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s9824edc2f4",
-   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T18:30:42+00:00",
-   "topics": [
-    "Funding"
-   ],
-   "summary": "Anthropic's shares have fallen below its IPO price, raising concerns about valuations across AI startups.",
-   "why": "A weak post-IPO debut for a leading AI lab could tighten funding and valuation expectations for AI companies.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s3e9a37054b",
-   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-   "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-   "source": "The Verge",
-   "published": "2026-11-24T18:15:00+00:00",
-   "topics": [
-    "Products"
-   ],
-   "summary": "Early screenings of David Fincher's Once Upon a Time in Hollywood sequel have prompted viewers to suspect generative AI was used in the film.",
-   "why": "Reports cite uncanny, inconsistent visuals, highlighting ongoing questions about undisclosed AI use in media production.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sef2ea07a8f",
-   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T18:02:59+00:00",
-   "topics": [
-    "Safety",
-    "Regulation"
-   ],
-   "summary": "The UK's cyber agency warns that AI hacking tools are exploiting simple, long-standing security flaws, urging stronger foundations.",
-   "why": "Engineering teams should prioritize basic security hygiene, since AI-driven attacks are targeting known weaknesses.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s03938f50d2",
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T17:00:00+00:00",
-   "topics": [
-    "Products",
-    "Agents"
-   ],
-   "summary": "Meta has integrated its Muse AI assistant directly into Instagram DMs, so users no longer need to switch to the separate Muse app.",
-   "why": "Embedding AI agents in existing messaging flows shows how assistants are moving into the apps people already use.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s16565a3f5d",
-   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-   "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-   "source": "Hugging Face",
-   "published": "2026-11-24T16:34:13+00:00",
-   "topics": [
-    "Research",
-    "Developer tools"
-   ],
-   "summary": "Hugging Face published a tutorial on a sim-to-real workflow for obstacle avoidance on a Microduck robot using Isaac Lab and Newton.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sc82ab5c574",
-   "title": "Jensen Huang deepfakes are the hot new AI slop",
-   "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-   "source": "The Verge",
-   "published": "2026-11-24T16:30:00+00:00",
-   "topics": [
-    "Safety"
-   ],
-   "summary": "Viral AI-generated deepfake videos of Nvidia's Jensen Huang, including one with nearly 6 million Instagram views, are spreading online.",
-   "why": "Realistic deepfakes of executives raise impersonation and misinformation risks for companies and their leaders.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "se213ef04a8",
-   "title": "Tidal bans AI-generated music",
-   "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-   "source": "Hacker News",
-   "published": "2026-11-24T16:12:38+00:00",
-   "topics": [
-    "Regulation"
-   ],
-   "summary": "Streaming service Tidal has banned AI-generated music from its platform, according to a Variety report.",
-   "why": "Platform content policies on AI-generated media are tightening, which affects distributors and creators building on music services.",
-   "related": [
-    {
-     "source": "TechCrunch",
-     "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
-    },
-    {
-     "source": "The Verge",
-     "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
-    }
-   ],
-   "top": false
-  },
-  {
-   "id": "s70f3d3a634",
-   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T16:10:00+00:00",
-   "topics": [
-    "Infrastructure"
-   ],
-   "summary": "An investor in Crusoe argues that solar and energy storage are the obvious power choice for future AI data centers needing tens of gigawatts.",
-   "why": "Power supply is becoming a central constraint for AI infrastructure planning, pushing toward renewables and storage.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sdc69597abe",
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-   "source": "The Verge",
-   "published": "2026-11-24T16:09:23+00:00",
-   "topics": [
-    "Products",
-    "Enterprise"
-   ],
-   "summary": "The New York Times has told freelance photographers not to update to the 2027 version of Adobe Photoshop, citing AI features that may not be apparent to users.",
-   "why": "Hidden AI features in creative software can create compliance and provenance problems for professional workflows.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sbbaf6332f2",
-   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-   "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T16:02:37+00:00",
-   "topics": [
-    "Products",
-    "Safety"
-   ],
-   "summary": "Pinterest will let parents limit the AI-generated content their teens see in their feeds.",
-   "why": "Platforms are adding user controls over AI-generated content, which may shape future content-labeling and filtering requirements.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "se2544bc1ae",
-   "title": "How Gemini is changing the game for Golden State's organization and fans.",
-   "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-   "source": "Google AI",
-   "published": "2026-11-24T16:00:00+00:00",
-   "topics": [
-    "Enterprise",
-    "Products"
-   ],
-   "summary": "Google says Gemini is partnering with the Golden State Warriors, Valkyries, and Chase Center to power fan experiences and business operations.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s5845ed4863",
-   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T15:51:07+00:00",
-   "topics": [
-    "Infrastructure",
-    "Funding"
-   ],
-   "summary": "Amazon is reportedly acquiring Decart for $7.5 billion as part of efforts to make its Trainium chips more efficient.",
-   "why": "Software-driven efficiency gains could help close the performance gap between custom AI chips and Nvidia's hardware.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s7765d98825",
-   "title": "Raising the stakes for enterprise networks with AI modernization",
-   "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-   "source": "MIT Tech Review",
-   "published": "2026-11-24T15:15:16+00:00",
-   "topics": [
-    "Infrastructure",
-    "Enterprise"
-   ],
-   "summary": "An MIT Technology Review sponsored piece says agentic AI is adding heavy load to enterprise networks, with agent tasks generating an estimated 450% more traffic than human work.",
-   "why": "Agentic AI workloads could substantially increase network traffic, so enterprise networks need modernization planning.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "s3c6728c1bf",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-   "source": "OpenAI",
-   "published": "2026-11-24T13:00:00+00:00",
-   "topics": [
-    "Models",
-    "Research"
-   ],
-   "summary": "OpenAI reports GPT-6 models design protein structures and sequences using reasoning and code, with lab tests showing binding across five targets.",
-   "why": "",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sef8096d74f",
-   "title": "LLM agents work for their parent companies, not for you",
-   "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-   "source": "Hacker News",
-   "published": "2026-11-24T12:40:15+00:00",
-   "topics": [
-    "Agents",
-    "Safety"
-   ],
-   "summary": "A Hacker News-linked essay argues that LLM agents work for their parent companies rather than for the users they interact with.",
-   "why": "Engineers deploying agents should consider whose interests agents are built to serve, especially for user-facing products.",
    "related": [],
    "top": false
   }

@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-27T12:33:08.143339+00:00",
+ "updated": "2026-11-27T22:00:15.437090+00:00",
  "count": 300,
  "items": [
+  {
+   "title": "I'm Scared of AI",
+   "link": "https://thesoapbox.email/archive/3",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-27T17:45:31+00:00",
+   "description": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 194 # Comments: 220"
+  },
+  {
+   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "source": "The Verge",
+   "category": "Industry",
+   "published": "2026-11-27T14:00:00+00:00",
+   "description": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]"
+  },
+  {
+   "title": "AI on brink of making online security useless, mathematicians fear",
+   "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-27T11:09:04+00:00",
+   "description": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 115 # Comments: 148"
+  },
+  {
+   "title": "Group chat where your AI talks behind your back",
+   "link": "https://construct22.com/",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-27T06:44:34+00:00",
+   "description": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 647 # Comments: 277"
+  },
   {
    "title": "Context Scaling: A New Frontier of AI Scaling",
    "link": "https://arxiv.org/abs/2611.33160",
@@ -2369,38 +2401,6 @@
    "category": "Research",
    "published": "2026-11-27T05:00:00+00:00",
    "description": "arXiv:2611.32776v2 Announce Type: replace Abstract: Latent world models enable goal-directed planning from offline visual data, but prediction alone does not specify which action-related distinctions their representations should preserve. Inverse dynamics provides auxiliary supervision, yet squared-error action regression rewards additional information only through changes in the conditional action mean. We propose Contrastive Identification of Actions (CIA), which identifies the executed action among alternatives sampled from a history-conditioned behavior proposal. Comparing actions plausible in the same context targets information supplied by the next latent beyond history. Under exact behavior matching, we show that CIA can reward action information that leaves optimal inverse-regressi"
-  },
-  {
-   "title": "Reading Decisions Before Spans: Efficient Generative Verification",
-   "link": "https://arxiv.org/abs/2611.32931",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-27T05:00:00+00:00",
-   "description": "arXiv:2611.32931v2 Announce Type: replace Abstract: A generative verifier can flag an unsupported claim before it finishes describing the error. For applications that only screen an assistant's report, the remaining generation may be unnecessary. We examine this possibility in a frozen 2B span verifier whose output chooses between an empty error list and its first object before producing any locations. Native8 stops at that choice. Prefill1 supplies the seven fixed syntax tokens that precede it and generates just the unrestricted branch token, keeping the native instruction. On 2,015 code-agent TEST responses, Prefill1 uses 84.84% less eager resident service than full generation, with released-reference F1 of 83.43 versus 83.41. It also saves 31.98% over Native8 despite identical logical t"
-  },
-  {
-   "title": "Neur2BiLO: Neural Bilevel Optimization",
-   "link": "https://arxiv.org/abs/2402.02552",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-27T05:00:00+00:00",
-   "description": "arXiv:2402.02552v3 Announce Type: replace-cross Abstract: Bilevel optimization deals with nested problems in which a leader takes the first decision to minimize their objective function while accounting for a follower's best-response reaction. Constrained bilevel problems with integer variables are particularly notorious for their hardness. While exact solvers have been proposed for mixed-integer linear bilevel optimization, they tend to scale poorly with problem size and are hard to generalize to the non-linear case. On the other hand, problem-specific algorithms (exact and heuristic) are limited in scope. Under a data-driven setting in which similar instances of a bilevel problem are solved routinely, our proposed framework, Neur2BiLO, embeds a neural network approximation of the leader'"
-  },
-  {
-   "title": "Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation",
-   "link": "https://arxiv.org/abs/2409.00696",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-27T05:00:00+00:00",
-   "description": "arXiv:2409.00696v5 Announce Type: replace-cross Abstract: Rating-based human evaluation has become an essential tool to accurately evaluate the impressive performance of large language models (LLMs). However, current rating systems suffer from several important limitations: first, they fail to account for biases that significantly influence evaluation results, second, they require large and expensive preference datasets to obtain accurate ratings, and third, they do not facilitate meaningful comparisons of model ratings across different tasks. To address these issues, we introduce Polyrating, an expressive and flexible rating system based on maximum a posteriori estimation that enables a more nuanced and thorough analysis of model performance at lower costs. Polyrating can detect and quant"
-  },
-  {
-   "title": "United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections",
-   "link": "https://arxiv.org/abs/2409.09045",
-   "source": "arXiv cs.AI",
-   "category": "Research",
-   "published": "2026-11-27T05:00:00+00:00",
-   "description": "arXiv:2409.09045v3 Announce Type: replace-cross Abstract: \"Silicon samples\" based on large language models (LLMs) have been argued to serve as efficient alternatives to surveys of humans, assuming that their training data includes information on human attitudes and behavior. However, LLM-generated survey data might exhibit biases, for example due to a lack of diversity in training and alignment processes, which risk reinforcing existing biases in research and policymaking. In this study, we examine to what extent LLM-based predictions of individual public opinion exhibit context-dependent biases by predicting the results of the 2024 EU elections. Before the elections have taken place, we prompt three LLMs with individual-level background information of 26,000 eligible European voters to pr"
   }
  ]
 }

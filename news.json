@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-27T22:00:20.576809+00:00",
+ "updated": "2026-11-28T03:56:01.320545+00:00",
  "model": "claude-haiku-5-5",
  "items": [
+  {
+   "id": "s4e825df2be",
+   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+   "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+   "source": "Hacker News",
+   "published": "2026-11-28T01:32:56+00:00",
+   "topics": [
+    "Enterprise",
+    "Safety"
+   ],
+   "summary": "A woman was evicted after a landlord's AI assistant reportedly told her she could delay rent payments.",
+   "why": "Shows the legal and liability risks of deploying AI assistants that give binding-sounding advice to customers without guardrails.",
+   "related": [],
+   "top": true
+  },
   {
    "id": "sf21d906053",
    "title": "I'm Scared of AI",
@@ -73,7 +88,7 @@
    "summary": "Researchers examine whether resolving token dependencies before unmasking, called dependency-ready decoding, improves accuracy in masked diffusion language models on structured reasoning tasks.",
    "why": "It tests a decoding-order assumption that could affect how engineers schedule generation in masked diffusion models for reasoning tasks.",
    "related": [],
-   "top": true
+   "top": false
   },
   {
    "id": "sb476751966",
@@ -9212,35 +9227,6 @@
    ],
    "summary": "Researchers tested whether four Claude-family LLMs could convert a CIFAR-10 CNN's weights to a 4-bit network without tools, where round-to-nearest quantization drops accuracy from 81.4% to 60.4%.",
    "why": "Probes the limits of LLMs reasoning directly over model weights, a question relevant to quantization and model compression workflows.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sd6a3974a1a",
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-   "source": "TechCrunch",
-   "published": "2026-11-25T00:12:02+00:00",
-   "topics": [
-    "Enterprise",
-    "Regulation"
-   ],
-   "summary": "Yale's Jeffrey Sonnenfeld argues that Jensen Huang's White House-backed return as Nvidia CEO and board member could be a mistake, exposing directors to lawsuits.",
-   "why": "It flags governance and legal risk for leadership and boards, and questions Nvidia's role in US chip policy and export concerns.",
-   "related": [],
-   "top": false
-  },
-  {
-   "id": "sbc426bbbeb",
-   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-   "source": "TechCrunch",
-   "published": "2026-11-24T22:27:52+00:00",
-   "topics": [
-    "Enterprise"
-   ],
-   "summary": "Jensen Huang reportedly still opposes a succession plan at Nvidia, arguing it would create unnecessary hierarchy, after the company's recent leadership disruption.",
-   "why": "",
    "related": [],
    "top": false
   }

@@ -1,36 +1,5 @@
 {
  "stories": {
-  "sbc426bbbeb": {
-   "id": "sbc426bbbeb",
-   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-24T22:27:52+00:00",
-   "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-   "related": [],
-   "summary": "Jensen Huang reportedly still opposes a succession plan at Nvidia, arguing it would create unnecessary hierarchy, after the company's recent leadership disruption.",
-   "why": "",
-   "topics": [
-    "Enterprise"
-   ]
-  },
-  "sd6a3974a1a": {
-   "id": "sd6a3974a1a",
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-   "source": "TechCrunch",
-   "category": "Industry",
-   "published": "2026-11-25T00:12:02+00:00",
-   "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-   "related": [],
-   "summary": "Yale's Jeffrey Sonnenfeld argues that Jensen Huang's White House-backed return as Nvidia CEO and board member could be a mistake, exposing directors to lawsuits.",
-   "why": "It flags governance and legal risk for leadership and boards, and questions Nvidia's role in US chip policy and export concerns.",
-   "topics": [
-    "Enterprise",
-    "Regulation"
-   ]
-  },
   "sdce071d658": {
    "id": "sdce071d658",
    "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
@@ -9860,11 +9829,25 @@
    "topics": [
     "Safety"
    ]
+  },
+  "s4e825df2be": {
+   "id": "s4e825df2be",
+   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+   "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+   "source": "Hacker News",
+   "category": "Community",
+   "published": "2026-11-28T01:32:56+00:00",
+   "description": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 84 # Comments: 61",
+   "related": [],
+   "summary": "A woman was evicted after a landlord's AI assistant reportedly told her she could delay rent payments.",
+   "why": "Shows the legal and liability risks of deploying AI assistants that give binding-sounding advice to customers without guardrails.",
+   "topics": [
+    "Enterprise",
+    "Safety"
+   ]
   }
  },
  "seen": {
-  "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy": "sbc426bbbeb",
-  "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion": "sd6a3974a1a",
   "https://arxiv.org/abs/2611.31284": "sdce071d658",
   "https://arxiv.org/abs/2611.31301": "sb02e0bf3ed",
   "https://arxiv.org/abs/2611.31329": "s9b5199cc4b",
@@ -10483,6 +10466,7 @@
   "https://construct22.com": "s74835a5836",
   "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8": "s4f426f5090",
   "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini": "s2464471310",
-  "https://thesoapbox.email/archive/3": "sf21d906053"
+  "https://thesoapbox.email/archive/3": "sf21d906053",
+  "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai": "s4e825df2be"
  }
 }
